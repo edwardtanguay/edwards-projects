@@ -1,0 +1,20 @@
+- resources
+	- Real Python Quizzes
+		- https://realpython.com/quizzes
+- strategies
+	- decide either "good to know" or "remember"
+
+2025-08-09 08:06:26
+https://realpython.com/quizzes/python-formatted-output/
+50
+
+2025-08-09 08:31:05
+https://realpython.com/quizzes/python-web-scraping-practical-introduction/
+66
+
+2025-08-10 08:28:45
+https://realpython.com/quizzes/python-async-iterators/viewer/
+40
+
+2025-08-12 13:44:33
+https://realpython.com/quizzes/python-data-types/
