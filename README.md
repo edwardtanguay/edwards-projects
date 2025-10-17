@@ -5,6 +5,15 @@ This is a site that shows all my projects.
 - repo: https://github.com/edwardtanguay/edwards-projects
 - live: https://edwards-projects.vercel.app
 
+## Create .env file in root
+
+The paths are based on the /scripts directory in this project.
+
+```
+PROJECT_FILE_001 = "../../../maindata/projects_active.txt"
+PROJECT_FILE_002 = "../../../maindata/projects_archive.txt"
+```
+
 ## Set up backend
 
 -   (root directory of this project)
