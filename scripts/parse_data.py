@@ -1,3 +1,3 @@
-from parsers import parser_flashcards
+from parsers import parser_projects
 
-parser_flashcards.parse()
+parser_projects.parse()
