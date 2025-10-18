@@ -19,3 +19,11 @@ def debug(obj):
         print(f"🛠️ {timestamp} - {obj}")
     else:
         pprint(obj)
+
+def debugLineBlocks(lineBlocks: list[list[str]]):
+    for i, block in enumerate(lineBlocks, 1):
+        print(f"=== LINE BLOCK {i:03d} =============================================")
+        for line in block:
+            display_line = line.replace("\t", "\\t")
+            print(f"[{display_line}]")
+        print()

@@ -11,12 +11,9 @@ class Project:
 
 def parse() -> None:
 	lines = qfil.get_lines_from_file_till_marker(config.path_and_filename_project_file_001(), "```END")
-
 	project_line_blocks = parsing.get_project_line_blocks(lines)
-	for project_line_block in project_line_blocks:
-		print(project_line_block)
 
-	qdev.debug(project_line_blocks)	
+	qdev.debugLineBlocks(project_line_blocks)	
 
 	projects = []
 	# Parse each project line block
