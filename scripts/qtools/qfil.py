@@ -13,7 +13,7 @@ def get_lines_from_file(file_name: str) -> list[str]:
 	except Exception as e:
 		raise RuntimeError(f"Failed to read file: {e}")
 
-	lines = [line.strip() for line in contents.split('\n')]
+	lines = contents.split('\n')
 	return lines
 
 
@@ -31,7 +31,7 @@ def get_lines_from_file_till_marker(file_name: str, marker: str) -> list[str]:
 	except Exception as e:
 		raise RuntimeError(f"Failed to read file: {e}")
 
-	lines = [line.strip() for line in contents.split('\n')]
+	lines = contents.split('\n')
 	
 	try:
 		marker_index = lines.index(marker)

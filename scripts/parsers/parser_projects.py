@@ -16,6 +16,8 @@ def parse() -> None:
 	for project_line_block in project_line_blocks:
 		print(project_line_block)
 
+	qdev.debug(project_line_blocks)	
+
 	projects = []
 	# Parse each project line block
 	for project_line_block in project_line_blocks:	
