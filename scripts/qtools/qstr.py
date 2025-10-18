@@ -110,32 +110,32 @@ def convert_line_block_to_string_block(line_block: list[str]) -> str:
 
 #backport 
 def trimLineBlocks(lineBlocks: list[list[str]]):
-	"""
-	Remove empty strings from the beginning and end of each inner list.
-	
-	Args:
-		lineBlocks: A list of lists of strings
-		
-	Returns:
-		A new list of lists with empty strings trimmed from the beginning and end of each inner list
-	"""
-	result = []
-	
-	for block in lineBlocks:
-		# Find the first non-empty string
-		start = 0
-		while start < len(block) and block[start] == "":
-			start += 1
-		
-		# Find the last non-empty string
-		end = len(block) - 1
-		while end >= 0 and block[end] == "":
-			end -= 1
-		
-		# Extract the trimmed block
-		if start <= end:
-			result.append(block[start:end + 1])
-		else:
-			result.append([])
-	
-	return result
+    """
+    Remove empty strings from the beginning and end of each inner list.
+    
+    Args:
+        lineBlocks: A list of lists of strings
+        
+    Returns:
+        A new list of lists with empty strings trimmed from the beginning and end of each inner list
+    """
+    result = []
+    
+    for block in lineBlocks:
+        # Find the first non-empty/non-tab-only string
+        start = 0
+        while start < len(block) and block[start].strip() == "":
+            start += 1
+        
+        # Find the last non-empty/non-tab-only string
+        end = len(block) - 1
+        while end >= 0 and block[end].strip() == "":
+            end -= 1
+        
+        # Extract the trimmed block
+        if start <= end:
+            result.append(block[start:end + 1])
+        else:
+            result.append([])
+    
+    return result
