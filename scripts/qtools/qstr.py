@@ -98,12 +98,44 @@ def get_line_blocks(lines, start_marker="starts_with_date", end_marker="starts_w
 	
 
 def convert_line_block_to_string_block(line_block: list[str]) -> str:
-    """Converts a list of lines into a single string with newline characters.
-    
-    Args:
-        line_block: A list of strings representing lines of text.
-        
-    Returns:
-        A single string with each element from the input list joined by newlines.
-    """
-    return '\n'.join(line_block)
+	"""Converts a list of lines into a single string with newline characters.
+	
+	Args:
+		line_block: A list of strings representing lines of text.
+		
+	Returns:
+		A single string with each element from the input list joined by newlines.
+	"""
+	return '\n'.join(line_block)
+
+#backport 
+def trimLineBlocks(lineBlocks: list[list[str]]):
+	"""
+	Remove empty strings from the beginning and end of each inner list.
+	
+	Args:
+		lineBlocks: A list of lists of strings
+		
+	Returns:
+		A new list of lists with empty strings trimmed from the beginning and end of each inner list
+	"""
+	result = []
+	
+	for block in lineBlocks:
+		# Find the first non-empty string
+		start = 0
+		while start < len(block) and block[start] == "":
+			start += 1
+		
+		# Find the last non-empty string
+		end = len(block) - 1
+		while end >= 0 and block[end] == "":
+			end -= 1
+		
+		# Extract the trimmed block
+		if start <= end:
+			result.append(block[start:end + 1])
+		else:
+			result.append([])
+	
+	return result
