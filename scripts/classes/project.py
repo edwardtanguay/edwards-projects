@@ -1,5 +1,6 @@
 from qtools import *
 from classes.project_item import ProjectItem
+from classes.category_item import CategoryItem
 from classes.outline_block import OutlineBlock
 
 """
@@ -24,21 +25,26 @@ class Project:
 	title: str = ""
 	kind: str = ""
 	mode: str = ""
+	repo: str = ""
+	live: str = ""
+	categories: list[CategoryItem] = []
 	outline_block: OutlineBlock = None
 	project_items: list[ProjectItem] = []
 
 	def __init__(self, project_line_block: list[str]):
+		self.categories = []
+		self.project_items = []	
 		self.project_line_block = project_line_block
 		self.prepareOutlineBlock()
 		self.parseGeneralFields()
+		qdev.debug(f"---PROJECT: {self.idCode}")
 		self.parseProjectItems()
 		self.parseLineVariables()
-		self.defineMode()
+		self.defineMode() # TODO: remove
 
 	def defineMode(self):
 		firstOutlineItem = self.outline_block.outline_items[0]
 		marker = firstOutlineItem.marker
-		# qdev.debug(marker)
 		if marker == "..":
 			self.mode = "active"
 		elif marker == ",,":
@@ -54,8 +60,11 @@ class Project:
 	def parseLineVariables(self):
 		for project_item in self.project_items:
 			if project_item.kind == "info":
-				self.title = project_item.projectTitle
-				self.status = project_item.projectStatus
+				self.title = project_item.project_title
+				self.status = project_item.project_status
+				self.repo = project_item.project_repo
+				self.live = project_item.project_live
+				self.categories = [CategoryItem(project_category_line) for project_category_line in project_item.project_category_lines]
 		# default values
 		if self.title == "":
 			self.title = self.idCode.upper()
@@ -73,7 +82,6 @@ class Project:
 	def parseIdCode(self, line):
 		parts = qstr.breakIntoParts(line, ":")
 		self.idCode = parts[1].strip()
-		qdev.debug(f"PROJECT: {self.idCode}")
 
 	def parseProjectItems(self):
 		count = 0
@@ -89,6 +97,12 @@ class Project:
 			if recordng_item:
 				recording_outline_items.append(outline_item)
 		self.project_items.append(ProjectItem(recording_outline_items)) # include the last item
+
+	def get_repo_for_json(self):
+		if self.repo != "none":
+			return "https://github.com/edwardtanguay/" + self.idCode
+		else:
+			return self.repo
 		
 	def to_json(self):
 		return {
@@ -96,7 +110,9 @@ class Project:
 			'idCode': self.idCode,
 			'title': self.title,
 			'status': self.status,
-			'mode': self.mode,
-			'repo': 'https://github.com/edwardtanguay/' + self.idCode,
+			'mode': self.mode, # TODO: remove
+			'repo': self.get_repo_for_json(),
+			'live': self.live,
+			'categories': [category.toString() for category in self.categories],
 			'project_items': [project_item.to_json() for project_item in self.project_items]
 		}

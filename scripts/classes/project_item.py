@@ -19,10 +19,14 @@ class ProjectItem:
 	suuid: str
 	kind: str
 	title: str
-	projectTitle: str = ""
-	projectStatus: str = ""
+	project_title: str = ""
+	project_status: str = ""
+	project_repo: str = ""
+	project_live: str = ""
+	project_category_lines: list[str] = []
 
 	def __init__(self, outline_items: list[OutlineItem]):
+		self.project_category_lines = []
 		self.outline_items = outline_items
 		self.suuid = qstr.generate_short_uuid()
 
@@ -42,13 +46,28 @@ class ProjectItem:
 			# project title
 			title = qstr.get_line_variable(line, "title")
 			if title != "":
-				self.projectTitle = title
+				self.project_title = title
 				
 			# project status
 			status = qstr.get_line_variable(line, "status")
 			if status != "":
-				self.projectStatus = status
-				
+				self.project_status = status
+
+			# project repo
+			repo = qstr.get_line_variable(line, "repo")
+			if repo != "":
+				self.project_repo = repo
+
+			# project live
+			live = qstr.get_line_variable(line, "live")
+			if live != "":
+				self.project_live = live
+
+
+			# project categories
+			category = qstr.get_line_variable(line, "category")
+			if category != "":
+				self.project_category_lines.append(category)
 
 	def to_json(self):
 		return {

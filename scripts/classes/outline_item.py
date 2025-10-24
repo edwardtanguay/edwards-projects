@@ -23,7 +23,6 @@ class OutlineItem:
 		if self.line.startswith(".. ") or self.line.startswith(",, ") or self.line.startswith(")) "):
 			self.marker = self.line[:2]
 			self.line = qstr.chopLeft(self.line, self.marker + " ") 
-			qdev.debug(f"marker: {self.marker} line: {self.line}")
 
 		# parse out one character markers
 		if self.line.startswith("x "):
