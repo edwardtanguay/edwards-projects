@@ -16,6 +16,15 @@ def debug(obj):
     """
     if isinstance(obj, str):
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        print(f"🛠️ {timestamp} - {obj}")
+        print(f"🛠️  {timestamp}\033[91m[\033[0m{obj}\033[91m]\033[0m")
     else:
         pprint(obj)
+
+#backport
+def debugLineBlocks(lineBlocks: list[list[str]]):
+    for i, block in enumerate(lineBlocks, 1):
+        print(f"=== LINE BLOCK {i:03d} =============================================")
+        for line in block:
+            display_line = line.replace("\t", "\\t")
+            print(f"[{display_line}]")
+        print()

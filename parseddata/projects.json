@@ -1,426 +1,8904 @@
 [
-    {
-        "suuid": "E4xr6Y",
-        "idCode": "edwards-projects"
-    },
-    {
-        "suuid": "Vr7jKK",
-        "idCode": "showcase-drizzle"
-    },
-    {
-        "suuid": "ojYieI",
-        "idCode": "showcase-trpc"
-    },
-    {
-        "suuid": "gpJmXC",
-        "idCode": "template-node-html-001"
-    },
-    {
-        "suuid": "23TKhP",
-        "idCode": "tanguayinfo"
-    },
-    {
-        "suuid": "p0bzI8",
-        "idCode": "Showcase Remix"
-    },
-    {
-        "suuid": "FrSEwb",
-        "idCode": "Showcase for Webpack 5 with React/TypeScript"
-    },
-    {
-        "suuid": "PYCxTH",
-        "idCode": "Showcase for mobx with React"
-    },
-    {
-        "suuid": "jIIbF9",
-        "idCode": "Showcase for Shadcn/ui with Next.js"
-    },
-    {
-        "suuid": "VbhT5W",
-        "idCode": "comprehensible-output"
-    },
-    {
-        "suuid": "QiWiq1",
-        "idCode": "datapod-typescript-react"
-    },
-    {
-        "suuid": "8WTfpB",
-        "idCode": "showcase-typescript-react"
-    },
-    {
-        "suuid": "xiow8Y",
-        "idCode": "timemaster"
-    },
-    {
-        "suuid": "0hMc6e",
-        "idCode": "datapod-python-nuxt"
-    },
-    {
-        "suuid": "Cj9X6Z",
-        "idCode": "app-allnews"
-    },
-    {
-        "suuid": "MmZBr1",
-        "idCode": "showcase-fastapi"
-    },
-    {
-        "suuid": "6xAH0o",
-        "idCode": "template-nuxt-001"
-    },
-    {
-        "suuid": "ySQkOb",
-        "idCode": "showcase-flask-jinja"
-    },
-    {
-        "suuid": "NhnAkz",
-        "idCode": "showcase-flask-api"
-    },
-    {
-        "suuid": "E9OVyG",
-        "idCode": "edwardtanguayeu"
-    },
-    {
-        "suuid": "cklcrI",
-        "idCode": "jobman"
-    },
-    {
-        "suuid": "SWqM8L",
-        "idCode": "showcase-nuxt-001"
-    },
-    {
-        "suuid": "OKvViX",
-        "idCode": "techvideos"
-    },
-    {
-        "suuid": "YuIus7",
-        "idCode": "datapod-for-python"
-    },
-    {
-        "suuid": "xpcfgU",
-        "idCode": "langcore"
-    },
-    {
-        "suuid": "AXvKOI",
-        "idCode": "datapod-tools-css-layouts"
-    },
-    {
-        "suuid": "mY63WN",
-        "idCode": "datapod-for-webpack-react"
-    },
-    {
-        "suuid": "YaYhZS",
-        "idCode": "datapod-for-webpack"
-    },
-    {
-        "suuid": "Ehkp9l",
-        "idCode": "datapod-for-react-scala-json"
-    },
-    {
-        "suuid": "crv0CP",
-        "idCode": "datapod-for-html-typescript-json"
-    },
-    {
-        "suuid": "JVpPsV",
-        "idCode": "flashcard-central"
-    },
-    {
-        "suuid": "ACbfwz",
-        "idCode": "antiechonews"
-    },
-    {
-        "suuid": "XIr7sG",
-        "idCode": "datapod-for-react-elixir-json"
-    },
-    {
-        "suuid": "bLu1HL",
-        "idCode": "Video"
-    },
-    {
-        "suuid": "OHHdy1",
-        "idCode": "interitalnotes"
-    },
-    {
-        "suuid": "bJ6Wcd",
-        "idCode": "Howto/Video \"Ten Advanced Git Tips"
-    },
-    {
-        "suuid": "rva2tW",
-        "idCode": "something-like-git"
-    },
-    {
-        "suuid": "VK0PlS",
-        "idCode": "datapod-central"
-    },
-    {
-        "suuid": "5EAhfe",
-        "idCode": "info-central"
-    },
-    {
-        "suuid": "87WFNj",
-        "idCode": "recenter-cicd-learning"
-    },
-    {
-        "suuid": "KFMYKm",
-        "idCode": "parse-itnotes-and-display-interactive"
-    },
-    {
-        "suuid": "4zAT5I",
-        "idCode": "oopHowtoAndVideo"
-    },
-    {
-        "suuid": "oCEQaA",
-        "idCode": "createOopHowto"
-    },
-    {
-        "suuid": "bCtJdE",
-        "idCode": "techvideochannel"
-    },
-    {
-        "suuid": "djgQxA",
-        "idCode": "hetznerhosting"
-    },
-    {
-        "suuid": "KvdvgV",
-        "idCode": "python_datapod"
-    },
-    {
-        "suuid": "odbeFq",
-        "idCode": "qtoolsaspippackage"
-    },
-    {
-        "suuid": "u10wXy",
-        "idCode": "tinfo"
-    },
-    {
-        "suuid": "dWx0AG",
-        "idCode": "pythonexpert"
-    },
-    {
-        "suuid": "Jg37g1",
-        "idCode": "globalflashcard"
-    },
-    {
-        "suuid": "5thDWm",
-        "idCode": "datapod-site"
-    },
-    {
-        "suuid": "mFrtuU",
-        "idCode": "techlanglearn"
-    },
-    {
-        "suuid": "NMTAdz",
-        "idCode": "inthub25"
-    },
-    {
-        "suuid": "UE3HxK",
-        "idCode": "be-using-10-frameworks"
-    },
-    {
-        "suuid": "zGpQGs",
-        "idCode": "all-datapods"
-    },
-    {
-        "suuid": "Awr4pj",
-        "idCode": "datapod-for-react-go-json"
-    },
-    {
-        "suuid": "g6pmX0",
-        "idCode": "tech-item-info"
-    },
-    {
-        "suuid": "VtiwEm",
-        "idCode": "datapod-for-react-kotlin-json"
-    },
-    {
-        "suuid": "iEkU2G",
-        "idCode": "comprehensible-output"
-    },
-    {
-        "suuid": "0jwMiS",
-        "idCode": "datapod-for-react-php-json"
-    },
-    {
-        "suuid": "5CBmZ9",
-        "idCode": "datapod-for-react-bash-json"
-    },
-    {
-        "suuid": "L7qQbr",
-        "idCode": "vim-central"
-    },
-    {
-        "suuid": "8R2aHj",
-        "idCode": "language-reference"
-    },
-    {
-        "suuid": "TC4GVG",
-        "idCode": "datapod-for-react-csharp-json"
-    },
-    {
-        "suuid": "DEwOqX",
-        "idCode": "datapod-for-splitstack-mern"
-    },
-    {
-        "suuid": "qRtgxj",
-        "idCode": "comprehensible-output"
-    },
-    {
-        "suuid": "JRAGUk",
-        "idCode": "italian-verbs"
-    },
-    {
-        "suuid": "Sn8jMA",
-        "idCode": "day-journal-time-tracker"
-    },
-    {
-        "suuid": "arm8y1",
-        "idCode": "datapod-for-nextjs"
-    },
-    {
-        "suuid": "d8cmsX",
-        "idCode": "run-site"
-    },
-    {
-        "suuid": "iuMMaq",
-        "idCode": "elastic-search-fullstack"
-    },
-    {
-        "suuid": "KknLMN",
-        "idCode": "fullstack-mern-site"
-    },
-    {
-        "suuid": "VtojrT",
-        "idCode": "hyperlang"
-    },
-    {
-        "suuid": "rFQxr4",
-        "idCode": "useful links"
-    },
-    {
-        "suuid": "45LxGy",
-        "idCode": "python tools"
-    },
-    {
-        "suuid": "4Unzac",
-        "idCode": "techitems"
-    },
-    {
-        "suuid": "Iq6ouj",
-        "idCode": "ai-tech"
-    },
-    {
-        "suuid": "4g0n6Z",
-        "idCode": "timetracker"
-    },
-    {
-        "suuid": "RGhkXE",
-        "idCode": "lowcode"
-    },
-    {
-        "suuid": "8cQDns",
-        "idCode": "transatlantic-accent"
-    },
-    {
-        "suuid": "I5Iode",
-        "idCode": "vuejs-csharp-fullstack"
-    },
-    {
-        "suuid": "sDBHtj",
-        "idCode": "two-factor-login-with-twilio //private"
-    },
-    {
-        "suuid": "Fj2YnA",
-        "idCode": "hetzner"
-    },
-    {
-        "suuid": "euQ7CS",
-        "idCode": "reactskills"
-    },
-    {
-        "suuid": "Kp4G9u",
-        "idCode": "newtech"
-    },
-    {
-        "suuid": "SO08qQ",
-        "idCode": "python"
-    },
-    {
-        "suuid": "E7wOPI",
-        "idCode": "php-skills"
-    },
-    {
-        "suuid": "nJ6gDp",
-        "idCode": "css/frontend"
-    },
-    {
-        "suuid": "ia2lxv",
-        "idCode": "nodered //priv"
-    },
-    {
-        "suuid": "MH9acH",
-        "idCode": "aisite"
-    },
-    {
-        "suuid": "NWDSFF",
-        "idCode": "vim-master"
-    },
-    {
-        "suuid": "dcnciX",
-        "idCode": "cdchallassecor //priv"
-    },
-    {
-        "suuid": "9k9MLw",
-        "idCode": "aiPageOnTechSite"
-    },
-    {
-        "suuid": "hXyBWZ",
-        "idCode": "youtubechannel"
-    },
-    {
-        "suuid": "kh4hCv",
-        "idCode": "personal site"
-    },
-    {
-        "suuid": "Mxw0Ov",
-        "idCode": "newtech"
-    },
-    {
-        "suuid": "oHHPpr",
-        "idCode": "godeveloper"
-    },
-    {
-        "suuid": "qr5Daw",
-        "idCode": "techsite"
-    },
-    {
-        "suuid": "ttssC7",
-        "idCode": "trilingualLittlePrince"
-    },
-    {
-        "suuid": "a9bsDW",
-        "idCode": "soflash"
-    },
-    {
-        "suuid": "mj3H8g",
-        "idCode": "bash-showcase"
-    },
-    {
-        "suuid": "cZ2hSj",
-        "idCode": "fastapi-showcase"
-    },
-    {
-        "suuid": "Ske09k",
-        "idCode": "newtech"
-    },
-    {
-        "suuid": "nm6Wpk",
-        "idCode": "newTech2024"
-    },
-    {
-        "suuid": "LaFLQe",
-        "idCode": "jobwatch"
-    },
-    {
-        "suuid": "yEUSRO",
-        "idCode": "techlearn"
-    }
+	{
+		"suuid": "zacoYm",
+		"idCode": "edwards-projects",
+		"title": "Edward's Projects",
+		"status": "creating basic parsing of text file that shows project information",
+		"mode": "active",
+		"repo": "https://github.com/edwardtanguay/edwards-projects",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "ueqNXo",
+		"idCode": "showcase-trpc",
+		"title": "tRPC Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-trpc",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			}
+		]
+	},
+	{
+		"suuid": "nnF5v8",
+		"idCode": "showcase-drizzle",
+		"title": "Drizzle Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-drizzle",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			},
+			{
+				"suuid": "zVrd76",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "eDBacw",
+				"kind": "feature",
+				"title": "Express CRUD API with Drizzle/SQLite + React client",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "nGeegp",
+		"idCode": "template-node-html-001",
+		"title": "Node/HTML Template",
+		"status": "a new template I want to create, a professionally designed starter site for read-only portfolio-sites (later for tanguay.info and art sites for friends)",
+		"mode": "planning",
+		"repo": "https://github.com/edwardtanguay/template-node-html-001",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			},
+			{
+				"suuid": "zVrd76",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "eDBacw",
+				"kind": "feature",
+				"title": "Express CRUD API with Drizzle/SQLite + React client",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "aXAEdN",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "use: https://html5up.net/phantom",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Node/HTML Template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::a new template I want to create, a professionally designed starter site for read-only portfolio-sites (later for tanguay.info and art sites for friends)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "repo::not created yet",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one-step publish to Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "connectedProject::tanguay-info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "name has \"001\" in it since we might make many of these for slightly different layouts/designs, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0NABaL",
+				"kind": "base",
+				"title": "Set up minimized generic site at repo/live",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "set up locally",
+						"marker": ".."
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "OKe051",
+		"idCode": "tanguayinfo",
+		"title": "Tanguay.Info",
+		"status": "planning new site design with html5up.net template",
+		"mode": "planning",
+		"repo": "https://github.com/edwardtanguay/tanguayinfo",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			},
+			{
+				"suuid": "zVrd76",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "eDBacw",
+				"kind": "feature",
+				"title": "Express CRUD API with Drizzle/SQLite + React client",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "aXAEdN",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "use: https://html5up.net/phantom",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Node/HTML Template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::a new template I want to create, a professionally designed starter site for read-only portfolio-sites (later for tanguay.info and art sites for friends)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "repo::not created yet",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one-step publish to Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "connectedProject::tanguay-info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "name has \"001\" in it since we might make many of these for slightly different layouts/designs, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0NABaL",
+				"kind": "base",
+				"title": "Set up minimized generic site at repo/live",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "set up locally",
+						"marker": ".."
+					}
+				]
+			},
+			{
+				"suuid": "NRDLSC",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Tanguay.Info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::planning new site design with html5up.net template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make in project",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change about to contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change Projects and Contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make title link",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "other topic that I forgot",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "little prince: https://trilingual-little-prince.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "dutch verbs: https://langcore.vercel.app/dutchVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "spanish verbs: https://langcore.vercel.app/spanishVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "italian parsing: https://interitalnotes.vercel.app/flashcards",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix all images to make them clickable: white, more graphic than screenshot, or some kind of highlight",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add qr-code",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "use this: template-node-html-001",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "t8Yhwf",
+		"idCode": "showcase-remix",
+		"title": "Remix Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-remix",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			},
+			{
+				"suuid": "zVrd76",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "eDBacw",
+				"kind": "feature",
+				"title": "Express CRUD API with Drizzle/SQLite + React client",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "aXAEdN",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "use: https://html5up.net/phantom",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Node/HTML Template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::a new template I want to create, a professionally designed starter site for read-only portfolio-sites (later for tanguay.info and art sites for friends)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "repo::not created yet",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one-step publish to Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "connectedProject::tanguay-info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "name has \"001\" in it since we might make many of these for slightly different layouts/designs, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0NABaL",
+				"kind": "base",
+				"title": "Set up minimized generic site at repo/live",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "set up locally",
+						"marker": ".."
+					}
+				]
+			},
+			{
+				"suuid": "NRDLSC",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Tanguay.Info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::planning new site design with html5up.net template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make in project",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change about to contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change Projects and Contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make title link",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "other topic that I forgot",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "little prince: https://trilingual-little-prince.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "dutch verbs: https://langcore.vercel.app/dutchVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "spanish verbs: https://langcore.vercel.app/spanishVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "italian parsing: https://interitalnotes.vercel.app/flashcards",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix all images to make them clickable: white, more graphic than screenshot, or some kind of highlight",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add qr-code",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "use this: template-node-html-001",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "JmQRox",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase Remix",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Remix Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "sGpciO",
+				"kind": "feature",
+				"title": "Build a menu with pages",
+				"outline_items": []
+			}
+		]
+	},
+	{
+		"suuid": "3YHKYQ",
+		"idCode": "showcase-webpack-react",
+		"title": "Webpack-React Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-webpack-react",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			},
+			{
+				"suuid": "zVrd76",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "eDBacw",
+				"kind": "feature",
+				"title": "Express CRUD API with Drizzle/SQLite + React client",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "aXAEdN",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "use: https://html5up.net/phantom",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Node/HTML Template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::a new template I want to create, a professionally designed starter site for read-only portfolio-sites (later for tanguay.info and art sites for friends)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "repo::not created yet",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one-step publish to Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "connectedProject::tanguay-info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "name has \"001\" in it since we might make many of these for slightly different layouts/designs, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0NABaL",
+				"kind": "base",
+				"title": "Set up minimized generic site at repo/live",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "set up locally",
+						"marker": ".."
+					}
+				]
+			},
+			{
+				"suuid": "NRDLSC",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Tanguay.Info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::planning new site design with html5up.net template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make in project",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change about to contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change Projects and Contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make title link",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "other topic that I forgot",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "little prince: https://trilingual-little-prince.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "dutch verbs: https://langcore.vercel.app/dutchVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "spanish verbs: https://langcore.vercel.app/spanishVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "italian parsing: https://interitalnotes.vercel.app/flashcards",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix all images to make them clickable: white, more graphic than screenshot, or some kind of highlight",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add qr-code",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "use this: template-node-html-001",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "JmQRox",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase Remix",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Remix Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "sGpciO",
+				"kind": "feature",
+				"title": "Build a menu with pages",
+				"outline_items": []
+			},
+			{
+				"suuid": "lP49my",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase for Webpack 5 with React/TypeScript",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Webpack-React Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "AnT74r",
+				"kind": "feature",
+				"title": "Create basic site that builds //2025-10-13 19",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "feature-create-build-site",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "video: https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=1",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "starts with npm run dev",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "cfEJSS",
+				"kind": "feature",
+				"title": "Add images and CSS",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "video 2: https://www.youtube.com/watch?v=gtZs1BPgf6Y&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=2",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "WXL6Sq",
+				"kind": "feature",
+				"title": "Make publishable at Vercel",
+				"outline_items": []
+			}
+		]
+	},
+	{
+		"suuid": "7LHvnE",
+		"idCode": "showcase-mobx-react",
+		"title": "MobX-React Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-mobx-react",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			},
+			{
+				"suuid": "zVrd76",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "eDBacw",
+				"kind": "feature",
+				"title": "Express CRUD API with Drizzle/SQLite + React client",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "aXAEdN",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "use: https://html5up.net/phantom",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Node/HTML Template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::a new template I want to create, a professionally designed starter site for read-only portfolio-sites (later for tanguay.info and art sites for friends)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "repo::not created yet",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one-step publish to Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "connectedProject::tanguay-info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "name has \"001\" in it since we might make many of these for slightly different layouts/designs, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0NABaL",
+				"kind": "base",
+				"title": "Set up minimized generic site at repo/live",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "set up locally",
+						"marker": ".."
+					}
+				]
+			},
+			{
+				"suuid": "NRDLSC",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Tanguay.Info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::planning new site design with html5up.net template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make in project",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change about to contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change Projects and Contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make title link",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "other topic that I forgot",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "little prince: https://trilingual-little-prince.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "dutch verbs: https://langcore.vercel.app/dutchVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "spanish verbs: https://langcore.vercel.app/spanishVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "italian parsing: https://interitalnotes.vercel.app/flashcards",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix all images to make them clickable: white, more graphic than screenshot, or some kind of highlight",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add qr-code",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "use this: template-node-html-001",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "JmQRox",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase Remix",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Remix Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "sGpciO",
+				"kind": "feature",
+				"title": "Build a menu with pages",
+				"outline_items": []
+			},
+			{
+				"suuid": "lP49my",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase for Webpack 5 with React/TypeScript",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Webpack-React Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "AnT74r",
+				"kind": "feature",
+				"title": "Create basic site that builds //2025-10-13 19",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "feature-create-build-site",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "video: https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=1",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "starts with npm run dev",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "cfEJSS",
+				"kind": "feature",
+				"title": "Add images and CSS",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "video 2: https://www.youtube.com/watch?v=gtZs1BPgf6Y&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=2",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "WXL6Sq",
+				"kind": "feature",
+				"title": "Make publishable at Vercel",
+				"outline_items": []
+			},
+			{
+				"suuid": "Py9l3D",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::MobX-React Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "sd5guR",
+				"kind": "feature",
+				"title": "Add employees and link",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make RootStore that loads NoteStore and EmployeeStore",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "tQTYqf",
+				"kind": "feature",
+				"title": "Create new template swap out easypeasy",
+				"outline_items": []
+			}
+		]
+	},
+	{
+		"suuid": "oswOLt",
+		"idCode": "showcase-shadcn-nextjs",
+		"title": "Shadcn-Next.js Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-shadcn-nextjs",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			},
+			{
+				"suuid": "zVrd76",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "eDBacw",
+				"kind": "feature",
+				"title": "Express CRUD API with Drizzle/SQLite + React client",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "aXAEdN",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "use: https://html5up.net/phantom",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Node/HTML Template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::a new template I want to create, a professionally designed starter site for read-only portfolio-sites (later for tanguay.info and art sites for friends)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "repo::not created yet",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one-step publish to Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "connectedProject::tanguay-info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "name has \"001\" in it since we might make many of these for slightly different layouts/designs, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0NABaL",
+				"kind": "base",
+				"title": "Set up minimized generic site at repo/live",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "set up locally",
+						"marker": ".."
+					}
+				]
+			},
+			{
+				"suuid": "NRDLSC",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Tanguay.Info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::planning new site design with html5up.net template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make in project",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change about to contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change Projects and Contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make title link",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "other topic that I forgot",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "little prince: https://trilingual-little-prince.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "dutch verbs: https://langcore.vercel.app/dutchVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "spanish verbs: https://langcore.vercel.app/spanishVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "italian parsing: https://interitalnotes.vercel.app/flashcards",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix all images to make them clickable: white, more graphic than screenshot, or some kind of highlight",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add qr-code",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "use this: template-node-html-001",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "JmQRox",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase Remix",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Remix Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "sGpciO",
+				"kind": "feature",
+				"title": "Build a menu with pages",
+				"outline_items": []
+			},
+			{
+				"suuid": "lP49my",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase for Webpack 5 with React/TypeScript",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Webpack-React Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "AnT74r",
+				"kind": "feature",
+				"title": "Create basic site that builds //2025-10-13 19",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "feature-create-build-site",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "video: https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=1",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "starts with npm run dev",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "cfEJSS",
+				"kind": "feature",
+				"title": "Add images and CSS",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "video 2: https://www.youtube.com/watch?v=gtZs1BPgf6Y&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=2",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "WXL6Sq",
+				"kind": "feature",
+				"title": "Make publishable at Vercel",
+				"outline_items": []
+			},
+			{
+				"suuid": "Py9l3D",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::MobX-React Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "sd5guR",
+				"kind": "feature",
+				"title": "Add employees and link",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make RootStore that loads NoteStore and EmployeeStore",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "tQTYqf",
+				"kind": "feature",
+				"title": "Create new template swap out easypeasy",
+				"outline_items": []
+			},
+			{
+				"suuid": "PcrkFr",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Shadcn-Next.js Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "Et1DTn",
+				"kind": "feature",
+				"title": "Add more shadcn components",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "continue video (see techlanglearn)",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "iC0VWt",
+		"idCode": "showcase-react-001",
+		"title": "React Concepts Showcase",
+		"status": "a React site with examples of how to do various things: useMemo, IntersectionObserver, ForwardRef, etc.",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-react-001",
+		"project_items": [
+			{
+				"suuid": "Awu6Sb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Edward's Projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "lastActivity::2025-10-22 13:43:52",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::creating basic parsing of text file that shows project information",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "project nomenclature",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(all hyphens, even Python projects)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "foray-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "howto-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "showcase-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "template-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-<maintech>-<subtech>",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-html",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-cli-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "datapod-python-react",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "(apps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create from: https://datapod-python-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0As4Al",
+				"kind": "feature",
+				"title": "Create active, planning and stable project sections //2025-10-20 13",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement categories",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "rename modes",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fix one-off bug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix git push issue again",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "reboot: seems to be a GitHub issue, we have Ubuntu if we need it temporarily",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "active, open->planning, paused->stable",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "fix open",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "paused->stable",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "plan no marker",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "new display",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "1 Active Project - projects I'm adding features to at the moment",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 Projects in Planning - new or existing projects that are in a planning phase, collecting information, doing research",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "40 Stable Projects - projects that are finished to a point that they useful or serve a specific purpose, but may be extended in the future",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add texts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "include ten realistic projects",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "status to mode",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make status as handwritten note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "dislpay frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make animated icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only for current",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make toggle open/close",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make always look nice",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "speed up nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "fill in all information needed for those we have",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "branch",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "image",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do rest of projects",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change paused to stable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "short description of what each mode means",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "frontend update",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display all project fields",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "with type on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "display online items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "read in from second file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "search",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kY99hP",
+				"kind": "feature",
+				"title": "Make link to commit",
+				"outline_items": []
+			},
+			{
+				"suuid": "zrPBoW",
+				"kind": "feature",
+				"title": "Show latest tasks completed",
+				"outline_items": []
+			},
+			{
+				"suuid": "vcFDV7",
+				"kind": "feature",
+				"title": "Add ranks for projects and project_items",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "find good way to represent it on frontend",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "0-5, stars?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "color range from red to green",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qy456U",
+				"kind": "feature",
+				"title": "Make Response",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make two completely different views for computer/vertical-smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "export type Project = {",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMPlhp",
+				"kind": "suuid",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "Exc2Hd",
+				"kind": "idcode",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "r97VVU",
+				"kind": "title",
+				"title": "string;",
+				"outline_items": []
+			},
+			{
+				"suuid": "5hRI8F",
+				"kind": "status",
+				"title": "\"active\" | \"open\" | \"paused\" | \"closed\";",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "}",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "=======================",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xXuw4V",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::tRPC Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QIuNuZ",
+				"kind": "feature",
+				"title": "build CRUD functionality",
+				"outline_items": []
+			},
+			{
+				"suuid": "zVrd76",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "eDBacw",
+				"kind": "feature",
+				"title": "Express CRUD API with Drizzle/SQLite + React client",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "aXAEdN",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "use: https://html5up.net/phantom",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Node/HTML Template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::a new template I want to create, a professionally designed starter site for read-only portfolio-sites (later for tanguay.info and art sites for friends)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "repo::not created yet",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one-step publish to Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "connectedProject::tanguay-info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "name has \"001\" in it since we might make many of these for slightly different layouts/designs, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0NABaL",
+				"kind": "base",
+				"title": "Set up minimized generic site at repo/live",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "set up locally",
+						"marker": ".."
+					}
+				]
+			},
+			{
+				"suuid": "NRDLSC",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Tanguay.Info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::planning new site design with html5up.net template",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make in project",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change about to contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change Projects and Contact",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make title link",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "other topic that I forgot",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "little prince: https://trilingual-little-prince.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "dutch verbs: https://langcore.vercel.app/dutchVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "spanish verbs: https://langcore.vercel.app/spanishVerbs",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "italian parsing: https://interitalnotes.vercel.app/flashcards",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix all images to make them clickable: white, more graphic than screenshot, or some kind of highlight",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add qr-code",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "use this: template-node-html-001",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "JmQRox",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase Remix",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Remix Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "sGpciO",
+				"kind": "feature",
+				"title": "Build a menu with pages",
+				"outline_items": []
+			},
+			{
+				"suuid": "lP49my",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "Showcase for Webpack 5 with React/TypeScript",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Webpack-React Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "AnT74r",
+				"kind": "feature",
+				"title": "Create basic site that builds //2025-10-13 19",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "feature-create-build-site",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "video: https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=1",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "starts with npm run dev",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "cfEJSS",
+				"kind": "feature",
+				"title": "Add images and CSS",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "video 2: https://www.youtube.com/watch?v=gtZs1BPgf6Y&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=2",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "WXL6Sq",
+				"kind": "feature",
+				"title": "Make publishable at Vercel",
+				"outline_items": []
+			},
+			{
+				"suuid": "Py9l3D",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::MobX-React Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "sd5guR",
+				"kind": "feature",
+				"title": "Add employees and link",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make RootStore that loads NoteStore and EmployeeStore",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "tQTYqf",
+				"kind": "feature",
+				"title": "Create new template swap out easypeasy",
+				"outline_items": []
+			},
+			{
+				"suuid": "PcrkFr",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::Shadcn-Next.js Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "Et1DTn",
+				"kind": "feature",
+				"title": "Add more shadcn components",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "continue video (see techlanglearn)",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "zb1V5a",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "status::a React site with examples of how to do various things: useMemo, IntersectionObserver, ForwardRef, etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::React Concepts Showcase",
+						"marker": ""
+					}
+				]
+			}
+		]
+	}
 ]

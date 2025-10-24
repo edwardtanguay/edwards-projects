@@ -1,11 +1,11 @@
 import os
 
-def get_lines_from_file(file_name: str) -> list[str]:
+def get_line_block_from_file(file_name: str) -> list[str]:
 	"""
-	Get all lines from a file as a list of strings.
+	Get all line_block from a file as a list of strings.
 
 	Usage:
-		lines = get_lines_from_file("../../notes.txt")
+		line_block = get_line_block_from_file("../../notes.txt")
 	"""
 	try:
 		with open(file_name, "r", encoding="utf-8") as f:
@@ -13,17 +13,17 @@ def get_lines_from_file(file_name: str) -> list[str]:
 	except Exception as e:
 		raise RuntimeError(f"Failed to read file: {e}")
 
-	lines = [line.strip() for line in contents.split('\n')]
-	return lines
+	line_block = contents.split('\n')
+	return line_block
 
 
-def get_lines_from_file_till_marker(file_name: str, marker: str) -> list[str]:
+def get_line_block_from_file_till_marker(file_name: str, marker: str) -> list[str]:
 	"""
-	Get all lines from a file as a list of strings up to the marker.
-	If marker is not found, returns all lines.
+	Get all line_block from a file as a list of strings up to the marker.
+	If marker is not found, returns full line_block.
 
 	Usage:
-		lines = get_lines_from_file_till_marker("../../notes.txt", "===")
+		line_block = get_line_block_from_file_till_marker("../../notes.txt", "===")
 	"""
 	try:
 		with open(file_name, "r", encoding="utf-8") as f:
@@ -31,13 +31,13 @@ def get_lines_from_file_till_marker(file_name: str, marker: str) -> list[str]:
 	except Exception as e:
 		raise RuntimeError(f"Failed to read file: {e}")
 
-	lines = [line.strip() for line in contents.split('\n')]
+	line_block = contents.split('\n')
 	
 	try:
-		marker_index = lines.index(marker)
-		lines = lines[:marker_index]
+		marker_index = line_block.index(marker)
+		line_block = line_block[:marker_index]
 	except ValueError:
-		# Marker not found, return all lines
+		# Marker not found, return full line_block
 		pass
 		
-	return lines
+	return line_block

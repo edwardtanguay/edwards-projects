@@ -1,14 +1,55 @@
 <script setup>
-import projects from "../../parseddata/projects.json";
+import _projects from "../../parseddata/projects.json";
+import * as qstr from "@@/app/qtools/qstr";
+
+const activeProjects = _projects.filter((project) => project.mode === "active");
+const planningProjects = _projects.filter((project) => project.mode === "planning");
+const stableProjects = _projects.filter((project) => project.mode === "stable");
+const closedProjects = _projects.filter((project) => project.mode === "closed");
 </script>
 
 <template>
-  <p class="text-xl mb-3">There are {{ projects.length }} projects:</p>
-  <div
-    v-for="(project, idx) in projects"
-    :key="project.suuid"
-    class="flex flex-col gap-1 p-3 mb-3 w-fit bg-slate-500 rounded"
-  >
-    <p>{{ project.idCode }}</p>
-  </div>
+  <template v-if="activeProjects.length &gt; 0">
+    <h2 class="text-2xl font-bold mb-3">
+      {{ qstr.smartPlural(activeProjects.length, "Active Projects") }}
+    </h2>
+    <DisplayProject
+      v-for="project in activeProjects"
+      :key="project.suuid"
+      :project="project"
+    />
+  </template>
+
+  <template v-if="planningProjects.length &gt; 0">
+    <h2 class="text-2xl font-bold mb-3">
+      {{ qstr.smartPlural(planningProjects.length, "Projects") }} in Planning
+    </h2>
+    <DisplayProject
+      v-for="project in planningProjects"
+      :key="project.suuid"
+      :project="project"
+    />
+  </template>
+
+  <template v-if="stableProjects.length &gt; 0">
+    <h2 class="text-2xl font-bold mb-3">
+      {{ qstr.smartPlural(stableProjects.length, "Stable Paused Projects") }}
+    </h2>
+    <DisplayProject
+      v-for="project in stableProjects"
+      :key="project.suuid"
+      :project="project"
+    />
+  </template>
+
+  <template v-if="closedProjects.length &gt; 0">
+    <h2 class="text-2xl font-bold mb-3">
+      {{ qstr.smartPlural(closedProjects.length, "Closed Projects") }}
+    </h2>
+    <DisplayProject
+      v-for="project in closedProjects"
+      :key="project.suuid"
+      :project="project"
+    />
+  </template>
 </template>
