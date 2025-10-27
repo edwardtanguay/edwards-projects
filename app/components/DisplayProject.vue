@@ -53,10 +53,10 @@ const toggleVisibility = () => {
         :short_info="short_info"
         :showAll="true"
       />
-      <img v-if="project.mainImage" class="mt-1 mb-1" :src="project.mainImage" />
+      <img v-if="project.mainImage" class="mt-1 mb-1 shadow-gray-500 shadow-md" :src="project.mainImage" />
       <img
         v-if="!project.mainImage"
-        class="mt-1 mb-1"
+        class="mt-1 mb-1 shadow-gray-400 shadow-md"
         src="/images/general/no-image.jpg"
       />
       <!-- live -->
