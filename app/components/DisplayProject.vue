@@ -34,7 +34,10 @@ const toggleVisibility = () => {
         class="flex flex-col gap-1 w-fit bg-slate-300 rounded-t cursor-pointer"
         @click="toggleVisibility"
       >
-        <div class="whitespace-nowrap" :class="{ 'font-bold': isVisible, 'pt-1': !isVisible }">
+        <div
+          class="whitespace-nowrap"
+          :class="{ 'font-bold': isVisible, 'pt-1': !isVisible }"
+        >
           {{ project.title }}
         </div>
       </div>
@@ -44,13 +47,25 @@ const toggleVisibility = () => {
       class="bg-slate-300 px-4 py-2 rounded-b w-full md:w-fit md:min-w-160 rounded-tr"
       v-show="isVisible"
     >
-      <ShortInfo v-show="isVisible" :category="category" :short_info="short_info" :showAll="true" />
-
+      <ShortInfo
+        v-show="isVisible"
+        :category="category"
+        :short_info="short_info"
+        :showAll="true"
+      />
+      <img v-if="project.mainImage" class="mt-1 mb-1" :src="project.mainImage" />
+      <img
+        v-if="!project.mainImage"
+        class="mt-1 mb-1"
+        src="/images/general/no-image.jpg"
+      />
       <!-- live -->
       <p class="flex gap-1">
         <span class="label">live:</span>
         <template v-if="project.live.startsWith('http')">
-          <a class="underline line-clamp-1" target="_blank" :href="project.live">{{ project.live }}</a>
+          <a class="underline line-clamp-1" target="_blank" :href="project.live">{{
+            project.live
+          }}</a>
         </template>
         <template v-else-if="project.live !== ''">
           <span class="italic">({{ project.live }})</span>
@@ -64,7 +79,9 @@ const toggleVisibility = () => {
       <p class="flex gap-1">
         <span class="label">repo:</span>
         <template v-if="project.repo !== 'none'">
-          <a class="underline line-clamp-1" target="_blank" :href="project.repo">{{ project.repo }}</a>
+          <a class="underline line-clamp-1" target="_blank" :href="project.repo">{{
+            project.repo
+          }}</a>
         </template>
         <template v-else>
           <span>(not yet created)</span>

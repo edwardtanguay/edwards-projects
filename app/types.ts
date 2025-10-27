@@ -5,6 +5,7 @@ export type Project = {
 	status: string;
 	repo: string;
 	live: string;
+	mainImage: string;
 	mode: "active" | "planning" | "stable" | "closed";
 	category: Category[]
 }	

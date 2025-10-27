@@ -1,12 +1,13 @@
 [
 	{
-		"suuid": "o87xce",
+		"suuid": "7EogKf",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
 		"status": "creating basic parsing of text file that shows project information",
 		"mode": "active",
 		"repo": "https://github.com/edwardtanguay/edwards-projects",
 		"live": "https://edwards-projects.vercel.app",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "live",
@@ -19,7 +20,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "gzTKWp",
+				"suuid": "gVUJN9",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -131,96 +132,91 @@
 				]
 			},
 			{
-				"suuid": "owjFwc",
+				"suuid": "9eaK29",
 				"kind": "feature",
-				"title": "Responsive //2025-10-27 11",
+				"title": "Add main image //2025-10-27 14",
 				"outline_items": [
 					{
 						"indents": 2,
-						"line": "branch::feature-make-responsive",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "spin-gear component",
+						"line": "fix space on bottom",
 						"marker": "x"
 					},
-					{
-						"indents": 2,
-						"line": "make short-info component",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "make disappear if smartphone",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "show inside if open",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "if inside, then all text",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "spin outside",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "short-info pop in label above live",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "top margin of tab more",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "change live and repo so they don't have long links",
-						"marker": ".."
-					},
-					{
-						"indents": 3,
-						"line": "repo",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "test long text",
-						"marker": ".."
-					},
-					{
-						"indents": 2,
-						"line": "about page so links don't extend off",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "b8ehqC",
-				"kind": "feature",
-				"title": "",
-				"outline_items": [
 					{
 						"indents": 2,
 						"line": "image",
-						"marker": ""
+						"marker": ".."
 					},
 					{
-						"indents": 2,
-						"line": "rank",
-						"marker": ""
+						"indents": 3,
+						"line": "first mock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make it appear for a specific project",
+						"marker": ".."
+					},
+					{
+						"indents": 4,
+						"line": "mock image property",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "mock mainImage",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "mock: get_image_path_and_file_name",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "search for file",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix path",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "move dot",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only show if exists",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make a no image",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "debug out",
+						"marker": ".."
 					}
 				]
 			},
 			{
-				"suuid": "BfARAp",
+				"suuid": "vRqulp",
+				"kind": "feature",
+				"title": "Add all current images",
+				"outline_items": []
+			},
+			{
+				"suuid": "SOjMVr",
+				"kind": "feature",
+				"title": "Add rank",
+				"outline_items": []
+			},
+			{
+				"suuid": "Gzji65",
 				"kind": "dev",
 				"title": "Clean up mode and status",
 				"outline_items": [
@@ -228,11 +224,16 @@
 						"indents": 2,
 						"line": "delete all traces of mode and status",
 						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make JSON properties camelcase",
+						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "2MaWen",
+				"suuid": "vOwH8i",
 				"kind": "feature",
 				"title": "Parse and display tasks",
 				"outline_items": [
@@ -249,13 +250,13 @@
 				]
 			},
 			{
-				"suuid": "1ULHXR",
+				"suuid": "NKI4sY",
 				"kind": "feature",
 				"title": "Show dates",
 				"outline_items": []
 			},
 			{
-				"suuid": "aFbKip",
+				"suuid": "A7omKo",
 				"kind": "content",
 				"title": "Add rest of projects",
 				"outline_items": [
@@ -277,19 +278,19 @@
 				]
 			},
 			{
-				"suuid": "CxAL4W",
+				"suuid": "FmdkIe",
 				"kind": "feature",
 				"title": "Display all tasks",
 				"outline_items": []
 			},
 			{
-				"suuid": "wrEAav",
+				"suuid": "PxzUcT",
 				"kind": "feature",
 				"title": "Process second text file",
 				"outline_items": []
 			},
 			{
-				"suuid": "KiX2eH",
+				"suuid": "2Ujy0p",
 				"kind": "feature",
 				"title": "Make responsive view",
 				"outline_items": [
@@ -306,13 +307,13 @@
 				]
 			},
 			{
-				"suuid": "m4gggs",
+				"suuid": "OBCbR7",
 				"kind": "featuer",
 				"title": "Search",
 				"outline_items": []
 			},
 			{
-				"suuid": "OrbGDK",
+				"suuid": "yr4yFN",
 				"kind": "feature",
 				"title": "Show latest tasks completed",
 				"outline_items": [
@@ -329,13 +330,13 @@
 				]
 			},
 			{
-				"suuid": "XJ8QTJ",
+				"suuid": "eU8qpA",
 				"kind": "feature",
 				"title": "Make single project view with permalink",
 				"outline_items": []
 			},
 			{
-				"suuid": "sqCQA4",
+				"suuid": "cwfNDX",
 				"kind": "feature",
 				"title": "Make dummy data for reponsitory",
 				"outline_items": [
@@ -354,58 +355,14 @@
 		]
 	},
 	{
-		"suuid": "GpuRtV",
-		"idCode": "showcase-astro",
-		"title": "Astro Showcase",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-astro",
-		"live": "not up yet, will add on Saturday",
-		"categories": [
-			{
-				"id_code": "showcase",
-				"short_info": "example of a Astro with Tailwind 4.0"
-			}
-		],
-		"project_items": [
-			{
-				"suuid": "LgQQTN",
-				"kind": "info",
-				"title": "",
-				"outline_items": [
-					{
-						"indents": 2,
-						"line": "live::not up yet, will add on Saturday",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Astro Showcase",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::showcase; example of a Astro with Tailwind 4.0",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "RqcCRN",
-				"kind": "feature",
-				"title": "build site",
-				"outline_items": []
-			}
-		]
-	},
-	{
-		"suuid": "nGDyrf",
+		"suuid": "2GAq8w",
 		"idCode": "showcase-trpc",
 		"title": "tRPC Showcase",
 		"status": "(fill in status)",
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/showcase-trpc",
 		"live": "https://en.wikipedia.org/wiki/Modularity_of_mind",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "showcase",
@@ -414,7 +371,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "TArZFt",
+				"suuid": "lCpCz8",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -446,7 +403,7 @@
 				]
 			},
 			{
-				"suuid": "XVibBo",
+				"suuid": "Bu6jFV",
 				"kind": "feature",
 				"title": "build CRUD functionality",
 				"outline_items": []
@@ -454,13 +411,14 @@
 		]
 	},
 	{
-		"suuid": "q7WWKf",
+		"suuid": "6TuzOn",
 		"idCode": "showcase-drizzle",
 		"title": "Drizzle Showcase",
 		"status": "(fill in status)",
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/showcase-drizzle",
 		"live": "uses SQLite in Node/Express backend, so couldn't publish to Vercel",
+		"mainImage": "/images/projects/showcase-drizzle.gif",
 		"categories": [
 			{
 				"id_code": "showcase",
@@ -469,7 +427,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "5AbA5n",
+				"suuid": "GRVjQw",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -501,7 +459,7 @@
 				]
 			},
 			{
-				"suuid": "b0dWXE",
+				"suuid": "FOSSOG",
 				"kind": "feature",
 				"title": "Express CRUD API with Drizzle/SQLite + React client",
 				"outline_items": [
@@ -530,13 +488,14 @@
 		]
 	},
 	{
-		"suuid": "lTVVIn",
+		"suuid": "b7guDZ",
 		"idCode": "template-node-html-001",
 		"title": "Node/HTML Template",
 		"status": "(fill in status)",
 		"mode": "open",
 		"repo": "none",
 		"live": "",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "upcoming",
@@ -545,7 +504,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "hBeRPJ",
+				"suuid": "WfprxF",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -597,7 +556,7 @@
 				]
 			},
 			{
-				"suuid": "1p05TA",
+				"suuid": "uCDLyt",
 				"kind": "base",
 				"title": "Set up minimized generic site at repo/live",
 				"outline_items": [
@@ -611,13 +570,14 @@
 		]
 	},
 	{
-		"suuid": "zhgWkn",
+		"suuid": "eSyNUQ",
 		"idCode": "tanguayinfo",
 		"title": "Tanguay.Info",
 		"status": "planning new site design with html5up.net template",
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/tanguayinfo",
 		"live": "https://tanguay.info",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "live",
@@ -630,7 +590,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "fySFmJ",
+				"suuid": "4c7hmE",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -729,13 +689,14 @@
 		]
 	},
 	{
-		"suuid": "PxHd6J",
+		"suuid": "1tffJR",
 		"idCode": "showcase-remix",
 		"title": "Remix Showcase",
 		"status": "(fill in status)",
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/showcase-remix",
 		"live": "https://showcase-remix.vercel.app",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "showcase",
@@ -744,7 +705,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "vy2Kra",
+				"suuid": "gYsahp",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -771,7 +732,7 @@
 				]
 			},
 			{
-				"suuid": "7XH26U",
+				"suuid": "sPzo5f",
 				"kind": "feature",
 				"title": "Build a menu with pages",
 				"outline_items": []
@@ -779,13 +740,14 @@
 		]
 	},
 	{
-		"suuid": "LCyxFa",
+		"suuid": "JseiaS",
 		"idCode": "showcase-webpack-react",
 		"title": "Webpack Showcase",
 		"status": "(fill in status)",
 		"mode": "stable",
 		"repo": "https://github.com/edwardtanguay/showcase-webpack-react",
 		"live": "upcoming feature is to make it publishable at Vercel",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "showcase",
@@ -794,7 +756,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "IQlVWn",
+				"suuid": "Nf6yKp",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -816,7 +778,7 @@
 				]
 			},
 			{
-				"suuid": "o5ikXM",
+				"suuid": "M3uJeL",
 				"kind": "feature",
 				"title": "Create basic site that builds //2025-10-13 19",
 				"outline_items": [
@@ -838,7 +800,7 @@
 				]
 			},
 			{
-				"suuid": "Gnj2wg",
+				"suuid": "0l604K",
 				"kind": "feature",
 				"title": "Add images and CSS",
 				"outline_items": [
@@ -850,7 +812,7 @@
 				]
 			},
 			{
-				"suuid": "8iaTaV",
+				"suuid": "f727W7",
 				"kind": "feature",
 				"title": "Make publishable at Vercel",
 				"outline_items": []
@@ -858,13 +820,14 @@
 		]
 	},
 	{
-		"suuid": "4RGH2V",
+		"suuid": "QoeJNY",
 		"idCode": "showcase-mobx-react",
 		"title": "MobX Showcase",
 		"status": "(fill in status)",
 		"mode": "stable",
 		"repo": "https://github.com/edwardtanguay/showcase-mobx-react",
 		"live": "https://showcase-mobx-react.vercel.app",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "showcase",
@@ -873,7 +836,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "Ya0eax",
+				"suuid": "tunSmF",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -895,7 +858,7 @@
 				]
 			},
 			{
-				"suuid": "mtb6L0",
+				"suuid": "Lzk9jF",
 				"kind": "feature",
 				"title": "Add employees and link",
 				"outline_items": [
@@ -912,7 +875,7 @@
 				]
 			},
 			{
-				"suuid": "2ntztk",
+				"suuid": "VwxOnt",
 				"kind": "feature",
 				"title": "Create new template swap out easypeasy",
 				"outline_items": []
@@ -920,13 +883,14 @@
 		]
 	},
 	{
-		"suuid": "xlGnFM",
+		"suuid": "EVNs36",
 		"idCode": "showcase-shadcn-nextjs",
 		"title": "Shadcn Showcase",
 		"status": "(fill in status)",
 		"mode": "stable",
 		"repo": "https://github.com/edwardtanguay/showcase-shadcn-nextjs",
 		"live": "http://showcase-shadcn-nextjs.vercel.app",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "showcase",
@@ -935,7 +899,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "hjF0DG",
+				"suuid": "ApZn6g",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -957,7 +921,7 @@
 				]
 			},
 			{
-				"suuid": "Gsypyh",
+				"suuid": "0g6SyO",
 				"kind": "feature",
 				"title": "Add more shadcn components",
 				"outline_items": [
@@ -971,13 +935,14 @@
 		]
 	},
 	{
-		"suuid": "F9Xwhy",
+		"suuid": "6mQILq",
 		"idCode": "showcase-react-001",
 		"title": "React Tools and Patterns Showcase",
 		"status": "(fill in status)",
 		"mode": "stable",
 		"repo": "https://github.com/edwardtanguay/showcase-react-001",
 		"live": "",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "showcase",
@@ -986,7 +951,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "zCWpJd",
+				"suuid": "nM4p57",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -1005,13 +970,14 @@
 		]
 	},
 	{
-		"suuid": "AX5e9P",
+		"suuid": "IqeRzQ",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"status": "(fill in status)",
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/comprehensible-output",
 		"live": "https://comprehensible-output.vercel.app",
+		"mainImage": "",
 		"categories": [
 			{
 				"id_code": "live",
@@ -1020,7 +986,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "knAIGQ",
+				"suuid": "xDL1bg",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -1072,7 +1038,7 @@
 				]
 			},
 			{
-				"suuid": "y7zk3B",
+				"suuid": "Z5s9ZE",
 				"kind": "feature",
 				"title": "Create page to test het works",
 				"outline_items": [
@@ -1089,7 +1055,7 @@
 				]
 			},
 			{
-				"suuid": "Nt26JH",
+				"suuid": "xLDvaV",
 				"kind": "feature",
 				"title": "Create page to practice pronunciation",
 				"outline_items": [
@@ -1116,13 +1082,13 @@
 				]
 			},
 			{
-				"suuid": "IJTWBy",
+				"suuid": "y4lWQp",
 				"kind": "feature",
 				"title": "Speed up parsing",
 				"outline_items": []
 			},
 			{
-				"suuid": "TmfMik",
+				"suuid": "V87Ord",
 				"kind": "feature-pronunciation-integration",
 				"title": "",
 				"outline_items": [
@@ -1139,7 +1105,7 @@
 				]
 			},
 			{
-				"suuid": "lG1sE3",
+				"suuid": "tR6aL4",
 				"kind": "feature-random-standard-practice",
 				"title": "",
 				"outline_items": [
@@ -1196,7 +1162,7 @@
 				]
 			},
 			{
-				"suuid": "JevSWk",
+				"suuid": "ifOPvh",
 				"kind": "feature-streamline-story-creation //2025-08-03 23",
 				"title": "30",
 				"outline_items": [
@@ -1803,13 +1769,13 @@
 				]
 			},
 			{
-				"suuid": "XClNAm",
+				"suuid": "sg0Feb",
 				"kind": "feature-make-basic-frontend-for-creation-process",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "3qAFLl",
+				"suuid": "MZ1CuY",
 				"kind": "feature-speed-up-parsing",
 				"title": "",
 				"outline_items": [
@@ -1821,7 +1787,7 @@
 				]
 			},
 			{
-				"suuid": "kKZMLN",
+				"suuid": "5SqGYk",
 				"kind": "feature-enable-simple-and-basic-stories",
 				"title": "",
 				"outline_items": [
@@ -1838,31 +1804,31 @@
 				]
 			},
 			{
-				"suuid": "CELTMr",
+				"suuid": "9CPoVD",
 				"kind": "devfeature-only-recreate-audio-files-on-flag",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "KWy4E9",
+				"suuid": "OmaP7g",
 				"kind": "add-copy-box-for-audio-transcription",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "ggM4db",
+				"suuid": "BVARqO",
 				"kind": "fix-first-letter-before-day-of-week",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "2Pds6q",
+				"suuid": "ogCGT1",
 				"kind": "feature-make-audio-for-presentation",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "xgTpps",
+				"suuid": "Mc9zD8",
 				"kind": "feature-pronunciation-quiz",
 				"title": "",
 				"outline_items": [
@@ -1884,13 +1850,13 @@
 				]
 			},
 			{
-				"suuid": "tphZcs",
+				"suuid": "pmjdMT",
 				"kind": "feature-ere-past-participle-quiz",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "G3qK5f",
+				"suuid": "VGraDC",
 				"kind": "feature-fill-in-blank-quiz",
 				"title": "",
 				"outline_items": [
@@ -1952,7 +1918,7 @@
 				]
 			},
 			{
-				"suuid": "RcD0bl",
+				"suuid": "W2CRvD",
 				"kind": "feature-past-quiz",
 				"title": "",
 				"outline_items": [
@@ -1964,19 +1930,19 @@
 				]
 			},
 			{
-				"suuid": "sQvGzU",
+				"suuid": "Xouyi5",
 				"kind": "feature-randomize-phrases-in-cpf",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "92N0YQ",
+				"suuid": "zpfwov",
 				"kind": "feature-enable-50-550-params-in-cpf",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "kySGTz",
+				"suuid": "EMTcsx",
 				"kind": "feature-prepare-audio-files-for-mp3-stick",
 				"title": "",
 				"outline_items": [
@@ -1993,7 +1959,7 @@
 				]
 			},
 			{
-				"suuid": "jKAnOC",
+				"suuid": "tAxKkZ",
 				"kind": "feature-list-recording-tips",
 				"title": "",
 				"outline_items": [
@@ -2025,49 +1991,49 @@
 				]
 			},
 			{
-				"suuid": "2ihcRI",
+				"suuid": "Doe2se",
 				"kind": "update readme",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "oEZNzj",
+				"suuid": "oFBxBW",
 				"kind": "task",
 				"title": "automate the process of creating a text from the google spreadsheet",
 				"outline_items": []
 			},
 			{
-				"suuid": "rSI5kY",
+				"suuid": "4bFxhO",
 				"kind": "task",
 				"title": "add note on what site is made with at top",
 				"outline_items": []
 			},
 			{
-				"suuid": "H01qXE",
+				"suuid": "6WUump",
 				"kind": "task",
 				"title": "parse and display pronunciation.txt",
 				"outline_items": []
 			},
 			{
-				"suuid": "3xgwuU",
+				"suuid": "9yl56a",
 				"kind": "task",
 				"title": "make cpg more automatic so it creates all the prompt files (and deletes the old ones), or perhaps in one file",
 				"outline_items": []
 			},
 			{
-				"suuid": "ZVWeW9",
+				"suuid": "RFyfee",
 				"kind": "task",
 				"title": "fix",
 				"outline_items": []
 			},
 			{
-				"suuid": "M5kb4C",
+				"suuid": "714vNE",
 				"kind": "task",
 				"title": "make defautls intelligent and useful",
 				"outline_items": []
 			},
 			{
-				"suuid": "A2yuZh",
+				"suuid": "zklIxN",
 				"kind": "task",
 				"title": "update to newests datapod-for-go version (qtools etc.)",
 				"outline_items": []

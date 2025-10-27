@@ -23,6 +23,6 @@ defineProps({
         <SpinGear />
       </div>
     </template>
-    <span :class="{'line-clamp-1': !showAll}">{{ short_info }}</span>
+    <span :class="{'line-clamp-1': !showAll, 'capitalize': showAll}">{{ short_info }}</span>
   </div>
 </template>

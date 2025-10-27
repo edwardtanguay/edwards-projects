@@ -27,6 +27,7 @@ class Project:
 	mode: str = ""
 	repo: str = ""
 	live: str = ""
+	main_image: str = ""
 	categories: list[CategoryItem] = []
 	outline_block: OutlineBlock = None
 	project_items: list[ProjectItem] = []
@@ -40,6 +41,7 @@ class Project:
 		qdev.debug(f"---PROJECT: {self.idCode}")
 		self.parseProjectItems()
 		self.parseLineVariables()
+		self.define_main_image()
 		self.defineMode() # TODO: remove
 
 	def defineMode(self):
@@ -103,6 +105,9 @@ class Project:
 			return "https://github.com/edwardtanguay/" + self.idCode
 		else:
 			return self.repo
+
+	def define_main_image(self):
+		self.main_image = qfil.get_image_path_and_file_name("/images/projects/", self.idCode)
 		
 	def to_json(self):
 		return {
@@ -113,6 +118,7 @@ class Project:
 			'mode': self.mode, # TODO: remove
 			'repo': self.get_repo_for_json(),
 			'live': self.live,
+			'mainImage': self.main_image,
 			'categories': [category.toString() for category in self.categories],
 			'project_items': [project_item.to_json() for project_item in self.project_items]
 		}

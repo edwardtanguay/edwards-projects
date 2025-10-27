@@ -1,4 +1,7 @@
 import os
+from qtools import *
+from pathlib import Path
+
 
 def get_line_block_from_file(file_name: str) -> list[str]:
 	"""
@@ -41,3 +44,26 @@ def get_line_block_from_file_till_marker(file_name: str, marker: str) -> list[st
 		pass
 		
 	return line_block
+
+def get_image_path_and_file_name(path: str, id_code: str) -> str:
+	"""
+	Looks for an image file with the given id_code and extensions .jpg, .png, or .gif
+	
+	Args:
+		path: Directory path to search in
+		id_code: The filename (without extension) to search for
+		
+	Returns:
+		Full path to the image file if found, None otherwise
+	"""
+	extensions = ['jpg', 'png', 'gif']
+	
+	for ext in extensions:
+		filename = f"{id_code}.{ext}"
+		project_root = Path(__file__).parent.parent.parent
+		full_path = os.path.join(project_root, f"public{path}{filename}")
+
+		if os.path.isfile(full_path):
+			return f"{path}{filename}"
+	
+	return ""
