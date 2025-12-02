@@ -1,58 +1,6 @@
 [
 	{
-		"suuid": "ySY0Wm",
-		"idCode": "showcase-typo3",
-		"title": "TYPO3 Showcase",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-typo3",
-		"live": "you have to set up TYPO3, the TypoScript is currently not in the repository",
-		"mainImage": "/images/projects/showcase-typo3.jpg",
-		"categories": [
-			{
-				"id_code": "showcase",
-				"short_info": "I got TYPO3 v13 installed on Ubuntu, learned my way around the admin panel, got TypoScript and Fluid templates working"
-			}
-		],
-		"project_items": [
-			{
-				"suuid": "pN5Haz",
-				"kind": "info",
-				"title": "",
-				"outline_items": [
-					{
-						"indents": 2,
-						"line": "title::TYPO3 Showcase",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::showcase;I got TYPO3 v13 installed on Ubuntu, learned my way around the admin panel, got TypoScript and Fluid templates working",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::you have to set up TYPO3, the TypoScript is currently not in the repository",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "q89VUs",
-				"kind": "feature",
-				"title": "Convert backend TypoScript to files",
-				"outline_items": []
-			},
-			{
-				"suuid": "P6FkO4",
-				"kind": "feature",
-				"title": "Put whole project in repository",
-				"outline_items": []
-			}
-		]
-	},
-	{
-		"suuid": "iDHTEL",
+		"suuid": "EEgQyM",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
 		"status": "creating basic parsing of text file that shows project information",
@@ -67,12 +15,12 @@
 			},
 			{
 				"id_code": "active",
-				"short_info": "currently creating basic parsing of text file that shows project information"
+				"short_info": "currently creating basic parsing of text files that show project information"
 			}
 		],
 		"project_items": [
 			{
-				"suuid": "S5U70V",
+				"suuid": "DzOmXh",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -93,7 +41,7 @@
 					},
 					{
 						"indents": 2,
-						"line": "category::active; currently creating basic parsing of text file that shows project information",
+						"line": "category::active; currently creating basic parsing of text files that show project information",
 						"marker": ""
 					},
 					{
@@ -184,10 +132,139 @@
 				]
 			},
 			{
-				"suuid": "MrZkwC",
+				"suuid": "66rbTE",
+				"kind": "feature",
+				"title": "Show start sites //2025-11-30 23",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-show-starts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fixed error (email in notes)",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "list out one start",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "show image as well",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "enter the rest of the starts",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "CSp4Cf",
+				"kind": "decision",
+				"title": "Decide on best name \"start\" or \"starter\" //2025-11-30 23",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "pro \"starter\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "\"this start is more usable\" sounds odd",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "but we could say \"this start sit\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "pro \"start\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "the name \"start\" is more what they are, a start, created by AI",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "they are not so much a \"starter\", since that is a \"template\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "also, all of our urls are already called start",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "2LIbWa",
+				"kind": "feature",
+				"title": "New start-layout",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "use: start-nextjs-dashboard-001",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "or: start-nextjs-site-001",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "dZX0E2",
+				"kind": "feature",
+				"title": "Show starts in rank order",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "handle rank field",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "c3We84",
+				"kind": "feature",
+				"title": "Display descriptions on e.g. starts, showcases (what they are)",
+				"outline_items": []
+			},
+			{
+				"suuid": "IcFEFD",
 				"kind": "fix",
 				"title": "Responsive fixes and additions",
 				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "most of this will be made unnecessary with the new layout",
+						"marker": ""
+					},
 					{
 						"indents": 2,
 						"line": "Remove responsive white bar on right",
@@ -211,13 +288,13 @@
 				]
 			},
 			{
-				"suuid": "40IRB1",
+				"suuid": "CWDU8Z",
 				"kind": "feature",
 				"title": "Add rank",
 				"outline_items": []
 			},
 			{
-				"suuid": "FQnCuZ",
+				"suuid": "Mgl5VL",
 				"kind": "dev",
 				"title": "Clean up mode and status",
 				"outline_items": [
@@ -234,7 +311,7 @@
 				]
 			},
 			{
-				"suuid": "ygVE04",
+				"suuid": "9UftDF",
 				"kind": "feature",
 				"title": "Parse and display tasks",
 				"outline_items": [
@@ -251,13 +328,13 @@
 				]
 			},
 			{
-				"suuid": "VMCqrn",
+				"suuid": "tBJrC5",
 				"kind": "feature",
 				"title": "Show dates",
 				"outline_items": []
 			},
 			{
-				"suuid": "UlDOhM",
+				"suuid": "ySG0cb",
 				"kind": "content",
 				"title": "Add rest of projects",
 				"outline_items": [
@@ -279,19 +356,19 @@
 				]
 			},
 			{
-				"suuid": "gqrXY4",
+				"suuid": "dAo9r5",
 				"kind": "feature",
 				"title": "Display all tasks",
 				"outline_items": []
 			},
 			{
-				"suuid": "xez6KF",
+				"suuid": "g3nyY0",
 				"kind": "feature",
 				"title": "Process second text file",
 				"outline_items": []
 			},
 			{
-				"suuid": "33NMEp",
+				"suuid": "jxfdbO",
 				"kind": "feature",
 				"title": "Make responsive view",
 				"outline_items": [
@@ -308,13 +385,13 @@
 				]
 			},
 			{
-				"suuid": "9q7jiL",
+				"suuid": "uRLQGJ",
 				"kind": "featuer",
 				"title": "Search",
 				"outline_items": []
 			},
 			{
-				"suuid": "QaRDiL",
+				"suuid": "olRidW",
 				"kind": "feature",
 				"title": "Show latest tasks completed",
 				"outline_items": [
@@ -331,13 +408,13 @@
 				]
 			},
 			{
-				"suuid": "64bBCo",
+				"suuid": "a5yHP0",
 				"kind": "feature",
 				"title": "Make single project view with permalink",
 				"outline_items": []
 			},
 			{
-				"suuid": "agXiUi",
+				"suuid": "zwaSRg",
 				"kind": "feature",
 				"title": "Make dummy data for reponsitory",
 				"outline_items": [
@@ -354,7 +431,7 @@
 				]
 			},
 			{
-				"suuid": "rLoRTp",
+				"suuid": "KF08Km",
 				"kind": "feature",
 				"title": "new layout",
 				"outline_items": [
@@ -368,7 +445,1409 @@
 		]
 	},
 	{
-		"suuid": "EgLtaS",
+		"suuid": "Mz5Jef",
+		"idCode": "start-astro-node-crud-001",
+		"title": "START-ASTRO-NODE-CRUD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-astro-node-crud-001",
+		"live": "",
+		"mainImage": "/images/projects/start-astro-node-crud-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Antigravity/Gemini3, one of the best UX solutions for start crud site, by Antigravity"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "GKnE1c",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-28",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Antigravity with Gemini 3 Pro",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Antigravity/Gemini3, one of the best UX solutions for start crud site, by Antigravity",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt::create a Astro site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one \"npm run dev\" command",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "15 minutes finished, didn't ask me anything",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "works very nicely with modal on both desktop and mobile, could be the best UX yet",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one small issue: there is a \"ml>\" on the bottom left of the screen",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.99",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "4pXMEC",
+		"idCode": "start-angular-node-crud-001",
+		"title": "START-ANGULAR-NODE-CRUD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-angular-node-crud-001",
+		"live": "",
+		"mainImage": "/images/projects/start-angular-node-crud-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Antigravity/Gemini3, this is usable but has some odd UX features, e.g. editing and adding have a modal that make the background disappear, and mobile view scrolls horizontally instead of showing cards"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "22ezCo",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-28",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Antigravity with Gemini 3 Pro",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Antigravity/Gemini3, this is usable but has some odd UX features, e.g. editing and adding have a modal that make the background disappear, and mobile view scrolls horizontally instead of showing cards",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.56",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt::create a Angular site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one \"npm run dev\" command",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "finished",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "Ap5zVK",
+		"idCode": "start-angular-node-crud-002",
+		"title": "START-ANGULAR-NODE-CRUD-002",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-angular-node-crud-002",
+		"live": "",
+		"mainImage": "/images/projects/start-angular-node-crud-002.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Cursor, not very usable, has odd UX quirks like: instead of a model for editing, it opens a form at the top of the page even for records a few pages down, and mobile view has horizontal scroll"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "P4aMZD",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-28",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Cursor",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Cursor, not very usable, has odd UX quirks like: instead of a model for editing, it opens a form at the top of the page even for records a few pages down, and mobile view has horizontal scroll",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::3.9",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt::create a Angular site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one \"npm run dev\" command",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "is using python to change files",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "finished in 20 minutes",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "put node on 4000, angular on 4200",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "problem: Tailwind isn't working, I think you set it up for Tailwind 3, but Tailwind 4 is installed",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "it responded: Get Cursor Pro for more Agent usage, unlimited Tab, and more.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Antigravity fixed the problem on the third attempt with Gemini 3 Pro",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "aDNmyb",
+		"idCode": "start-sveltekit-crud-002",
+		"title": "START-SVELTEKIT-CRUD-002",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-sveltekit-crud-002",
+		"live": "",
+		"mainImage": "/images/projects/start-sveltekit-crud-002.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Antigravity/Claude, works well"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "vac3FE",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-28",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Antigravity with Claude Sonnet 4.5",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Antigravity/Claude, works well",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.82",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt::create a SvelteKit site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "showed me a plan \"7 fields, cards for mobile\", I wrote \"sounds good\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "was finished far before Cursor on this task",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "had to fix \"fs\" typescript errors",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "works well",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "klThb0",
+		"idCode": "start-sveltekit-crud-001",
+		"title": "START-SVELTEKIT-CRUD-001",
+		"status": "works",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-sveltekit-crud-001",
+		"live": "",
+		"mainImage": "/images/projects/start-sveltekit-crud-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Cursor, has odd way to edit with a form that is always visible"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "B607vo",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-28",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Cursor",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Cursor, has odd way to edit with a form that is always visible",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.34",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt::create a SvelteKit site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "is \"exploring new SvelteKit setup methods",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "npx degit ...",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "doing a lot of environment observiation, ls, pwd",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "did git clone --depth 1",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Cursor asks a lot more for confirmation",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "it said, \"user aborted request\", although I didn't",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "npm run dev get Error 500",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "asked it to fix",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::works",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "xu0AVz",
+		"idCode": "start-nuxt-crud-001",
+		"title": "START-NUXT-CRUD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nuxt-crud-001",
+		"live": "",
+		"mainImage": "/images/projects/start-nuxt-crud-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Antigravity/Gemini3, everything works"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "6iQ2Hb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-28",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Antigravity with Gemini 3 Pro",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Antigravity/Gemini3, everything works",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.88",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt::create a Nuxt 4 site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "had to confirm 4-5 times, it never seemed to give a notification, so you have to monitor it",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "finished in 20 minutes",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "had a typescript issue in db.ts with importing fs and path",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "asked to fix them",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "it installed @types/node, fixed",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "when I click add or edit, the page disappears",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "asked agent to fix it",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "it opened the browser and started testing it",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "says: navigate to http://localhost:3000. Wait for load. Click 'Add Employee'. Wait 2 seconds. Capture a screenshot of the page. Check browser console for errors and return them.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "now when I click add or edit, it shows a dimmed page with a form that I can't edit",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "asked agent to fix it",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "it fixed it",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "everything works",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "AYvrIO",
+		"idCode": "start-nextjs-crud-001",
+		"title": "START-NEXTJS-CRUD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-crud-001",
+		"live": "",
+		"mainImage": "/images/projects/start-nextjs-crud-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created with Antigravity/Gemini3, decent"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "XAihhb",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-27",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Antigravity with Gemini 3 Pro",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created with Antigravity/Gemini3, decent",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.87",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt: create a Next.js site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "I let it work for about 20 minutes, had to attend it 3-4 times",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "it brought up the browser and was active with it",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "after 20 minutes it seemed finished",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "tried to start it \"npm run dev\", it said: Unable to acquire lock at C:\\edward\\projects\\starts\\start-nextjs-crud-001\\.next\\dev\\lock, is another instance of next dev running?",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "I closed the browser it had open but it still got the error",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "I deleted the .next directory",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "zyeVks",
+		"idCode": "start-nuxt-site-002",
+		"title": "START-NUXT-SITE-002",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nuxt-site-002",
+		"live": "https://start-nuxt-site-002.vercel.app",
+		"mainImage": "/images/projects/start-nuxt-site-002.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Antigravity/Claude, nice UX, mobile has smooth fade"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "FFMRug",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-27",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Antigravity with Claude Sonnet 4.5",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Antigravity/Claude, nice UX, mobile has smooth fade",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt: create a Nuxt 4 site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "you answer prompt questions in the window",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "it noticed that the site name already exists",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "one time didn't send a notice, was waiting for a confirmation from me",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "antigravity was not able to install the Vue extension",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "it ran out of credits on all of it's models, will have to wait four hours",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "it didn't put directories in app, but perhaps that was a choice during installation",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://start-nuxt-site-002.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.98",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "wQv25u",
+		"idCode": "start-nextjs-site-002",
+		"title": "START-NEXTJS-SITE-002",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-site-002",
+		"live": "https://start-nextjs-site-002.vercel.app",
+		"mainImage": "/images/projects/start-nextjs-site-002.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Antigravity/Gemini3, very usable"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "aGxglG",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-27",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Antigravity editor\tusing Gemini 3",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Antigravity/Gemini3, very usable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.93",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt: create a Next.js site that I can download, with 6 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "model selected was Gemini 3 Pro",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "makes a nice, multi-level task list that it checks off",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "but executed npx by itself",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "but then asked if it could say \"y\" to get the latest version##thetasklist",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "after about 10 minutes, it's still working, not moving too much, just started \"creating pages\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "at the end, it \"verifies responsive design\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "debugging some problem it found in the navbar",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "has some build error, \"removed the navbar to isolate issue\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "needed me to confirm to delete node_modules",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "was taking over 30 minutes",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "if I went into another app, it would then notify me with a Windows notification if it needed me to approve something",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "after 35 minutes, it \"reached the limit of Gemini 3\", so I choose Claude Sonnet 4.5",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "finished, worked first time",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://start-nextjs-site-002.vercel.app",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "qsJc4T",
+		"idCode": "start-astro-site-001",
+		"title": "START-ASTRO-SITE-001",
+		"status": "usable",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-astro-site-001",
+		"live": "https://start-astro-site-001.vercel.app",
+		"mainImage": "/images/projects/start-astro-site-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Cursor, usuable"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "yTjsH1",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-27",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Cursor editor",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Cursor, usuable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt: create an Astro site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind 4, professional but reduced look with light gray",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "starts the same way as on the Angular site, executed the commands I had put on the allow list, worked well",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "only a few types to click Run",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "then \"npm run build\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "then \"git status -sb\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "then seems to be finished but without any notification",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "so I ran \"npm run dev\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "site works well, like Angular site",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "but it has a small issue with the hamburger icon still being visible##hasoddissue",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "so I gave it a screenshot and asked it to fix it",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "seemed to fix it",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "asked to run \"npm run build\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "clicked \"Keep all\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "I did \"npm run dev\" again and it was fixed##itfixedit",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "nice experience",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://start-astro-site-001.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::usable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.899",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "5gdbyR",
+		"idCode": "start-angular-site-002",
+		"title": "START-ANGULAR-SITE-002",
+		"status": "usable",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-angular-site-002",
+		"live": "https://start-angular-site-002.vercel.app",
+		"mainImage": "/images/projects/start-angular-site-002.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Cursor, usable, quick mobile page switching"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "dFqW7C",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-27",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Cursor editor",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Cursor, usable, quick mobile page switching",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt:: create a Angular site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "has an easy-to-use \"allow list\" for ls, pwd, etc",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "shows notifications on Windows if you need to click \"Run\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "seems to be installing Angular 18",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "now running \"generate\" commands for each page",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "adding to file with \"cat\", odd",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "site works nicely",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "good experience, it created the site in the background",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "but afterward was running more \"cat\" commands and getting errors",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "then asked to execute \"npm run build\" numerous times",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "but finally finished and gave me a report of what it had created",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "I typed \"npm start\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "the site was much more built out, worked nice",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "pushed to repo",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://start-angular-site-002.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::usable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.985",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "rRNZMe",
+		"idCode": "start-nextjs-dashboard-001",
+		"title": "START-NEXTJS-DASHBOARD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-dashboard-001",
+		"live": "https://nextjs-dashboard-001-phi.vercel.app",
+		"mainImage": "/images/projects/start-nextjs-dashboard-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created with AI Studio, this dashboard layout is refreshing with menu on left, mobile still usuable"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "oFGdre",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-24",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::AI Studio",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created with AI Studio, this dashboard layout is refreshing with menu on left, mobile still usuable",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.96",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt:: create a Next.js site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://nextjs-dashboard-001-phi.vercel.app",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "yoUx0P",
+		"idCode": "start-nuxt-site-001",
+		"title": "START-NUXT-SITE-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nuxt-site-001",
+		"live": "https://start-nuxt-site-001.vercel.app",
+		"mainImage": "/images/projects/start-nuxt-site-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by some LLM website, very simple design but with smooth UX, might be good as the basis of a reduced design"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "PBkNae",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-24",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::LLM site",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by some LLM website, very simple design but with smooth UX, might be good as the basis of a reduced design",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.989",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt:: create a Nuxt 4 site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://start-nuxt-site-001.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "minusNote:: site on smartphone blinks when you switch pages",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "k9EaJE",
+		"idCode": "start-nextjs-site-001",
+		"title": "START-NEXTJS-SITE-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-site-001",
+		"live": "https://start-nextjs-site-001.vercel.app",
+		"mainImage": "/images/projects/start-nextjs-site-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Claude website by downloading all the pages, simply layout but good for a reduce site"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "czNKii",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-24",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Claude website, free account",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Claude website by downloading all the pages, simply layout but good for a reduce site",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt:: create a Next.js site that I can download, with 6 pages that have icons in the menu, responsive with hamburger menu, TypeScript, professional but reduced look with light gray",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "note:: had to then download each file but it was only about 15-20 in total, this has the nicest design even compared to Cursor which completes the whole site for you, this is actually a nice",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.9875",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://start-nextjs-site-001.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "9W5hjt",
+				"kind": "",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 0,
+						"line": "``doing",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "FOPz7R",
+		"idCode": "start-sveltekit-site-001",
+		"title": "START-SVELTEKIT-SITE-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-sveltekit-site-001",
+		"live": "https://start-sveltekit-site-001.vercel.app",
+		"mainImage": "/images/projects/start-sveltekit-site-001.jpg",
+		"categories": [
+			{
+				"id_code": "start",
+				"short_info": "created by Cursor, very simple and smooth mobile UX"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "z6HKZa",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "createdOn::2025-11-25",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Cursor editor free trial",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Cursor, very simple and smooth mobile UX",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.95",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt:: create a SvelteKit site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "notes::a reduced site compared to Gemini Website, but professional icons, responsiveness, and have full file structure, took about 4 minutes",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "onlineNotes::at Vercel, got: Unsupported Node.js version: v24.11.1, fix was: Vercel project dashboard, General, Settings, Node from 24.x to 22.x",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "minusNote:: when switching page in mobile view, it shows the wrong page for a half second",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live:: https://start-sveltekit-site-001.vercel.app",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "Yf7Bu3",
+		"idCode": "worknotes",
+		"title": "WORKNOTES",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/worknotes",
+		"live": "",
+		"mainImage": "",
+		"categories": [],
+		"project_items": [
+			{
+				"suuid": "gxfk9y",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "parse a work file on dashboard that is searchable, etc.",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "XL1IJ4",
+		"idCode": "database-showcase",
+		"title": "DATABASE-SHOWCASE",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/database-showcase",
+		"live": "",
+		"mainImage": "",
+		"categories": [],
+		"project_items": [
+			{
+				"suuid": "iZB80J",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "a page that explains datapod",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "first screen has interaactive text parse with example (like 2018 version)",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "xB8Cii",
+		"idCode": "template-react-responsive-001",
+		"title": "React responsive site with 3 pages",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/template-react-responsive-001",
+		"live": "",
+		"mainImage": "",
+		"categories": [],
+		"project_items": [
+			{
+				"suuid": "XM2cIh",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::React responsive site with 3 pages",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "suhTx2",
+				"kind": "feature",
+				"title": "make dropdown from hamburger menu more visible, e.g. light gray",
+				"outline_items": []
+			},
+			{
+				"suuid": "Th8Kcl",
+				"kind": "feature",
+				"title": "Upgrade React Router",
+				"outline_items": []
+			},
+			{
+				"suuid": "EDswP7",
+				"kind": "feature",
+				"title": "Convert to Mobx",
+				"outline_items": []
+			},
+			{
+				"suuid": "YeorcV",
+				"kind": "feature",
+				"title": "Smart Menu",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "if menu items don't fix, only show icons",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "lR0jTm",
 		"idCode": "showcase-symfony-006",
 		"title": "Symfony Showcase",
 		"status": "(fill in status)",
@@ -378,19 +1857,19 @@
 		"mainImage": "",
 		"categories": [
 			{
-				"id_code": "active",
+				"id_code": "showcase",
 				"short_info": "Setting up a Symfony 8 site to refresh myself with the basics again"
 			}
 		],
 		"project_items": [
 			{
-				"suuid": "GrcAnG",
+				"suuid": "XYqLqk",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
 					{
 						"indents": 2,
-						"line": "category::active; Setting up a Symfony 8 site to refresh myself with the basics again",
+						"line": "category::showcase; Setting up a Symfony 8 site to refresh myself with the basics again",
 						"marker": ""
 					},
 					{
@@ -406,7 +1885,7 @@
 				]
 			},
 			{
-				"suuid": "LM4nzL",
+				"suuid": "W8Z0j0",
 				"kind": "feature",
 				"title": "Create a basic menu",
 				"outline_items": []
@@ -414,7 +1893,7 @@
 		]
 	},
 	{
-		"suuid": "55HA7E",
+		"suuid": "DuAgim",
 		"idCode": "showcase-trpc",
 		"title": "tRPC Showcase",
 		"status": "(fill in status)",
@@ -430,7 +1909,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "P4LBG1",
+				"suuid": "zWTeSn",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -462,7 +1941,7 @@
 				]
 			},
 			{
-				"suuid": "Jj0PXp",
+				"suuid": "T2uEfA",
 				"kind": "feature",
 				"title": "build CRUD functionality",
 				"outline_items": []
@@ -470,7 +1949,7 @@
 		]
 	},
 	{
-		"suuid": "HhvAeC",
+		"suuid": "mCilNO",
 		"idCode": "showcase-drizzle",
 		"title": "Drizzle Showcase",
 		"status": "(fill in status)",
@@ -486,7 +1965,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "fuUTWN",
+				"suuid": "DFxFHS",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -518,7 +1997,7 @@
 				]
 			},
 			{
-				"suuid": "hh7Nse",
+				"suuid": "wPiWcW",
 				"kind": "feature",
 				"title": "Express CRUD API with Drizzle/SQLite + React client",
 				"outline_items": [
@@ -547,7 +2026,59 @@
 		]
 	},
 	{
-		"suuid": "PVWvtE",
+		"suuid": "WusvfB",
+		"idCode": "showcase-typo3",
+		"title": "TYPO3 Showcase",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-typo3",
+		"live": "you have to set up TYPO3, the TypoScript is currently not in the repository",
+		"mainImage": "/images/projects/showcase-typo3.jpg",
+		"categories": [
+			{
+				"id_code": "showcase",
+				"short_info": "I got TYPO3 v13 installed on Ubuntu, learned my way around the admin panel, got TypoScript and Fluid templates working"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "yEDibs",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::TYPO3 Showcase",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::showcase;I got TYPO3 v13 installed on Ubuntu, learned my way around the admin panel, got TypoScript and Fluid templates working",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::you have to set up TYPO3, the TypoScript is currently not in the repository",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kb8dbP",
+				"kind": "feature",
+				"title": "Convert backend TypoScript to files",
+				"outline_items": []
+			},
+			{
+				"suuid": "t8dcLw",
+				"kind": "feature",
+				"title": "Put whole project in repository",
+				"outline_items": []
+			}
+		]
+	},
+	{
+		"suuid": "w4eKVr",
 		"idCode": "template-node-html-001",
 		"title": "Node/HTML Template",
 		"status": "(fill in status)",
@@ -563,7 +2094,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "q8NvGD",
+				"suuid": "msJ6U5",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -615,7 +2146,7 @@
 				]
 			},
 			{
-				"suuid": "mbmNWV",
+				"suuid": "UsJXex",
 				"kind": "base",
 				"title": "Set up minimized generic site at repo/live",
 				"outline_items": [
@@ -629,7 +2160,7 @@
 		]
 	},
 	{
-		"suuid": "x1oYya",
+		"suuid": "S2CSvF",
 		"idCode": "tanguayinfo",
 		"title": "Tanguay.Info",
 		"status": "planning new site design with html5up.net template",
@@ -649,7 +2180,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "mTn8kZ",
+				"suuid": "dPP2BM",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -748,7 +2279,7 @@
 		]
 	},
 	{
-		"suuid": "lzmT71",
+		"suuid": "Ri5JC5",
 		"idCode": "showcase-remix",
 		"title": "Remix Showcase",
 		"status": "(fill in status)",
@@ -759,18 +2290,18 @@
 		"categories": [
 			{
 				"id_code": "showcase",
-				"short_info": "I set up a quick Remix site just to try it out, which is now offically a \"React Router site\" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out"
+				"short_info": "I set up a quick Remix site just to try it out, which is now officially a \"React Router site\" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out"
 			}
 		],
 		"project_items": [
 			{
-				"suuid": "YwKglH",
+				"suuid": "addjQK",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
 					{
 						"indents": 2,
-						"line": "category::showcase;I set up a quick Remix site just to try it out, which is now offically a \"React Router site\" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out",
+						"line": "category::showcase;I set up a quick Remix site just to try it out, which is now officially a \"React Router site\" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out",
 						"marker": ""
 					},
 					{
@@ -791,7 +2322,7 @@
 				]
 			},
 			{
-				"suuid": "zRfDDg",
+				"suuid": "EkwSRG",
 				"kind": "feature",
 				"title": "Build a menu with pages",
 				"outline_items": []
@@ -799,7 +2330,7 @@
 		]
 	},
 	{
-		"suuid": "hkNQLH",
+		"suuid": "Sa2soI",
 		"idCode": "showcase-webpack-react",
 		"title": "Webpack Showcase",
 		"status": "(fill in status)",
@@ -815,7 +2346,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "1p7cgk",
+				"suuid": "eyoFdV",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -837,7 +2368,7 @@
 				]
 			},
 			{
-				"suuid": "FxGg7x",
+				"suuid": "2NVxWe",
 				"kind": "feature",
 				"title": "Create basic site that builds //2025-10-13 19",
 				"outline_items": [
@@ -859,7 +2390,7 @@
 				]
 			},
 			{
-				"suuid": "PDkCIs",
+				"suuid": "oZe4Gl",
 				"kind": "feature",
 				"title": "Add images and CSS",
 				"outline_items": [
@@ -871,7 +2402,7 @@
 				]
 			},
 			{
-				"suuid": "MtKbPS",
+				"suuid": "nEiBY9",
 				"kind": "feature",
 				"title": "Make publishable at Vercel",
 				"outline_items": []
@@ -879,7 +2410,7 @@
 		]
 	},
 	{
-		"suuid": "FaCBwk",
+		"suuid": "41VC87",
 		"idCode": "showcase-mobx-react",
 		"title": "MobX Showcase",
 		"status": "(fill in status)",
@@ -895,7 +2426,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "F0lzHk",
+				"suuid": "K1iEW9",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -917,7 +2448,7 @@
 				]
 			},
 			{
-				"suuid": "aMef4v",
+				"suuid": "z5qeuK",
 				"kind": "feature",
 				"title": "Add employees and link",
 				"outline_items": [
@@ -934,7 +2465,7 @@
 				]
 			},
 			{
-				"suuid": "4aAjim",
+				"suuid": "xhOEwy",
 				"kind": "feature",
 				"title": "Create new template swap out easypeasy",
 				"outline_items": []
@@ -942,7 +2473,7 @@
 		]
 	},
 	{
-		"suuid": "Al2FNb",
+		"suuid": "50YvSK",
 		"idCode": "showcase-shadcn-nextjs",
 		"title": "Shadcn Showcase",
 		"status": "(fill in status)",
@@ -958,7 +2489,7 @@
 		],
 		"project_items": [
 			{
-				"suuid": "s9uo44",
+				"suuid": "QuHAYl",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -980,7 +2511,7 @@
 				]
 			},
 			{
-				"suuid": "Gn9BYt",
+				"suuid": "4IQxvX",
 				"kind": "feature",
 				"title": "Add more shadcn components",
 				"outline_items": [
@@ -994,7 +2525,7 @@
 		]
 	},
 	{
-		"suuid": "YGA2I2",
+		"suuid": "Cc2rEQ",
 		"idCode": "showcase-react-001",
 		"title": "React Tools and Patterns Showcase",
 		"status": "(fill in status)",
@@ -1005,12 +2536,12 @@
 		"categories": [
 			{
 				"id_code": "showcase",
-				"short_info": "a site in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
+				"short_info": "a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
 			}
 		],
 		"project_items": [
 			{
-				"suuid": "bAeyg7",
+				"suuid": "hZCQM5",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -1021,7 +2552,7 @@
 					},
 					{
 						"indents": 2,
-						"line": "category::showcase;a site in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc.",
+						"line": "category::showcase;a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc.",
 						"marker": ""
 					},
 					{
@@ -1034,7 +2565,42 @@
 		]
 	},
 	{
-		"suuid": "z9Srop",
+		"suuid": "F02Ogt",
+		"idCode": "showcase-react-004",
+		"title": "React Showcase 004",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-react-004",
+		"live": "",
+		"mainImage": "/images/projects/showcase-react-004.jpg",
+		"categories": [
+			{
+				"id_code": "showcase",
+				"short_info": "started in November 2025"
+			}
+		],
+		"project_items": [
+			{
+				"suuid": "TblYpJ",
+				"kind": "info",
+				"title": "",
+				"outline_items": [
+					{
+						"indents": 2,
+						"line": "title::React Showcase 004",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::showcase; started in November 2025",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "xSt5Zm",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"status": "(fill in status)",
@@ -1046,11 +2612,15 @@
 			{
 				"id_code": "live",
 				"short_info": "my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch"
+			},
+			{
+				"id_code": "active",
+				"short_info": "I update this site daily, recording an audio of a story created by AI based on phrases I looked up recently in Google Translate"
 			}
 		],
 		"project_items": [
 			{
-				"suuid": "txqWUQ",
+				"suuid": "lj2Ba7",
 				"kind": "info",
 				"title": "",
 				"outline_items": [
@@ -1062,6 +2632,11 @@
 					{
 						"indents": 2,
 						"line": "category::live;my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; I update this site daily, recording an audio of a story created by AI based on phrases I looked up recently in Google Translate",
 						"marker": ""
 					},
 					{
@@ -1102,7 +2677,7 @@
 				]
 			},
 			{
-				"suuid": "dtUNJM",
+				"suuid": "9oWNVL",
 				"kind": "feature",
 				"title": "Create page to test het works",
 				"outline_items": [
@@ -1119,7 +2694,7 @@
 				]
 			},
 			{
-				"suuid": "bNEP8e",
+				"suuid": "bSkHT8",
 				"kind": "feature",
 				"title": "Create page to practice pronunciation",
 				"outline_items": [
@@ -1146,13 +2721,13 @@
 				]
 			},
 			{
-				"suuid": "r5JJhk",
+				"suuid": "FLSFl7",
 				"kind": "feature",
 				"title": "Speed up parsing",
 				"outline_items": []
 			},
 			{
-				"suuid": "sLtkWx",
+				"suuid": "eBoiHf",
 				"kind": "feature-pronunciation-integration",
 				"title": "",
 				"outline_items": [
@@ -1169,7 +2744,7 @@
 				]
 			},
 			{
-				"suuid": "cytC45",
+				"suuid": "uHpZL0",
 				"kind": "feature-random-standard-practice",
 				"title": "",
 				"outline_items": [
@@ -1226,7 +2801,7 @@
 				]
 			},
 			{
-				"suuid": "gJNOpT",
+				"suuid": "rhUNbE",
 				"kind": "feature-streamline-story-creation //2025-08-03 23",
 				"title": "30",
 				"outline_items": [
@@ -1833,13 +3408,13 @@
 				]
 			},
 			{
-				"suuid": "sgMVi9",
+				"suuid": "C32WpU",
 				"kind": "feature-make-basic-frontend-for-creation-process",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "KZEXg0",
+				"suuid": "cVpnm5",
 				"kind": "feature-speed-up-parsing",
 				"title": "",
 				"outline_items": [
@@ -1851,7 +3426,7 @@
 				]
 			},
 			{
-				"suuid": "MTeqkV",
+				"suuid": "2HfXys",
 				"kind": "feature-enable-simple-and-basic-stories",
 				"title": "",
 				"outline_items": [
@@ -1868,31 +3443,31 @@
 				]
 			},
 			{
-				"suuid": "tmUjWX",
+				"suuid": "p6KjF0",
 				"kind": "devfeature-only-recreate-audio-files-on-flag",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "65yrWD",
+				"suuid": "YIznxL",
 				"kind": "add-copy-box-for-audio-transcription",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "hX0fGg",
+				"suuid": "InQUwK",
 				"kind": "fix-first-letter-before-day-of-week",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "UD5J3L",
+				"suuid": "iLQjJp",
 				"kind": "feature-make-audio-for-presentation",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "KpUQey",
+				"suuid": "5JX2Zx",
 				"kind": "feature-pronunciation-quiz",
 				"title": "",
 				"outline_items": [
@@ -1914,13 +3489,13 @@
 				]
 			},
 			{
-				"suuid": "rwVk7B",
+				"suuid": "FMr7Fy",
 				"kind": "feature-ere-past-participle-quiz",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "NG6Hub",
+				"suuid": "bVBd57",
 				"kind": "feature-fill-in-blank-quiz",
 				"title": "",
 				"outline_items": [
@@ -1982,7 +3557,7 @@
 				]
 			},
 			{
-				"suuid": "iSvLHY",
+				"suuid": "9TL9yS",
 				"kind": "feature-past-quiz",
 				"title": "",
 				"outline_items": [
@@ -1994,19 +3569,19 @@
 				]
 			},
 			{
-				"suuid": "Ar6wBb",
+				"suuid": "vmYpt8",
 				"kind": "feature-randomize-phrases-in-cpf",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "iLxKRz",
+				"suuid": "tqbDmt",
 				"kind": "feature-enable-50-550-params-in-cpf",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "cvOsiK",
+				"suuid": "zDm7BD",
 				"kind": "feature-prepare-audio-files-for-mp3-stick",
 				"title": "",
 				"outline_items": [
@@ -2023,7 +3598,7 @@
 				]
 			},
 			{
-				"suuid": "HPnWe3",
+				"suuid": "pvg9Tw",
 				"kind": "feature-list-recording-tips",
 				"title": "",
 				"outline_items": [
@@ -2055,49 +3630,49 @@
 				]
 			},
 			{
-				"suuid": "oKKgwU",
+				"suuid": "JyrVLJ",
 				"kind": "update readme",
 				"title": "",
 				"outline_items": []
 			},
 			{
-				"suuid": "7VrPru",
+				"suuid": "i7JFzO",
 				"kind": "task",
 				"title": "automate the process of creating a text from the google spreadsheet",
 				"outline_items": []
 			},
 			{
-				"suuid": "fdzbQp",
+				"suuid": "GYIHWJ",
 				"kind": "task",
 				"title": "add note on what site is made with at top",
 				"outline_items": []
 			},
 			{
-				"suuid": "Er8AaR",
+				"suuid": "g3E911",
 				"kind": "task",
 				"title": "parse and display pronunciation.txt",
 				"outline_items": []
 			},
 			{
-				"suuid": "mX5Jhq",
+				"suuid": "IQWodg",
 				"kind": "task",
 				"title": "make cpg more automatic so it creates all the prompt files (and deletes the old ones), or perhaps in one file",
 				"outline_items": []
 			},
 			{
-				"suuid": "7cP4um",
+				"suuid": "Q8eeFF",
 				"kind": "task",
 				"title": "fix",
 				"outline_items": []
 			},
 			{
-				"suuid": "AWvjVa",
+				"suuid": "BXU6gp",
 				"kind": "task",
 				"title": "make defautls intelligent and useful",
 				"outline_items": []
 			},
 			{
-				"suuid": "q8Apg0",
+				"suuid": "5y69Rh",
 				"kind": "task",
 				"title": "update to newests datapod-for-go version (qtools etc.)",
 				"outline_items": []
