@@ -31,11 +31,11 @@ class ProjectItem:
 		self.suuid = qstr.generate_short_uuid()
 
 		line1 = self.outline_items[0].line
-		self.parseKindAndTitle(line1)
+		self.parse_kind_and_title(line1)
 		if self.kind == "info":
 			self.parse_line_variables()
 
-	def parseKindAndTitle(self, line: str):
+	def parse_kind_and_title(self, line: str):
 		self.kind = qstr.get_smart_part(line, ":", 0).lower()
 		self.title = qstr.get_smart_part(line, ":", 1)
 

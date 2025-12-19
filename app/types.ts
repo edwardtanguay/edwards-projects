@@ -8,9 +8,24 @@ export type Project = {
 	mainImage: string;
 	mode: "active" | "planning" | "stable" | "closed";
 	category: Category[]
+	projectItems: ProjectItem[]
 }	
 
 export type Category = {
-	id_code: string;
+	idCode: string;
 	short_info: string;
 }
+
+export type ProjectItem = {
+	suuid: string;
+	kind: string;
+	title: string;
+	outline_items: OutlineItem[];
+}
+
+export type OutlineItem = {
+	indents: number;
+	line: string;
+	marker: string;
+}
+

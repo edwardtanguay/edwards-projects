@@ -2,19 +2,19 @@
 import _projects from "../../parseddata/projects.json";
 
 const activeProjects = _projects.filter((project) =>
-  project.categories.some((category) => category.id_code === "active")
+  project.categories.some((category) => category.idCode === "active")
 );
 const upcomingProjects = _projects.filter((project) =>
-  project.categories.some((category) => category.id_code === "upcoming")
+  project.categories.some((category) => category.idCode === "upcoming")
 );
 const liveProjects = _projects.filter((project) =>
-  project.categories.some((category) => category.id_code === "live")
+  project.categories.some((category) => category.idCode === "live")
 );
 const showcaseProjects = _projects.filter((project) =>
-  project.categories.some((category) => category.id_code === "showcase")
+  project.categories.some((category) => category.idCode === "showcase")
 );
 const startProjects = _projects.filter((project) =>
-  project.categories.some((category) => category.id_code === "start")
+  project.categories.some((category) => category.idCode === "start")
 );
 </script>
 
@@ -26,7 +26,7 @@ const startProjects = _projects.filter((project) =>
                       :key="project.suuid"
                       :category="`active`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.id_code === 'active').short_info
+                      :short_info="project.categories.find((category) => category.idCode === 'active').short_info
                         " />
     </div>
 
@@ -36,7 +36,7 @@ const startProjects = _projects.filter((project) =>
                       :key="project.suuid"
                       :category="`upcoming`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.id_code === 'upcoming')
+                      :short_info="project.categories.find((category) => category.idCode === 'upcoming')
                           .short_info
                         " />
     </div>
@@ -48,7 +48,7 @@ const startProjects = _projects.filter((project) =>
                       :title="``"
                       :category="`live`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.id_code === 'live').short_info
+                      :short_info="project.categories.find((category) => category.idCode === 'live').short_info
                         " />
     </div>
 
@@ -59,7 +59,7 @@ const startProjects = _projects.filter((project) =>
                       :title="``"
                       :category="`showcase`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.id_code === 'showcase')
+                      :short_info="project.categories.find((category) => category.idCode === 'showcase')
                           .short_info
                         " />
     </div>
@@ -71,7 +71,7 @@ const startProjects = _projects.filter((project) =>
                       :title="``"
                       :category="`start`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.id_code === 'start')
+                      :short_info="project.categories.find((category) => category.idCode === 'start')
                           .short_info
                         " />
     </div>

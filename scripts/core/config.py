@@ -14,5 +14,11 @@ def path_and_filename_project_file_001() -> str:
 	if project_file_001 is None:
 		qcli.message("Error: PROJECT_FILE_001 is not set in .env file", "error")
 		return ""
-	
 	return project_file_001
+
+def path_and_filename_project_file_002() -> str:
+	project_file_002 = os.getenv("PROJECT_FILE_002")
+	if project_file_002 is None:
+		qcli.message("Error: PROJECT_FILE_002 is not set in .env file", "error")
+		return ""
+	return project_file_002

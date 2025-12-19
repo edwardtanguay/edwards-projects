@@ -1,28 +1,36 @@
 import json
 
-from core import *
-from custom import *
-from qtools import *
-from classes.project import Project
+from qtools import qcli, debug
+from classes.factory import Factory
 
 def parse() -> None:
-	file_001_line_block = qfil.get_line_block_from_file_till_marker(config.path_and_filename_project_file_001(), "```END")
-	project_line_blocks = parsing.get_project_line_blocks(file_001_line_block)
+	
+	rawProjects = Factory.create_raw_projects()
+	debug(f"Number of raw projects: {len(rawProjects)}")
+	
+	projects = Factory.create_projects()
+	debug(f"Number of projects: {len(projects)}")
+	
+	# convert raw projects to JSON
+	json_raw_projects = []
+	for raw_project in rawProjects:
+		json_raw_projects.append(raw_project.to_json())
 
-	projects = []
-	for project_line_block in project_line_blocks:	
-		project = Project(project_line_block)
-		projects.append(project.to_json())
+	# convert projects to JSON
+	json_projects = []
+	for project in projects:
+		json_projects.append(project.to_json())
 
 	try:
-		# Convert projects to JSON
-		json_data = json.dumps(projects, indent="\t")
-		
-		# Write JSON data to file
+		# save raw projects to JSON file
+		json_raw_projects_data = json.dumps(json_raw_projects, indent="\t")
+		with open("../parseddata/raw_projects.json", 'w') as json_file:
+			json_file.write(json_raw_projects_data)
+
+		# save projects to JSON file
+		json_projects_data = json.dumps(json_projects, indent="\t")
 		with open("../parseddata/projects.json", 'w') as json_file:
-			json_file.write(json_data)
-		
-		qcli.message("Successfully updated projects.json")
+			json_file.write(json_projects_data)
 
 	except Exception as err:
 		qcli.message(f"Error: {err}", "error")

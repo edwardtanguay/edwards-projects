@@ -9,8 +9,8 @@ class CategoryItem:
 		self.id_code = qstr.get_smart_part(category_line, ";", 0)
 		self.short_info = qstr.get_smart_part(category_line, ";", 1)
 
-	def toString(self) -> str:
+	def to_string(self) -> str:
 		return {
-			"id_code": self.id_code,
-			"short_info": self.short_info
+			"idCode": self.id_code,
+			"shortInfo": self.short_info
 		}

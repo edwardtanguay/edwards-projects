@@ -38,7 +38,7 @@ const toggleVisibility = () => {
           class="whitespace-nowrap"
           :class="{ 'font-bold': isVisible, 'pt-1': !isVisible }"
         >
-          {{ project.title }}
+          {{ project.title }} ({{ project.projectItems.length }})
         </div>
       </div>
       <ShortInfo v-show="!isVisible" :category="category" :short_info="short_info" />
