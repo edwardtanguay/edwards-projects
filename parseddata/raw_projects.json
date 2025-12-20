@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "6p1cTl",
+		"suuid": "0GKLdv",
 		"idCode": "showcase-nuxt-001",
 		"title": "Nuxt Showcase",
 		"status": "(fill in status)",
@@ -16,7 +16,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "7WB3Hr",
+				"suuid": "LnWKw2",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -45,7 +45,7 @@
 		]
 	},
 	{
-		"suuid": "MxODMj",
+		"suuid": "csJmgK",
 		"idCode": "internal-edwards-projects",
 		"title": "INTERNAL-EDWARDS-PROJECTS",
 		"status": "(fill in status)",
@@ -56,13 +56,13 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "kNzsNr",
+				"suuid": "FH5O0k",
 				"kind": "info",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "kLfi5n",
+				"suuid": "zTK6cA",
 				"kind": "cleanup",
 				"title": "Organize all folders",
 				"outlineItems": [
@@ -91,7 +91,7 @@
 		]
 	},
 	{
-		"suuid": "k71Knt",
+		"suuid": "jWCNwC",
 		"idCode": "start-html-portfolio-001",
 		"title": "START-HTML-PORTFOLIO-001",
 		"status": "(fill in status)",
@@ -107,7 +107,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "5E2lBY",
+				"suuid": "8XEit8",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -136,7 +136,7 @@
 		]
 	},
 	{
-		"suuid": "qBm3Eb",
+		"suuid": "QkeunX",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
 		"status": "creating basic parsing of text file that shows project information",
@@ -156,7 +156,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "IoBrQU",
+				"suuid": "BE61Ar",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -263,109 +263,13 @@
 				]
 			},
 			{
-				"suuid": "Ey2Me5",
+				"suuid": "mQF3tb",
 				"kind": "feature",
-				"title": "Process and display all tasks //2025-12-20 16",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-show-all-tasks",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "branch",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "new page: Tasks",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "most recent",
-						"marker": ".."
-					},
-					{
-						"indents": 3,
-						"line": "decide if frontend uses current JSON or a dedicated tasks.json: dedicated",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "create tasks.json",
-						"marker": ".."
-					},
-					{
-						"indents": 4,
-						"line": "change globally to outlineItems in JSON",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "run all sub methods in convert",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "make adjust_indents",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "make Task",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "projectIdCode",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "suuid",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "kind",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "title",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "outlineItems",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "make: create_tasks",
-						"marker": ".."
-					},
-					{
-						"indents": 2,
-						"line": "upcoming",
-						"marker": ""
-					}
-				]
+				"title": "Show three of each kind of tasks, finished, current, upcoming",
+				"outlineItems": []
 			},
 			{
-				"suuid": "lGLjvk",
+				"suuid": "33Tavv",
 				"kind": "feature",
 				"title": "New site layout //2025-12-02 22",
 				"outlineItems": [
@@ -412,7 +316,7 @@
 				]
 			},
 			{
-				"suuid": "GvmE7S",
+				"suuid": "h2qj5s",
 				"kind": "feature",
 				"title": "Make page \"Task Tracker\"",
 				"outlineItems": [
@@ -449,7 +353,7 @@
 				]
 			},
 			{
-				"suuid": "1vlpso",
+				"suuid": "eph9Tq",
 				"kind": "feature",
 				"title": "Create Task Dashboard",
 				"outlineItems": [
@@ -466,7 +370,7 @@
 				]
 			},
 			{
-				"suuid": "buvNCx",
+				"suuid": "yQN9ju",
 				"kind": "feature",
 				"title": "Show starts in rank order",
 				"outlineItems": [
@@ -478,13 +382,13 @@
 				]
 			},
 			{
-				"suuid": "nvHL0X",
+				"suuid": "9ithAg",
 				"kind": "feature",
 				"title": "Display descriptions on e.g. starts, showcases (what they are)",
 				"outlineItems": []
 			},
 			{
-				"suuid": "ROCBe3",
+				"suuid": "FyJJ6S",
 				"kind": "fix",
 				"title": "Responsive fixes and additions",
 				"outlineItems": [
@@ -521,13 +425,13 @@
 				]
 			},
 			{
-				"suuid": "IAeu26",
+				"suuid": "QmhwdR",
 				"kind": "feature",
 				"title": "Add rank",
 				"outlineItems": []
 			},
 			{
-				"suuid": "2MmW23",
+				"suuid": "6H4TKI",
 				"kind": "dev",
 				"title": "Clean up mode and status",
 				"outlineItems": [
@@ -544,7 +448,7 @@
 				]
 			},
 			{
-				"suuid": "VgAMDu",
+				"suuid": "rLzxig",
 				"kind": "feature",
 				"title": "Parse and display tasks",
 				"outlineItems": [
@@ -561,13 +465,13 @@
 				]
 			},
 			{
-				"suuid": "ummOdH",
+				"suuid": "RUKmi1",
 				"kind": "feature",
 				"title": "Show dates",
 				"outlineItems": []
 			},
 			{
-				"suuid": "0EwwdJ",
+				"suuid": "7hRUn2",
 				"kind": "content",
 				"title": "Add rest of projects",
 				"outlineItems": [
@@ -584,13 +488,13 @@
 				]
 			},
 			{
-				"suuid": "DDlFqg",
+				"suuid": "fGbDLx",
 				"kind": "feature",
 				"title": "Display all tasks",
 				"outlineItems": []
 			},
 			{
-				"suuid": "QCfQwd",
+				"suuid": "00M50B",
 				"kind": "feature",
 				"title": "Make responsive view",
 				"outlineItems": [
@@ -607,13 +511,13 @@
 				]
 			},
 			{
-				"suuid": "ogUK5U",
+				"suuid": "iMD2aV",
 				"kind": "featuer",
 				"title": "Search",
 				"outlineItems": []
 			},
 			{
-				"suuid": "DXV6Ra",
+				"suuid": "9WmxBY",
 				"kind": "feature",
 				"title": "Show latest tasks completed",
 				"outlineItems": [
@@ -630,13 +534,13 @@
 				]
 			},
 			{
-				"suuid": "PTPZ5A",
+				"suuid": "et577n",
 				"kind": "feature",
 				"title": "Make single project view with permalink",
 				"outlineItems": []
 			},
 			{
-				"suuid": "3YpaJl",
+				"suuid": "bNkwEC",
 				"kind": "feature",
 				"title": "Make dummy data for reponsitory",
 				"outlineItems": [
@@ -653,7 +557,7 @@
 				]
 			},
 			{
-				"suuid": "6r290M",
+				"suuid": "b3FIX4",
 				"kind": "feature",
 				"title": "new layout",
 				"outlineItems": [
@@ -667,7 +571,7 @@
 		]
 	},
 	{
-		"suuid": "Ja6BhM",
+		"suuid": "1EE04o",
 		"idCode": "start-astro-node-crud-001",
 		"title": "START-ASTRO-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -683,7 +587,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "x7Ijtb",
+				"suuid": "cRuPhy",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -732,7 +636,7 @@
 		]
 	},
 	{
-		"suuid": "fDYsVX",
+		"suuid": "YJ5anw",
 		"idCode": "start-angular-node-crud-001",
 		"title": "START-ANGULAR-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -748,7 +652,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "YUAQNE",
+				"suuid": "8SsSx8",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -787,7 +691,7 @@
 		]
 	},
 	{
-		"suuid": "8yTr7A",
+		"suuid": "9NTydF",
 		"idCode": "start-angular-node-crud-002",
 		"title": "START-ANGULAR-NODE-CRUD-002",
 		"status": "(fill in status)",
@@ -803,7 +707,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "4hBRsb",
+				"suuid": "WOZ3B1",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -867,7 +771,7 @@
 		]
 	},
 	{
-		"suuid": "igqxaJ",
+		"suuid": "P14Kst",
 		"idCode": "start-sveltekit-crud-002",
 		"title": "START-SVELTEKIT-CRUD-002",
 		"status": "(fill in status)",
@@ -883,7 +787,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "OmJ31V",
+				"suuid": "ahCrvl",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -937,7 +841,7 @@
 		]
 	},
 	{
-		"suuid": "b9SxVs",
+		"suuid": "qDNxdh",
 		"idCode": "start-sveltekit-crud-001",
 		"title": "START-SVELTEKIT-CRUD-001",
 		"status": "works",
@@ -953,7 +857,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "0TXhJ4",
+				"suuid": "LdM6Hw",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1032,7 +936,7 @@
 		]
 	},
 	{
-		"suuid": "q3eFKT",
+		"suuid": "emm3gI",
 		"idCode": "start-nuxt-crud-001",
 		"title": "START-NUXT-CRUD-001",
 		"status": "(fill in status)",
@@ -1048,7 +952,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "2MCpIS",
+				"suuid": "pvPQp3",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1147,7 +1051,7 @@
 		]
 	},
 	{
-		"suuid": "mbGPNr",
+		"suuid": "kw6mvF",
 		"idCode": "start-nextjs-crud-001",
 		"title": "START-NEXTJS-CRUD-001",
 		"status": "(fill in status)",
@@ -1163,7 +1067,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "UEiJ29",
+				"suuid": "9NKJu0",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1227,7 +1131,7 @@
 		]
 	},
 	{
-		"suuid": "6YIisG",
+		"suuid": "N6ko99",
 		"idCode": "start-nuxt-site-002",
 		"title": "START-NUXT-SITE-002",
 		"status": "(fill in status)",
@@ -1243,7 +1147,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "uP1Whh",
+				"suuid": "tuJgjr",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1310,7 +1214,7 @@
 				]
 			},
 			{
-				"suuid": "MclCel",
+				"suuid": "4oXDXI",
 				"kind": "feature",
 				"title": "doing this",
 				"outlineItems": [
@@ -1329,7 +1233,7 @@
 		]
 	},
 	{
-		"suuid": "lCHBNh",
+		"suuid": "o08n1E",
 		"idCode": "start-nextjs-site-dark-001",
 		"title": "START-NEXTJS-SITE-DARK-001",
 		"status": "(fill in status)",
@@ -1345,7 +1249,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "c41Mdp",
+				"suuid": "Ao3s3M",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1384,7 +1288,7 @@
 		]
 	},
 	{
-		"suuid": "efthkx",
+		"suuid": "mpH65J",
 		"idCode": "start-nextjs-site-002",
 		"title": "START-NEXTJS-SITE-002",
 		"status": "(fill in status)",
@@ -1400,7 +1304,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "12e34Y",
+				"suuid": "S6LmNJ",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1504,7 +1408,7 @@
 		]
 	},
 	{
-		"suuid": "YpZWKS",
+		"suuid": "SDTmWg",
 		"idCode": "start-astro-site-001",
 		"title": "START-ASTRO-SITE-001",
 		"status": "usable",
@@ -1520,7 +1424,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "mh8MNy",
+				"suuid": "f8pKlW",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1634,7 +1538,7 @@
 		]
 	},
 	{
-		"suuid": "loWggu",
+		"suuid": "gkDIDh",
 		"idCode": "start-angular-site-002",
 		"title": "START-ANGULAR-SITE-002",
 		"status": "usable",
@@ -1650,7 +1554,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "IHkRq2",
+				"suuid": "vNwJBA",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1759,7 +1663,7 @@
 		]
 	},
 	{
-		"suuid": "ERX3MN",
+		"suuid": "n8z8R5",
 		"idCode": "start-nextjs-dashboard-001",
 		"title": "START-NEXTJS-DASHBOARD-001",
 		"status": "(fill in status)",
@@ -1775,7 +1679,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "CZRshX",
+				"suuid": "uZrPe7",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1814,7 +1718,7 @@
 		]
 	},
 	{
-		"suuid": "FqlVs2",
+		"suuid": "0GfQ6f",
 		"idCode": "start-nuxt-site-001",
 		"title": "START-NUXT-SITE-001",
 		"status": "(fill in status)",
@@ -1830,7 +1734,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "Bd4nxD",
+				"suuid": "8bJH3k",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1874,7 +1778,7 @@
 		]
 	},
 	{
-		"suuid": "yQYhir",
+		"suuid": "dzDhoW",
 		"idCode": "start-nextjs-site-001",
 		"title": "START-NEXTJS-SITE-001",
 		"status": "(fill in status)",
@@ -1890,7 +1794,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "9BAE56",
+				"suuid": "60nwx0",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -1942,7 +1846,7 @@
 				]
 			},
 			{
-				"suuid": "WUzr2X",
+				"suuid": "dgq2gB",
 				"kind": "",
 				"title": "",
 				"outlineItems": [
@@ -1956,7 +1860,7 @@
 		]
 	},
 	{
-		"suuid": "JKTcP6",
+		"suuid": "mwVsg8",
 		"idCode": "start-sveltekit-site-001",
 		"title": "START-SVELTEKIT-SITE-001",
 		"status": "(fill in status)",
@@ -1972,7 +1876,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "bFDZpN",
+				"suuid": "PEzDDV",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2026,7 +1930,7 @@
 		]
 	},
 	{
-		"suuid": "bt4JQe",
+		"suuid": "GirBAH",
 		"idCode": "worknotes",
 		"title": "WORKNOTES",
 		"status": "(fill in status)",
@@ -2037,7 +1941,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "kVr8H0",
+				"suuid": "x0Bn0G",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2051,7 +1955,7 @@
 		]
 	},
 	{
-		"suuid": "cU1qCg",
+		"suuid": "TMl7GJ",
 		"idCode": "database-showcase",
 		"title": "DATABASE-SHOWCASE",
 		"status": "(fill in status)",
@@ -2062,7 +1966,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "F1rynE",
+				"suuid": "Ie4p0V",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2081,7 +1985,7 @@
 		]
 	},
 	{
-		"suuid": "kVaZ3h",
+		"suuid": "Ka1jJH",
 		"idCode": "template-react-responsive-001",
 		"title": "React responsive site with 3 pages",
 		"status": "(fill in status)",
@@ -2092,7 +1996,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "IIXGyG",
+				"suuid": "lDsjgq",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2104,25 +2008,25 @@
 				]
 			},
 			{
-				"suuid": "C3KRCN",
+				"suuid": "VfimxP",
 				"kind": "feature",
 				"title": "make dropdown from hamburger menu more visible, e.g. light gray",
 				"outlineItems": []
 			},
 			{
-				"suuid": "vRmTAd",
+				"suuid": "l5VHyK",
 				"kind": "feature",
 				"title": "Upgrade React Router",
 				"outlineItems": []
 			},
 			{
-				"suuid": "x7DWj2",
+				"suuid": "B6jDwg",
 				"kind": "feature",
 				"title": "Convert to Mobx",
 				"outlineItems": []
 			},
 			{
-				"suuid": "2tc6LX",
+				"suuid": "k4sbCc",
 				"kind": "feature",
 				"title": "Smart Menu",
 				"outlineItems": [
@@ -2141,7 +2045,7 @@
 		]
 	},
 	{
-		"suuid": "wKr3iM",
+		"suuid": "WFRDJP",
 		"idCode": "showcase-symfony-006",
 		"title": "Symfony Showcase",
 		"status": "(fill in status)",
@@ -2157,7 +2061,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "uedIW3",
+				"suuid": "Riv6ci",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2179,7 +2083,7 @@
 				]
 			},
 			{
-				"suuid": "BYSzHK",
+				"suuid": "2xz1d9",
 				"kind": "feature",
 				"title": "Create a basic menu",
 				"outlineItems": []
@@ -2187,7 +2091,7 @@
 		]
 	},
 	{
-		"suuid": "DOKegk",
+		"suuid": "3aW39L",
 		"idCode": "showcase-trpc",
 		"title": "tRPC Showcase",
 		"status": "(fill in status)",
@@ -2203,7 +2107,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "OAbhx1",
+				"suuid": "OkhEKQ",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2235,7 +2139,7 @@
 				]
 			},
 			{
-				"suuid": "oOLNXG",
+				"suuid": "0eVv9g",
 				"kind": "feature",
 				"title": "build CRUD functionality",
 				"outlineItems": []
@@ -2243,7 +2147,7 @@
 		]
 	},
 	{
-		"suuid": "s2W6cf",
+		"suuid": "k3lCgM",
 		"idCode": "showcase-drizzle",
 		"title": "Drizzle Showcase",
 		"status": "(fill in status)",
@@ -2259,7 +2163,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "TYydvd",
+				"suuid": "k8IAak",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2291,7 +2195,7 @@
 				]
 			},
 			{
-				"suuid": "yH4aAP",
+				"suuid": "VwfO6q",
 				"kind": "feature",
 				"title": "Express CRUD API with Drizzle/SQLite + React client",
 				"outlineItems": [
@@ -2320,7 +2224,7 @@
 		]
 	},
 	{
-		"suuid": "ouvJOp",
+		"suuid": "u7ua58",
 		"idCode": "showcase-typo3",
 		"title": "TYPO3 Showcase",
 		"status": "(fill in status)",
@@ -2336,7 +2240,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "iX6fsf",
+				"suuid": "JPlNyU",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2358,13 +2262,13 @@
 				]
 			},
 			{
-				"suuid": "VAlOB1",
+				"suuid": "OIZN5k",
 				"kind": "feature",
 				"title": "Convert backend TypoScript to files",
 				"outlineItems": []
 			},
 			{
-				"suuid": "VaRsJX",
+				"suuid": "vLJKb5",
 				"kind": "feature",
 				"title": "Put whole project in repository",
 				"outlineItems": []
@@ -2372,7 +2276,7 @@
 		]
 	},
 	{
-		"suuid": "YyniFt",
+		"suuid": "iM9Dtl",
 		"idCode": "template-node-html-001",
 		"title": "Node/HTML Template",
 		"status": "(fill in status)",
@@ -2388,7 +2292,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "9KFoFF",
+				"suuid": "2dHjGR",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2440,7 +2344,7 @@
 				]
 			},
 			{
-				"suuid": "crbYYz",
+				"suuid": "UiIKBw",
 				"kind": "base",
 				"title": "Set up minimized generic site at repo/live",
 				"outlineItems": [
@@ -2454,7 +2358,7 @@
 		]
 	},
 	{
-		"suuid": "pJkKfR",
+		"suuid": "P2zUIG",
 		"idCode": "tanguayinfo",
 		"title": "Tanguay.Info",
 		"status": "planning new site design with html5up.net template",
@@ -2474,7 +2378,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "yOBFCx",
+				"suuid": "1F5Fn7",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2598,7 +2502,7 @@
 		]
 	},
 	{
-		"suuid": "Sui5Se",
+		"suuid": "v0rUtN",
 		"idCode": "showcase-remix",
 		"title": "Remix Showcase",
 		"status": "(fill in status)",
@@ -2614,7 +2518,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "48fZdk",
+				"suuid": "yBYMWR",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2641,7 +2545,7 @@
 				]
 			},
 			{
-				"suuid": "Wsk9Qk",
+				"suuid": "ByaXDr",
 				"kind": "feature",
 				"title": "Build a menu with pages",
 				"outlineItems": []
@@ -2649,7 +2553,7 @@
 		]
 	},
 	{
-		"suuid": "tgPvVx",
+		"suuid": "N8WnK8",
 		"idCode": "showcase-webpack-react",
 		"title": "Webpack Showcase",
 		"status": "(fill in status)",
@@ -2665,7 +2569,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "nJfH5O",
+				"suuid": "tcpqs3",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2687,7 +2591,7 @@
 				]
 			},
 			{
-				"suuid": "MEZlpo",
+				"suuid": "j5beW2",
 				"kind": "feature",
 				"title": "Create basic site that builds //2025-10-13 19",
 				"outlineItems": [
@@ -2709,7 +2613,7 @@
 				]
 			},
 			{
-				"suuid": "y4mSys",
+				"suuid": "cTnUqt",
 				"kind": "feature",
 				"title": "Add images and CSS",
 				"outlineItems": [
@@ -2721,7 +2625,7 @@
 				]
 			},
 			{
-				"suuid": "PNqlF6",
+				"suuid": "7VCef5",
 				"kind": "feature",
 				"title": "Make publishable at Vercel",
 				"outlineItems": []
@@ -2729,7 +2633,7 @@
 		]
 	},
 	{
-		"suuid": "mZhjv5",
+		"suuid": "LA9Npr",
 		"idCode": "showcase-mobx-react",
 		"title": "MobX Showcase",
 		"status": "(fill in status)",
@@ -2745,7 +2649,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "TlQsNY",
+				"suuid": "RTaTi3",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2767,7 +2671,7 @@
 				]
 			},
 			{
-				"suuid": "CwRgqE",
+				"suuid": "Gyx5M2",
 				"kind": "feature",
 				"title": "Add employees and link",
 				"outlineItems": [
@@ -2784,7 +2688,7 @@
 				]
 			},
 			{
-				"suuid": "1fxI6C",
+				"suuid": "DbhNFp",
 				"kind": "feature",
 				"title": "Create new template swap out easypeasy",
 				"outlineItems": []
@@ -2792,7 +2696,7 @@
 		]
 	},
 	{
-		"suuid": "UyC4fZ",
+		"suuid": "UWzYU3",
 		"idCode": "showcase-shadcn-nextjs",
 		"title": "Shadcn Showcase",
 		"status": "(fill in status)",
@@ -2808,7 +2712,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "fS78Sb",
+				"suuid": "uzlzzL",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2830,7 +2734,7 @@
 				]
 			},
 			{
-				"suuid": "ip8ugY",
+				"suuid": "AOJgPf",
 				"kind": "feature",
 				"title": "Add more shadcn components",
 				"outlineItems": [
@@ -2844,7 +2748,7 @@
 		]
 	},
 	{
-		"suuid": "U06Wjp",
+		"suuid": "6Er9yV",
 		"idCode": "showcase-react-001",
 		"title": "React Tools and Patterns Showcase",
 		"status": "(fill in status)",
@@ -2860,7 +2764,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "nAgPOl",
+				"suuid": "hAYCLK",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2884,7 +2788,7 @@
 		]
 	},
 	{
-		"suuid": "EZfDob",
+		"suuid": "khWSAh",
 		"idCode": "showcase-react-004",
 		"title": "React Showcase 004",
 		"status": "(fill in status)",
@@ -2900,7 +2804,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "cG2ucD",
+				"suuid": "o0vqr9",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -2924,7 +2828,7 @@
 		]
 	},
 	{
-		"suuid": "pFZQ3j",
+		"suuid": "wfxS1N",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"status": "(fill in status)",
@@ -2944,7 +2848,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "VKevLs",
+				"suuid": "O9xcEd",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -3001,7 +2905,7 @@
 				]
 			},
 			{
-				"suuid": "3VOeya",
+				"suuid": "wKOFgk",
 				"kind": "feature",
 				"title": "Create page to test het works",
 				"outlineItems": [
@@ -3018,7 +2922,7 @@
 				]
 			},
 			{
-				"suuid": "NirYp6",
+				"suuid": "t7sbXS",
 				"kind": "feature",
 				"title": "Create page to practice pronunciation",
 				"outlineItems": [
@@ -3045,13 +2949,13 @@
 				]
 			},
 			{
-				"suuid": "seaJFC",
+				"suuid": "N9A6iV",
 				"kind": "feature",
 				"title": "Speed up parsing",
 				"outlineItems": []
 			},
 			{
-				"suuid": "m5wwqb",
+				"suuid": "T8dp2Y",
 				"kind": "feature-pronunciation-integration",
 				"title": "",
 				"outlineItems": [
@@ -3068,7 +2972,7 @@
 				]
 			},
 			{
-				"suuid": "4wFGNP",
+				"suuid": "VyHACs",
 				"kind": "feature-random-standard-practice",
 				"title": "",
 				"outlineItems": [
@@ -3125,7 +3029,7 @@
 				]
 			},
 			{
-				"suuid": "iRwUpS",
+				"suuid": "hnoUCt",
 				"kind": "feature-streamline-story-creation //2025-08-03 23",
 				"title": "30",
 				"outlineItems": [
@@ -3732,13 +3636,13 @@
 				]
 			},
 			{
-				"suuid": "dzCEIS",
+				"suuid": "RYFb8I",
 				"kind": "feature-make-basic-frontend-for-creation-process",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "FR9pDx",
+				"suuid": "v2BRYs",
 				"kind": "feature-speed-up-parsing",
 				"title": "",
 				"outlineItems": [
@@ -3750,7 +3654,7 @@
 				]
 			},
 			{
-				"suuid": "bxVHk6",
+				"suuid": "Blpv2X",
 				"kind": "feature-enable-simple-and-basic-stories",
 				"title": "",
 				"outlineItems": [
@@ -3767,31 +3671,31 @@
 				]
 			},
 			{
-				"suuid": "O61jwf",
+				"suuid": "ukVqLT",
 				"kind": "devfeature-only-recreate-audio-files-on-flag",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "c8X0jb",
+				"suuid": "CggQqI",
 				"kind": "add-copy-box-for-audio-transcription",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "gPhY1w",
+				"suuid": "HT1mFg",
 				"kind": "fix-first-letter-before-day-of-week",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "PF9sFu",
+				"suuid": "ScEBtJ",
 				"kind": "feature-make-audio-for-presentation",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "DfkIVC",
+				"suuid": "cPC9Dk",
 				"kind": "feature-pronunciation-quiz",
 				"title": "",
 				"outlineItems": [
@@ -3813,13 +3717,13 @@
 				]
 			},
 			{
-				"suuid": "8hPSNc",
+				"suuid": "ofxI3a",
 				"kind": "feature-ere-past-participle-quiz",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "495ToV",
+				"suuid": "w5Kv6V",
 				"kind": "feature-fill-in-blank-quiz",
 				"title": "",
 				"outlineItems": [
@@ -3881,7 +3785,7 @@
 				]
 			},
 			{
-				"suuid": "UbfoOE",
+				"suuid": "MA59Ge",
 				"kind": "feature-past-quiz",
 				"title": "",
 				"outlineItems": [
@@ -3893,19 +3797,19 @@
 				]
 			},
 			{
-				"suuid": "zIojn5",
+				"suuid": "jRT5YF",
 				"kind": "feature-randomize-phrases-in-cpf",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "whnDj4",
+				"suuid": "dzLOI8",
 				"kind": "feature-enable-50-550-params-in-cpf",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "FkenWA",
+				"suuid": "ao1YIT",
 				"kind": "feature-prepare-audio-files-for-mp3-stick",
 				"title": "",
 				"outlineItems": [
@@ -3922,7 +3826,7 @@
 				]
 			},
 			{
-				"suuid": "4BFIwU",
+				"suuid": "cnemDT",
 				"kind": "feature-list-recording-tips",
 				"title": "",
 				"outlineItems": [
@@ -3954,49 +3858,49 @@
 				]
 			},
 			{
-				"suuid": "LzLk3K",
+				"suuid": "n3qWxR",
 				"kind": "update readme",
 				"title": "",
 				"outlineItems": []
 			},
 			{
-				"suuid": "SQHP6s",
+				"suuid": "YLfVeR",
 				"kind": "task",
 				"title": "automate the process of creating a text from the google spreadsheet",
 				"outlineItems": []
 			},
 			{
-				"suuid": "aa86W9",
+				"suuid": "DQS8xF",
 				"kind": "task",
 				"title": "add note on what site is made with at top",
 				"outlineItems": []
 			},
 			{
-				"suuid": "WDvac1",
+				"suuid": "7VtUhn",
 				"kind": "task",
 				"title": "parse and display pronunciation.txt",
 				"outlineItems": []
 			},
 			{
-				"suuid": "yvR9jS",
+				"suuid": "3jBN38",
 				"kind": "task",
 				"title": "make cpg more automatic so it creates all the prompt files (and deletes the old ones), or perhaps in one file",
 				"outlineItems": []
 			},
 			{
-				"suuid": "c2seQI",
+				"suuid": "BUfBPA",
 				"kind": "task",
 				"title": "fix",
 				"outlineItems": []
 			},
 			{
-				"suuid": "U7EX7p",
+				"suuid": "jjJdir",
 				"kind": "task",
 				"title": "make defautls intelligent and useful",
 				"outlineItems": []
 			},
 			{
-				"suuid": "jfbAVk",
+				"suuid": "1lkpLy",
 				"kind": "task",
 				"title": "update to newests datapod-for-go version (qtools etc.)",
 				"outlineItems": []
@@ -4004,7 +3908,7 @@
 		]
 	},
 	{
-		"suuid": "G1YfkJ",
+		"suuid": "1eARy2",
 		"idCode": "start-nuxt-site-002",
 		"title": "START-NUXT-SITE-002",
 		"status": "(fill in status)",
@@ -4020,7 +3924,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "qJFY9x",
+				"suuid": "FW5bJl",
 				"kind": "info",
 				"title": "",
 				"outlineItems": [
@@ -4042,7 +3946,7 @@
 				]
 			},
 			{
-				"suuid": "nwywf7",
+				"suuid": "pNnZY4",
 				"kind": "feature",
 				"title": "Fix mobile menu click //2025-11-30 23",
 				"outlineItems": [
@@ -4069,13 +3973,13 @@
 				]
 			},
 			{
-				"suuid": "NYE2YE",
+				"suuid": "x7CYwU",
 				"kind": "feature",
 				"title": "done 2",
 				"outlineItems": []
 			},
 			{
-				"suuid": "mB4azu",
+				"suuid": "IuHGWX",
 				"kind": "feature",
 				"title": "done 3",
 				"outlineItems": []
@@ -4083,7 +3987,7 @@
 		]
 	},
 	{
-		"suuid": "ZgjMSa",
+		"suuid": "Iuiyj7",
 		"idCode": "edwards-projects",
 		"title": "EDWARDS-PROJECTS",
 		"status": "(fill in status)",
@@ -4094,7 +3998,114 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "BIXF25",
+				"suuid": "PPSEEa",
+				"kind": "feature",
+				"title": "Process and display all tasks basic data //2025-12-20 16",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-show-all-tasks",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "branch",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "new page: Tasks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "most recent",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "decide if frontend uses current JSON or a dedicated tasks.json: dedicated",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "create tasks.json",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "change globally to outlineItems in JSON",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "run all sub methods in convert",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make adjust_indents",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make Task",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "projectIdCode",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "suuid",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "kind",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "title",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "outlineItems",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "make: create_tasks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "show on frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "merge",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "E3dchA",
 				"kind": "base",
 				"title": "Create minimal site and put online //2025-10-17 20",
 				"outlineItems": [
@@ -4141,7 +4152,7 @@
 				]
 			},
 			{
-				"suuid": "i1NNij",
+				"suuid": "8wVezo",
 				"kind": "feature",
 				"title": "Enable second file to be processed and combine projects //2025-12-17 20",
 				"outlineItems": [
@@ -4308,7 +4319,7 @@
 				]
 			},
 			{
-				"suuid": "84BCXt",
+				"suuid": "Zyg83X",
 				"kind": "decision",
 				"title": "Decide on best name \"start\" or \"starter\" //2025-11-30 23",
 				"outlineItems": [
@@ -4360,7 +4371,7 @@
 				]
 			},
 			{
-				"suuid": "1Kn6Es",
+				"suuid": "ViBHml",
 				"kind": "feature",
 				"title": "Show start sites //2025-11-30 23",
 				"outlineItems": [
@@ -4397,13 +4408,13 @@
 				]
 			},
 			{
-				"suuid": "MIctOd",
+				"suuid": "QMjV5m",
 				"kind": "content",
 				"title": "Add showcase-typo3 //2025-10-31 15",
 				"outlineItems": []
 			},
 			{
-				"suuid": "HES6qE",
+				"suuid": "DOtp4m",
 				"kind": "feature",
 				"title": "Create all current images //2025-10-27 15",
 				"outlineItems": [
@@ -4415,7 +4426,7 @@
 				]
 			},
 			{
-				"suuid": "88l8P4",
+				"suuid": "NgzTkV",
 				"kind": "feature",
 				"title": "Show image if exists //2025-10-27 14",
 				"outlineItems": [
@@ -4487,7 +4498,7 @@
 				]
 			},
 			{
-				"suuid": "TbEvdZ",
+				"suuid": "jGbnN1",
 				"kind": "feature",
 				"title": "Make Responsive //2025-10-27 11",
 				"outlineItems": [
@@ -4559,7 +4570,7 @@
 				]
 			},
 			{
-				"suuid": "LiZljM",
+				"suuid": "QVQKJ8",
 				"kind": "feature",
 				"title": "Implement categories //2025-10-24 13",
 				"outlineItems": [
@@ -4666,7 +4677,7 @@
 				]
 			},
 			{
-				"suuid": "TWWOxb",
+				"suuid": "GqcvFh",
 				"kind": "feature",
 				"title": "Create active, planning and stable project sections //2025-10-20 13",
 				"outlineItems": [
@@ -4883,7 +4894,7 @@
 				]
 			},
 			{
-				"suuid": "EHYhl2",
+				"suuid": "ewczRM",
 				"kind": "feature",
 				"title": "Process first data file, list frontend idcodes //2025-10-17 21",
 				"outlineItems": [
