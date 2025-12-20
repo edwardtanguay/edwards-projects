@@ -20,7 +20,7 @@ export type ProjectItem = {
 	suuid: string;
 	kind: string;
 	title: string;
-	outline_items: OutlineItem[];
+	outlineItems: OutlineItem[];
 }
 
 export type OutlineItem = {

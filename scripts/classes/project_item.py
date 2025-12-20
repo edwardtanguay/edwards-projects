@@ -69,10 +69,16 @@ class ProjectItem:
 			if category != "":
 				self.project_category_lines.append(category)
 
+	# indents are still raw that this point, e.g. "indents::2" means the line started after the second tab in the text file
+	# but we the indent level to start as 0 for displaying on the frontend, so 2 = 0, 3 = 1, etc.
+	def adjust_indents(self):
+		for outline_item in self.outline_items:
+			outline_item.indents -= 2
+
 	def to_json(self):
 		return {
 			'suuid': self.suuid,
 			'kind': self.kind,
 			'title': self.title,
-   			'outline_items': [item.to_json() for item in self.outline_items[1:]]
+   			'outlineItems': [item.to_json() for item in self.outline_items[1:]]
 		}

@@ -32,4 +32,4 @@ class Factory:
 	def create_projects():
 		projectConverter = ProjectConverter(Factory.create_raw_projects())
 		projectConverter.convert()
-		return projectConverter.projects
+		return projectConverter.projects, projectConverter.tasks
