@@ -10,6 +10,8 @@ class Task:
 	title: str
 	begin_date_time: str
 	end_date_time: str
+	branch: str = ""
+	rank: float = 2.5
 
 	def __init__(self, project_id_code: str, project_item: ProjectItem):
 		self.project_id_code = project_id_code
@@ -18,6 +20,8 @@ class Task:
 		self.stage =  self.convert_marker_to_stage()
 		self.kind = project_item.kind
 		self.title = self.parse_and_get_title()
+		self.branch = project_item.branch
+		self.rank = project_item.rank
 
 	def convert_marker_to_stage(self):
 		return {
@@ -44,5 +48,7 @@ class Task:
 				'kind': self.kind,
 				'title': self.title,
 				'beginDateTime': self.begin_date_time,
-				'endDateTime': self.end_date_time	
+				'endDateTime': self.end_date_time,
+				'branch': self.branch,
+				'rank': self.rank	
 			}

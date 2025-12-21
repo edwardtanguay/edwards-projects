@@ -1,8 +1,8 @@
 <script setup>
 import tasks from "../../../parseddata/tasks.json";
 
-const currentTasks = tasks.filter(task => task.stage === "current");
-const upcomingTasks = [...tasks.filter(task => task.stage === "paused"), ...tasks.filter(task => task.stage === "upcoming")];
+const currentTasks = [...tasks.filter(task => task.stage === "current"), ...tasks.filter(task => task.stage === "paused")];
+const upcomingTasks = tasks.filter(task => task.stage === "upcoming").sort((a, b) => b.rank - a.rank);
 const finishedTasks = tasks.filter(task => task.stage === "finished").sort((a, b) => (a.endDateTime < b.endDateTime ? 1 : -1));
 
 </script>

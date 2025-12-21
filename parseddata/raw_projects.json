@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "xMCwEo",
+		"suuid": "E48B3n",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
 		"status": "creating basic parsing of text file that shows project information",
@@ -20,7 +20,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "Ll17TR",
+				"suuid": "nj9MJN",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -123,13 +123,852 @@
 						"indents": 2,
 						"line": "create from: https://datapod-python-nuxt.vercel.app",
 						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "ifNidV",
+				"suuid": "G3oBTx",
 				"kind": "feature",
-				"title": " Show three of each kind of tasks, finished, current, upcoming //2025-12-21 15:03:15..",
+				"title": " Add rank to tasks and change paused group //2025-12-21 19:21:30..",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-add-rank-to-tasks",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.9",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "move paused to end of current",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add rank to tasks",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "first in project items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "handle INFO variables differently for INFO and others",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "do branch and display",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "do rank",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "sort by rank",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add ranks to all",
+						"marker": ".."
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xVTgv8",
+				"kind": "feature",
+				"title": " New site layout //2025-12-02 22:48:41..",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch:: feature-new-layout",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.9",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "start new site at edwards-projects-v2",
+						"marker": "))"
+					},
+					{
+						"indents": 3,
+						"line": "create this site as starter: start-nextjs-site-001",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "move in site",
+						"marker": "))"
+					},
+					{
+						"indents": 3,
+						"line": "move everything into it",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qQkAtK",
+				"kind": "dev",
+				"title": " Clean up mode and status",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.2",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "delete all traces of mode and status",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make JSON properties camelcase including qtools",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "tCOhWS",
+				"kind": "feature",
+				"title": " Display descriptions on e.g. starts, showcases (what they are)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.4",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "tUJucs",
+				"kind": "content",
+				"title": " Add rest of projects",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.3",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "all templates",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "all datapods",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "b3DDPN",
+				"kind": "featuer",
+				"title": " Implement global search",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.1",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "QAMR0s",
+				"kind": "feature",
+				"title": " Make single project view with permalink",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.8",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "tpk1E0",
+				"kind": "feature",
+				"title": " Make dummy data for repository",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.83",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "if not data in .env file, then load two files from dev",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "e1usC0",
+				"kind": "feature",
+				"title": " Create \"npm run audit\" to find all missing information",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "finds e.g. all features that don't have ranks, etc.",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.2",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "ZmhmRR",
+		"idCode": "comprehensible-output",
+		"title": "Comprehensible Input",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/comprehensible-output",
+		"live": "https://comprehensible-output.vercel.app",
+		"mainImage": "/images/projects/comprehensible-output.jpg",
+		"categories": [
+			{
+				"idCode": "live",
+				"shortInfo": "my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch"
+			},
+			{
+				"idCode": "active",
+				"shortInfo": "I update this site daily, recording an audio of a story created by AI based on phrases I looked up recently in Google Translate"
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "p6coLf",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::Comprehensible Input",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::live;my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::active; I update this site daily, recording an audio of a story created by AI based on phrases I looked up recently in Google Translate",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://comprehensible-output.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "resolve issue: no way to know when new phrases are added as there are to know when new google translate files are added",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add: wenn sich die Gunst erweist",
+						"marker": ",,"
+					},
+					{
+						"indents": 2,
+						"line": "German black",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "English some color",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add random topics",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "erase on \"pd\" Absolute path",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "edCUs8",
+				"kind": "feature",
+				"title": " Create page to practice pronunciation",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "with ranking",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "with link to Google",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.97",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "Rxm2Zs",
+				"kind": "feature",
+				"title": " Speed up parsing",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.71",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "only create audio files that need to be created",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "XdV9Bk",
+				"kind": "feature",
+				"title": " Integrate pronuncation items into story creation",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "include ten random pronunciations every story",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.5",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0GUwqW",
+				"kind": "feature",
+				"title": " Integrate random standard practice into story creation",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.55",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "randomly show in the stories, e.g. at the end standard text to practice, e.g.",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "A, B, C, ...",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "1, 2, 3, ...",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "10, 20, 30, ...",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "most frequent verbs and their past participles",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "colors",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "days of week",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "months of year",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "difficult prononciations, from pronunciations",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "PIYOTA",
+				"kind": "feature",
+				"title": " Upgrade to modern design",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.92",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "YhX0A1",
+				"kind": "feature",
+				"title": " Make basic frontend for creation process",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.3",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "s8IUJX",
+				"kind": "feature",
+				"title": " Enable simple and basic stories for weak languages",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-enable-simple-and-basic-stories",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.1",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "\"npm run pl simple\" (simple story in present at A1)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "\"npm run el basics\" (just lists of numbers, days, colors, etc.)",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "GxoXQq",
+				"kind": "fix",
+				"title": " Resolve the first letter issue in the French text data file",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::fix-first-letter-before-day-of-week",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.89",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "V8grcl",
+				"kind": "feature",
+				"title": " Create pronunciation quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-pronunciation-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "choose language",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show words/phrases, toggle answers",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.9",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "8wkGiO",
+				"kind": "feature",
+				"title": " Make -ere past participle quiz for Italian",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-ere-past-participle-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.7",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xARm5p",
+				"kind": "feature",
+				"title": " Create fill-in-blank quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-fill-in-blank-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.6",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "choose languages",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "get random flashcard from all (preprocessed to all.json)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "blank out one word",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "require that the user actually type it in (hard learning)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show that word and five other random words",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "user clicks on correct word",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "after showing right/wrong, show also",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "link to tateoba",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "similar words",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "mfrDek",
+				"kind": "feature",
+				"title": " Create Italian past tense quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-italian-past-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show verb, ask: passato prossimo, imperfetto, passato remoto",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.69",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "RrCZFk",
+				"kind": "feature",
+				"title": " Create CLI command to copy latest files for each language to MP3 stick",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-prepare-audio-files-for-mp3-stick",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "copy the most recent files of each language into a directory called \"COMPOUT\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.5",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "fBbqVW",
+				"kind": "dev",
+				"title": " Update readme",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.8",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "De4DjB",
+				"kind": "feature",
+				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.56",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "7mnC0R",
+				"kind": "feature",
+				"title": " Create page for pronunciation notes",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.8",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "DUSFDq",
+				"kind": "feature",
+				"title": " update to newest datapod-for-go version (qtools etc.)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.91",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "o5e7TE",
+		"idCode": "edwards-projects",
+		"title": "EDWARDS-PROJECTS",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/edwards-projects",
+		"live": "",
+		"mainImage": "/images/projects/edwards-projects.jpg",
+		"categories": [],
+		"projectItems": [
+			{
+				"suuid": "o1qYj4",
+				"kind": "feature",
+				"title": " Show three of each kind of tasks: current, upcoming, finished //2025-12-21 15:03:15..2025-12-21 19:10:44",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -154,7 +993,7 @@
 					{
 						"indents": 2,
 						"line": "make it display in three groups: current, finished, upcoming",
-						"marker": ".."
+						"marker": "x"
 					},
 					{
 						"indents": 3,
@@ -299,695 +1138,12 @@
 					{
 						"indents": 3,
 						"line": "display finish tasks sorted descending date",
-						"marker": ".."
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "bhCZiK",
-				"kind": "feature",
-				"title": " Add rank to tasks",
-				"outlineItems": [
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "dhqg7G",
-				"kind": "dev",
-				"title": " Clean up mode and status",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "delete all traces of mode and status",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make JSON properties camelcase including qtools",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "OrKYbP",
-				"kind": "feature",
-				"title": " New site layout //2025-12-02 22:48:41..",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch:: feature-new-layout",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "start new site at edwards-projects-v2",
-						"marker": "))"
-					},
-					{
-						"indents": 3,
-						"line": "create this site as starter: start-nextjs-site-001",
 						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "move in site",
-						"marker": "))"
-					},
-					{
-						"indents": 3,
-						"line": "move everything into it",
-						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "SyibwF",
-				"kind": "feature",
-				"title": " Display descriptions on e.g. starts, showcases (what they are)",
-				"outlineItems": []
-			},
-			{
-				"suuid": "XtfW4p",
-				"kind": "feature",
-				"title": " Add rank on projects",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "show all groups based on rank",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "niuYe7",
-				"kind": "feature",
-				"title": " Parse and display tasks",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "include ten realistic projects",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "qw0RDT",
-				"kind": "content",
-				"title": " Add rest of projects",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "all templates",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "all datapods",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "uXGV0J",
-				"kind": "feature",
-				"title": " Display all tasks",
-				"outlineItems": []
-			},
-			{
-				"suuid": "EgqVGJ",
-				"kind": "feature",
-				"title": " Make responsive view",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "make it completely separate at main index file",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "P7rf0v",
-				"kind": "featuer",
-				"title": " Implement global search",
-				"outlineItems": []
-			},
-			{
-				"suuid": "k8UOr2",
-				"kind": "feature",
-				"title": " Make single project view with permalink",
-				"outlineItems": []
-			},
-			{
-				"suuid": "vYsoI2",
-				"kind": "feature",
-				"title": " Make dummy data for repository",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "if not data in .env file, then load two files from dev",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "tZ9mdM",
-				"kind": "feature",
-				"title": " Create \"npm run audit\" to find all missing information",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "finds e.g. all features that don't have ranks, etc.",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.2",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "xvCXmT",
-		"idCode": "comprehensible-output",
-		"title": "Comprehensible Input",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/comprehensible-output",
-		"live": "https://comprehensible-output.vercel.app",
-		"mainImage": "/images/projects/comprehensible-output.jpg",
-		"categories": [
-			{
-				"idCode": "live",
-				"shortInfo": "my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch"
-			},
-			{
-				"idCode": "active",
-				"shortInfo": "I update this site daily, recording an audio of a story created by AI based on phrases I looked up recently in Google Translate"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "enBSkM",
-				"kind": "info",
-				"title": "(info)",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "title::Comprehensible Input",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::live;my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::active; I update this site daily, recording an audio of a story created by AI based on phrases I looked up recently in Google Translate",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://comprehensible-output.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "resolve issue: no way to know when new phrases are added as there are to know when new google translate files are added",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "add: wenn sich die Gunst erweist",
-						"marker": ",,"
-					},
-					{
-						"indents": 2,
-						"line": "German black",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "English some color",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "add random topics",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "erase on \"pd\" Absolute path",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "tCqxbb",
-				"kind": "feature",
-				"title": " Create page to practice pronunciation",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "with ranking",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "with link to Google",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.97",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "5FGLWL",
-				"kind": "feature",
-				"title": " Speed up parsing",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.71",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "only create audio files that need to be created",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "e6GfMW",
-				"kind": "feature",
-				"title": " Integrate pronuncation items into story creation",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "include ten random pronunciations every story",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.5",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "VJzoG8",
-				"kind": "feature",
-				"title": " Integrate random standard practice into story creation",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.55",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "randomly show in the stories, e.g. at the end standard text to practice, e.g.",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "A, B, C, ...",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "1, 2, 3, ...",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "10, 20, 30, ...",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "most frequent verbs and their past participles",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "colors",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "days of week",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "months of year",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "difficult prononciations, from pronunciations",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "ZePPLU",
-				"kind": "feature",
-				"title": " Upgrade to modern design",
-				"outlineItems": []
-			},
-			{
-				"suuid": "GRuaJz",
-				"kind": "feature",
-				"title": " Make basic frontend for creation process",
-				"outlineItems": []
-			},
-			{
-				"suuid": "eCHmm3",
-				"kind": "feature",
-				"title": " Enable simple and basic stories for weak languages",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-enable-simple-and-basic-stories",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.1",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "\"npm run pl simple\" (simple story in present at A1)",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "\"npm run el basics\" (just lists of numbers, days, colors, etc.)",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "H7g50W",
-				"kind": "fix",
-				"title": " Resolve the first letter issue in the French text data file",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::fix-first-letter-before-day-of-week",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "GcYIut",
-				"kind": "feature",
-				"title": " Create pronunciation quiz",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-pronunciation-quiz",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "choose language",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show words/phrases, toggle answers",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "Qejvms",
-				"kind": "feature",
-				"title": " Make -ere past participle quiz for Italian",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-ere-past-participle-quiz",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "bkrpzw",
-				"kind": "feature",
-				"title": " Create fill-in-blank quiz",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-fill-in-blank-quiz",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.6",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "choose languages",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "get random flashcard from all (preprocessed to all.json)",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "blank out one word",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "require that the user actually type it in (hard learning)",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show that word and five other random words",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "user clicks on correct word",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "after showing right/wrong, show also",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "link to tateoba",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "similar words",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "etc.",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "kQwR7e",
-				"kind": "feature",
-				"title": " Create Italian past tense quiz",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-italian-past-quiz",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show verb, ask: passato prossimo, imperfetto, passato remoto",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "iXb1Ko",
-				"kind": "feature",
-				"title": " Create CLI command to copy latest files for each language to MP3 stick",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-prepare-audio-files-for-mp3-stick",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "copy the most recent files of each language into a directory called \"COMPOUT\"",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "90ZKvq",
-				"kind": "dev",
-				"title": " Update readme",
-				"outlineItems": []
-			},
-			{
-				"suuid": "FGYKZO",
-				"kind": "feature",
-				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
-				"outlineItems": []
-			},
-			{
-				"suuid": "OLrgS2",
-				"kind": "feature",
-				"title": " Create page for pronunciation notes",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.8",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "hMy011",
-				"kind": "feature",
-				"title": " update to newest datapod-for-go version (qtools etc.)",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "xWt8y0",
-		"idCode": "edwards-projects",
-		"title": "EDWARDS-PROJECTS",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/edwards-projects",
-		"live": "",
-		"mainImage": "/images/projects/edwards-projects.jpg",
-		"categories": [],
-		"projectItems": [
-			{
-				"suuid": "var5AI",
+				"suuid": "6hatvv",
 				"kind": "feature",
 				"title": " Process and display all tasks basic data //2025-12-20 16:55:12..2025-12-20 19:31:35",
 				"outlineItems": [
@@ -1094,7 +1250,7 @@
 				]
 			},
 			{
-				"suuid": "RVnoLB",
+				"suuid": "LTSbPj",
 				"kind": "base",
 				"title": " Create minimal site and put online //2025-10-17 20:39:40..2025-10-17 21:31:59",
 				"outlineItems": [
@@ -1141,7 +1297,7 @@
 				]
 			},
 			{
-				"suuid": "5LHLbT",
+				"suuid": "6V8LUP",
 				"kind": "feature",
 				"title": " Enable second file to be processed and combine projects //2025-12-17 20:55:42..2025-12-19 21:59:23",
 				"outlineItems": [
@@ -1308,7 +1464,7 @@
 				]
 			},
 			{
-				"suuid": "aTgLle",
+				"suuid": "6YPteg",
 				"kind": "decision",
 				"title": " Decide on best name \"start\" or \"starter\" //2025-11-30 23:32:41..2025-12-02 22:47:14",
 				"outlineItems": [
@@ -1360,7 +1516,7 @@
 				]
 			},
 			{
-				"suuid": "TdozPc",
+				"suuid": "ZnkCuu",
 				"kind": "feature",
 				"title": " Show start sites //2025-11-30 23:09:20..2025-12-02 22:45:41",
 				"outlineItems": [
@@ -1397,13 +1553,13 @@
 				]
 			},
 			{
-				"suuid": "qQSjMN",
+				"suuid": "iveIH6",
 				"kind": "content",
 				"title": " Add showcase-typo3 //2025-10-31 15:16:56..2025-10-31 15:55:34",
 				"outlineItems": []
 			},
 			{
-				"suuid": "TZxxwU",
+				"suuid": "tC1Mbn",
 				"kind": "feature",
 				"title": " Create all current images //2025-10-27 15:55:36..2025-10-27 16:27:16",
 				"outlineItems": [
@@ -1425,7 +1581,7 @@
 				]
 			},
 			{
-				"suuid": "oa3T1p",
+				"suuid": "OfjxBY",
 				"kind": "feature",
 				"title": " Show image if exists //2025-10-27 14:11:00..2025-10-27 15:54:31",
 				"outlineItems": [
@@ -1507,7 +1663,7 @@
 				]
 			},
 			{
-				"suuid": "hlwpzK",
+				"suuid": "lZLb34",
 				"kind": "feature",
 				"title": " Make Responsive //2025-10-27 11:45:48..2025-10-27 13:25:18",
 				"outlineItems": [
@@ -1579,7 +1735,7 @@
 				]
 			},
 			{
-				"suuid": "8PdFhp",
+				"suuid": "AEGuHw",
 				"kind": "feature",
 				"title": " Implement categories //2025-10-24 13:28:42..2025-10-24 18:12:10",
 				"outlineItems": [
@@ -1686,7 +1842,7 @@
 				]
 			},
 			{
-				"suuid": "tRiJ7l",
+				"suuid": "urxInO",
 				"kind": "feature",
 				"title": " Create active, planning and stable project sections //2025-10-20 13:41:27..2025-10-24 13:17:01",
 				"outlineItems": [
@@ -1903,7 +2059,7 @@
 				]
 			},
 			{
-				"suuid": "nWXjn7",
+				"suuid": "jJ6mvd",
 				"kind": "feature",
 				"title": " Process first data file, list frontend idcodes //2025-10-17 21:47:29..2025-10-17 23:44:52",
 				"outlineItems": [
@@ -1967,7 +2123,7 @@
 		]
 	},
 	{
-		"suuid": "xiWwHK",
+		"suuid": "BdrlOK",
 		"idCode": "comprehensible-output",
 		"title": "COMPREHENSIBLE-OUTPUT",
 		"status": "(fill in status)",
@@ -1978,7 +2134,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "AGS33z",
+				"suuid": "8bAa8C",
 				"kind": "feature",
 				"title": " Streamline story creation //2025-08-03 23:30:15..2025-08-05 10:58:02",
 				"outlineItems": [
@@ -2585,7 +2741,7 @@
 				]
 			},
 			{
-				"suuid": "2zE6TE",
+				"suuid": "H90Zve",
 				"kind": "feature",
 				"title": " Order import listing by number of phrases //2025-10-13 07:55:31..2025-10-13 08:02:23",
 				"outlineItems": [
@@ -2602,7 +2758,7 @@
 				]
 			},
 			{
-				"suuid": "IvVssm",
+				"suuid": "42C0Sv",
 				"kind": "feature",
 				"title": " Use most recent phrases first //2025-10-09 10:58:45..2025-10-09 11:53:47",
 				"outlineItems": [
@@ -2729,7 +2885,7 @@
 				]
 			},
 			{
-				"suuid": "BPJX2K",
+				"suuid": "PB6MSG",
 				"kind": "feature",
 				"title": " CLI command \"cpf\" creates prompt files for all languages //2025-06-09 12:31:32..2025-06-10 00:12:39",
 				"outlineItems": [
@@ -2746,7 +2902,7 @@
 				]
 			},
 			{
-				"suuid": "ghJiYF",
+				"suuid": "DxKOZX",
 				"kind": "feature",
 				"title": " Enable 10 100 to be sent as params, with defaults if not sent //2025-06-09 13:14:09..2025-06-09 15:17:03",
 				"outlineItems": [
@@ -2768,13 +2924,13 @@
 				]
 			},
 			{
-				"suuid": "x2oZXB",
+				"suuid": "yTp4kA",
 				"kind": "feature",
 				"title": " For command npm run cpg fr, randomize order of phrases //2025-06-09 17:14:02..2025-06-09 17:19:03",
 				"outlineItems": []
 			},
 			{
-				"suuid": "ldFZ9h",
+				"suuid": "7NdDEE",
 				"kind": "feature",
 				"title": " Show history of phrases for \"cpf\" //2025-06-10 16:14:09..2025-06-10 17:12:19",
 				"outlineItems": [
@@ -2801,7 +2957,7 @@
 				]
 			},
 			{
-				"suuid": "mgVrVx",
+				"suuid": "qYTrKr",
 				"kind": "feature",
 				"title": " Implement script to create prompts from google translate phrases //2025-06-08 20:11:09..2025-06-08 20:44:02",
 				"outlineItems": [

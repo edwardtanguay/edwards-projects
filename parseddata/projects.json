@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "t3W5kd",
+		"suuid": "gFoiys",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
 		"status": "creating basic parsing of text file that shows project information",
@@ -20,7 +20,7 @@
 		]
 	},
 	{
-		"suuid": "NB5dsm",
+		"suuid": "djECai",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"status": "(fill in status)",

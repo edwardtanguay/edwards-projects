@@ -1,5 +1,6 @@
 from qtools import *
 from classes.outline_item import OutlineItem
+from decimal import Decimal
 
 """
 outline_items = e.g.
@@ -25,6 +26,8 @@ class ProjectItem:
 	project_repo: str = ""
 	project_live: str = ""
 	project_category_lines: list[str] = []
+	branch: str = ""
+	rank: float = 2.5
 
 	def __init__(self, outline_items: list[OutlineItem]):
 		self.project_category_lines = []
@@ -36,13 +39,29 @@ class ProjectItem:
 		self.parse_kind_and_title(line1)
 		if self.kind == "info":
 			self.title = "(info)"
-			self.parse_line_variables()
+			self.parse_line_variables_for_info()
+		else:
+			self.parse_line_variables_for_normal()
 
 	def parse_kind_and_title(self, line: str):
 		self.kind = qstr.get_smart_part(line, ":", 0).lower()
 		self.title = qstr.get_rest_after_first_instance(line, ":")
 
-	def parse_line_variables(self):
+	def parse_line_variables_for_normal(self):
+		for outline_item in self.outline_items[1:]:
+			line = outline_item.line
+
+			# project title
+			branch = qstr.get_line_variable(line, "branch")
+			if branch != "":
+				self.branch = branch
+
+			# project rank
+			rank = qstr.get_line_variable(line, "rank")
+			if rank != "":
+				self.rank = float(rank)
+
+	def parse_line_variables_for_info(self):
 		for outline_item in self.outline_items[1:]:
 			line = outline_item.line
 
