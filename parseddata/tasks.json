@@ -1,722 +1,461 @@
 [
 	{
-		"projectIdCode": "showcase-nuxt-001",
-		"suuid": "k54Tqu",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "internal-edwards-projects",
-		"suuid": "jnez2o",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "internal-edwards-projects",
-		"suuid": "x8tFDt",
-		"kind": "cleanup",
-		"title": "Organize all folders"
-	},
-	{
-		"projectIdCode": "start-html-portfolio-001",
-		"suuid": "sHJFH9",
-		"kind": "info",
-		"title": ""
-	},
-	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "tc0dRx",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "edwards-projects",
-		"suuid": "s7SiJ8",
+		"suuid": "R72jSn",
+		"stage": "current",
 		"kind": "feature",
-		"title": "Show three of each kind of tasks, finished, current, upcoming"
+		"title": "Show three of each kind of tasks, finished, current, upcoming",
+		"beginDateTime": "2025-12-21 15:03:15",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "tFMtU5",
+		"suuid": "bCfzm6",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "New site layout //2025-12-02 22"
+		"title": "Add rank to tasks",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "xCi2lM",
-		"kind": "feature",
-		"title": "Make page \"Task Tracker\""
-	},
-	{
-		"projectIdCode": "edwards-projects",
-		"suuid": "OaeSTt",
-		"kind": "feature",
-		"title": "Create Task Dashboard"
-	},
-	{
-		"projectIdCode": "edwards-projects",
-		"suuid": "GMuTjU",
-		"kind": "feature",
-		"title": "Show starts in rank order"
-	},
-	{
-		"projectIdCode": "edwards-projects",
-		"suuid": "Bp6fZP",
-		"kind": "feature",
-		"title": "Display descriptions on e.g. starts, showcases (what they are)"
-	},
-	{
-		"projectIdCode": "edwards-projects",
-		"suuid": "8kIkPP",
-		"kind": "fix",
-		"title": "Responsive fixes and additions"
-	},
-	{
-		"projectIdCode": "edwards-projects",
-		"suuid": "61aixg",
-		"kind": "feature",
-		"title": "Add rank"
-	},
-	{
-		"projectIdCode": "edwards-projects",
-		"suuid": "Roys4l",
+		"suuid": "LpHW37",
+		"stage": "upcoming",
 		"kind": "dev",
-		"title": "Clean up mode and status"
+		"title": "Clean up mode and status",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "3CJREF",
+		"suuid": "sSd7Fx",
+		"stage": "paused",
 		"kind": "feature",
-		"title": "Parse and display tasks"
+		"title": "New site layout",
+		"beginDateTime": "2025-12-02 22:48:41",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "yXXH4s",
+		"suuid": "Fl8vrb",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Show dates"
+		"title": "Display descriptions on e.g. starts, showcases (what they are)",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "GCopk3",
+		"suuid": "m4T7kT",
+		"stage": "upcoming",
+		"kind": "feature",
+		"title": "Add rank on projects",
+		"beginDateTime": "",
+		"endDateTime": ""
+	},
+	{
+		"projectIdCode": "edwards-projects",
+		"suuid": "3RdGp5",
+		"stage": "upcoming",
+		"kind": "feature",
+		"title": "Parse and display tasks",
+		"beginDateTime": "",
+		"endDateTime": ""
+	},
+	{
+		"projectIdCode": "edwards-projects",
+		"suuid": "3kQOcF",
+		"stage": "upcoming",
 		"kind": "content",
-		"title": "Add rest of projects"
+		"title": "Add rest of projects",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "kAmwXz",
+		"suuid": "uYQnwV",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Display all tasks"
+		"title": "Display all tasks",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "c7DAXc",
+		"suuid": "uPwTcz",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Make responsive view"
+		"title": "Make responsive view",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "l5ypy2",
+		"suuid": "ls8xTB",
+		"stage": "upcoming",
 		"kind": "featuer",
-		"title": "Search"
+		"title": "Implement global search",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "6cnisE",
+		"suuid": "Sge6sD",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Show latest tasks completed"
+		"title": "Make single project view with permalink",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "spn4No",
+		"suuid": "ZenDw1",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Make single project view with permalink"
+		"title": "Make dummy data for repository",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "cPlv8A",
+		"suuid": "cy8FAw",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Make dummy data for reponsitory"
+		"title": "Create \"npm run audit\" to find all missing information",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "WBGsHE",
+		"suuid": "lWrgxV",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "new layout"
+		"title": "Process and display all tasks basic data",
+		"beginDateTime": "2025-12-20 16:55:12",
+		"endDateTime": "2025-12-20 19:31:35"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "kQaxaE",
-		"kind": "feature",
-		"title": "Process and display all tasks basic data //2025-12-20 16"
-	},
-	{
-		"projectIdCode": "edwards-projects",
-		"suuid": "d5c37r",
+		"suuid": "n1oatY",
+		"stage": "finished",
 		"kind": "base",
-		"title": "Create minimal site and put online //2025-10-17 20"
+		"title": "Create minimal site and put online",
+		"beginDateTime": "2025-10-17 20:39:40",
+		"endDateTime": "2025-10-17 21:31:59"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "MK8YmW",
+		"suuid": "imF748",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Enable second file to be processed and combine projects //2025-12-17 20"
+		"title": "Enable second file to be processed and combine projects",
+		"beginDateTime": "2025-12-17 20:55:42",
+		"endDateTime": "2025-12-19 21:59:23"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "EKV4tE",
+		"suuid": "ty4dAo",
+		"stage": "finished",
 		"kind": "decision",
-		"title": "Decide on best name \"start\" or \"starter\" //2025-11-30 23"
+		"title": "Decide on best name \"start\" or \"starter\"",
+		"beginDateTime": "2025-11-30 23:32:41",
+		"endDateTime": "2025-12-02 22:47:14"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "lAXHJj",
+		"suuid": "p1FzeB",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Show start sites //2025-11-30 23"
+		"title": "Show start sites",
+		"beginDateTime": "2025-11-30 23:09:20",
+		"endDateTime": "2025-12-02 22:45:41"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "VLSRXp",
+		"suuid": "oc6XVP",
+		"stage": "finished",
 		"kind": "content",
-		"title": "Add showcase-typo3 //2025-10-31 15"
+		"title": "Add showcase-typo3",
+		"beginDateTime": "2025-10-31 15:16:56",
+		"endDateTime": "2025-10-31 15:55:34"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "BeC2MV",
+		"suuid": "p80rYl",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Create all current images //2025-10-27 15"
+		"title": "Create all current images",
+		"beginDateTime": "2025-10-27 15:55:36",
+		"endDateTime": "2025-10-27 16:27:16"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "c4KboK",
+		"suuid": "wcPmxv",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Show image if exists //2025-10-27 14"
+		"title": "Show image if exists",
+		"beginDateTime": "2025-10-27 14:11:00",
+		"endDateTime": "2025-10-27 15:54:31"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "WhHOyD",
+		"suuid": "phnU7F",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Make Responsive //2025-10-27 11"
+		"title": "Make Responsive",
+		"beginDateTime": "2025-10-27 11:45:48",
+		"endDateTime": "2025-10-27 13:25:18"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "veZlma",
+		"suuid": "cEdfdI",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Implement categories //2025-10-24 13"
+		"title": "Implement categories",
+		"beginDateTime": "2025-10-24 13:28:42",
+		"endDateTime": "2025-10-24 18:12:10"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "EajZgh",
+		"suuid": "Og6Nlp",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Create active, planning and stable project sections //2025-10-20 13"
+		"title": "Create active, planning and stable project sections",
+		"beginDateTime": "2025-10-20 13:41:27",
+		"endDateTime": "2025-10-24 13:17:01"
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "PTLZA3",
+		"suuid": "dOAAzs",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Process first data file, list frontend idcodes //2025-10-17 21"
+		"title": "Process first data file, list frontend idcodes",
+		"beginDateTime": "2025-10-17 21:47:29",
+		"endDateTime": "2025-10-17 23:44:52"
 	},
 	{
-		"projectIdCode": "start-astro-node-crud-001",
-		"suuid": "XtV5m2",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-angular-node-crud-001",
-		"suuid": "Md5N41",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-angular-node-crud-002",
-		"suuid": "0beO2I",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-sveltekit-crud-002",
-		"suuid": "N9N1uv",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-sveltekit-crud-001",
-		"suuid": "1JgqbL",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nuxt-crud-001",
-		"suuid": "7Vt0g5",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nextjs-crud-001",
-		"suuid": "CIPsZ5",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nuxt-site-002",
-		"suuid": "R7mWZL",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nuxt-site-002",
-		"suuid": "K0qyz1",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "TLcb7F",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "doing this"
+		"title": "Create page to practice pronunciation",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "start-nuxt-site-002",
-		"suuid": "qbbApq",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nuxt-site-002",
-		"suuid": "MhpqYY",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "dL7mKy",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Fix mobile menu click //2025-11-30 23"
+		"title": "Speed up parsing",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "start-nuxt-site-002",
-		"suuid": "uHbFwG",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "R8eWlX",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "done 2"
+		"title": "Integrate pronuncation items into story creation",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "start-nuxt-site-002",
-		"suuid": "BAl3wd",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "jG5RDV",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "done 3"
+		"title": "Integrate random standard practice into story creation",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "start-nextjs-site-dark-001",
-		"suuid": "s5TKUB",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nextjs-site-002",
-		"suuid": "aIckQe",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-astro-site-001",
-		"suuid": "M9hGlC",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-angular-site-002",
-		"suuid": "RilYFk",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nextjs-dashboard-001",
-		"suuid": "MR3e2G",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nuxt-site-001",
-		"suuid": "4QE8gs",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nextjs-site-001",
-		"suuid": "k2WHJ6",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-nextjs-site-001",
-		"suuid": "HUALS0",
-		"kind": "",
-		"title": ""
-	},
-	{
-		"projectIdCode": "start-sveltekit-site-001",
-		"suuid": "sNWgGU",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "worknotes",
-		"suuid": "8HTd9q",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "database-showcase",
-		"suuid": "SJlpHI",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "template-react-responsive-001",
-		"suuid": "OIpKiv",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "template-react-responsive-001",
-		"suuid": "RSjdXB",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "TQqq4X",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "make dropdown from hamburger menu more visible, e.g. light gray"
+		"title": "Upgrade to modern design",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "template-react-responsive-001",
-		"suuid": "qBbvBu",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "kWWBMe",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Upgrade React Router"
+		"title": "Make basic frontend for creation process",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "template-react-responsive-001",
-		"suuid": "ud5pKw",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "R29qpY",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Convert to Mobx"
+		"title": "Enable simple and basic stories for weak languages",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "template-react-responsive-001",
-		"suuid": "QXHqii",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "yY92mK",
+		"stage": "upcoming",
+		"kind": "fix",
+		"title": "Resolve the first letter issue in the French text data file",
+		"beginDateTime": "",
+		"endDateTime": ""
+	},
+	{
+		"projectIdCode": "comprehensible-output",
+		"suuid": "nRyken",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Smart Menu"
+		"title": "Create pronunciation quiz",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "showcase-symfony-006",
-		"suuid": "iN3K5S",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-symfony-006",
-		"suuid": "2qSz6e",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "1nGNeB",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Create a basic menu"
+		"title": "Make -ere past participle quiz for Italian",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "showcase-trpc",
-		"suuid": "yIvzNp",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-trpc",
-		"suuid": "jHdUZ5",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "0HJbUy",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "build CRUD functionality"
+		"title": "Create fill-in-blank quiz",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "showcase-drizzle",
-		"suuid": "pOm9YK",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-drizzle",
-		"suuid": "54pfk5",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "nGah0e",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Express CRUD API with Drizzle/SQLite + React client"
+		"title": "Create Italian past tense quiz",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "showcase-typo3",
-		"suuid": "TR7eo8",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-typo3",
-		"suuid": "l3eh4A",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "EFt1lO",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Convert backend TypoScript to files"
+		"title": "Create CLI command to copy latest files for each language to MP3 stick",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "showcase-typo3",
-		"suuid": "T4nh7j",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "ZVgvRL",
+		"stage": "upcoming",
+		"kind": "dev",
+		"title": "Update readme",
+		"beginDateTime": "",
+		"endDateTime": ""
+	},
+	{
+		"projectIdCode": "comprehensible-output",
+		"suuid": "bu0bI1",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Put whole project in repository"
+		"title": "Create CLI command that automates process of creating a text from the google spreadsheet",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "template-node-html-001",
-		"suuid": "zeoYK4",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "template-node-html-001",
-		"suuid": "Vvcrf1",
-		"kind": "base",
-		"title": "Set up minimized generic site at repo/live"
-	},
-	{
-		"projectIdCode": "tanguayinfo",
-		"suuid": "nleWJX",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-remix",
-		"suuid": "9G2EtY",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-remix",
-		"suuid": "emw4ti",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "n3SDjT",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Build a menu with pages"
+		"title": "Create page for pronunciation notes",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "showcase-webpack-react",
-		"suuid": "kFZwvV",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-webpack-react",
-		"suuid": "Y7TQ6a",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "nhtPgT",
+		"stage": "upcoming",
 		"kind": "feature",
-		"title": "Create basic site that builds //2025-10-13 19"
+		"title": "update to newest datapod-for-go version (qtools etc.)",
+		"beginDateTime": "",
+		"endDateTime": ""
 	},
 	{
-		"projectIdCode": "showcase-webpack-react",
-		"suuid": "f0SJF3",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "2Z24wO",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Add images and CSS"
+		"title": "Streamline story creation",
+		"beginDateTime": "2025-08-03 23:30:15",
+		"endDateTime": "2025-08-05 10:58:02"
 	},
 	{
-		"projectIdCode": "showcase-webpack-react",
-		"suuid": "HJUoXo",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "6Ne75e",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Make publishable at Vercel"
+		"title": "Order import listing by number of phrases",
+		"beginDateTime": "2025-10-13 07:55:31",
+		"endDateTime": "2025-10-13 08:02:23"
 	},
 	{
-		"projectIdCode": "showcase-mobx-react",
-		"suuid": "Q3nZGV",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-mobx-react",
-		"suuid": "8BkQqF",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "Og2MYf",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Add employees and link"
+		"title": "Use most recent phrases first",
+		"beginDateTime": "2025-10-09 10:58:45",
+		"endDateTime": "2025-10-09 11:53:47"
 	},
 	{
-		"projectIdCode": "showcase-mobx-react",
-		"suuid": "WjjAjN",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "r9aWnD",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Create new template swap out easypeasy"
+		"title": "CLI command \"cpf\" creates prompt files for all languages",
+		"beginDateTime": "2025-06-09 12:31:32",
+		"endDateTime": "2025-06-10 00:12:39"
 	},
 	{
-		"projectIdCode": "showcase-shadcn-nextjs",
-		"suuid": "q5a3CG",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-shadcn-nextjs",
-		"suuid": "45Wu7a",
+		"projectIdCode": "comprehensible-output",
+		"suuid": "VjNLWC",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Add more shadcn components"
-	},
-	{
-		"projectIdCode": "showcase-react-001",
-		"suuid": "W5mrJp",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "showcase-react-004",
-		"suuid": "lkVbJE",
-		"kind": "info",
-		"title": ""
+		"title": "Enable 10 100 to be sent as params, with defaults if not sent",
+		"beginDateTime": "2025-06-09 13:14:09",
+		"endDateTime": "2025-06-09 15:17:03"
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "g5IguS",
-		"kind": "info",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "4BX0a9",
+		"suuid": "FElE2R",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Create page to test het works"
+		"title": "For command npm run cpg fr, randomize order of phrases",
+		"beginDateTime": "2025-06-09 17:14:02",
+		"endDateTime": "2025-06-09 17:19:03"
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "jTZOJM",
+		"suuid": "Um1CpY",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Create page to practice pronunciation"
+		"title": "Show history of phrases for \"cpf\"",
+		"beginDateTime": "2025-06-10 16:14:09",
+		"endDateTime": "2025-06-10 17:12:19"
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "GxNRfI",
+		"suuid": "g66VfJ",
+		"stage": "finished",
 		"kind": "feature",
-		"title": "Speed up parsing"
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "fHZ5aj",
-		"kind": "feature-pronunciation-integration",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "gXjAw2",
-		"kind": "feature-random-standard-practice",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "U0NjTG",
-		"kind": "feature-streamline-story-creation //2025-08-03 23",
-		"title": "30"
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "KdZfir",
-		"kind": "feature-make-basic-frontend-for-creation-process",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "mDPE0M",
-		"kind": "feature-speed-up-parsing",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "7DLAst",
-		"kind": "feature-enable-simple-and-basic-stories",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "qFZXJf",
-		"kind": "devfeature-only-recreate-audio-files-on-flag",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "rECn1O",
-		"kind": "add-copy-box-for-audio-transcription",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "wQELvV",
-		"kind": "fix-first-letter-before-day-of-week",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "7HjsC9",
-		"kind": "feature-make-audio-for-presentation",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "CFSBa9",
-		"kind": "feature-pronunciation-quiz",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "7ExXOr",
-		"kind": "feature-ere-past-participle-quiz",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "s2rx5H",
-		"kind": "feature-fill-in-blank-quiz",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "Pgg7Em",
-		"kind": "feature-past-quiz",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "Q6KPS4",
-		"kind": "feature-randomize-phrases-in-cpf",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "CVnJsH",
-		"kind": "feature-enable-50-550-params-in-cpf",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "wvf8mL",
-		"kind": "feature-prepare-audio-files-for-mp3-stick",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "OtcqOH",
-		"kind": "feature-list-recording-tips",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "RGzaib",
-		"kind": "update readme",
-		"title": ""
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "WseYRG",
-		"kind": "task",
-		"title": "automate the process of creating a text from the google spreadsheet"
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "rsg46l",
-		"kind": "task",
-		"title": "add note on what site is made with at top"
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "Qdtr44",
-		"kind": "task",
-		"title": "parse and display pronunciation.txt"
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "TFr7Bt",
-		"kind": "task",
-		"title": "make cpg more automatic so it creates all the prompt files (and deletes the old ones), or perhaps in one file"
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "fAFI5B",
-		"kind": "task",
-		"title": "fix"
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "mXNwb8",
-		"kind": "task",
-		"title": "make defautls intelligent and useful"
-	},
-	{
-		"projectIdCode": "comprehensible-output",
-		"suuid": "Rih2ei",
-		"kind": "task",
-		"title": "update to newests datapod-for-go version (qtools etc.)"
+		"title": "Implement script to create prompts from google translate phrases",
+		"beginDateTime": "2025-06-08 20:11:09",
+		"endDateTime": "2025-06-08 20:44:02"
 	}
 ]

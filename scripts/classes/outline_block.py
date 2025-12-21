@@ -2,11 +2,11 @@ from classes.outline_item import OutlineItem
 from qtools import *
 
 class OutlineBlock:
-	line_blocks: list[list[str]]
+	line_block: list[str]
 	outline_items: list[OutlineItem] = []
 
-	def __init__(self, line_blocks: list[list[str]]):
-		self.line_block = line_blocks
+	def __init__(self, line_block: list[str]):
+		self.line_block = line_block
 		self.create_outline_items()
 
 	def create_outline_items(self):

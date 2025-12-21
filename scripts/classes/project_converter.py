@@ -34,3 +34,4 @@ class ProjectConverter:
 		for project in self.projects:
 			for project_item in project.project_items:
 				self.tasks.append(Task(project.id_code, project_item))
+		

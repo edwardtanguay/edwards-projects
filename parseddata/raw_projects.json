@@ -1,142 +1,6 @@
 [
 	{
-		"suuid": "0GKLdv",
-		"idCode": "showcase-nuxt-001",
-		"title": "Nuxt Showcase",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-nuxt-001",
-		"live": "https://showcase-nuxt-001.vercel.app",
-		"mainImage": "/images/projects/showcase-nuxt-001.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "a Nuxt 4 site that shows various features such as JSON file loading in frontend"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "LnWKw2",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::showcase; a Nuxt 4 site that shows various features such as JSON file loading in frontend",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://showcase-nuxt-001.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.87",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Nuxt Showcase",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "csJmgK",
-		"idCode": "internal-edwards-projects",
-		"title": "INTERNAL-EDWARDS-PROJECTS",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/internal-edwards-projects",
-		"live": "",
-		"mainImage": "",
-		"categories": [],
-		"projectItems": [
-			{
-				"suuid": "FH5O0k",
-				"kind": "info",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "zTK6cA",
-				"kind": "cleanup",
-				"title": "Organize all folders",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "delete all unused sites at vercel",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "delete all OLD directories",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make one backup and put all in there centralized",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "process all ADD directories",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "jWCNwC",
-		"idCode": "start-html-portfolio-001",
-		"title": "START-HTML-PORTFOLIO-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-html-portfolio-001",
-		"live": "https://start-html-portfolio-001.vercel.app/",
-		"mainImage": "/images/projects/start-html-portfolio-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Gemini3, HTML/CSS/JS site with images, Gemini created the images, colorful and professional, you edit a JavaScript object, good for servers where you can just serve simple HTML files"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "8XEit8",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Gemini3, HTML/CSS/JS site with images, Gemini created the images, colorful and professional, you edit a JavaScript object, good for servers where you can just serve simple HTML files",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt::create an HTML/CSS/JS website that gets its data from an imported file data.js which has projects items that have a slug, title, description and loads an image from /images/<slug>.jpg, the site should look professional, colorful but not too flashy, use subtle icons, its main purpose is to show projects with image/title/description that the\tuser can click on to go look at the project, it should be clear what they have to click on, desktop and mobile views should look different but both easy to navigate",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://start-html-portfolio-001.vercel.app/",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.78",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "QkeunX",
+		"suuid": "xMCwEo",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
 		"status": "creating basic parsing of text file that shows project information",
@@ -156,9 +20,9 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "BE61Ar",
+				"suuid": "Ll17TR",
 				"kind": "info",
-				"title": "",
+				"title": "(info)",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -263,15 +127,225 @@
 				]
 			},
 			{
-				"suuid": "mQF3tb",
+				"suuid": "ifNidV",
 				"kind": "feature",
-				"title": "Show three of each kind of tasks, finished, current, upcoming",
-				"outlineItems": []
+				"title": " Show three of each kind of tasks, finished, current, upcoming //2025-12-21 15:03:15..",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-show-task-groups",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "reduce to edwards-projects in both files",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix: Invalid prop: type check failed for prop \"short_info\"",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make it display in three groups: current, finished, upcoming",
+						"marker": ".."
+					},
+					{
+						"indents": 3,
+						"line": "give info a title \"(info)\"",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "check all titles",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix: do not process blank lines",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "check all for ittle: all there",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix title cut off in date",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix branch-in-middle issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "ending dates on all",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "display kind",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "record and display marker",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "record marker",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "replace marker with stage in task",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "decide on pause: will be displayed with upcoming and pause icon",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "convert stage",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "subsume info into project (ignore and comment for now)",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse date into beginDateTime, endDateTime",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "when creating tasks",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "create mock beginDateTime, endDateTime",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "parse beginDateTime, endDateTime",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "delete project_items from projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "clean current project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "display in groups",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "three sections display all in each mock",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "create three groups",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "include paused tasks",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make component to display Task",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "add another large project with data in both files: comprehensible-output",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "clean first file",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "clean second file",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "display finish tasks sorted descending date",
+						"marker": ".."
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
 			},
 			{
-				"suuid": "33Tavv",
+				"suuid": "bhCZiK",
 				"kind": "feature",
-				"title": "New site layout //2025-12-02 22",
+				"title": " Add rank to tasks",
+				"outlineItems": [
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "dhqg7G",
+				"kind": "dev",
+				"title": " Clean up mode and status",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "delete all traces of mode and status",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make JSON properties camelcase including qtools",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "OrKYbP",
+				"kind": "feature",
+				"title": " New site layout //2025-12-02 22:48:41..",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -286,7 +360,7 @@
 					{
 						"indents": 2,
 						"line": "start new site at edwards-projects-v2",
-						"marker": ".."
+						"marker": "))"
 					},
 					{
 						"indents": 3,
@@ -296,161 +370,37 @@
 					{
 						"indents": 3,
 						"line": "move in site",
-						"marker": ".."
+						"marker": "))"
 					},
 					{
 						"indents": 3,
 						"line": "move everything into it",
 						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "",
-						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "h2qj5s",
+				"suuid": "SyibwF",
 				"kind": "feature",
-				"title": "Make page \"Task Tracker\"",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "MVP feature: just enough to \"permalink a page that shows what I have accomplished recently\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show finished tasks in past date descending order",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make page",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "backend: parse the body of the projects in JSON file",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "backend: reparse for specific data \"finishedTasks\"",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "eph9Tq",
-				"kind": "feature",
-				"title": "Create Task Dashboard",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "finshed / next / upcoming",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "yQN9ju",
-				"kind": "feature",
-				"title": "Show starts in rank order",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "handle rank field",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "9ithAg",
-				"kind": "feature",
-				"title": "Display descriptions on e.g. starts, showcases (what they are)",
+				"title": " Display descriptions on e.g. starts, showcases (what they are)",
 				"outlineItems": []
 			},
 			{
-				"suuid": "FyJJ6S",
-				"kind": "fix",
-				"title": "Responsive fixes and additions",
+				"suuid": "XtfW4p",
+				"kind": "feature",
+				"title": " Add rank on projects",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "most of this will be made unnecessary with the new layout",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "Remove responsive white bar on right",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "Remix shorten",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "remove responsive white bar on bottom",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make selected project light yellow",
+						"line": "show all groups based on rank",
 						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "QmhwdR",
+				"suuid": "niuYe7",
 				"kind": "feature",
-				"title": "Add rank",
-				"outlineItems": []
-			},
-			{
-				"suuid": "6H4TKI",
-				"kind": "dev",
-				"title": "Clean up mode and status",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "delete all traces of mode and status",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make JSON properties camelcase",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "rLzxig",
-				"kind": "feature",
-				"title": "Parse and display tasks",
+				"title": " Parse and display tasks",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -465,15 +415,9 @@
 				]
 			},
 			{
-				"suuid": "RUKmi1",
-				"kind": "feature",
-				"title": "Show dates",
-				"outlineItems": []
-			},
-			{
-				"suuid": "7hRUn2",
+				"suuid": "qw0RDT",
 				"kind": "content",
-				"title": "Add rest of projects",
+				"title": " Add rest of projects",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -488,15 +432,15 @@
 				]
 			},
 			{
-				"suuid": "fGbDLx",
+				"suuid": "uXGV0J",
 				"kind": "feature",
-				"title": "Display all tasks",
+				"title": " Display all tasks",
 				"outlineItems": []
 			},
 			{
-				"suuid": "00M50B",
+				"suuid": "EgqVGJ",
 				"kind": "feature",
-				"title": "Make responsive view",
+				"title": " Make responsive view",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -511,38 +455,21 @@
 				]
 			},
 			{
-				"suuid": "iMD2aV",
+				"suuid": "P7rf0v",
 				"kind": "featuer",
-				"title": "Search",
+				"title": " Implement global search",
 				"outlineItems": []
 			},
 			{
-				"suuid": "9WmxBY",
+				"suuid": "k8UOr2",
 				"kind": "feature",
-				"title": "Show latest tasks completed",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show active, upcoming",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "et577n",
-				"kind": "feature",
-				"title": "Make single project view with permalink",
+				"title": " Make single project view with permalink",
 				"outlineItems": []
 			},
 			{
-				"suuid": "bNkwEC",
+				"suuid": "vYsoI2",
 				"kind": "feature",
-				"title": "Make dummy data for reponsitory",
+				"title": " Make dummy data for repository",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -557,1478 +484,9 @@
 				]
 			},
 			{
-				"suuid": "b3FIX4",
+				"suuid": "tZ9mdM",
 				"kind": "feature",
-				"title": "new layout",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "https://example-aistudio.vercel.app",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "1EE04o",
-		"idCode": "start-astro-node-crud-001",
-		"title": "START-ASTRO-NODE-CRUD-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-astro-node-crud-001",
-		"live": "",
-		"mainImage": "/images/projects/start-astro-node-crud-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Gemini3, one of the best UX solutions for start crud site, by Antigravity"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "cRuPhy",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-28",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity with Gemini 3 Pro",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Gemini3, one of the best UX solutions for start crud site, by Antigravity",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt::create a Astro site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one \"npm run dev\" command",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "15 minutes finished, didn't ask me anything",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "works very nicely with modal on both desktop and mobile, could be the best UX yet",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "one small issue: there is a \"ml>\" on the bottom left of the screen",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.99",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "YJ5anw",
-		"idCode": "start-angular-node-crud-001",
-		"title": "START-ANGULAR-NODE-CRUD-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-angular-node-crud-001",
-		"live": "",
-		"mainImage": "/images/projects/start-angular-node-crud-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Gemini3, this is usable but has some odd UX features, e.g. editing and adding have a modal that make the background disappear, and mobile view scrolls horizontally instead of showing cards"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "8SsSx8",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-28",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity with Gemini 3 Pro",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Gemini3, this is usable but has some odd UX features, e.g. editing and adding have a modal that make the background disappear, and mobile view scrolls horizontally instead of showing cards",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.56",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt::create a Angular site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one \"npm run dev\" command",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "finished",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "9NTydF",
-		"idCode": "start-angular-node-crud-002",
-		"title": "START-ANGULAR-NODE-CRUD-002",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-angular-node-crud-002",
-		"live": "",
-		"mainImage": "/images/projects/start-angular-node-crud-002.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Cursor, not very usable, has odd UX quirks like: instead of a model for editing, it opens a form at the top of the page even for records a few pages down, and mobile view has horizontal scroll"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "WOZ3B1",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-28",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Cursor",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Cursor, not very usable, has odd UX quirks like: instead of a model for editing, it opens a form at the top of the page even for records a few pages down, and mobile view has horizontal scroll",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::3.9",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt::create a Angular site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one \"npm run dev\" command",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "is using python to change files",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "finished in 20 minutes",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "put node on 4000, angular on 4200",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "problem: Tailwind isn't working, I think you set it up for Tailwind 3, but Tailwind 4 is installed",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "it responded: Get Cursor Pro for more Agent usage, unlimited Tab, and more.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "Antigravity fixed the problem on the third attempt with Gemini 3 Pro",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "P14Kst",
-		"idCode": "start-sveltekit-crud-002",
-		"title": "START-SVELTEKIT-CRUD-002",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-sveltekit-crud-002",
-		"live": "",
-		"mainImage": "/images/projects/start-sveltekit-crud-002.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Claude, works well"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "ahCrvl",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-28",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity with Claude Sonnet 4.5",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Claude, works well",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.82",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt::create a SvelteKit site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "showed me a plan \"7 fields, cards for mobile\", I wrote \"sounds good\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "was finished far before Cursor on this task",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "had to fix \"fs\" typescript errors",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "works well",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "qDNxdh",
-		"idCode": "start-sveltekit-crud-001",
-		"title": "START-SVELTEKIT-CRUD-001",
-		"status": "works",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-sveltekit-crud-001",
-		"live": "",
-		"mainImage": "/images/projects/start-sveltekit-crud-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Cursor, has odd way to edit with a form that is always visible"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "LdM6Hw",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-28",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Cursor",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Cursor, has odd way to edit with a form that is always visible",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.34",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt::create a SvelteKit site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "is \"exploring new SvelteKit setup methods",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "npx degit ...",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "doing a lot of environment observiation, ls, pwd",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "did git clone --depth 1",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "Cursor asks a lot more for confirmation",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "it said, \"user aborted request\", although I didn't",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "npm run dev get Error 500",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "asked it to fix",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "status::works",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "emm3gI",
-		"idCode": "start-nuxt-crud-001",
-		"title": "START-NUXT-CRUD-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nuxt-crud-001",
-		"live": "",
-		"mainImage": "/images/projects/start-nuxt-crud-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Gemini3, everything works"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "pvPQp3",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-28",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity with Gemini 3 Pro",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Gemini3, everything works",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.88",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt::create a Nuxt 4 site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "had to confirm 4-5 times, it never seemed to give a notification, so you have to monitor it",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "finished in 20 minutes",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "had a typescript issue in db.ts with importing fs and path",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "asked to fix them",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "it installed @types/node, fixed",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "when I click add or edit, the page disappears",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "asked agent to fix it",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "it opened the browser and started testing it",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "says: navigate to http://localhost:3000. Wait for load. Click 'Add Employee'. Wait 2 seconds. Capture a screenshot of the page. Check browser console for errors and return them.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "now when I click add or edit, it shows a dimmed page with a form that I can't edit",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "asked agent to fix it",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "it fixed it",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "everything works",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "kw6mvF",
-		"idCode": "start-nextjs-crud-001",
-		"title": "START-NEXTJS-CRUD-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nextjs-crud-001",
-		"live": "",
-		"mainImage": "/images/projects/start-nextjs-crud-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created with Antigravity/Gemini3, decent"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "9NKJu0",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-27",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity with Gemini 3 Pro",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created with Antigravity/Gemini3, decent",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.87",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt: create a Next.js site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "I let it work for about 20 minutes, had to attend it 3-4 times",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "it brought up the browser and was active with it",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "after 20 minutes it seemed finished",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "tried to start it \"npm run dev\", it said: Unable to acquire lock at C:\\edward\\projects\\starts\\start-nextjs-crud-001\\.next\\dev\\lock, is another instance of next dev running?",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "I closed the browser it had open but it still got the error",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "I deleted the .next directory",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "N6ko99",
-		"idCode": "start-nuxt-site-002",
-		"title": "START-NUXT-SITE-002",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nuxt-site-002",
-		"live": "https://start-nuxt-site-002.vercel.app",
-		"mainImage": "/images/projects/start-nuxt-site-002.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Claude, nice UX, mobile has smooth fade"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "tuJgjr",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-27",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity with Claude Sonnet 4.5",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Claude, nice UX, mobile has smooth fade",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt: create a Nuxt 4 site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "you answer prompt questions in the window",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "it noticed that the site name already exists",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "one time didn't send a notice, was waiting for a confirmation from me",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "antigravity was not able to install the Vue extension",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "it ran out of credits on all of it's models, will have to wait four hours",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "it didn't put directories in app, but perhaps that was a choice during installation",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://start-nuxt-site-002.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.98",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "4oXDXI",
-				"kind": "feature",
-				"title": "doing this",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "skdjfksdjf",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "skdfjsdkfj",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "o08n1E",
-		"idCode": "start-nextjs-site-dark-001",
-		"title": "START-NEXTJS-SITE-DARK-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nextjs-site-dark-001",
-		"live": "",
-		"mainImage": "/images/projects/start-nextjs-site-dark-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Gemini3, very usable, pleasant dark design"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "Ao3s3M",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-12-03",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity editor\tusing Gemini 3",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Gemini3, very usable, pleasant dark design",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.97",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt: create a Next.js site that I can download, with 6 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "after creating the site, I converted it to dark",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "mpH65J",
-		"idCode": "start-nextjs-site-002",
-		"title": "START-NEXTJS-SITE-002",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nextjs-site-002",
-		"live": "https://start-nextjs-site-002.vercel.app",
-		"mainImage": "/images/projects/start-nextjs-site-002.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Gemini3, very usable"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "S6LmNJ",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-27",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity editor\tusing Gemini 3",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Gemini3, very usable",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.93",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt: create a Next.js site that I can download, with 6 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "model selected was Gemini 3 Pro",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "makes a nice, multi-level task list that it checks off",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "but executed npx by itself",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "but then asked if it could say \"y\" to get the latest version##thetasklist",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "after about 10 minutes, it's still working, not moving too much, just started \"creating pages\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "at the end, it \"verifies responsive design\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "debugging some problem it found in the navbar",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "has some build error, \"removed the navbar to isolate issue\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "needed me to confirm to delete node_modules",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "was taking over 30 minutes",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "if I went into another app, it would then notify me with a Windows notification if it needed me to approve something",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "after 35 minutes, it \"reached the limit of Gemini 3\", so I choose Claude Sonnet 4.5",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "finished, worked first time",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://start-nextjs-site-002.vercel.app",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "SDTmWg",
-		"idCode": "start-astro-site-001",
-		"title": "START-ASTRO-SITE-001",
-		"status": "usable",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-astro-site-001",
-		"live": "https://start-astro-site-001.vercel.app",
-		"mainImage": "/images/projects/start-astro-site-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Cursor, usuable"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "f8pKlW",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-27",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Cursor editor",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Cursor, usuable",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt: create an Astro site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind 4, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "starts the same way as on the Angular site, executed the commands I had put on the allow list, worked well",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "only a few types to click Run",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "then \"npm run build\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "then \"git status -sb\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "then seems to be finished but without any notification",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "so I ran \"npm run dev\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "site works well, like Angular site",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "but it has a small issue with the hamburger icon still being visible##hasoddissue",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "so I gave it a screenshot and asked it to fix it",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "seemed to fix it",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "asked to run \"npm run build\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "clicked \"Keep all\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "I did \"npm run dev\" again and it was fixed##itfixedit",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "nice experience",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://start-astro-site-001.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "status::usable",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.899",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "gkDIDh",
-		"idCode": "start-angular-site-002",
-		"title": "START-ANGULAR-SITE-002",
-		"status": "usable",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-angular-site-002",
-		"live": "https://start-angular-site-002.vercel.app",
-		"mainImage": "/images/projects/start-angular-site-002.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Cursor, usable, quick mobile page switching"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "vNwJBA",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-27",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Cursor editor",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Cursor, usable, quick mobile page switching",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt:: create a Angular site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "has an easy-to-use \"allow list\" for ls, pwd, etc",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "shows notifications on Windows if you need to click \"Run\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "seems to be installing Angular 18",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "now running \"generate\" commands for each page",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "adding to file with \"cat\", odd",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "site works nicely",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "good experience, it created the site in the background",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "but afterward was running more \"cat\" commands and getting errors",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "then asked to execute \"npm run build\" numerous times",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "but finally finished and gave me a report of what it had created",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "I typed \"npm start\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "the site was much more built out, worked nice",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "pushed to repo",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://start-angular-site-002.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "status::usable",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.985",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "n8z8R5",
-		"idCode": "start-nextjs-dashboard-001",
-		"title": "START-NEXTJS-DASHBOARD-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nextjs-dashboard-001",
-		"live": "https://nextjs-dashboard-001-phi.vercel.app",
-		"mainImage": "/images/projects/start-nextjs-dashboard-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created with AI Studio, this dashboard layout is refreshing with menu on left, mobile still usuable"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "uZrPe7",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-24",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::AI Studio",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created with AI Studio, this dashboard layout is refreshing with menu on left, mobile still usuable",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.96",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt:: create a Next.js site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://nextjs-dashboard-001-phi.vercel.app",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "0GfQ6f",
-		"idCode": "start-nuxt-site-001",
-		"title": "START-NUXT-SITE-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nuxt-site-001",
-		"live": "https://start-nuxt-site-001.vercel.app",
-		"mainImage": "/images/projects/start-nuxt-site-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by some LLM website, very simple design but with smooth UX, might be good as the basis of a reduced design"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "8bJH3k",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-24",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::LLM site",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by some LLM website, very simple design but with smooth UX, might be good as the basis of a reduced design",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.989",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt:: create a Nuxt 4 site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://start-nuxt-site-001.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "minusNote:: site on smartphone blinks when you switch pages",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "dzDhoW",
-		"idCode": "start-nextjs-site-001",
-		"title": "START-NEXTJS-SITE-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nextjs-site-001",
-		"live": "https://start-nextjs-site-001.vercel.app",
-		"mainImage": "/images/projects/start-nextjs-site-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Claude website by downloading all the pages, simply layout but good for a reduce site"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "60nwx0",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-24",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Claude website, free account",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Claude website by downloading all the pages, simply layout but good for a reduce site",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt:: create a Next.js site that I can download, with 6 pages that have icons in the menu, responsive with hamburger menu, TypeScript, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "note:: had to then download each file but it was only about 15-20 in total, this has the nicest design even compared to Cursor which completes the whole site for you, this is actually a nice",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.9875",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://start-nextjs-site-001.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "dgq2gB",
-				"kind": "",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 0,
-						"line": "``doing",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "mwVsg8",
-		"idCode": "start-sveltekit-site-001",
-		"title": "START-SVELTEKIT-SITE-001",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-sveltekit-site-001",
-		"live": "https://start-sveltekit-site-001.vercel.app",
-		"mainImage": "/images/projects/start-sveltekit-site-001.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Cursor, very simple and smooth mobile UX"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "PEzDDV",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-25",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Cursor editor free trial",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Cursor, very simple and smooth mobile UX",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "rank::4.95",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "prompt:: create a SvelteKit site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "notes::a reduced site compared to Gemini Website, but professional icons, responsiveness, and have full file structure, took about 4 minutes",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "onlineNotes::at Vercel, got: Unsupported Node.js version: v24.11.1, fix was: Vercel project dashboard, General, Settings, Node from 24.x to 22.x",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "minusNote:: when switching page in mobile view, it shows the wrong page for a half second",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live:: https://start-sveltekit-site-001.vercel.app",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "GirBAH",
-		"idCode": "worknotes",
-		"title": "WORKNOTES",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/worknotes",
-		"live": "",
-		"mainImage": "",
-		"categories": [],
-		"projectItems": [
-			{
-				"suuid": "x0Bn0G",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "parse a work file on dashboard that is searchable, etc.",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "TMl7GJ",
-		"idCode": "database-showcase",
-		"title": "DATABASE-SHOWCASE",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/database-showcase",
-		"live": "",
-		"mainImage": "",
-		"categories": [],
-		"projectItems": [
-			{
-				"suuid": "Ie4p0V",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "a page that explains datapod",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "first screen has interaactive text parse with example (like 2018 version)",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "Ka1jJH",
-		"idCode": "template-react-responsive-001",
-		"title": "React responsive site with 3 pages",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/template-react-responsive-001",
-		"live": "",
-		"mainImage": "",
-		"categories": [],
-		"projectItems": [
-			{
-				"suuid": "lDsjgq",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "title::React responsive site with 3 pages",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "VfimxP",
-				"kind": "feature",
-				"title": "make dropdown from hamburger menu more visible, e.g. light gray",
-				"outlineItems": []
-			},
-			{
-				"suuid": "l5VHyK",
-				"kind": "feature",
-				"title": "Upgrade React Router",
-				"outlineItems": []
-			},
-			{
-				"suuid": "B6jDwg",
-				"kind": "feature",
-				"title": "Convert to Mobx",
-				"outlineItems": []
-			},
-			{
-				"suuid": "k4sbCc",
-				"kind": "feature",
-				"title": "Smart Menu",
+				"title": " Create \"npm run audit\" to find all missing information",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -2037,464 +495,12 @@
 					},
 					{
 						"indents": 3,
-						"line": "if menu items don't fix, only show icons",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "WFRDJP",
-		"idCode": "showcase-symfony-006",
-		"title": "Symfony Showcase",
-		"status": "(fill in status)",
-		"mode": "active",
-		"repo": "https://github.com/edwardtanguay/showcase-symfony-006",
-		"live": "not online yet, will publish at Hetzner",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "Setting up a Symfony 8 site to refresh myself with the basics again"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "Riv6ci",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::showcase; Setting up a Symfony 8 site to refresh myself with the basics again",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Symfony Showcase",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::not online yet, will publish at Hetzner",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "2xz1d9",
-				"kind": "feature",
-				"title": "Create a basic menu",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "3aW39L",
-		"idCode": "showcase-trpc",
-		"title": "tRPC Showcase",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-trpc",
-		"live": "https://en.wikipedia.org/wiki/Modularity_of_mind",
-		"mainImage": "/images/projects/showcase-trpc.png",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "example of a React site set up with tRPC, back-to-front strong typing"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "OkhEKQ",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "live::https://en.wikipedia.org/wiki/Modularity_of_mind",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "has backend so couldn't publish to Vercel",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::showcase; example of a React site set up with tRPC, back-to-front strong typing",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::tRPC Showcase",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "0eVv9g",
-				"kind": "feature",
-				"title": "build CRUD functionality",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "k3lCgM",
-		"idCode": "showcase-drizzle",
-		"title": "Drizzle Showcase",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-drizzle",
-		"live": "uses SQLite in Node/Express backend, so couldn't publish to Vercel",
-		"mainImage": "/images/projects/showcase-drizzle.gif",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "example of using Drizzle to connect to a SQLite database, used by a Node/Express backend and React client"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "k8IAak",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "live::uses SQLite in Node/Express backend, so couldn't publish to Vercel",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::showcase; example of using Drizzle to connect to a SQLite database, used by a Node/Express backend and React client",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Drizzle Showcase",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "VwfO6q",
-				"kind": "feature",
-				"title": "Express CRUD API with Drizzle/SQLite + React client",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "branch: feature-express-drizzle-sqlite-crud-server",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "api works",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "add react site from trpc project",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "make mock component: ManageEmployees.tsx",
-						"marker": "x"
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "u7ua58",
-		"idCode": "showcase-typo3",
-		"title": "TYPO3 Showcase",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-typo3",
-		"live": "you have to set up TYPO3, the TypoScript is currently not in the repository",
-		"mainImage": "/images/projects/showcase-typo3.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "I got TYPO3 v13 installed on Ubuntu, learned my way around the admin panel, got TypoScript and Fluid templates working"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "JPlNyU",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "title::TYPO3 Showcase",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::showcase;I got TYPO3 v13 installed on Ubuntu, learned my way around the admin panel, got TypoScript and Fluid templates working",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::you have to set up TYPO3, the TypoScript is currently not in the repository",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "OIZN5k",
-				"kind": "feature",
-				"title": "Convert backend TypoScript to files",
-				"outlineItems": []
-			},
-			{
-				"suuid": "vLJKb5",
-				"kind": "feature",
-				"title": "Put whole project in repository",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "iM9Dtl",
-		"idCode": "template-node-html-001",
-		"title": "Node/HTML Template",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "none",
-		"live": "",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "backlog",
-				"shortInfo": "a new template I want to create, a professionally designed starter site for read-only portfolio-sites (for tanguay.info and art sites for friends)"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "2dHjGR",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "repo::none",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "use: https://html5up.net/phantom",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Node/HTML Template",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::backlog; a new template I want to create, a professionally designed starter site for read-only portfolio-sites (for tanguay.info and art sites for friends)",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "one-step publish to Vercel",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "connectedProject::tanguayinfo",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "name has \"001\" in it since we might make many of these for slightly different layouts/designs, etc.",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "UiIKBw",
-				"kind": "base",
-				"title": "Set up minimized generic site at repo/live",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "set up locally",
-						"marker": ".."
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "P2zUIG",
-		"idCode": "tanguayinfo",
-		"title": "Tanguay.Info",
-		"status": "planning new site design with html5up.net template",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/tanguayinfo",
-		"live": "https://tanguay.info",
-		"mainImage": "/images/projects/tanguayinfo.jpg",
-		"categories": [
-			{
-				"idCode": "live",
-				"shortInfo": "my main landing site, planning to redo the layout and content soon"
-			},
-			{
-				"idCode": "upcoming",
-				"shortInfo": "planning to use the Node/HTML template to redo this site with a professionally designed responsive layout"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "1F5Fn7",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "title::Tanguay.Info",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://tanguay.info",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "status::planning new site design with html5up.net template",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::live;my main landing site, planning to redo the layout and content soon",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::upcoming;planning to use the Node/HTML template to redo this site with a professionally designed responsive layout",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make in project",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "change about to contact",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "change Projects and Contact",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make title link",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "sections",
+						"line": "finds e.g. all features that don't have ranks, etc.",
 						"marker": ""
 					},
 					{
 						"indents": 3,
-						"line": "Marathon Running",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "Software Development",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "Language Learning",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "Weltschmerz",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "add",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "other topic that I forgot",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "little prince: https://trilingual-little-prince.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "dutch verbs: https://langcore.vercel.app/dutchVerbs",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "spanish verbs: https://langcore.vercel.app/spanishVerbs",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "italian parsing: https://interitalnotes.vercel.app/flashcards",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "fix all images to make them clickable: white, more graphic than screenshot, or some kind of highlight",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "add qr-code",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "use this: template-node-html-001",
+						"line": "rank::4.2",
 						"marker": ""
 					}
 				]
@@ -2502,333 +508,7 @@
 		]
 	},
 	{
-		"suuid": "v0rUtN",
-		"idCode": "showcase-remix",
-		"title": "Remix Showcase",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-remix",
-		"live": "https://showcase-remix.vercel.app",
-		"mainImage": "/images/projects/showcase-remix.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "I set up a quick Remix site just to try it out, which is now officially a \"React Router site\" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "yBYMWR",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::showcase;I set up a quick Remix site just to try it out, which is now officially a \"React Router site\" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://showcase-remix.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "Showcase Remix",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Remix Showcase",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "ByaXDr",
-				"kind": "feature",
-				"title": "Build a menu with pages",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "N8WnK8",
-		"idCode": "showcase-webpack-react",
-		"title": "Webpack Showcase",
-		"status": "(fill in status)",
-		"mode": "stable",
-		"repo": "https://github.com/edwardtanguay/showcase-webpack-react",
-		"live": "upcoming feature is to make it publishable at Vercel",
-		"mainImage": "/images/projects/showcase-webpack-react.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "example of using Webpack 5 with React/TypeScript"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "tcpqs3",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::showcase; example of using Webpack 5 with React/TypeScript",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live:: upcoming feature is to make it publishable at Vercel",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Webpack Showcase",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "j5beW2",
-				"kind": "feature",
-				"title": "Create basic site that builds //2025-10-13 19",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "feature-create-build-site",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "video: https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=1",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "starts with npm run dev",
-						"marker": "x"
-					}
-				]
-			},
-			{
-				"suuid": "cTnUqt",
-				"kind": "feature",
-				"title": "Add images and CSS",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "video 2: https://www.youtube.com/watch?v=gtZs1BPgf6Y&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=2",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "7VCef5",
-				"kind": "feature",
-				"title": "Make publishable at Vercel",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "LA9Npr",
-		"idCode": "showcase-mobx-react",
-		"title": "MobX Showcase",
-		"status": "(fill in status)",
-		"mode": "stable",
-		"repo": "https://github.com/edwardtanguay/showcase-mobx-react",
-		"live": "https://showcase-mobx-react.vercel.app",
-		"mainImage": "/images/projects/showcase-mobx-react.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "tried out MobX and quickly got a note-taking React app up and running online, MobX is very intuative and simple, probably my favorite now over Redux and easy-peasy Redux"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "RTaTi3",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "title::MobX Showcase",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::showcase; tried out MobX and quickly got a note-taking React app up and running online, MobX is very intuative and simple, probably my favorite now over Redux and easy-peasy Redux",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://showcase-mobx-react.vercel.app",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "Gyx5M2",
-				"kind": "feature",
-				"title": "Add employees and link",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "make RootStore that loads NoteStore and EmployeeStore",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "DbhNFp",
-				"kind": "feature",
-				"title": "Create new template swap out easypeasy",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "UWzYU3",
-		"idCode": "showcase-shadcn-nextjs",
-		"title": "Shadcn Showcase",
-		"status": "(fill in status)",
-		"mode": "stable",
-		"repo": "https://github.com/edwardtanguay/showcase-shadcn-nextjs",
-		"live": "http://showcase-shadcn-nextjs.vercel.app",
-		"mainImage": "/images/projects/showcase-shadcn-nextjs.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "got shadcn/ui working in a Next.js site using the shadcn CLI, straight-forward and works well with Tailwind"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "uzlzzL",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::showcase; got shadcn/ui working in a Next.js site using the shadcn CLI, straight-forward and works well with Tailwind",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::http://showcase-shadcn-nextjs.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Shadcn Showcase",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "AOJgPf",
-				"kind": "feature",
-				"title": "Add more shadcn components",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "continue video (see techlanglearn)",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "6Er9yV",
-		"idCode": "showcase-react-001",
-		"title": "React Tools and Patterns Showcase",
-		"status": "(fill in status)",
-		"mode": "stable",
-		"repo": "https://github.com/edwardtanguay/showcase-react-001",
-		"live": "https://showcase-react-001.vercel.app",
-		"mainImage": "/images/projects/showcase-react-001.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "hAYCLK",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "live::https://showcase-react-001.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::showcase;a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::React Tools and Patterns Showcase",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "khWSAh",
-		"idCode": "showcase-react-004",
-		"title": "React Showcase 004",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-react-004",
-		"live": "",
-		"mainImage": "/images/projects/showcase-react-004.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "started in November 2025"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "o0vqr9",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "title::React Showcase 004",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::showcase; started in November 2025",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "-",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "wfxS1N",
+		"suuid": "xvCXmT",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"status": "(fill in status)",
@@ -2848,9 +528,9 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "O9xcEd",
+				"suuid": "enBSkM",
 				"kind": "info",
-				"title": "",
+				"title": "(info)",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -2905,26 +585,9 @@
 				]
 			},
 			{
-				"suuid": "wKOFgk",
+				"suuid": "tCqxbb",
 				"kind": "feature",
-				"title": "Create page to test het works",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "works nicely on mobile",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "t7sbXS",
-				"kind": "feature",
-				"title": "Create page to practice pronunciation",
+				"title": " Create page to practice pronunciation",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -2949,15 +612,31 @@
 				]
 			},
 			{
-				"suuid": "N9A6iV",
+				"suuid": "5FGLWL",
 				"kind": "feature",
-				"title": "Speed up parsing",
-				"outlineItems": []
+				"title": " Speed up parsing",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.71",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "only create audio files that need to be created",
+						"marker": ""
+					}
+				]
 			},
 			{
-				"suuid": "T8dp2Y",
-				"kind": "feature-pronunciation-integration",
-				"title": "",
+				"suuid": "e6GfMW",
+				"kind": "feature",
+				"title": " Integrate pronuncation items into story creation",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -2968,17 +647,27 @@
 						"indents": 3,
 						"line": "include ten random pronunciations every story",
 						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.5",
+						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "VyHACs",
-				"kind": "feature-random-standard-practice",
-				"title": "",
+				"suuid": "VJzoG8",
+				"kind": "feature",
+				"title": " Integrate random standard practice into story creation",
 				"outlineItems": [
 					{
 						"indents": 2,
 						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.55",
 						"marker": ""
 					},
 					{
@@ -3029,9 +718,21 @@
 				]
 			},
 			{
-				"suuid": "hnoUCt",
-				"kind": "feature-streamline-story-creation //2025-08-03 23",
-				"title": "30",
+				"suuid": "ZePPLU",
+				"kind": "feature",
+				"title": " Upgrade to modern design",
+				"outlineItems": []
+			},
+			{
+				"suuid": "GRuaJz",
+				"kind": "feature",
+				"title": " Make basic frontend for creation process",
+				"outlineItems": []
+			},
+			{
+				"suuid": "eCHmm3",
+				"kind": "feature",
+				"title": " Enable simple and basic stories for weak languages",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -3040,12 +741,1265 @@
 					},
 					{
 						"indents": 3,
-						"line": "FEATURE: Streamline story creation",
+						"line": "branch::feature-enable-simple-and-basic-stories",
 						"marker": ""
 					},
 					{
 						"indents": 3,
-						"line": "finished: 2025-08-05 10:58:02",
+						"line": "rank::4.1",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "\"npm run pl simple\" (simple story in present at A1)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "\"npm run el basics\" (just lists of numbers, days, colors, etc.)",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "H7g50W",
+				"kind": "fix",
+				"title": " Resolve the first letter issue in the French text data file",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::fix-first-letter-before-day-of-week",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "GcYIut",
+				"kind": "feature",
+				"title": " Create pronunciation quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-pronunciation-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "choose language",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show words/phrases, toggle answers",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "Qejvms",
+				"kind": "feature",
+				"title": " Make -ere past participle quiz for Italian",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-ere-past-participle-quiz",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "bkrpzw",
+				"kind": "feature",
+				"title": " Create fill-in-blank quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-fill-in-blank-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.6",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "choose languages",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "get random flashcard from all (preprocessed to all.json)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "blank out one word",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "require that the user actually type it in (hard learning)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show that word and five other random words",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "user clicks on correct word",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "after showing right/wrong, show also",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "link to tateoba",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "similar words",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "kQwR7e",
+				"kind": "feature",
+				"title": " Create Italian past tense quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-italian-past-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show verb, ask: passato prossimo, imperfetto, passato remoto",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "iXb1Ko",
+				"kind": "feature",
+				"title": " Create CLI command to copy latest files for each language to MP3 stick",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-prepare-audio-files-for-mp3-stick",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "copy the most recent files of each language into a directory called \"COMPOUT\"",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "90ZKvq",
+				"kind": "dev",
+				"title": " Update readme",
+				"outlineItems": []
+			},
+			{
+				"suuid": "FGYKZO",
+				"kind": "feature",
+				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
+				"outlineItems": []
+			},
+			{
+				"suuid": "OLrgS2",
+				"kind": "feature",
+				"title": " Create page for pronunciation notes",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.8",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hMy011",
+				"kind": "feature",
+				"title": " update to newest datapod-for-go version (qtools etc.)",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "xWt8y0",
+		"idCode": "edwards-projects",
+		"title": "EDWARDS-PROJECTS",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/edwards-projects",
+		"live": "",
+		"mainImage": "/images/projects/edwards-projects.jpg",
+		"categories": [],
+		"projectItems": [
+			{
+				"suuid": "var5AI",
+				"kind": "feature",
+				"title": " Process and display all tasks basic data //2025-12-20 16:55:12..2025-12-20 19:31:35",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-show-all-tasks",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "branch",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "new page: Tasks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "most recent",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "decide if frontend uses current JSON or a dedicated tasks.json: dedicated",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "create tasks.json",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "change globally to outlineItems in JSON",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "run all sub methods in convert",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make adjust_indents",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make Task",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "projectIdCode",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "suuid",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "kind",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "title",
+						"marker": ""
+					},
+					{
+						"indents": 6,
+						"line": "outlineItems",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "make: create_tasks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "show on frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "merge",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "RVnoLB",
+				"kind": "base",
+				"title": " Create minimal site and put online //2025-10-17 20:39:40..2025-10-17 21:31:59",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "create base",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change titles",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "based on",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "minimize welcome page",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "readme",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "push",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "publish",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "good term: Live & In Production",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "5LHLbT",
+				"kind": "feature",
+				"title": " Enable second file to be processed and combine projects //2025-12-17 20:55:42..2025-12-19 21:59:23",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-process-second-file",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add as doubles",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "understand process, make changes",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "rename first process to 001",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "add file 002",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "simply add to file to get dubles",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "enable to be parsed without INFO",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "plan how to combine",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "create CombinedProject",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "first simple (online suuid, idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "add project send it",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "create combined_projects.json",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make it do the same as now",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make Factory-->create_projects",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "get combined_projects from factory and create jSON file",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "rename",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "rename Project-->RawProject",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "rename CombinedProject-->Project",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fill out projects and display frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "test frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix images",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "change idCode to id_code",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "test frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "change all methods to snake_case",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "test frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "show number of project items on frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "create ProjectConverter",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "create and make it do the same as now",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "get array of unique idCodes",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "go through, on all after first, simply add the project Items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "display number of project_items",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "aTgLle",
+				"kind": "decision",
+				"title": " Decide on best name \"start\" or \"starter\" //2025-11-30 23:32:41..2025-12-02 22:47:14",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "pro \"starter\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "\"this start is more usable\" sounds odd",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "but we could say \"this start site\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "pro \"start\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "the name \"start\" is more what they are, a start, created by AI",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "they are not so much a \"starter\", since that is a \"template\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "also, all of our urls are already called start",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "chose: \"start\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "seems to work, find myself saying \"start site\" if it needs to be clear",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "TdozPc",
+				"kind": "feature",
+				"title": " Show start sites //2025-11-30 23:09:20..2025-12-02 22:45:41",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-show-starts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fixed error (email in notes)",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "list out one start",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "show image as well",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "enter the rest of the starts",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "qQSjMN",
+				"kind": "content",
+				"title": " Add showcase-typo3 //2025-10-31 15:16:56..2025-10-31 15:55:34",
+				"outlineItems": []
+			},
+			{
+				"suuid": "TZxxwU",
+				"kind": "feature",
+				"title": " Create all current images //2025-10-27 15:55:36..2025-10-27 16:27:16",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-create-all-images",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make them",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "oa3T1p",
+				"kind": "feature",
+				"title": " Show image if exists //2025-10-27 14:11:00..2025-10-27 15:54:31",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-add-image-rank",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix space on bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "image",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "first mock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make it appear for a specific project",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "mock image property",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "mock mainImage",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "mock: get_image_path_and_file_name",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "search for file",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix path",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "move dot",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "only show if exists",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make a no image",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "debug out",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "hlwpzK",
+				"kind": "feature",
+				"title": " Make Responsive //2025-10-27 11:45:48..2025-10-27 13:25:18",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "branch::feature-make-responsive",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "spin-gear component",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make short-info component",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make disappear if smartphone",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "show inside if open",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "if inside, then all text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "spin outside",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "short-info pop in label above live",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "top margin of tab more",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change live and repo so they don't have long links",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "repo",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "test long text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "about page so links don't extend off",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "8PdFhp",
+				"kind": "feature",
+				"title": " Implement categories //2025-10-24 13:28:42..2025-10-24 18:12:10",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-implement-categories",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "cleanup",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse category lines into JSON",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make mocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "display categories on front",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "get ready",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix bug: all have first items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "show the short_info",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make rest of categories",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "send \"categoryIdCode\" to the component",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "showcase",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "upcoming",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "no repo",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "live site",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fill in all live sites",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "fix live for note",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "all current",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "2 more",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "tRiJ7l",
+				"kind": "feature",
+				"title": " Create active, planning and stable project sections //2025-10-20 13:41:27..2025-10-24 13:17:01",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "branch: feature-parse-all-fields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't trim",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make qdev.showLineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "trim top and bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make Projects which accepts a lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse it internally, replace current with small change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create OutlineBlock",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "list of OutlineItem[]",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "indents:num",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "line:str",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "save to JSON OutlineItems, first line string for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change from line_block to lines globally",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "switch back to lines",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "count \\t",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix 4x same text",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "delete parse_file if don't need",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix integrity of variables",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix idcode self",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse project",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "in outline_item add marker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "replace outline_items with project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix (idCode)",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out why project has projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "read in x projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "finish project_items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix temp",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix: include last project_item",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "start with second line",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "read double-colon variables",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "if title than set project title",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make status: (\"todo\", \"doing\", \"done\")",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display in status groups",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add status group: (\",,\")",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make paused projects and show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "if 0 then don't show",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make smartPlural",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "get imports to work",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "smartPlural on all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "align variable names",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "add type",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "testing types in showcase nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close out this feature and create new one called categories, restructure these notes",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "nWXjn7",
+				"kind": "feature",
+				"title": " Process first data file, list frontend idcodes //2025-10-17 21:47:29..2025-10-17 23:44:52",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "branch: feature-list-frontend-idcodes",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change pd command to list lines of text file to END",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "create mock projects.json",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "switch to external file",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make config file for python, and backport note",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": ".env file",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "only read to END",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "custom.get_project_line_blocks()",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse these blocks to create the json file",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "show on frontend",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "close out",
+						"marker": "x"
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "xiWwHK",
+		"idCode": "comprehensible-output",
+		"title": "COMPREHENSIBLE-OUTPUT",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/comprehensible-output",
+		"live": "",
+		"mainImage": "/images/projects/comprehensible-output.jpg",
+		"categories": [],
+		"projectItems": [
+			{
+				"suuid": "AGS33z",
+				"kind": "feature",
+				"title": " Streamline story creation //2025-08-03 23:30:15..2025-08-05 10:58:02",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.92",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch:: feature-streamline-story-creation",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "finished:",
 						"marker": ""
 					},
 					{
@@ -3300,707 +2254,357 @@
 					},
 					{
 						"indents": 2,
-						"line": "TODO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
 						"line": "make branch",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "cpf to cpf-old",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "make mock \"npm run import\"",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "fixing vercel build process - didn't work",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "create \"import\" folder",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "create struct and use it to add a mock entry saved to \"parseddata/phrases.json\"",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "first struct in file working",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "then export struct to custom",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "download real file",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "mock list all files in directory",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "use current code to get out all phrases, mock print out",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "get and show lines from each file",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "get googletranslateitems",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "show only french",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "get all",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "get Flashcards",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "fix times",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "real phrases in",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "put test files back as were",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "process to file \"compoutPhrases.json\"",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "reduce to two",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "add instead of recreate",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "change language to code",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "when finished, copy files to \"imported-phrase-files\"",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "list out stats and instructions",
 						"marker": ".."
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "make function createPhraseStats with mock data",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "add small import files",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "add all languages",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "count phrases in compoutPhrases",
 						"marker": "x"
 					},
 					{
-						"indents": 6,
+						"indents": 5,
 						"line": "put existing phrases in function",
 						"marker": "x"
 					},
 					{
-						"indents": 6,
+						"indents": 5,
 						"line": "calculate",
 						"marker": "x"
 					},
 					{
-						"indents": 6,
+						"indents": 5,
 						"line": "count new/used",
 						"marker": "x"
 					},
 					{
-						"indents": 6,
+						"indents": 5,
 						"line": "test with others",
 						"marker": "x"
 					},
 					{
-						"indents": 6,
+						"indents": 5,
 						"line": "switch new/used",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "properly format stats and instructions",
 						"marker": "x"
 					},
 					{
-						"indents": 6,
+						"indents": 5,
 						"line": "create getPhraseStatsLines and print, mock",
 						"marker": "x"
 					},
 					{
-						"indents": 6,
+						"indents": 5,
 						"line": "sort desc",
 						"marker": "x"
 					},
 					{
-						"indents": 6,
+						"indents": 5,
 						"line": "explain how many",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "import all current phrases",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "make create-prompt script",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "create mock",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "with parameters language and numberOfPhrases",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "get the phrases to use and display",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "make: getNewPhrases(language, numberOfPhrases)",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "make: getRandomUsedPhrases(langauge, numberOfPhrases)",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "use them to make phrases",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "convert language to languageName",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "change name to prompt",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "save in file /data/prompt-history.txt",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "first mock text",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "mark phrases as used",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "change so that it stops in loop",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "fix stats",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "test all languages",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "print to copy/paste into LLM",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "mark phrases as used",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "test with one phrase",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "space after imported file",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "do one real story",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "update readme file",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "setup",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "record phrases",
 						"marker": "x"
 					},
 					{
-						"indents": 5,
+						"indents": 4,
 						"line": "in Google Translate",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "import phrases to app",
 						"marker": "x"
 					},
 					{
-						"indents": 4,
+						"indents": 3,
 						"line": "create story",
 						"marker": "x"
 					},
 					{
-						"indents": 3,
+						"indents": 2,
 						"line": "merge",
 						"marker": "x"
 					}
 				]
 			},
 			{
-				"suuid": "RYFb8I",
-				"kind": "feature-make-basic-frontend-for-creation-process",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "v2BRYs",
-				"kind": "feature-speed-up-parsing",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "only create audio files that need to be created",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "Blpv2X",
-				"kind": "feature-enable-simple-and-basic-stories",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "\"npm run pl simple\" (simple story in present at A1)",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "\"npm run el basics\" (just lists of numbers, days, colors, etc.)",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "ukVqLT",
-				"kind": "devfeature-only-recreate-audio-files-on-flag",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "CggQqI",
-				"kind": "add-copy-box-for-audio-transcription",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "HT1mFg",
-				"kind": "fix-first-letter-before-day-of-week",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "ScEBtJ",
-				"kind": "feature-make-audio-for-presentation",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "cPC9Dk",
-				"kind": "feature-pronunciation-quiz",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "choose language",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show words/phrases, toggle answers",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "ofxI3a",
-				"kind": "feature-ere-past-participle-quiz",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "w5Kv6V",
-				"kind": "feature-fill-in-blank-quiz",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "choose languages",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "get random flashcard from all (preprocessed to all.json)",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "blank out one word",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "require that the user actually type it in (hard learning)",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show that word and five other random words",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "user clicks on correct word",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "after showing right/wrong, show also",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "link to tateoba",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "similar words",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "etc.",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "MA59Ge",
-				"kind": "feature-past-quiz",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "show verb, ask: passato prossimo, imperfetto, passato remoto",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "jRT5YF",
-				"kind": "feature-randomize-phrases-in-cpf",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "dzLOI8",
-				"kind": "feature-enable-50-550-params-in-cpf",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "ao1YIT",
-				"kind": "feature-prepare-audio-files-for-mp3-stick",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "copy the most recent files of each language into a directory called \"COMPOUT\"",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "cnemDT",
-				"kind": "feature-list-recording-tips",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "e.g. for ta the middle \"t\", etc.",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "all entries from pronunciation.txt",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "for pl, ru, el, is: 10 phrases plus e.g. \"POLISH:  Create a 550 word story in A1 Polish that uses numbers between 1 and 100, days of the week, basic colors, month names, telling time, family members, vocabulary from everyday life and common daily routines\" and \"spell out all numbers\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "ta, de, fr, es, it, nl, pl, ru, el, is",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "n3qWxR",
-				"kind": "update readme",
-				"title": "",
-				"outlineItems": []
-			},
-			{
-				"suuid": "YLfVeR",
-				"kind": "task",
-				"title": "automate the process of creating a text from the google spreadsheet",
-				"outlineItems": []
-			},
-			{
-				"suuid": "DQS8xF",
-				"kind": "task",
-				"title": "add note on what site is made with at top",
-				"outlineItems": []
-			},
-			{
-				"suuid": "7VtUhn",
-				"kind": "task",
-				"title": "parse and display pronunciation.txt",
-				"outlineItems": []
-			},
-			{
-				"suuid": "3jBN38",
-				"kind": "task",
-				"title": "make cpg more automatic so it creates all the prompt files (and deletes the old ones), or perhaps in one file",
-				"outlineItems": []
-			},
-			{
-				"suuid": "BUfBPA",
-				"kind": "task",
-				"title": "fix",
-				"outlineItems": []
-			},
-			{
-				"suuid": "jjJdir",
-				"kind": "task",
-				"title": "make defautls intelligent and useful",
-				"outlineItems": []
-			},
-			{
-				"suuid": "1lkpLy",
-				"kind": "task",
-				"title": "update to newests datapod-for-go version (qtools etc.)",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "1eARy2",
-		"idCode": "start-nuxt-site-002",
-		"title": "START-NUXT-SITE-002",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-nuxt-site-002",
-		"live": "",
-		"mainImage": "/images/projects/start-nuxt-site-002.jpg",
-		"categories": [
-			{
-				"idCode": "start",
-				"shortInfo": "created by Antigravity/Claude, nice UX, mobile has smooth fade"
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "FW5bJl",
-				"kind": "info",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "createdOn::2025-11-27",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "createdBy::Antigravity with Claude Sonnet 4.5",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::start;created by Antigravity/Claude, nice UX, mobile has smooth fade",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "pNnZY4",
+				"suuid": "2zE6TE",
 				"kind": "feature",
-				"title": "Fix mobile menu click //2025-11-30 23",
+				"title": " Order import listing by number of phrases //2025-10-13 07:55:31..2025-10-13 08:02:23",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch:: fix-mobile-menu-clicks",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "DOUBLE",
-						"marker": ""
+						"line": "branch: feature-reorder-import-list",
+						"marker": "x"
 					},
 					{
 						"indents": 2,
-						"line": "fixed by Antigravity",
+						"line": "find where list is made",
 						"marker": "x"
 					}
 				]
 			},
 			{
-				"suuid": "x7CYwU",
+				"suuid": "IvVssm",
 				"kind": "feature",
-				"title": "done 2",
-				"outlineItems": []
-			},
-			{
-				"suuid": "IuHGWX",
-				"kind": "feature",
-				"title": "done 3",
-				"outlineItems": []
-			}
-		]
-	},
-	{
-		"suuid": "Iuiyj7",
-		"idCode": "edwards-projects",
-		"title": "EDWARDS-PROJECTS",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/edwards-projects",
-		"live": "",
-		"mainImage": "/images/projects/edwards-projects.jpg",
-		"categories": [],
-		"projectItems": [
-			{
-				"suuid": "PPSEEa",
-				"kind": "feature",
-				"title": "Process and display all tasks basic data //2025-12-20 16",
+				"title": " Use most recent phrases first //2025-10-09 10:58:45..2025-10-09 11:53:47",
 				"outlineItems": [
 					{
 						"indents": 2,
@@ -4009,7 +2613,179 @@
 					},
 					{
 						"indents": 3,
-						"line": "branch::feature-show-all-tasks",
+						"line": "if you have 200 phrases",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "you had 50 more",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "then those 50 will be used first",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "branch: feature-use-most-recent-phrases",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "testing",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "TEST 1: npm run import cp nl 3",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "it choose:  \"waar gaat het echt over\", \"beschouw\", \"essentieel\".",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "these were from these dates:",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "\"waar gaat het echt over\": 2025-10-08 11:37:31",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "\"beschouw\": 2025-10-08 11:37:31",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "\"essentieel\": 2025-10-08 11:37:31",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "TEST 2: npm run import cp nl 3",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "choose the same ones",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "the five are these:",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "---------------------------------",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "9067: waar gaat het echt over, 2025-10-08 11:37:31",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "9069: beschouw, 2025-10-08 11:37:31",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "9070: essentieel, 2025-10-08 11:37:31",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "9071: lunchen, 2025-10-08 11:37:31",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "9072: nader, 2025-10-08 11:37:31",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "---------------------------------",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "find where ordering takes place",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "reverse it",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "BPJX2K",
+				"kind": "feature",
+				"title": " CLI command \"cpf\" creates prompt files for all languages //2025-06-09 12:31:32..2025-06-10 00:12:39",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-any-language-available-for-text-creation",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "ghJiYF",
+				"kind": "feature",
+				"title": " Enable 10 100 to be sent as params, with defaults if not sent //2025-06-09 13:14:09..2025-06-09 15:17:03",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "copy phrases to file and make work as needed",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make sure 100 is words, change name to numberOfWords",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "params with normal defaults",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "x2oZXB",
+				"kind": "feature",
+				"title": " For command npm run cpg fr, randomize order of phrases //2025-06-09 17:14:02..2025-06-09 17:19:03",
+				"outlineItems": []
+			},
+			{
+				"suuid": "ldFZ9h",
+				"kind": "feature",
+				"title": " Show history of phrases for \"cpf\" //2025-06-10 16:14:09..2025-06-10 17:12:19",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-show-history-of-phrases",
 						"marker": ""
 					},
 					{
@@ -4019,938 +2795,74 @@
 					},
 					{
 						"indents": 2,
-						"line": "new page: Tasks",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "most recent",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "decide if frontend uses current JSON or a dedicated tasks.json: dedicated",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "create tasks.json",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "change globally to outlineItems in JSON",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "run all sub methods in convert",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "make adjust_indents",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "make Task",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "projectIdCode",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "suuid",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "kind",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "title",
-						"marker": ""
-					},
-					{
-						"indents": 6,
-						"line": "outlineItems",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "make: create_tasks",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "show on frontend",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "merge",
+						"line": "mock print each day",
 						"marker": "x"
 					}
 				]
 			},
 			{
-				"suuid": "E3dchA",
-				"kind": "base",
-				"title": "Create minimal site and put online //2025-10-17 20",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "create base",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "change titles",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "based on",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "minimize welcome page",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "readme",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "push",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "publish",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "good term: Live & In Production",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "8wVezo",
+				"suuid": "mgVrVx",
 				"kind": "feature",
-				"title": "Enable second file to be processed and combine projects //2025-12-17 20",
+				"title": " Implement script to create prompts from google translate phrases //2025-06-08 20:11:09..2025-06-08 20:44:02",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-process-second-file",
-						"marker": ""
+						"line": "make mock script: cpg (create-prompts-from-google-translate)",
+						"marker": "x"
 					},
 					{
 						"indents": 2,
-						"line": "add as doubles",
+						"line": "rename cpf to cpl (create-prompts-from-linkedin)",
 						"marker": "x"
 					},
-					{
-						"indents": 3,
-						"line": "understand process, make changes",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "rename first process to 001",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "add file 002",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "simply add to file to get dubles",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "enable to be parsed without INFO",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "plan how to combine",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "create CombinedProject",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "first simple (online suuid, idCode)",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "add project send it",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "create combined_projects.json",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "make it do the same as now",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "make Factory-->create_projects",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "get combined_projects from factory and create jSON file",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "rename",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "rename Project-->RawProject",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "rename CombinedProject-->Project",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "fill out projects and display frontend",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "test frontend",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "fix images",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "change idCode to id_code",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "test frontend",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "change all methods to snake_case",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "test frontend",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "show number of project items on frontend",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "create ProjectConverter",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "create and make it do the same as now",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "get array of unique idCodes",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "go through, on all after first, simply add the project Items",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "display number of project_items",
-						"marker": "x"
-					}
-				]
-			},
-			{
-				"suuid": "Zyg83X",
-				"kind": "decision",
-				"title": "Decide on best name \"start\" or \"starter\" //2025-11-30 23",
-				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "pro \"starter\"",
-						"marker": ""
+						"line": "download file from google translte: csv",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create slice of GoogleTranslateItems for that language: front, back",
+						"marker": "x"
 					},
 					{
 						"indents": 3,
-						"line": "\"this start is more usable\" sounds odd",
-						"marker": ""
+						"line": "create rawItems",
+						"marker": "x"
 					},
 					{
 						"indents": 4,
-						"line": "but we could say \"this start site\"",
+						"line": "list out first",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "create flashcardItems from rawItems",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix flashcards",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "fix bug with dutch",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "pro \"start\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "the name \"start\" is more what they are, a start, created by AI",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "they are not so much a \"starter\", since that is a \"template\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "also, all of our urls are already called start",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "chose: \"start\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "seems to work, find myself saying \"start site\" if it needs to be clear",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "ViBHml",
-				"kind": "feature",
-				"title": "Show start sites //2025-11-30 23",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-show-starts",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "fixed error (email in notes)",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "list out one start",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "show image as well",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "enter the rest of the starts",
-						"marker": "x"
-					}
-				]
-			},
-			{
-				"suuid": "QMjV5m",
-				"kind": "content",
-				"title": "Add showcase-typo3 //2025-10-31 15",
-				"outlineItems": []
-			},
-			{
-				"suuid": "DOtp4m",
-				"kind": "feature",
-				"title": "Create all current images //2025-10-27 15",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "make them",
-						"marker": "x"
-					}
-				]
-			},
-			{
-				"suuid": "NgzTkV",
-				"kind": "feature",
-				"title": "Show image if exists //2025-10-27 14",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "fix space on bottom",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "image",
+						"line": "create prompt text",
 						"marker": "x"
 					},
 					{
 						"indents": 3,
-						"line": "first mock",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "make it appear for a specific project",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "mock image property",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "mock mainImage",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "mock: get_image_path_and_file_name",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "search for file",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "fix path",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "move dot",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "only show if exists",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "make a no image",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "debug out",
-						"marker": "x"
-					}
-				]
-			},
-			{
-				"suuid": "jGbnN1",
-				"kind": "feature",
-				"title": "Make Responsive //2025-10-27 11",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "branch::feature-make-responsive",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "spin-gear component",
+						"line": "fix unknown",
 						"marker": "x"
 					},
 					{
 						"indents": 2,
-						"line": "make short-info component",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "make disappear if smartphone",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "show inside if open",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "if inside, then all text",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "spin outside",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "short-info pop in label above live",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "top margin of tab more",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "change live and repo so they don't have long links",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "repo",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "test long text",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "about page so links don't extend off",
-						"marker": "x"
-					}
-				]
-			},
-			{
-				"suuid": "QVQKJ8",
-				"kind": "feature",
-				"title": "Implement categories //2025-10-24 13",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-implement-categories",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "cleanup",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "parse category lines into JSON",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "make mocks",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "display categories on front",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "get ready",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "fix bug: all have first items",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "show the short_info",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "make rest of categories",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "send \"categoryIdCode\" to the component",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "live",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "showcase",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "upcoming",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "no repo",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "live site",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "fill in all live sites",
-						"marker": "x"
-					},
-					{
-						"indents": 6,
-						"line": "fix live for note",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "all current",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "2 more",
-						"marker": "x"
-					}
-				]
-			},
-			{
-				"suuid": "GqcvFh",
-				"kind": "feature",
-				"title": "Create active, planning and stable project sections //2025-10-20 13",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "branch: feature-parse-all-fields",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "don't trim",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "make qdev.showLineBlocks",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "trim top and bottom",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "make Projects which accepts a lineblock",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "parse it internally, replace current with small change",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "create OutlineBlock",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "list of OutlineItem[]",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "indents:num",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "line:str",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "save to JSON OutlineItems, first line string for now",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "change from line_block to lines globally",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "switch back to lines",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "count \\t",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "fix 4x same text",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "delete parse_file if don't need",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "fix integrity of variables",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "fix idcode self",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "parse project",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "in outline_item add marker",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "replace outline_items with project_items",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "fix (idCode)",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "figure out why project has projects",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "read in x projects",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "finish project_items",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "fix temp",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "fix: include last project_item",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "start with second line",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "read double-colon variables",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "if title than set project title",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "make status: (\"todo\", \"doing\", \"done\")",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "display in status groups",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "add status group: (\",,\")",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "make paused projects and show",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "if 0 then don't show",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "make smartPlural",
-						"marker": "x"
-					},
-					{
-						"indents": 6,
-						"line": "get imports to work",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "smartPlural on all",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "align variable names",
-						"marker": "x"
-					},
-					{
-						"indents": 5,
-						"line": "add type",
-						"marker": "x"
-					},
-					{
-						"indents": 6,
-						"line": "testing types in showcase nuxt",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "close out this feature and create new one called categories, restructure these notes",
-						"marker": "x"
-					}
-				]
-			},
-			{
-				"suuid": "ewczRM",
-				"kind": "feature",
-				"title": "Process first data file, list frontend idcodes //2025-10-17 21",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "branch: feature-list-frontend-idcodes",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "change pd command to list lines of text file to ```END",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "create mock projects.json",
-						"marker": "x"
-					},
-					{
-						"indents": 4,
-						"line": "switch to external file",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "make config file for python, and backport note",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": ".env file",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "only read to ``END",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "custom.get_project_line_blocks()",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "parse these blocks to create the json file",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "show on frontend",
-						"marker": "x"
-					},
-					{
-						"indents": 3,
-						"line": "close out",
+						"line": "enable any language (read parameter)",
 						"marker": "x"
 					}
 				]

@@ -13,6 +13,7 @@ class OutlineItem:
 	"""
 
 	def __init__(self, outline_line: str):
+		outline_line = outline_line.rstrip() # remove trailing whitespace, this fixes the problem that a blank line with tab would count as a block
 		self.indents = qstr.count_tabs_at_front_of_line(outline_line)
 		self.line = outline_line.strip()
 

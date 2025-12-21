@@ -157,10 +157,19 @@ def chopLeft(main: str, chop: str) -> str:
 def breakIntoParts(main: str, separator: str) -> list[str]:
     return [part.strip() for part in main.split(separator)]
 
+def delete_after_marker(main: str, marker: str) -> str:
+	return get_smart_part(main, marker, 0)
+
 def get_smart_part(main:str, separator: str, index: int) -> str:
     parts = breakIntoParts(main, separator)
     if len(parts) > index:
         return parts[index]
+    return ""
+
+def get_rest_after_first_instance(main: str, instance: str) -> str:
+    index = main.find(instance)
+    if index != -1:
+        return main[index + len(instance):]
     return ""
 
 def get_line_variable(line:str, variable_name: str) -> str:

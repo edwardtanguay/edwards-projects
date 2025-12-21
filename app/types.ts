@@ -8,12 +8,11 @@ export type Project = {
 	mainImage: string;
 	mode: "active" | "planning" | "stable" | "closed";
 	category: Category[]
-	projectItems: ProjectItem[]
 }	
 
 export type Category = {
 	idCode: string;
-	short_info: string;
+	shortInfo: string;
 }
 
 export type ProjectItem = {

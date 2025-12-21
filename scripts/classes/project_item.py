@@ -16,9 +16,10 @@ outline_items = e.g.
 
 class ProjectItem:
 	outline_items: list[OutlineItem]
-	suuid: str
-	kind: str
-	title: str
+	suuid: str = ""
+	kind: str = ""
+	title: str = ""
+	marker: str = ""
 	project_title: str = ""
 	project_status: str = ""
 	project_repo: str = ""
@@ -31,13 +32,15 @@ class ProjectItem:
 		self.suuid = qstr.generate_short_uuid()
 
 		line1 = self.outline_items[0].line
+		self.marker = self.outline_items[0].marker
 		self.parse_kind_and_title(line1)
 		if self.kind == "info":
+			self.title = "(info)"
 			self.parse_line_variables()
 
 	def parse_kind_and_title(self, line: str):
 		self.kind = qstr.get_smart_part(line, ":", 0).lower()
-		self.title = qstr.get_smart_part(line, ":", 1)
+		self.title = qstr.get_rest_after_first_instance(line, ":")
 
 	def parse_line_variables(self):
 		for outline_item in self.outline_items[1:]:

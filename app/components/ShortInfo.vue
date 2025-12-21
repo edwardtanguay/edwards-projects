@@ -4,7 +4,7 @@ defineProps({
     type: String,
     required: true,
   },
-  short_info: {
+  shortInfo: {
     type: String,
     required: true,
   },
@@ -24,7 +24,7 @@ defineProps({
       </div>
     </template>
     <span :class="{ 'line-clamp-1': !showAll, 'first-letter:uppercase': showAll }">{{
-      short_info
+      shortInfo
     }}</span>
   </div>
 </template>

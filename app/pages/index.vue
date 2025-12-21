@@ -26,7 +26,7 @@ const startProjects = _projects.filter((project) =>
                       :key="project.suuid"
                       :category="`active`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.idCode === 'active').short_info
+                      :shortInfo="project.categories.find((category) => category.idCode === 'active').shortInfo
                         " />
     </div>
 
@@ -36,8 +36,8 @@ const startProjects = _projects.filter((project) =>
                       :key="project.suuid"
                       :category="`upcoming`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.idCode === 'upcoming')
-                          .short_info
+                      :shortInfo="project.categories.find((category) => category.idCode === 'upcoming')
+                          .shortInfo
                         " />
     </div>
 
@@ -48,7 +48,7 @@ const startProjects = _projects.filter((project) =>
                       :title="``"
                       :category="`live`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.idCode === 'live').short_info
+                      :shortInfo="project.categories.find((category) => category.idCode === 'live').shortInfo
                         " />
     </div>
 
@@ -59,8 +59,8 @@ const startProjects = _projects.filter((project) =>
                       :title="``"
                       :category="`showcase`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.idCode === 'showcase')
-                          .short_info
+                      :shortInfo="project.categories.find((category) => category.idCode === 'showcase')
+                          .shortInfo
                         " />
     </div>
 
@@ -71,8 +71,8 @@ const startProjects = _projects.filter((project) =>
                       :title="``"
                       :category="`start`"
                       :project="project"
-                      :short_info="project.categories.find((category) => category.idCode === 'start')
-                          .short_info
+                      :shortInfo="project.categories.find((category) => category.idCode === 'start')
+                          .shortInfo
                         " />
     </div>
   </div>
