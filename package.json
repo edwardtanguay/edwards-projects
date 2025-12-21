@@ -1,30 +1,32 @@
 {
-  "name": "edwards-projects",
-  "type": "module",
+  "name": "my-site",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev -p 3064 -o",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
+    "dev": "next dev -p 3325",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
     "cp": "cd scripts && python create_page.py",
     "pd": "cd scripts && python parse_data.py",
     "learn": "cd scripts && python cli_learn.py",
     "gh": "git log --pretty=format:\"%ad | %h | %s\" --date=format:\"%Y-%m-%d %H:%M:%S\"",
-    "backup": "bash -c 'git archive --format=zip HEAD -o \"../BACKUP/edwards-projects-$(date +%F-%H-%M-%S).zip\"'",
-    "test": "pytest"
+    "backup": "bash -c 'git archive --format=zip HEAD -o \"../BACKUP/edwards-projects-$(date +%F-%H-%M-%S).zip\"'"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.13",
-    "nuxt": "^4.1.2",
-    "tailwindcss": "^4.1.13",
-    "vue": "^3.5.21",
-    "vue-router": "^4.5.1"
+    "lucide-react": "^0.554.0",
+    "next": "^16.1.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
   },
   "devDependencies": {
-    "@types/node": "^24.5.2",
-    "sass": "^1.93.0",
-    "sass-loader": "^16.0.5"
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.4",
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }

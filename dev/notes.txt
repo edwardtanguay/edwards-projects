@@ -1,2 +1,0 @@
-line_block = line[str]
-line_blocks = line[line[str]]
