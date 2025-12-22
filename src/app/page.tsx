@@ -14,7 +14,7 @@ export default function Home() {
 						development projects.
 					</p>
 
-					<p className="text-gray-300 mt-4">
+					<p className="text-gray-300 mt-4 bg-gray-800 sm:bg-transparent px-4 py-2 sm:p-0 rounded-lg sm:rounded-none text-2xl leading-loose sm:text-base sm:leading-normal">
 						Check out my{" "}
 						<Link href="/active-projects" className="text-blue-400 hover:text-blue-300 underline">
 							active projects
@@ -23,11 +23,11 @@ export default function Home() {
 						<Link href="/current-tasks" className="text-blue-400 hover:text-blue-300 underline">
 							current tasks
 						</Link>{" "}
-						I'm working on, view{" "}
+						I'm working on, view my{" "}
 						<Link href="/upcoming-tasks" className="text-blue-400 hover:text-blue-300 underline">
 							upcoming tasks
 						</Link>
-						, browse{" "}
+						, browse my{" "}
 						<Link href="/finished-tasks" className="text-blue-400 hover:text-blue-300 underline">
 							finished tasks
 						</Link>
