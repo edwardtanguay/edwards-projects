@@ -32,7 +32,7 @@ export default function Home() {
 					</p>
 				</div>
 
-				<div className="grid grid-cols-[repeat(auto-fit,minmax(25rem,1fr))] gap-6">
+				<div className="flex flex-col gap-6">
 					{currentProjects.map((project) => (
 						<Project
 							key={project.suuid ?? project.idCode}

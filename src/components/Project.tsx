@@ -11,7 +11,7 @@ interface Props {
 
 export default function Project({ project, currentCategory }: Props) {
 	return (
-		<div className="bg-gray-900 border border-gray-800 rounded-lg flex overflow-hidden min-w-[25rem] max-w-[35rem] min-h-[15rem] max-h-[15rem]">
+		<div className="bg-gray-900 border border-gray-800 rounded-lg flex overflow-hidden sm:min-w-[25rem] max-w-[35rem] min-h-[15rem] max-h-[15rem]">
 			{project.imageMobile && <Image className="w-32 h-full object-cover flex-shrink-0" src={project.imageMobile} alt={project.title} width={128} height={240} />}
 			<div className="p-6 flex flex-col overflow-hidden flex-1 min-w-0">
 				<h2 className="text-lg font-semibold text-orange-300">
