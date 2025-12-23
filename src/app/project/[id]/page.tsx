@@ -32,7 +32,7 @@ export default function Project() {
 								{project.techItems?.map((tech, index) => (
 									<span
 										key={index}
-										className="px-2 py-0.5 rounded bg-orange-500/10 text-orange-300  text-xs font-semibold shadow-[0_0_15px_rgba(251,146,60,0.1)]"
+										className="text-orange-300/90 text-xs font-semibold px-2 py-0.5 rounded-sm bg-black/20 border border-black/40 shadow-sm"
 									>
 										{tech}
 									</span>
@@ -60,7 +60,7 @@ export default function Project() {
 										alt={`${project.title} - Desktop`}
 										className="rounded-sm shadow-[0_0_30px_rgba(59,130,246,0.2)] border border-blue-500/30 transition-all duration-300"
 									/>
-									<p className="text-center text-sm text-gray-400 mt-2 hidden sm:block">Desktop View</p>
+									<p className="text-center text-sm text-gray-400 mt-2">Desktop View</p>
 								</div>
 							)}
 						</div>

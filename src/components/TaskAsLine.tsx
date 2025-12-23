@@ -24,9 +24,9 @@ export default function Task({ task }: { task: TaskData }) {
 					</div>
 				)}
 				{task.stage === "finished" && (
-					<div className="text-[10px] bg-gray-800 text-gray-300 flex items-center gap-1 px-1.5 py-0.5 rounded mr-2">
-						<Check className="w-3 h-3 text-emerald-500 shrink-0" />
-						<span className="text-gray-100 font-medium whitespace-nowrap">
+					<div className="text-[10px] text-gray-300 flex items-center gap-1.5 mr-3 px-1.5 py-0.5 bg-black/30 border border-black/50 rounded-sm">
+						<Check className="w-3 h-3 text-emerald-500/80 shrink-0" />
+						<span className="font-bold uppercase tracking-tight">
 							{new Date(task.endDateTime).toLocaleDateString("en-US", {
 								month: "short",
 								day: "2-digit",
