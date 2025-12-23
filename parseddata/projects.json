@@ -1,41 +1,56 @@
 [
 	{
-		"suuid": "m21f2g",
+		"suuid": "Fm8Ajo",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
+		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
 		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
 		"mode": "active",
 		"repo": "https://github.com/edwardtanguay/edwards-projects",
 		"live": "https://edwards-projects.vercel.app",
-		"mainImage": "",
+		"techItems": [
+			"Python",
+			"Next.js 16",
+			"TypeScript",
+			"Tailwind"
+		],
+		"imageMobile": "/images/projects/edwards-projects-mobile.jpg",
+		"imageDesktop": "/images/projects/edwards-projects-desktop.jpg",
 		"categories": [
 			{
 				"idCode": "live",
 				"shortInfo": "this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates"
 			},
 			{
-				"idCode": "active",
-				"shortInfo": "currently creating basic parsing of text files that show project information"
+				"idCode": "current",
+				"shortInfo": "I just upgraded this site to a modern, professional dark design and am moving all the previous content back into the site."
 			}
 		]
 	},
 	{
-		"suuid": "gCF5wQ",
+		"suuid": "K15CNk",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
+		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
 		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/comprehensible-output",
 		"live": "https://comprehensible-output.vercel.app",
-		"mainImage": "",
+		"techItems": [
+			"Go",
+			"React",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
+		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
 		"categories": [
 			{
 				"idCode": "live",
 				"shortInfo": "my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch"
 			},
 			{
-				"idCode": "active",
-				"shortInfo": "I update this site daily, recording an audio of a story created by AI based on phrases I looked up recently in Google Translate"
+				"idCode": "current",
+				"shortInfo": "I'm currently adding features that streamline the daily story-creation process as well as adding various quizzes for Italian and Spanish."
 			}
 		]
 	}

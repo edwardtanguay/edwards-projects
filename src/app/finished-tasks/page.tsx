@@ -4,7 +4,6 @@ import Task from "../../components/Task";
 
 const finishedTasks = tasks.filter(task => task.stage === "finished").sort((a, b) => (a.endDateTime < b.endDateTime ? 1 : -1));
 
-
 export default function Company() {
 	return (
 		<div className="p-8 md:p-12 max-w-4xl">

@@ -22,7 +22,7 @@ interface NavItem {
 
 const navItems: NavItem[] = [
 	{ label: "Home", href: "/", icon: <Home size={20} /> },
-	{ label: "Active Projects", href: "/active-projects", icon: <Activity size={20} /> },
+	{ label: "Current Projects", href: "/current-projects", icon: <Activity size={20} /> },
 	{ label: "Current Tasks", href: "/current-tasks", icon: <Cog size={20} /> },
 	{ label: "Upcoming Tasks", href: "/upcoming-tasks", icon: <CalendarFold size={20} /> },
 	{ label: "Finished Tasks", href: "/finished-tasks", icon: <SquareCheck size={20} /> },

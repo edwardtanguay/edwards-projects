@@ -7,12 +7,15 @@ export type Project = {
 	suuid: string;
 	idCode: string;
 	title: string;
+	description: string;
 	status: string;
 	mode: string;
 	repo: string;
 	live: string;
-	mainImage: string;
+	imageMobile: string;
+	imageDesktop: string;
 	categories: Category[];
+	techItems: string[];
 };
 
 export type TaskStage = "current" | "upcoming" | "finished" | string;

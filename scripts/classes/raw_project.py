@@ -28,10 +28,13 @@ class RawProject:
 	mode: str = ""
 	repo: str = ""
 	live: str = ""
-	main_image: str = ""
+	description: str = ""
+	image_mobile: str = ""
+	image_desktop: str = ""
 	categories: list[CategoryItem] = []
 	outline_block: OutlineBlock = None
 	project_items: list[ProjectItem] = []
+	tech_items: list[str] = []
 
 	def __init__(self, project_line_block: list[str]):
 		self.categories = []
@@ -41,7 +44,7 @@ class RawProject:
 		self.parse_general_fields()
 		self.parse_project_items()
 		self.parse_line_variables()
-		self.define_main_image()
+		self.define_images()
 		self.define_mode() # TODO: remove
 
 	def define_mode(self):
@@ -63,6 +66,8 @@ class RawProject:
 		for project_item in self.project_items:
 			if project_item.kind == "info":
 				self.title = project_item.project_title
+				self.description = project_item.project_description
+				self.tech_items = [item.strip() for item in project_item.project_tech.split(",") if item.strip()]
 				self.status = project_item.project_status
 				self.repo = project_item.project_repo
 				self.live = project_item.project_live
@@ -107,19 +112,23 @@ class RawProject:
 		else:
 			return self.repo
 
-	def define_main_image(self):
-		self.main_image = qfil.get_image_path_and_file_name("/images/projects/", self.id_code)
+	def define_images(self):
+		self.image_mobile = qfil.get_image_path_and_file_name("/images/projects/", self.id_code + "-mobile")
+		self.image_desktop = qfil.get_image_path_and_file_name("/images/projects/", self.id_code + "-desktop")
 		
 	def to_json(self):
 		return {
 			'suuid': self.suuid,
 			'idCode': self.id_code,
 			'title': self.title,
+			'description': self.description,
 			'status': self.status,
 			'mode': self.mode, # TODO: remove
 			'repo': self.repo,
 			'live': self.live,
-			'mainImage': self.main_image,
+			'techItems': self.tech_items,
+			'imageMobile': self.image_mobile,
+			'imageDesktop': self.image_desktop,
 			'categories': [category.to_string() for category in self.categories],
 			'projectItems': [project_item.to_json() for project_item in self.project_items]
 		}

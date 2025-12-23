@@ -22,12 +22,14 @@ class ProjectItem:
 	title: str = ""
 	marker: str = ""
 	project_title: str = ""
+	project_description: str = ""
 	project_status: str = ""
 	project_repo: str = ""
 	project_live: str = ""
 	project_category_lines: list[str] = []
 	branch: str = ""
 	rank: float = 2.5
+	project_tech: str = ""
 
 	def __init__(self, outline_items: list[OutlineItem]):
 		self.project_category_lines = []
@@ -70,6 +72,11 @@ class ProjectItem:
 			if title != "":
 				self.project_title = title
 				
+			# project description
+			description = qstr.get_line_variable(line, "description")
+			if description != "":
+				self.project_description = description
+				
 			# project status
 			status = qstr.get_line_variable(line, "status")
 			if status != "":
@@ -85,6 +92,10 @@ class ProjectItem:
 			if live != "":
 				self.project_live = live
 
+			# project tech
+			tech = qstr.get_line_variable(line, "tech")
+			if tech != "":
+				self.project_tech = tech 
 
 			# project categories
 			category = qstr.get_line_variable(line, "category")

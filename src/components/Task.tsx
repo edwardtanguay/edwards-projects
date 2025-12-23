@@ -1,10 +1,11 @@
 import { Task as TaskData } from "../types";
 import { Check } from "lucide-react";
+import Link from "next/link";
 
 export default function Task({ task }: { task: TaskData }) {
 	return (
 		<div
-			className="bg-gradient-to-br from-gray-800 to-gray-900 border border-gray-700 rounded-lg p-4 hover:border-blue-600 hover:shadow-lg hover:shadow-blue-500/20 transition"
+			className="bg-gradient-to-br from-gray-800 to-gray-900 border border-gray-700 rounded-lg p-4"
 		>
 			<h2 className="text-xl font-semibold text-blue-100 mb-3">
 				{task.title}
@@ -13,9 +14,12 @@ export default function Task({ task }: { task: TaskData }) {
 				<div className="flex flex-col gap-1">
 					<p className="text-sm text-gray-300">
 						Project:{" "}
-						<span className="text-purple-300 font-medium">
+						<Link
+							href={`/project/${task.projectIdCode}`}
+							className="text-orange-300 font-medium underline md:no-underline decoration-orange-300/30 underline-offset-4 hover:underline"
+						>
 							{task.projectIdCode}
-						</span>
+						</Link>
 					</p>
 					{task.stage === "current" && task.beginDateTime && (
 						<p className="text-sm text-gray-300">

@@ -2,8 +2,8 @@
 import _projects from "../../../parseddata/projects.json";
 import Project from "../../components/Project";
 
-const activeProjects = _projects.filter((project) =>
-	project.categories.some((category) => category.idCode === "active")
+const currentProjects = _projects.filter((project) =>
+	project.categories.some((category) => category.idCode === "current")
 );
 // TODO: put these on other pages
 // const upcomingProjects = _projects.filter((project) =>
@@ -21,22 +21,23 @@ const activeProjects = _projects.filter((project) =>
 
 export default function Home() {
 	return (
-		<div className="p-8 md:p-12 max-w-4xl">
+		<div className="p-8 md:p-12 max-w-6xl">
 			<div className="space-y-8">
 				<div>
 					<h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-4">
-						Active Projects
+						Current Projects
 					</h1>
 					<p className="text-lg text-gray-400 leading-relaxed">
-						I'm currently working on the following software projects.
+						These are the projects for which I'm actively developing new features at the moment.
 					</p>
 				</div>
 
-				<div className="grid md:grid-cols-2 gap-6">
-					{activeProjects.map((project) => (
+				<div className="grid grid-cols-[repeat(auto-fit,minmax(25rem,1fr))] gap-6">
+					{currentProjects.map((project) => (
 						<Project
 							key={project.suuid ?? project.idCode}
 							project={project}
+							currentCategory="current"
 						/>
 					))}
 				</div>
