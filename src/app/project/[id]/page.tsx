@@ -24,6 +24,7 @@ export default function Project() {
 			<div className="space-y-8">
 				{project && (
 					<div>
+						<p className="text-gray-400 uppercase tracking-[0.3em] text-xs mb-1">Project</p>
 						<h1 className="text-4xl md:text-5xl font-bold text-orange-300 mb-4">
 							{project.title}
 						</h1>
@@ -88,7 +89,7 @@ export default function Project() {
 						{/* Upcoming Tasks */}
 						<div className="mt-8">
 							<h2 className="text-2xl font-bold mb-4">Upcoming Tasks
-								<span className="text-xs font-medium mr-2 opacity-70 italic"> - rank <span className="text-red-300">5</span> to <span className="text-red-300">0</span></span>
+								<span className="text-xs font-medium mr-2 opacity-70 italic"> - rank <span className="text-yellow-400">5</span> to <span className="text-yellow-400">0</span></span>
 							</h2>
 							<div>
 								{upcomingTasks.map((task) => (

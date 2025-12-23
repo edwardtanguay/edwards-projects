@@ -14,7 +14,7 @@ export default function Task({ task }: { task: TaskData }) {
 		<div className="text-gray-300 flex items-start mb-1.5">
 			<div className="shrink-0 h-6 flex items-center">
 				{task.stage === "upcoming" && (
-					<div className="text-red-300 font-medium whitespace-nowrap">
+					<div className="text-yellow-400 font-medium whitespace-nowrap">
 						{task.rank.toFixed(2)} -&nbsp;
 					</div>
 				)}
@@ -24,7 +24,7 @@ export default function Task({ task }: { task: TaskData }) {
 					</div>
 				)}
 				{task.stage === "finished" && (
-					<div className="text-[10px] text-gray-300 flex items-center gap-1.5 mr-3 px-1.5 py-0.5 bg-black/30 border border-black/50 rounded-sm">
+					<div className="text-[10px] text-gray-300 flex items-center gap-1.5 mr-3 px-1.5 py-0.5 bg-white/5 border border-white/10 rounded-sm">
 						<Check className="w-3 h-3 text-emerald-500/80 shrink-0" />
 						<span className="font-bold uppercase tracking-tight">
 							{new Date(task.endDateTime).toLocaleDateString("en-US", {

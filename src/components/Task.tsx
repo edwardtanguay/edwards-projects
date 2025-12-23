@@ -34,7 +34,7 @@ export default function Task({ task }: { task: TaskData }) {
 					)}
 					{task.stage === "upcoming" && task.rank && (
 						<p className="text-sm text-gray-300">
-							Rank: <span className="text-red-300 font-medium">{task.rank}</span>
+							Rank: <span className="text-yellow-400 font-medium">{task.rank}</span>
 						</p>
 					)}
 					{task.stage === "finished" && task.endDateTime && (

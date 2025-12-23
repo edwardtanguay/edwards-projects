@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "PaW4In",
+		"suuid": "QvcGIU",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
 		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
@@ -28,7 +28,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "9ilAHz",
+				"suuid": "FMZbc4",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -151,33 +151,16 @@
 						"indents": 0,
 						"line": "",
 						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "1l6RYt",
-				"kind": "feature",
-				"title": " Simplify screenshot in mobile view //2025-12-23 14:01:06..",
-				"outlineItems": [
+					},
 					{
-						"indents": 2,
-						"line": "INFO",
+						"indents": 0,
+						"line": "",
 						"marker": ""
 					},
 					{
-						"indents": 3,
-						"line": "branch::feature-simplify-screenshot-mobile",
+						"indents": 0,
+						"line": "",
 						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "fix button dip issue",
-						"marker": "x"
-					},
-					{
-						"indents": 2,
-						"line": "fix long text issue",
-						"marker": ".."
 					},
 					{
 						"indents": 0,
@@ -187,19 +170,14 @@
 				]
 			},
 			{
-				"suuid": "AT8oK1",
+				"suuid": "u1VGqy",
 				"kind": "feature",
-				"title": " Import all projects from both data files //2025-12-23 11:47:22..",
+				"title": " Import all projects from both data files //2025-12-23 17:13:13..",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.97",
-						"marker": ""
+						"line": "start new folder structure",
+						"marker": ".."
 					},
 					{
 						"indents": 3,
@@ -235,28 +213,6 @@
 						"indents": 0,
 						"line": "",
 						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "tKHMCN",
-				"kind": "fix",
-				"title": " Resolve dipping-buttons issue on screen-width sliding",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.98",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
 					},
 					{
 						"indents": 0,
@@ -266,34 +222,7 @@
 				]
 			},
 			{
-				"suuid": "gEw4IY",
-				"kind": "feature",
-				"title": " Implement validation on parse",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.92",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "check dates if current",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "zH8ug8",
+				"suuid": "hdGqXI",
 				"kind": "feature",
 				"title": " Show number of projects and calculate centrally",
 				"outlineItems": [
@@ -316,11 +245,38 @@
 						"indents": 0,
 						"line": "",
 						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "DRh1Jr",
+				"suuid": "k9Ae7n",
+				"kind": "feature",
+				"title": " Implement validation on parse",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.92",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "check dates if current",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "FTMhCT",
 				"kind": "feature",
 				"title": " On project component, cut off description and warn",
 				"outlineItems": [
@@ -342,7 +298,7 @@
 				]
 			},
 			{
-				"suuid": "4LqjBV",
+				"suuid": "BSeX3E",
 				"kind": "feature",
 				"title": " Add dates globally to give up-to-date vibe to site",
 				"outlineItems": [
@@ -359,7 +315,7 @@
 				]
 			},
 			{
-				"suuid": "VXTbSm",
+				"suuid": "GmOm3m",
 				"kind": "feature",
 				"title": " Make mobile/desktop toggle",
 				"outlineItems": [
@@ -376,7 +332,7 @@
 				]
 			},
 			{
-				"suuid": "HX1r3F",
+				"suuid": "iHk3pq",
 				"kind": "feature",
 				"title": " Add stats as graphics on front page",
 				"outlineItems": [
@@ -393,7 +349,7 @@
 				]
 			},
 			{
-				"suuid": "gavT1h",
+				"suuid": "b0nnt7",
 				"kind": "feature",
 				"title": " Show example of data files on about page",
 				"outlineItems": [
@@ -410,7 +366,7 @@
 				]
 			},
 			{
-				"suuid": "NVBLsJ",
+				"suuid": "b1KaeC",
 				"kind": "feature",
 				"title": " Display descriptions on e.g. starts, showcases (what they are)",
 				"outlineItems": [
@@ -427,7 +383,7 @@
 				]
 			},
 			{
-				"suuid": "wAg0Bp",
+				"suuid": "dKyFfS",
 				"kind": "feature",
 				"title": " Enable link to branch",
 				"outlineItems": [
@@ -444,7 +400,7 @@
 				]
 			},
 			{
-				"suuid": "udOTe9",
+				"suuid": "n7OfWv",
 				"kind": "feature",
 				"title": " Enable link to commit to be saved",
 				"outlineItems": [
@@ -466,7 +422,7 @@
 				]
 			},
 			{
-				"suuid": "TQgEZS",
+				"suuid": "3Dkslf",
 				"kind": "dev",
 				"title": " Clean up mode and status",
 				"outlineItems": [
@@ -493,7 +449,7 @@
 				]
 			},
 			{
-				"suuid": "fE4zQ4",
+				"suuid": "XUyRob",
 				"kind": "content",
 				"title": " Add rest of projects",
 				"outlineItems": [
@@ -520,7 +476,7 @@
 				]
 			},
 			{
-				"suuid": "u570kO",
+				"suuid": "b0yWGS",
 				"kind": "featuer",
 				"title": " Implement global search",
 				"outlineItems": [
@@ -537,7 +493,7 @@
 				]
 			},
 			{
-				"suuid": "EN5aHE",
+				"suuid": "mEVi7g",
 				"kind": "feature",
 				"title": " Make single project view with permalink",
 				"outlineItems": [
@@ -554,7 +510,7 @@
 				]
 			},
 			{
-				"suuid": "tADmgP",
+				"suuid": "uoUlK7",
 				"kind": "feature",
 				"title": " Make dummy data for repository",
 				"outlineItems": [
@@ -576,7 +532,7 @@
 				]
 			},
 			{
-				"suuid": "n7qoCP",
+				"suuid": "3wW0CN",
 				"kind": "feature",
 				"title": " Create \"npm run audit\" to find all missing information",
 				"outlineItems": [
@@ -600,7 +556,7 @@
 		]
 	},
 	{
-		"suuid": "jq3uL9",
+		"suuid": "cl6pWz",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
@@ -627,7 +583,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "Zl6MiK",
+				"suuid": "1wuCJ6",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -699,7 +655,7 @@
 				]
 			},
 			{
-				"suuid": "0n0bSD",
+				"suuid": "VpwvqO",
 				"kind": "feature",
 				"title": " Speed up parsing //2025-12-22 00:59:51..",
 				"outlineItems": [
@@ -721,7 +677,7 @@
 				]
 			},
 			{
-				"suuid": "v5ghPj",
+				"suuid": "x7u2FL",
 				"kind": "feature",
 				"title": " Make Learn Bits page",
 				"outlineItems": [
@@ -738,7 +694,7 @@
 				]
 			},
 			{
-				"suuid": "XZpqjX",
+				"suuid": "1vXXRs",
 				"kind": "feature",
 				"title": " Create page to practice pronunciation",
 				"outlineItems": [
@@ -765,7 +721,7 @@
 				]
 			},
 			{
-				"suuid": "IlBdAn",
+				"suuid": "Ce1rx9",
 				"kind": "feature",
 				"title": " Integrate pronuncation items into story creation",
 				"outlineItems": [
@@ -787,7 +743,7 @@
 				]
 			},
 			{
-				"suuid": "am1ISx",
+				"suuid": "fjNHxY",
 				"kind": "feature",
 				"title": " Integrate random standard practice into story creation",
 				"outlineItems": [
@@ -849,7 +805,7 @@
 				]
 			},
 			{
-				"suuid": "0P2RQj",
+				"suuid": "IM19Gc",
 				"kind": "feature",
 				"title": " Upgrade to modern design",
 				"outlineItems": [
@@ -866,7 +822,7 @@
 				]
 			},
 			{
-				"suuid": "SbsL00",
+				"suuid": "nV36r3",
 				"kind": "feature",
 				"title": " Make basic frontend for creation process",
 				"outlineItems": [
@@ -883,7 +839,7 @@
 				]
 			},
 			{
-				"suuid": "89cUc4",
+				"suuid": "tc852r",
 				"kind": "feature",
 				"title": " Enable simple and basic stories for weak languages",
 				"outlineItems": [
@@ -915,7 +871,7 @@
 				]
 			},
 			{
-				"suuid": "f1JXuA",
+				"suuid": "p0XQ1s",
 				"kind": "fix",
 				"title": " Resolve the first letter issue in the French text data file",
 				"outlineItems": [
@@ -937,7 +893,7 @@
 				]
 			},
 			{
-				"suuid": "emeKdR",
+				"suuid": "d8On8p",
 				"kind": "feature",
 				"title": " Create pronunciation quiz",
 				"outlineItems": [
@@ -969,7 +925,7 @@
 				]
 			},
 			{
-				"suuid": "kIegGe",
+				"suuid": "qLKwDk",
 				"kind": "feature",
 				"title": " Make -ere past participle quiz for Italian",
 				"outlineItems": [
@@ -991,7 +947,7 @@
 				]
 			},
 			{
-				"suuid": "ObJVND",
+				"suuid": "JbLOO1",
 				"kind": "feature",
 				"title": " Create fill-in-blank quiz",
 				"outlineItems": [
@@ -1063,7 +1019,7 @@
 				]
 			},
 			{
-				"suuid": "kTe4wH",
+				"suuid": "2v9unG",
 				"kind": "feature",
 				"title": " Create Italian past tense quiz",
 				"outlineItems": [
@@ -1090,7 +1046,7 @@
 				]
 			},
 			{
-				"suuid": "blEnKx",
+				"suuid": "sZa5jM",
 				"kind": "feature",
 				"title": " Create CLI command to copy latest files for each language to MP3 stick",
 				"outlineItems": [
@@ -1117,7 +1073,7 @@
 				]
 			},
 			{
-				"suuid": "ddpL3r",
+				"suuid": "6m0iNX",
 				"kind": "dev",
 				"title": " Update readme",
 				"outlineItems": [
@@ -1134,7 +1090,7 @@
 				]
 			},
 			{
-				"suuid": "Ilqr2c",
+				"suuid": "wFIrjO",
 				"kind": "feature",
 				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
 				"outlineItems": [
@@ -1151,7 +1107,7 @@
 				]
 			},
 			{
-				"suuid": "njqqtB",
+				"suuid": "IC31UH",
 				"kind": "feature",
 				"title": " Create page for pronunciation notes",
 				"outlineItems": [
@@ -1168,7 +1124,7 @@
 				]
 			},
 			{
-				"suuid": "s1VfSF",
+				"suuid": "0V7U1y",
 				"kind": "feature",
 				"title": " update to newest datapod-for-go version (qtools etc.)",
 				"outlineItems": [
@@ -1187,7 +1143,7 @@
 		]
 	},
 	{
-		"suuid": "73Xtsc",
+		"suuid": "S3BQrR",
 		"idCode": "edwards-projects",
 		"title": "EDWARDS-PROJECTS",
 		"description": "",
@@ -1201,7 +1157,81 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "Z8I1CH",
+				"suuid": "4b7Ran",
+				"kind": "feature",
+				"title": " Change colors and standardize font sizes  //2025-12-23 16:42:17..2025-12-23 17:12:23",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.97",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add \"project\" on single page",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "first background finish",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add yellow",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "XTpkaN",
+				"kind": "feature",
+				"title": " Simplify screenshot in mobile view //2025-12-23 14:01:06..2025-12-23 15:23:21",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-simplify-screenshot-mobile",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix button dip issue",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix long text issue",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "tech item background",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make current projects home",
+						"marker": "x"
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "lcAuIr",
 				"kind": "fix",
 				"title": " On mobile view show desktop image //2025-12-23 12:43:54..2025-12-23 13:53:03",
 				"outlineItems": [
@@ -1223,7 +1253,7 @@
 				]
 			},
 			{
-				"suuid": "1WLwe6",
+				"suuid": "bBtgLq",
 				"kind": "fix",
 				"title": " Resolve mobile display issues with project component //2025-12-23 11:51:24..2025-12-23 12:36:13",
 				"outlineItems": [
@@ -1245,7 +1275,7 @@
 				]
 			},
 			{
-				"suuid": "Dp6kn9",
+				"suuid": "s29gmp",
 				"kind": "feature",
 				"title": " Make single and multiple project pages ready for project import //2025-12-22 01:06:10..2025-12-23 11:44:58",
 				"outlineItems": [
@@ -1427,7 +1457,7 @@
 				]
 			},
 			{
-				"suuid": "QiGTc6",
+				"suuid": "kBGtcB",
 				"kind": "feature",
 				"title": " Add style and content improvements after design upgrade //2025-12-22 00:46:29..2025-12-22 01:01:01",
 				"outlineItems": [
@@ -1454,7 +1484,7 @@
 				]
 			},
 			{
-				"suuid": "v2Xyzk",
+				"suuid": "LpltDq",
 				"kind": "feature",
 				"title": " Convert Nuxt to Next.js and upgrade to modern site layout //2025-12-20 22:48:41..2025-12-22 00:46:56",
 				"outlineItems": [
@@ -1586,7 +1616,7 @@
 				]
 			},
 			{
-				"suuid": "UaTzk0",
+				"suuid": "cSplnT",
 				"kind": "feature",
 				"title": " Add rank to tasks and sort more important first //2025-12-21 19:21:30..2025-12-21 20:02:04",
 				"outlineItems": [
@@ -1648,7 +1678,7 @@
 				]
 			},
 			{
-				"suuid": "czGaTn",
+				"suuid": "PZjIPH",
 				"kind": "feature",
 				"title": " Show three of each kind of tasks: current, upcoming, finished //2025-12-21 15:03:15..2025-12-21 19:10:44",
 				"outlineItems": [
@@ -1825,7 +1855,7 @@
 				]
 			},
 			{
-				"suuid": "rufAqP",
+				"suuid": "K5yEOl",
 				"kind": "feature",
 				"title": " Process and display all tasks basic data //2025-12-20 16:55:12..2025-12-20 19:31:35",
 				"outlineItems": [
@@ -1932,7 +1962,7 @@
 				]
 			},
 			{
-				"suuid": "a4KqOY",
+				"suuid": "osdb1C",
 				"kind": "base",
 				"title": " Create minimal site and put online //2025-10-17 20:39:40..2025-10-17 21:31:59",
 				"outlineItems": [
@@ -1979,7 +2009,7 @@
 				]
 			},
 			{
-				"suuid": "P9JIif",
+				"suuid": "K74CK4",
 				"kind": "feature",
 				"title": " Enable second file to be processed and combine projects //2025-12-17 20:55:42..2025-12-19 21:59:23",
 				"outlineItems": [
@@ -2146,7 +2176,7 @@
 				]
 			},
 			{
-				"suuid": "M2TqHH",
+				"suuid": "xcJgJx",
 				"kind": "decision",
 				"title": " Decide on best name \"start\" or \"starter\" //2025-11-30 23:32:41..2025-12-02 22:47:14",
 				"outlineItems": [
@@ -2198,7 +2228,7 @@
 				]
 			},
 			{
-				"suuid": "cXJ7yV",
+				"suuid": "lYoY0x",
 				"kind": "feature",
 				"title": " Show start sites //2025-11-30 23:09:20..2025-12-02 22:45:41",
 				"outlineItems": [
@@ -2235,13 +2265,13 @@
 				]
 			},
 			{
-				"suuid": "hFga7f",
+				"suuid": "Thgswu",
 				"kind": "content",
 				"title": " Add showcase-typo3 //2025-10-31 15:16:56..2025-10-31 15:55:34",
 				"outlineItems": []
 			},
 			{
-				"suuid": "tiXYNJ",
+				"suuid": "UQP8Ue",
 				"kind": "feature",
 				"title": " Create all current images //2025-10-27 15:55:36..2025-10-27 16:27:16",
 				"outlineItems": [
@@ -2263,7 +2293,7 @@
 				]
 			},
 			{
-				"suuid": "zaeHmo",
+				"suuid": "LlgtZX",
 				"kind": "feature",
 				"title": " Show image if exists //2025-10-27 14:11:00..2025-10-27 15:54:31",
 				"outlineItems": [
@@ -2345,7 +2375,7 @@
 				]
 			},
 			{
-				"suuid": "dWM1aC",
+				"suuid": "fO5ycD",
 				"kind": "feature",
 				"title": " Make Responsive //2025-10-27 11:45:48..2025-10-27 13:25:18",
 				"outlineItems": [
@@ -2417,7 +2447,7 @@
 				]
 			},
 			{
-				"suuid": "WBSvDg",
+				"suuid": "wH1gmL",
 				"kind": "feature",
 				"title": " Implement categories //2025-10-24 13:28:42..2025-10-24 18:12:10",
 				"outlineItems": [
@@ -2524,7 +2554,7 @@
 				]
 			},
 			{
-				"suuid": "4EBkDI",
+				"suuid": "Iycdcm",
 				"kind": "feature",
 				"title": " Create active, planning and stable project sections //2025-10-20 13:41:27..2025-10-24 13:17:01",
 				"outlineItems": [
@@ -2741,7 +2771,7 @@
 				]
 			},
 			{
-				"suuid": "QVopW8",
+				"suuid": "Oq3jMt",
 				"kind": "feature",
 				"title": " Process first data file, list frontend idcodes //2025-10-17 21:47:29..2025-10-17 23:44:52",
 				"outlineItems": [
@@ -2805,7 +2835,7 @@
 		]
 	},
 	{
-		"suuid": "kcJvBB",
+		"suuid": "liST8r",
 		"idCode": "comprehensible-output",
 		"title": "COMPREHENSIBLE-OUTPUT",
 		"description": "",
@@ -2819,7 +2849,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "oCVRCl",
+				"suuid": "21QAy1",
 				"kind": "feature",
 				"title": " Streamline story creation //2025-08-03 23:30:15..2025-08-05 10:58:02",
 				"outlineItems": [
@@ -3426,7 +3456,7 @@
 				]
 			},
 			{
-				"suuid": "nyhyk6",
+				"suuid": "FY8ASm",
 				"kind": "feature",
 				"title": " Order import listing by number of phrases //2025-10-13 07:55:31..2025-10-13 08:02:23",
 				"outlineItems": [
@@ -3443,7 +3473,7 @@
 				]
 			},
 			{
-				"suuid": "WugnuL",
+				"suuid": "ZhyBV5",
 				"kind": "feature",
 				"title": " Use most recent phrases first //2025-10-09 10:58:45..2025-10-09 11:53:47",
 				"outlineItems": [
@@ -3570,7 +3600,7 @@
 				]
 			},
 			{
-				"suuid": "bnvfOb",
+				"suuid": "wdejsD",
 				"kind": "feature",
 				"title": " CLI command \"cpf\" creates prompt files for all languages //2025-06-09 12:31:32..2025-06-10 00:12:39",
 				"outlineItems": [
@@ -3587,7 +3617,7 @@
 				]
 			},
 			{
-				"suuid": "JxAK1Q",
+				"suuid": "AbjFkq",
 				"kind": "feature",
 				"title": " Enable 10 100 to be sent as params, with defaults if not sent //2025-06-09 13:14:09..2025-06-09 15:17:03",
 				"outlineItems": [
@@ -3609,13 +3639,13 @@
 				]
 			},
 			{
-				"suuid": "Cjip37",
+				"suuid": "90GoIv",
 				"kind": "feature",
 				"title": " For command npm run cpg fr, randomize order of phrases //2025-06-09 17:14:02..2025-06-09 17:19:03",
 				"outlineItems": []
 			},
 			{
-				"suuid": "sQy9Bx",
+				"suuid": "CChVRA",
 				"kind": "feature",
 				"title": " Show history of phrases for \"cpf\" //2025-06-10 16:14:09..2025-06-10 17:12:19",
 				"outlineItems": [
@@ -3642,7 +3672,7 @@
 				]
 			},
 			{
-				"suuid": "sB8pV8",
+				"suuid": "i6uR4p",
 				"kind": "feature",
 				"title": " Implement script to create prompts from google translate phrases //2025-06-08 20:11:09..2025-06-08 20:44:02",
 				"outlineItems": [
