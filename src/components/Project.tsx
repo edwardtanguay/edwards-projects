@@ -29,16 +29,10 @@ export default function Project({ project, currentCategory }: Props) {
 						))}
 					</div>
 				</div>
-				<p className="text-gray-400 text-sm mb-6 sm:mb-4 sm:flex-1">{project.categories.find((category) => category.idCode === currentCategory)?.shortInfo}</p>
-
-				<div className="flex gap-3 sm:mt-auto justify-center">
-					<ButtonInfo idCode={project.idCode} />
-					<ButtonRepo url={project.repo} />
-					<ButtonLive url={project.live} />
-				</div>
+				<p className="text-gray-400 text-sm mb-3 sm:mb-4 sm:flex-1">{project.categories.find((category) => category.idCode === currentCategory)?.shortInfo}</p>
 
 				{project.imageDesktop && (
-					<div className="sm:hidden mt-6 overflow-hidden rounded-md border border-gray-800 shadow-inner group">
+					<div className="sm:hidden mb-4 overflow-hidden rounded-md border border-gray-800 shadow-inner group">
 						<Image
 							src={project.imageDesktop}
 							alt={`${project.title} - Desktop Preview`}
@@ -48,6 +42,12 @@ export default function Project({ project, currentCategory }: Props) {
 						/>
 					</div>
 				)}
+
+				<div className="flex gap-3 justify-center">
+					<ButtonInfo idCode={project.idCode} />
+					<ButtonRepo url={project.repo} />
+					<ButtonLive url={project.live} />
+				</div>
 			</div>
 		</div>
 	);

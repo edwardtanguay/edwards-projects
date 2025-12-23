@@ -15,7 +15,7 @@ export default function Home() {
 		<div className="p-8 md:p-12 max-w-6xl">
 			<div>
 				<div className="mb-6">
-					<h1 className="text-[44px] md:text-[48px] xl:text-6xl font-bold text-slate-600 mb-2 md:mb-4 pb-2">
+					<h1 className="text-[33px] md:text-[48px] xl:text-6xl font-bold text-slate-400 mb-2 md:mb-4 pb-2">
 						Edward's Projects
 					</h1>
 					<p className="text-lg text-gray-400 mb-6">
