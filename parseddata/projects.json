@@ -1,9 +1,9 @@
 [
 	{
-		"suuid": "U5Cj99",
+		"suuid": "V8XL5N",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
-		"shortTitle": "Datapod for TS/React 2023",
+		"shortTitle": "Datapod for React 2023",
 		"description": "This was my recreation of Datapod in 2023, the Datapod script creation feature works and can be demonstrated, as well as the multi-format feature, so you can create an item type with data in a Datapod text file, parse and immediately have a JSON file. I still use this site to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod functionality</a>. This might even be useful to set up if you just wanted to export JSON files based on Datapod text files. In fact, this site still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>. I suspect this site's usefulness will be completely replaced by <a target=\"_blank\" href=\"https://datapod-tanguay-eu.vercel.app\">various Datapod versions in 2026</a>.",
 		"status": "(fill in status)",
 		"mode": "open",
@@ -25,7 +25,7 @@
 		]
 	},
 	{
-		"suuid": "DSMAil",
+		"suuid": "lv1gy4",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
 		"shortTitle": "Edward's Projects",
@@ -55,7 +55,7 @@
 		]
 	},
 	{
-		"suuid": "HK4Q9n",
+		"suuid": "P6M0wR",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
