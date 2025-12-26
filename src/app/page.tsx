@@ -3,9 +3,7 @@ import Link from "next/link";
 import _projects from "../../parseddata/projects.json";
 import Project from "../components/Project";
 
-const _currentProjects = _projects.filter((project) =>
-	project.categories.some((category) => category.idCode === "current")
-);
+const _currentProjects = _projects
 
 // reverse the order of the projects
 const currentProjects = [..._currentProjects].reverse();
@@ -29,7 +27,7 @@ export default function Home() {
 						<Project
 							key={project.suuid ?? project.idCode}
 							project={project}
-							currentCategory="current"
+							currentCategory={project.defaultCategory}
 						/>
 					))}
 				</div>

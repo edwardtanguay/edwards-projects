@@ -23,6 +23,7 @@ class RawProject:
 	suuid: str = ""
 	id_code: str = ""
 	title: str = ""
+	short_title: str = ""
 	status: str = ""
 	kind: str = ""
 	mode: str = ""
@@ -31,6 +32,7 @@ class RawProject:
 	description: str = ""
 	image_mobile: str = ""
 	image_desktop: str = ""
+	default_category: str = ""
 	categories: list[CategoryItem] = []
 	outline_block: OutlineBlock = None
 	project_items: list[ProjectItem] = []
@@ -44,8 +46,15 @@ class RawProject:
 		self.parse_general_fields()
 		self.parse_project_items()
 		self.parse_line_variables()
+		self.define_default_category()
 		self.define_images()
 		self.define_mode() # TODO: remove
+
+	def define_default_category(self):
+		if len(self.categories) > 0:
+			self.default_category = self.categories[0].id_code
+		else:
+			self.default_category = "current"
 
 	def define_mode(self):
 		firstOutlineItem = self.outline_block.outline_items[0]
@@ -66,7 +75,8 @@ class RawProject:
 		for project_item in self.project_items:
 			if project_item.kind == "info":
 				self.title = project_item.project_title
-				self.description = project_item.project_description
+				self.short_title = project_item.project_short_title if project_item.project_short_title != "" else project_item.project_title
+				self.description = qstr.sentencize(qstr.markdown_to_html(project_item.project_description))
 				self.tech_items = [item.strip() for item in project_item.project_tech.split(",") if item.strip()]
 				self.status = project_item.project_status
 				self.repo = project_item.project_repo
@@ -76,6 +86,8 @@ class RawProject:
 		# default values
 		if self.title == "":
 			self.title = self.id_code.upper()
+		if self.short_title == "":
+			self.short_title = self.title
 		if self.status == "":
 			self.status = "(fill in status)"
 
@@ -121,6 +133,7 @@ class RawProject:
 			'suuid': self.suuid,
 			'idCode': self.id_code,
 			'title': self.title,
+			'shortTitle': self.short_title,
 			'description': self.description,
 			'status': self.status,
 			'mode': self.mode, # TODO: remove

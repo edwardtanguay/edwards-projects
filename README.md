@@ -49,5 +49,5 @@ PROJECT_FILE_002 = "../../../maindata/projects_archive.txt"
 
 ### Project screenshot images
 
-- mobile: ca. 350px width, 650px height
 - desktop: ca. 1300px wide, 730px height
+- mobile: ca. 350px width, 650px height

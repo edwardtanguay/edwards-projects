@@ -22,6 +22,7 @@ class ProjectItem:
 	title: str = ""
 	marker: str = ""
 	project_title: str = ""
+	project_short_title: str = ""
 	project_description: str = ""
 	project_status: str = ""
 	project_repo: str = ""
@@ -62,6 +63,7 @@ class ProjectItem:
 			rank = qstr.get_line_variable(line, "rank")
 			if rank != "":
 				self.rank = float(rank)
+			
 
 	def parse_line_variables_for_info(self):
 		for outline_item in self.outline_items[1:]:
@@ -71,6 +73,11 @@ class ProjectItem:
 			title = qstr.get_line_variable(line, "title")
 			if title != "":
 				self.project_title = title
+				
+			# project short title
+			short_title = qstr.get_line_variable(line, "shortTitle")
+			if short_title != "":
+				self.project_short_title = short_title
 				
 			# project description
 			description = qstr.get_line_variable(line, "description")

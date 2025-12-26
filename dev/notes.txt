@@ -1,4 +1,18 @@
 
+// TODO: put these on other pages
+// const upcomingProjects = _projects.filter((project) =>
+// 	project.categories.some((category) => category.idCode === "upcoming")
+// );
+// const liveProjects = _projects.filter((project) =>
+// 	project.categories.some((category) => category.idCode === "live")
+// );
+// const showcaseProjects = _projects.filter((project) =>
+// 	project.categories.some((category) => category.idCode === "showcase")
+// );
+// const startProjects = _projects.filter((project) =>
+// 	project.categories.some((category) => category.idCode === "start")
+// );
+
 				<p className="hidden mb-6 text-gray-300 mt-4 bg-gray-800 px-4 py-2 sm:p-0 rounded-lg sm:rounded-none ">
 					Check out my{" "}
 					<Link href="/current-projects" className="text-blue-400 hover:text-blue-300 underline">
@@ -22,3 +36,29 @@
 					</Link>
 					.
 				</p>
+
+
+``markdown
+
+from markdown_it import MarkdownIt
+
+md = MarkdownIt()
+
+class CategoryItem:
+	id_code: str
+	short_info: str
+
+	# example: "active; currently creating basic parsing of text file that shows project information"
+	def __init__(self, category_line: str):
+		self.id_code = qstr.get_smart_part(category_line, ";", 0)
+		self.short_info = md.renderInline(qstr.get_smart_part(category_line, ";", 1))
+
+
+project.tsx, line 32
+		<p
+					className="text-gray-400 text-sm mb-3 sm:mb-4 sm:flex-1"
+					dangerouslySetInnerHTML={{
+						__html: project.categories.find((category) => category.idCode === currentCategory)?.shortInfo || "",
+					}}
+				/>
+				

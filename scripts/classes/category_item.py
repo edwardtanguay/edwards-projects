@@ -7,7 +7,10 @@ class CategoryItem:
 	# example: "active; currently creating basic parsing of text file that shows project information"
 	def __init__(self, category_line: str):
 		self.id_code = qstr.get_smart_part(category_line, ";", 0)
+
 		self.short_info = qstr.get_smart_part(category_line, ";", 1)
+		self.short_info = qstr.markdown_to_html(self.short_info)
+		self.short_info = qstr.sentencize(self.short_info)
 
 	def to_string(self) -> str:
 		return {

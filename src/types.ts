@@ -7,6 +7,8 @@ export type Project = {
 	suuid: string;
 	idCode: string;
 	title: string;
+	shortTitle: string;
+	defaultCategory: string;
 	description: string;
 	status: string;
 	mode: string;

@@ -24,7 +24,15 @@ export default function Project() {
 			<div className="space-y-8">
 				{project && (
 					<div>
-						<p className="text-gray-400 uppercase tracking-[0.3em] text-xs mb-1">Project</p>
+						<p className="text-gray-400 uppercase tracking-[0.3em] text-xs mb-1">
+							{project.categories && project.categories.length > 0
+								? project.categories
+									.map(c => c.idCode.charAt(0).toUpperCase() + c.idCode.slice(1))
+									.sort()
+									.join(', ') + ' Project'
+								: 'Project'
+							}
+						</p>
 						<h1 className="text-4xl md:text-5xl font-bold text-orange-300 mb-4">
 							{project.title}
 						</h1>
@@ -40,7 +48,10 @@ export default function Project() {
 								))}
 							</div>
 						</div>
-						<p className="text-lg text-gray-400 mb-4">{project.description}</p>
+						<p
+							className="text-lg text-gray-400 mb-4 markdown"
+							dangerouslySetInnerHTML={{ __html: project.description }}
+						/>
 
 						{/* Image Display Section */}
 						<div className="flex flex-col md:flex-row gap-6 items-start justify-center mt-8">
@@ -66,47 +77,53 @@ export default function Project() {
 							)}
 						</div>
 
-						{/* CTA Band */}
+						{/* Buttons */}
 						<div className="mt-8 bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-6 flex flex-col sm:flex-row gap-6 items-center justify-center">
 							<div className="w-full sm:w-48 flex">
-								{project.live && <ButtonLive url={project.live} />}
+								<ButtonLive url={project.live} />
 							</div>
 							<div className="w-full sm:w-48 flex">
-								{project.repo && <ButtonRepo url={project.repo} />}
+								<ButtonRepo url={project.repo} />
 							</div>
 						</div>
 
 						{/* Current Tasks */}
-						<div className="mt-8">
-							<h2 className="text-2xl font-bold mb-4">Current Tasks</h2>
-							<div>
-								{currentTasks.map((task) => (
-									<TaskAsLine key={task.suuid} task={task} />
-								))}
+						{currentTasks.length > 0 && (
+							<div className="mt-8">
+								<h2 className="text-2xl font-bold mb-4">Current Tasks</h2>
+								<div>
+									{currentTasks.map((task) => (
+										<TaskAsLine key={task.suuid} task={task} />
+									))}
+								</div>
 							</div>
-						</div>
+						)}
 
 						{/* Upcoming Tasks */}
-						<div className="mt-8">
-							<h2 className="text-2xl font-bold mb-4">Upcoming Tasks
-								<span className="text-xs font-medium mr-2 opacity-70 italic"> - rank <span className="text-yellow-400">5</span> to <span className="text-yellow-400">0</span></span>
-							</h2>
-							<div>
-								{upcomingTasks.map((task) => (
-									<TaskAsLine key={task.suuid} task={task} />
-								))}
+						{upcomingTasks.length > 0 && (
+							<div className="mt-8">
+								<h2 className="text-2xl font-bold mb-4">Upcoming Tasks
+									<span className="text-xs font-medium mr-2 opacity-70 italic"> - rank <span className="text-yellow-400">5</span> to <span className="text-yellow-400">0</span></span>
+								</h2>
+								<div>
+									{upcomingTasks.map((task) => (
+										<TaskAsLine key={task.suuid} task={task} />
+									))}
+								</div>
 							</div>
-						</div>
+						)}
 
 						{/* Finished Tasks */}
-						<div className="mt-8">
-							<h2 className="text-2xl font-bold mb-4">Finished Tasks</h2>
-							<div>
-								{finishedTasks.map((task) => (
-									<TaskAsLine key={task.suuid} task={task} />
-								))}
+						{finishedTasks.length > 0 && (
+							<div className="mt-8">
+								<h2 className="text-2xl font-bold mb-4">Finished Tasks</h2>
+								<div>
+									{finishedTasks.map((task) => (
+										<TaskAsLine key={task.suuid} task={task} />
+									))}
+								</div>
 							</div>
-						</div>
+						)}
 					</div>
 				)}
 				{!project && (

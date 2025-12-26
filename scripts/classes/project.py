@@ -9,12 +9,14 @@ class Project:
 	suuid: str = ""
 	id_code: str = ""
 	title: str = ""
+	short_title: str = ""
 	description: str = ""
 	status: str = ""
 	mode: str = ""
 	repo: str = ""
 	repo2: str = ""
 	live: str = ""
+	default_category: str = ""
 	image_mobile: str = ""
 	image_desktop: str = ""
 	categories: list[CategoryItem] = []
@@ -27,6 +29,7 @@ class Project:
 		self.suuid = raw_project.suuid
 		self.id_code = raw_project.id_code
 		self.title = raw_project.title
+		self.short_title = raw_project.short_title
 		self.description = raw_project.description
 		self.status = raw_project.status
 		self.mode = raw_project.mode
@@ -35,6 +38,7 @@ class Project:
 		self.image_mobile = raw_project.image_mobile
 		self.image_desktop = raw_project.image_desktop
 		self.categories = raw_project.categories
+		self.default_category = raw_project.default_category
 		self.project_items = self.get_project_items()
 		self.tech_items = raw_project.tech_items
 
@@ -47,11 +51,13 @@ class Project:
 			'suuid': self.suuid,
 			'idCode': self.id_code,
 			'title': self.title,
+			'shortTitle': self.short_title,
 			'description': self.description,
 			'status': self.status,
 			'mode': self.mode,
 			'repo': self.repo,
 			'live': self.live,
+			'defaultCategory': self.default_category,
 			'techItems': self.tech_items,
 			'imageMobile': self.image_mobile,
 			'imageDesktop': self.image_desktop,

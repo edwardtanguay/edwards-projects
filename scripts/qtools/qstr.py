@@ -155,25 +155,54 @@ def chopLeft(main: str, chop: str) -> str:
 	return main
 
 def breakIntoParts(main: str, separator: str) -> list[str]:
-    return [part.strip() for part in main.split(separator)]
+	return [part.strip() for part in main.split(separator)]
 
 def delete_after_marker(main: str, marker: str) -> str:
 	return get_smart_part(main, marker, 0)
 
 def get_smart_part(main:str, separator: str, index: int) -> str:
-    parts = breakIntoParts(main, separator)
-    if len(parts) > index:
-        return parts[index]
-    return ""
+	parts = breakIntoParts(main, separator)
+	if len(parts) > index:
+		return parts[index]
+	return ""
 
 def get_rest_after_first_instance(main: str, instance: str) -> str:
-    index = main.find(instance)
-    if index != -1:
-        return main[index + len(instance):]
-    return ""
+	index = main.find(instance)
+	if index != -1:
+		return main[index + len(instance):]
+	return ""
 
 def get_line_variable(line:str, variable_name: str) -> str:
-    variable = get_smart_part(line, "::", 0)
-    if variable == variable_name:
-        return get_smart_part(line, "::", 1)	
-    return ""
+	variable = get_smart_part(line, "::", 0)
+	if variable == variable_name:
+		return get_smart_part(line, "::", 1)	
+	return ""
+
+def markdown_to_html(markdown_text):
+	html = markdown_text
+	
+	# Títulos: # Título -> <h1>Título</h1>
+	html = re.sub(r'^### (.*?)$', r'<h3>\1</h3>', html, flags=re.MULTILINE)
+	html = re.sub(r'^## (.*?)$', r'<h2>\1</h2>', html, flags=re.MULTILINE)
+	html = re.sub(r'^# (.*?)$', r'<h1>\1</h1>', html, flags=re.MULTILINE)
+	
+	# Negrita: **texto** -> <strong>texto</strong>
+	html = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', html)
+	
+	# Cursiva: *texto* -> <em>texto</em>
+	html = re.sub(r'\*(.*?)\*', r'<em>\1</em>', html)
+	
+	# Enlaces: [texto](url) -> <a href="url">texto</a>
+	html = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a target="_blank" href="\2">\1</a>', html)
+	
+	# Saltos de línea
+	html = html.replace('\n', '<br>\n')
+	
+	return html
+
+
+def sentencize(text):
+	result = text[0].upper() + text[1:]
+	if result[-1] not in string.punctuation:
+		result += "."
+	return result

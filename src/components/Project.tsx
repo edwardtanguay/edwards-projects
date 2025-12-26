@@ -11,11 +11,11 @@ interface Props {
 
 export default function Project({ project, currentCategory }: Props) {
 	return (
-		<div className="bg-gray-900 border border-gray-400 sm:border-gray-800 rounded-lg flex flex-col sm:flex-row overflow-hidden flex-1 min-w-[300px] sm:min-w-[400px] max-w-[560px] min-h-60 sm:max-h-60">
-			{project.imageMobile && <Image className="hidden sm:block w-32 h-full object-cover shrink-0" src={project.imageMobile} alt={project.title} width={128} height={240} />}
+		<div className="bg-gray-900 border border-gray-400 sm:border-gray-800 rounded-lg flex flex-col sm:flex-row overflow-hidden w-full sm:w-[500px] min-h-60 sm:max-h-60">
+			{project.imageMobile && <Image className="hidden sm:block w-32 h-full object-cover shrink-0" src={project.imageMobile} alt={project.shortTitle} width={128} height={240} />}
 			<div className="p-6 flex flex-col overflow-hidden flex-1 min-w-0">
 				<h2 className="text-2xl font-semibold text-orange-300 mb-2 whitespace-nowrap">
-					{project.title}
+					{project.shortTitle}
 				</h2>
 				<div className="flex flex-wrap items-center gap-x-2 gap-y-1 text-gray-400 mb-4 overflow-hidden whitespace-nowrap">
 					<div className="flex flex-wrap gap-2">
@@ -29,13 +29,18 @@ export default function Project({ project, currentCategory }: Props) {
 						))}
 					</div>
 				</div>
-				<p className="text-gray-400 text-sm mb-3 sm:mb-4 sm:flex-1">{project.categories.find((category) => category.idCode === currentCategory)?.shortInfo}</p>
+				<p
+					className="text-gray-400 text-sm mb-3 sm:mb-4 sm:flex-1 markdown"
+					dangerouslySetInnerHTML={{
+						__html: project.categories.find((category) => category.idCode === currentCategory)?.shortInfo || "",
+					}}
+				/>
 
 				{project.imageDesktop && (
 					<div className="sm:hidden mb-4 overflow-hidden rounded-md border border-white/40 shadow-[0_0_15px_rgba(255,255,255,0.3)] group">
 						<Image
 							src={project.imageDesktop}
-							alt={`${project.title} - Desktop Preview`}
+							alt={`${project.shortTitle} - Desktop Preview`}
 							className="w-full h-auto object-cover opacity-90 group-hover:opacity-100 transition-opacity"
 							width={600}
 							height={300}

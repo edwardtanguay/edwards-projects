@@ -3,6 +3,16 @@ interface Props {
 }
 
 export default function ButtonRepo({ url }: Props) {
+	const isDisabled = url === 'none' || url === '';
+
+	if (isDisabled) {
+		return (
+			<div className="flex-1 px-4 py-2 rounded-md border border-gray-600 bg-gray-600/10 text-gray-500 text-sm font-medium text-center cursor-not-allowed line-through">
+				Repo
+			</div>
+		);
+	}
+
 	return (
 		<a
 			href={url}
@@ -14,3 +24,4 @@ export default function ButtonRepo({ url }: Props) {
 		</a>
 	);
 }
+

@@ -1,8 +1,67 @@
 [
 	{
-		"suuid": "QvcGIU",
+		"suuid": "0gJSVE",
+		"idCode": "datapod-for-vite-react-core",
+		"title": "Datapod for TypeScript/React 2023",
+		"shortTitle": "Datapod for TS/React 2023",
+		"description": "This was my recreation of Datapod in 2023, the Datapod script creation feature works and can be demonstrated, as well as the multi-format feature, so you can create an item type with data in a Datapod text file, parse and immediately have a JSON file. I still use this site to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod functionality</a>. This might even be useful to set up if you just wanted to export JSON files based on Datapod text files. In fact, this site still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>. I suspect this site's usefulness will be completely replaced by <a target=\"_blank\" href=\"https://datapod-tanguay-eu.vercel.app\">various Datapod versions in 2026</a>.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-for-vite-react-core",
+		"live": "",
+		"techItems": [
+			"Node",
+			"TypeScript",
+			"React"
+		],
+		"imageMobile": "/images/projects/datapod-for-vite-react-core-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-for-vite-react-core-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "legacy",
+				"shortInfo": "I stopped using this in 2025 but still use it to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod concepts</a> and it still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "A9OYGG",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title:: Datapod for TypeScript/React 2023",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "shortTitle:: Datapod for TS/React 2023",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "tech:: Node, TypeScript, React",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::legacy; I stopped using this in 2025 but still use it to [demonstrate Datapod concepts](https://tanguay-eu.vercel.app/howtos/906) and it still creates the JSON file for my post-2023 [running site](https://edward-tanguay-eu.vercel.app/runs).",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description:: This was my recreation of Datapod in 2023, the Datapod script creation feature works and can be demonstrated, as well as the multi-format feature, so you can create an item type with data in a Datapod text file, parse and immediately have a JSON file. I still use this site to [demonstrate Datapod functionality](https://tanguay-eu.vercel.app/howtos/906). This might even be useful to set up if you just wanted to export JSON files based on Datapod text files. In fact, this site still creates the JSON file for my post-2023 [running site](https://edward-tanguay-eu.vercel.app/runs). I suspect this site's usefulness will be completely replaced by [various Datapod versions in 2026](https://datapod-tanguay-eu.vercel.app).",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "yVbZU5",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
+		"shortTitle": "Edward's Projects",
 		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
 		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
 		"mode": "active",
@@ -19,7 +78,7 @@
 		"categories": [
 			{
 				"idCode": "live",
-				"shortInfo": "this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates"
+				"shortInfo": "This site shows all tech projects I'm working on with links to repositories, many useful showcases and templates."
 			},
 			{
 				"idCode": "current",
@@ -28,7 +87,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "FMZbc4",
+				"suuid": "2FgoNZ",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -44,7 +103,7 @@
 					},
 					{
 						"indents": 2,
-						"line": "category::live;this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
+						"line": "category::live;this site shows all tech projects I'm working on with links to repositories, many useful showcases and templates",
 						"marker": ""
 					},
 					{
@@ -141,48 +200,33 @@
 						"indents": 2,
 						"line": "create from: https://datapod-python-nuxt.vercel.app",
 						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "u1VGqy",
+				"suuid": "5KLiHR",
 				"kind": "feature",
-				"title": " Import all projects from both data files //2025-12-23 17:13:13..",
+				"title": " Import next files in apps directory //2025-12-27 00:02:25",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "start new folder structure",
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-import-next-files-001",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "move all from old to new or wont-move",
 						"marker": ".."
 					},
 					{
 						"indents": 3,
-						"line": "branch::feature-import-all-projects-from-files",
-						"marker": ""
+						"line": "/apps",
+						"marker": ".."
 					},
 					{
 						"indents": 2,
@@ -210,8 +254,28 @@
 						"marker": ""
 					},
 					{
-						"indents": 0,
-						"line": "",
+						"indents": 2,
+						"line": "site title lighter",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "light pulse icon on \"current tasks\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "AFTER ALL FINISHED: delete the following:",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "projects_2025_to_move\\apps\\",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "datapod-for-vite-react-core",
 						"marker": ""
 					},
 					{
@@ -222,7 +286,29 @@
 				]
 			},
 			{
-				"suuid": "hdGqXI",
+				"suuid": "891Wp3",
+				"kind": "feature",
+				"title": " Parse markdown for description texts",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "implement for description",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement for category texts",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "6FhIsF",
 				"kind": "feature",
 				"title": " Show number of projects and calculate centrally",
 				"outlineItems": [
@@ -245,6 +331,33 @@
 						"indents": 0,
 						"line": "",
 						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "M48Y73",
+				"kind": "feature",
+				"title": " Show gifs with descriptions",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "use datapod-for-vite-react-core as example, get GIF from repo",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
 					},
 					{
 						"indents": 0,
@@ -254,7 +367,7 @@
 				]
 			},
 			{
-				"suuid": "k9Ae7n",
+				"suuid": "gRwszn",
 				"kind": "feature",
 				"title": " Implement validation on parse",
 				"outlineItems": [
@@ -276,7 +389,7 @@
 				]
 			},
 			{
-				"suuid": "FTMhCT",
+				"suuid": "cwSJ2F",
 				"kind": "feature",
 				"title": " On project component, cut off description and warn",
 				"outlineItems": [
@@ -298,7 +411,7 @@
 				]
 			},
 			{
-				"suuid": "BSeX3E",
+				"suuid": "5dedwF",
 				"kind": "feature",
 				"title": " Add dates globally to give up-to-date vibe to site",
 				"outlineItems": [
@@ -315,7 +428,7 @@
 				]
 			},
 			{
-				"suuid": "GmOm3m",
+				"suuid": "Bs9dzz",
 				"kind": "feature",
 				"title": " Make mobile/desktop toggle",
 				"outlineItems": [
@@ -332,7 +445,7 @@
 				]
 			},
 			{
-				"suuid": "iHk3pq",
+				"suuid": "RDHQHj",
 				"kind": "feature",
 				"title": " Add stats as graphics on front page",
 				"outlineItems": [
@@ -349,7 +462,7 @@
 				]
 			},
 			{
-				"suuid": "b0nnt7",
+				"suuid": "wPWvNC",
 				"kind": "feature",
 				"title": " Show example of data files on about page",
 				"outlineItems": [
@@ -366,7 +479,7 @@
 				]
 			},
 			{
-				"suuid": "b1KaeC",
+				"suuid": "C9SIkr",
 				"kind": "feature",
 				"title": " Display descriptions on e.g. starts, showcases (what they are)",
 				"outlineItems": [
@@ -383,7 +496,7 @@
 				]
 			},
 			{
-				"suuid": "dKyFfS",
+				"suuid": "RS4k0v",
 				"kind": "feature",
 				"title": " Enable link to branch",
 				"outlineItems": [
@@ -400,7 +513,7 @@
 				]
 			},
 			{
-				"suuid": "n7OfWv",
+				"suuid": "hr79pq",
 				"kind": "feature",
 				"title": " Enable link to commit to be saved",
 				"outlineItems": [
@@ -422,7 +535,7 @@
 				]
 			},
 			{
-				"suuid": "3Dkslf",
+				"suuid": "9xc1kd",
 				"kind": "dev",
 				"title": " Clean up mode and status",
 				"outlineItems": [
@@ -449,7 +562,7 @@
 				]
 			},
 			{
-				"suuid": "XUyRob",
+				"suuid": "48nCwE",
 				"kind": "content",
 				"title": " Add rest of projects",
 				"outlineItems": [
@@ -476,7 +589,7 @@
 				]
 			},
 			{
-				"suuid": "b0yWGS",
+				"suuid": "hhI7co",
 				"kind": "featuer",
 				"title": " Implement global search",
 				"outlineItems": [
@@ -493,7 +606,7 @@
 				]
 			},
 			{
-				"suuid": "mEVi7g",
+				"suuid": "ddcZn2",
 				"kind": "feature",
 				"title": " Make single project view with permalink",
 				"outlineItems": [
@@ -510,7 +623,7 @@
 				]
 			},
 			{
-				"suuid": "uoUlK7",
+				"suuid": "JmPZIy",
 				"kind": "feature",
 				"title": " Make dummy data for repository",
 				"outlineItems": [
@@ -532,7 +645,7 @@
 				]
 			},
 			{
-				"suuid": "3wW0CN",
+				"suuid": "OPZrPL",
 				"kind": "feature",
 				"title": " Create \"npm run audit\" to find all missing information",
 				"outlineItems": [
@@ -556,9 +669,10 @@
 		]
 	},
 	{
-		"suuid": "cl6pWz",
+		"suuid": "ADRnJD",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
+		"shortTitle": "Comprehensible Input",
 		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
 		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
 		"mode": "open",
@@ -574,7 +688,7 @@
 		"categories": [
 			{
 				"idCode": "live",
-				"shortInfo": "my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch"
+				"shortInfo": "I use this site to learn languages, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch."
 			},
 			{
 				"idCode": "current",
@@ -583,7 +697,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "1wuCJ6",
+				"suuid": "r7KVzb",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -594,7 +708,7 @@
 					},
 					{
 						"indents": 2,
-						"line": "category::live;my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch",
+						"line": "category::live;I use this site to learn languages, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch",
 						"marker": ""
 					},
 					{
@@ -655,7 +769,7 @@
 				]
 			},
 			{
-				"suuid": "VpwvqO",
+				"suuid": "S0MvJU",
 				"kind": "feature",
 				"title": " Speed up parsing //2025-12-22 00:59:51..",
 				"outlineItems": [
@@ -677,7 +791,7 @@
 				]
 			},
 			{
-				"suuid": "x7u2FL",
+				"suuid": "ZV4mKT",
 				"kind": "feature",
 				"title": " Make Learn Bits page",
 				"outlineItems": [
@@ -694,7 +808,7 @@
 				]
 			},
 			{
-				"suuid": "1vXXRs",
+				"suuid": "lL4taM",
 				"kind": "feature",
 				"title": " Create page to practice pronunciation",
 				"outlineItems": [
@@ -721,7 +835,7 @@
 				]
 			},
 			{
-				"suuid": "Ce1rx9",
+				"suuid": "Z4JyZ7",
 				"kind": "feature",
 				"title": " Integrate pronuncation items into story creation",
 				"outlineItems": [
@@ -743,7 +857,7 @@
 				]
 			},
 			{
-				"suuid": "fjNHxY",
+				"suuid": "h1uY6y",
 				"kind": "feature",
 				"title": " Integrate random standard practice into story creation",
 				"outlineItems": [
@@ -805,7 +919,7 @@
 				]
 			},
 			{
-				"suuid": "IM19Gc",
+				"suuid": "FuRnmA",
 				"kind": "feature",
 				"title": " Upgrade to modern design",
 				"outlineItems": [
@@ -822,7 +936,7 @@
 				]
 			},
 			{
-				"suuid": "nV36r3",
+				"suuid": "XB79J5",
 				"kind": "feature",
 				"title": " Make basic frontend for creation process",
 				"outlineItems": [
@@ -839,7 +953,7 @@
 				]
 			},
 			{
-				"suuid": "tc852r",
+				"suuid": "AS0xGa",
 				"kind": "feature",
 				"title": " Enable simple and basic stories for weak languages",
 				"outlineItems": [
@@ -871,7 +985,7 @@
 				]
 			},
 			{
-				"suuid": "p0XQ1s",
+				"suuid": "2grqmZ",
 				"kind": "fix",
 				"title": " Resolve the first letter issue in the French text data file",
 				"outlineItems": [
@@ -893,7 +1007,7 @@
 				]
 			},
 			{
-				"suuid": "d8On8p",
+				"suuid": "tCYYV2",
 				"kind": "feature",
 				"title": " Create pronunciation quiz",
 				"outlineItems": [
@@ -925,7 +1039,7 @@
 				]
 			},
 			{
-				"suuid": "qLKwDk",
+				"suuid": "DR9Q4B",
 				"kind": "feature",
 				"title": " Make -ere past participle quiz for Italian",
 				"outlineItems": [
@@ -947,7 +1061,7 @@
 				]
 			},
 			{
-				"suuid": "JbLOO1",
+				"suuid": "HLoErn",
 				"kind": "feature",
 				"title": " Create fill-in-blank quiz",
 				"outlineItems": [
@@ -1019,7 +1133,7 @@
 				]
 			},
 			{
-				"suuid": "2v9unG",
+				"suuid": "Ke7Tkg",
 				"kind": "feature",
 				"title": " Create Italian past tense quiz",
 				"outlineItems": [
@@ -1046,7 +1160,7 @@
 				]
 			},
 			{
-				"suuid": "sZa5jM",
+				"suuid": "XDKLy8",
 				"kind": "feature",
 				"title": " Create CLI command to copy latest files for each language to MP3 stick",
 				"outlineItems": [
@@ -1073,7 +1187,7 @@
 				]
 			},
 			{
-				"suuid": "6m0iNX",
+				"suuid": "dx5Hyn",
 				"kind": "dev",
 				"title": " Update readme",
 				"outlineItems": [
@@ -1090,7 +1204,7 @@
 				]
 			},
 			{
-				"suuid": "wFIrjO",
+				"suuid": "7eqCBI",
 				"kind": "feature",
 				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
 				"outlineItems": [
@@ -1107,7 +1221,7 @@
 				]
 			},
 			{
-				"suuid": "IC31UH",
+				"suuid": "lxmIHQ",
 				"kind": "feature",
 				"title": " Create page for pronunciation notes",
 				"outlineItems": [
@@ -1124,7 +1238,7 @@
 				]
 			},
 			{
-				"suuid": "0V7U1y",
+				"suuid": "EQT0lo",
 				"kind": "feature",
 				"title": " update to newest datapod-for-go version (qtools etc.)",
 				"outlineItems": [
@@ -1143,9 +1257,10 @@
 		]
 	},
 	{
-		"suuid": "S3BQrR",
+		"suuid": "8hTeJA",
 		"idCode": "edwards-projects",
 		"title": "EDWARDS-PROJECTS",
+		"shortTitle": "EDWARDS-PROJECTS",
 		"description": "",
 		"status": "(fill in status)",
 		"mode": "open",
@@ -1157,8 +1272,184 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "4b7Ran",
+				"suuid": "kyhvR8",
 				"kind": "feature",
+				"title": " Implement shortTitle, legacy page, markdown //2025-12-23 17:13:13..2025-12-27 00:02:09",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "start new folder structure",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "decide on name: e.g. _projects, answer: projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "backup project",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "remove all node_modules",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "rename projects to projects_2025_move",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "move all from old to new or wont-move",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "/apps",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "datapod-for-vite-react-core",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "move to new apps",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make project",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "show all",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "shortTitle",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make legacy projects",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "show legacy(all) on front page: make defaulCategory",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "handle live/none",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "single: if no live",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "single: don't show tasks if none",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "display categories of projects",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "handle markdown",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix descriptions",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "markdown for description",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "RIz9uf",
+				"kind": "feature",
+				"title": " Brighten mobile view //2025-12-23 17:13:13..2025-12-26 18:13:55",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "open on run dev: doesn't work",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mobile white/bright",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "mobile outline",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make header lighter and in style sheet",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "buttons brighter",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "mobile image outline",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "IQgvYT",
+				"kind": "fix",
+				"title": " Resolve mobile display issue of title and cards //2025-12-23 17:22:38..2025-12-23 17:29:26",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::fix-resolve-mobile-display",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix title",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "flip image",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "8epuY4",
+				"kind": "ix feature",
 				"title": " Change colors and standardize font sizes  //2025-12-23 16:42:17..2025-12-23 17:12:23",
 				"outlineItems": [
 					{
@@ -1189,7 +1480,7 @@
 				]
 			},
 			{
-				"suuid": "XTpkaN",
+				"suuid": "paMqJM",
 				"kind": "feature",
 				"title": " Simplify screenshot in mobile view //2025-12-23 14:01:06..2025-12-23 15:23:21",
 				"outlineItems": [
@@ -1231,7 +1522,7 @@
 				]
 			},
 			{
-				"suuid": "lcAuIr",
+				"suuid": "Olypxw",
 				"kind": "fix",
 				"title": " On mobile view show desktop image //2025-12-23 12:43:54..2025-12-23 13:53:03",
 				"outlineItems": [
@@ -1253,7 +1544,7 @@
 				]
 			},
 			{
-				"suuid": "bBtgLq",
+				"suuid": "rI5OH0",
 				"kind": "fix",
 				"title": " Resolve mobile display issues with project component //2025-12-23 11:51:24..2025-12-23 12:36:13",
 				"outlineItems": [
@@ -1275,7 +1566,7 @@
 				]
 			},
 			{
-				"suuid": "s29gmp",
+				"suuid": "C8VB7C",
 				"kind": "feature",
 				"title": " Make single and multiple project pages ready for project import //2025-12-22 01:06:10..2025-12-23 11:44:58",
 				"outlineItems": [
@@ -1457,7 +1748,7 @@
 				]
 			},
 			{
-				"suuid": "kBGtcB",
+				"suuid": "VGkWxA",
 				"kind": "feature",
 				"title": " Add style and content improvements after design upgrade //2025-12-22 00:46:29..2025-12-22 01:01:01",
 				"outlineItems": [
@@ -1484,7 +1775,7 @@
 				]
 			},
 			{
-				"suuid": "LpltDq",
+				"suuid": "WcXNHB",
 				"kind": "feature",
 				"title": " Convert Nuxt to Next.js and upgrade to modern site layout //2025-12-20 22:48:41..2025-12-22 00:46:56",
 				"outlineItems": [
@@ -1616,7 +1907,7 @@
 				]
 			},
 			{
-				"suuid": "cSplnT",
+				"suuid": "tlMbYE",
 				"kind": "feature",
 				"title": " Add rank to tasks and sort more important first //2025-12-21 19:21:30..2025-12-21 20:02:04",
 				"outlineItems": [
@@ -1678,7 +1969,7 @@
 				]
 			},
 			{
-				"suuid": "PZjIPH",
+				"suuid": "MzRm5G",
 				"kind": "feature",
 				"title": " Show three of each kind of tasks: current, upcoming, finished //2025-12-21 15:03:15..2025-12-21 19:10:44",
 				"outlineItems": [
@@ -1855,7 +2146,7 @@
 				]
 			},
 			{
-				"suuid": "K5yEOl",
+				"suuid": "BqEwzv",
 				"kind": "feature",
 				"title": " Process and display all tasks basic data //2025-12-20 16:55:12..2025-12-20 19:31:35",
 				"outlineItems": [
@@ -1962,7 +2253,7 @@
 				]
 			},
 			{
-				"suuid": "osdb1C",
+				"suuid": "nK4zIa",
 				"kind": "base",
 				"title": " Create minimal site and put online //2025-10-17 20:39:40..2025-10-17 21:31:59",
 				"outlineItems": [
@@ -2009,7 +2300,7 @@
 				]
 			},
 			{
-				"suuid": "K74CK4",
+				"suuid": "ebI42j",
 				"kind": "feature",
 				"title": " Enable second file to be processed and combine projects //2025-12-17 20:55:42..2025-12-19 21:59:23",
 				"outlineItems": [
@@ -2176,7 +2467,7 @@
 				]
 			},
 			{
-				"suuid": "xcJgJx",
+				"suuid": "z4Xder",
 				"kind": "decision",
 				"title": " Decide on best name \"start\" or \"starter\" //2025-11-30 23:32:41..2025-12-02 22:47:14",
 				"outlineItems": [
@@ -2228,7 +2519,7 @@
 				]
 			},
 			{
-				"suuid": "lYoY0x",
+				"suuid": "kbz3Xd",
 				"kind": "feature",
 				"title": " Show start sites //2025-11-30 23:09:20..2025-12-02 22:45:41",
 				"outlineItems": [
@@ -2265,13 +2556,13 @@
 				]
 			},
 			{
-				"suuid": "Thgswu",
+				"suuid": "Ab6oKn",
 				"kind": "content",
 				"title": " Add showcase-typo3 //2025-10-31 15:16:56..2025-10-31 15:55:34",
 				"outlineItems": []
 			},
 			{
-				"suuid": "UQP8Ue",
+				"suuid": "5j2E3c",
 				"kind": "feature",
 				"title": " Create all current images //2025-10-27 15:55:36..2025-10-27 16:27:16",
 				"outlineItems": [
@@ -2293,7 +2584,7 @@
 				]
 			},
 			{
-				"suuid": "LlgtZX",
+				"suuid": "8FblX5",
 				"kind": "feature",
 				"title": " Show image if exists //2025-10-27 14:11:00..2025-10-27 15:54:31",
 				"outlineItems": [
@@ -2375,7 +2666,7 @@
 				]
 			},
 			{
-				"suuid": "fO5ycD",
+				"suuid": "MA5Cyc",
 				"kind": "feature",
 				"title": " Make Responsive //2025-10-27 11:45:48..2025-10-27 13:25:18",
 				"outlineItems": [
@@ -2447,7 +2738,7 @@
 				]
 			},
 			{
-				"suuid": "wH1gmL",
+				"suuid": "0aXpEC",
 				"kind": "feature",
 				"title": " Implement categories //2025-10-24 13:28:42..2025-10-24 18:12:10",
 				"outlineItems": [
@@ -2554,7 +2845,7 @@
 				]
 			},
 			{
-				"suuid": "Iycdcm",
+				"suuid": "HvdgyI",
 				"kind": "feature",
 				"title": " Create active, planning and stable project sections //2025-10-20 13:41:27..2025-10-24 13:17:01",
 				"outlineItems": [
@@ -2771,7 +3062,7 @@
 				]
 			},
 			{
-				"suuid": "Oq3jMt",
+				"suuid": "HJowCW",
 				"kind": "feature",
 				"title": " Process first data file, list frontend idcodes //2025-10-17 21:47:29..2025-10-17 23:44:52",
 				"outlineItems": [
@@ -2835,9 +3126,10 @@
 		]
 	},
 	{
-		"suuid": "liST8r",
+		"suuid": "PQSxJv",
 		"idCode": "comprehensible-output",
 		"title": "COMPREHENSIBLE-OUTPUT",
+		"shortTitle": "COMPREHENSIBLE-OUTPUT",
 		"description": "",
 		"status": "(fill in status)",
 		"mode": "open",
@@ -2849,7 +3141,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "21QAy1",
+				"suuid": "TxRWTq",
 				"kind": "feature",
 				"title": " Streamline story creation //2025-08-03 23:30:15..2025-08-05 10:58:02",
 				"outlineItems": [
@@ -3456,7 +3748,7 @@
 				]
 			},
 			{
-				"suuid": "FY8ASm",
+				"suuid": "iPnqz3",
 				"kind": "feature",
 				"title": " Order import listing by number of phrases //2025-10-13 07:55:31..2025-10-13 08:02:23",
 				"outlineItems": [
@@ -3473,7 +3765,7 @@
 				]
 			},
 			{
-				"suuid": "ZhyBV5",
+				"suuid": "0k6KE2",
 				"kind": "feature",
 				"title": " Use most recent phrases first //2025-10-09 10:58:45..2025-10-09 11:53:47",
 				"outlineItems": [
@@ -3600,7 +3892,7 @@
 				]
 			},
 			{
-				"suuid": "wdejsD",
+				"suuid": "yhpKqw",
 				"kind": "feature",
 				"title": " CLI command \"cpf\" creates prompt files for all languages //2025-06-09 12:31:32..2025-06-10 00:12:39",
 				"outlineItems": [
@@ -3617,7 +3909,7 @@
 				]
 			},
 			{
-				"suuid": "AbjFkq",
+				"suuid": "o8dFCb",
 				"kind": "feature",
 				"title": " Enable 10 100 to be sent as params, with defaults if not sent //2025-06-09 13:14:09..2025-06-09 15:17:03",
 				"outlineItems": [
@@ -3639,13 +3931,13 @@
 				]
 			},
 			{
-				"suuid": "90GoIv",
+				"suuid": "PkAnBr",
 				"kind": "feature",
 				"title": " For command npm run cpg fr, randomize order of phrases //2025-06-09 17:14:02..2025-06-09 17:19:03",
 				"outlineItems": []
 			},
 			{
-				"suuid": "CChVRA",
+				"suuid": "8h6JBJ",
 				"kind": "feature",
 				"title": " Show history of phrases for \"cpf\" //2025-06-10 16:14:09..2025-06-10 17:12:19",
 				"outlineItems": [
@@ -3672,7 +3964,7 @@
 				]
 			},
 			{
-				"suuid": "i6uR4p",
+				"suuid": "2F0apF",
 				"kind": "feature",
 				"title": " Implement script to create prompts from google translate phrases //2025-06-08 20:11:09..2025-06-08 20:44:02",
 				"outlineItems": [

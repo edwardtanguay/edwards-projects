@@ -1,13 +1,40 @@
 [
 	{
-		"suuid": "Zn32BY",
+		"suuid": "U5Cj99",
+		"idCode": "datapod-for-vite-react-core",
+		"title": "Datapod for TypeScript/React 2023",
+		"shortTitle": "Datapod for TS/React 2023",
+		"description": "This was my recreation of Datapod in 2023, the Datapod script creation feature works and can be demonstrated, as well as the multi-format feature, so you can create an item type with data in a Datapod text file, parse and immediately have a JSON file. I still use this site to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod functionality</a>. This might even be useful to set up if you just wanted to export JSON files based on Datapod text files. In fact, this site still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>. I suspect this site's usefulness will be completely replaced by <a target=\"_blank\" href=\"https://datapod-tanguay-eu.vercel.app\">various Datapod versions in 2026</a>.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-for-vite-react-core",
+		"live": "",
+		"defaultCategory": "legacy",
+		"techItems": [
+			"Node",
+			"TypeScript",
+			"React"
+		],
+		"imageMobile": "/images/projects/datapod-for-vite-react-core-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-for-vite-react-core-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "legacy",
+				"shortInfo": "I stopped using this in 2025 but still use it to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod concepts</a> and it still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>."
+			}
+		]
+	},
+	{
+		"suuid": "DSMAil",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects",
+		"shortTitle": "Edward's Projects",
 		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
 		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
 		"mode": "active",
 		"repo": "https://github.com/edwardtanguay/edwards-projects",
 		"live": "https://edwards-projects.vercel.app",
+		"defaultCategory": "live",
 		"techItems": [
 			"Python",
 			"Next.js",
@@ -19,7 +46,7 @@
 		"categories": [
 			{
 				"idCode": "live",
-				"shortInfo": "this is my site that shows all tech projects I'm working on with links to repositories, many useful showcases and templates"
+				"shortInfo": "This site shows all tech projects I'm working on with links to repositories, many useful showcases and templates."
 			},
 			{
 				"idCode": "current",
@@ -28,14 +55,16 @@
 		]
 	},
 	{
-		"suuid": "GCNpfb",
+		"suuid": "HK4Q9n",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
+		"shortTitle": "Comprehensible Input",
 		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
 		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/comprehensible-output",
 		"live": "https://comprehensible-output.vercel.app",
+		"defaultCategory": "live",
 		"techItems": [
 			"Go",
 			"React",
@@ -46,7 +75,7 @@
 		"categories": [
 			{
 				"idCode": "live",
-				"shortInfo": "my main language-learning site, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch"
+				"shortInfo": "I use this site to learn languages, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch."
 			},
 			{
 				"idCode": "current",
