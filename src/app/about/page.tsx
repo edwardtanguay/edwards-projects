@@ -3,7 +3,7 @@ export default function About() {
 		<div className="p-8 md:p-12 max-w-4xl">
 			<div className="space-y-8">
 				<div>
-					<h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-4">
+					<h1 className="page-header">
 						About
 					</h1>
 					<div className="text-lg text-gray-400 leading-relaxed">

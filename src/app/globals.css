@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@layer components {
+	.page-header {
+		@apply text-white sm:text-slate-400 font-bold text-[33px] sm:text-[48px] xl:text-6xl mb-2 sm:mb-4 pb-2;
+	}
+}

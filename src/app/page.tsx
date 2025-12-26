@@ -15,10 +15,10 @@ export default function Home() {
 		<div className="p-8 md:p-12 max-w-6xl">
 			<div>
 				<div className="mb-6">
-					<h1 className="text-[33px] md:text-[48px] xl:text-6xl font-bold text-slate-400 mb-2 md:mb-4 pb-2">
+					<h1 className="page-header">
 						Edward's Projects
 					</h1>
-					<p className="text-lg text-gray-400 mb-6">
+					<p className="text-lg text-white sm:text-gray-400 mb-6">
 						This site keeps track of the status of all my website and software
 						development projects.
 					</p>

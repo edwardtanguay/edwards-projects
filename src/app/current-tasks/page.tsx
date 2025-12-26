@@ -12,7 +12,7 @@ export default function Company() {
 		<div className="p-8 md:p-12 max-w-4xl">
 			<div className="space-y-8">
 				<div>
-					<h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-200 via-purple-200 to-blue-200 bg-clip-text text-transparent mb-4">
+					<h1 className="page-header">
 						Current Tasks
 					</h1>
 					<p className="text-lg text-gray-300 leading-relaxed">
