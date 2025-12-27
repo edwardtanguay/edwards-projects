@@ -202,7 +202,9 @@ def markdown_to_html(markdown_text):
 
 
 def sentencize(text):
+	if not text:
+		return ""
 	result = text[0].upper() + text[1:]
-	if result[-1] not in string.punctuation:
+	if result[-1] not in "!?.":
 		result += "."
 	return result

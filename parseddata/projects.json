@@ -1,34 +1,37 @@
 [
 	{
-		"suuid": "V8XL5N",
-		"idCode": "datapod-for-vite-react-core",
-		"title": "Datapod for TypeScript/React 2023",
-		"shortTitle": "Datapod for React 2023",
-		"description": "This was my recreation of Datapod in 2023, the Datapod script creation feature works and can be demonstrated, as well as the multi-format feature, so you can create an item type with data in a Datapod text file, parse and immediately have a JSON file. I still use this site to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod functionality</a>. This might even be useful to set up if you just wanted to export JSON files based on Datapod text files. In fact, this site still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>. I suspect this site's usefulness will be completely replaced by <a target=\"_blank\" href=\"https://datapod-tanguay-eu.vercel.app\">various Datapod versions in 2026</a>.",
+		"suuid": "tapsok",
+		"idCode": "datapod-tanguay-eu",
+		"title": "Datapod Central 2026",
+		"shortTitle": "Datapod Central 2026",
+		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-for-vite-react-core",
-		"live": "",
-		"defaultCategory": "legacy",
+		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
+		"live": "https://datapod-tanguay-eu.vercel.app",
+		"defaultCategory": "live",
 		"techItems": [
-			"Node",
-			"TypeScript",
-			"React"
+			"Angular 17",
+			"TypeScript"
 		],
-		"imageMobile": "/images/projects/datapod-for-vite-react-core-mobile.jpg",
-		"imageDesktop": "/images/projects/datapod-for-vite-react-core-desktop.jpg",
+		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "legacy",
-				"shortInfo": "I stopped using this in 2025 but still use it to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod concepts</a> and it still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>."
+				"idCode": "live",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
+			},
+			{
+				"idCode": "current",
+				"shortInfo": "This will be one of my most active projects in 2026 as I develop the Datapod concept in many backend languages and frontend frameworks."
 			}
 		]
 	},
 	{
-		"suuid": "lv1gy4",
+		"suuid": "rhqNLX",
 		"idCode": "edwards-projects",
-		"title": "Edward's Projects",
-		"shortTitle": "Edward's Projects",
+		"title": "Edward's Projects 2026",
+		"shortTitle": "Edward's Projects 2026",
 		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
 		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
 		"mode": "active",
@@ -55,7 +58,7 @@
 		]
 	},
 	{
-		"suuid": "P6M0wR",
+		"suuid": "gC2Mk7",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -80,6 +83,31 @@
 			{
 				"idCode": "current",
 				"shortInfo": "Currently adding features that streamline the daily story-creation process, plus quizzes."
+			}
+		]
+	},
+	{
+		"suuid": "ZpZ5n4",
+		"idCode": "datapod-for-vite-react-core",
+		"title": "Datapod for TypeScript/React 2023",
+		"shortTitle": "Datapod for React 2023",
+		"description": "This was my recreation of Datapod in 2023, the Datapod script creation feature works and can be demonstrated, as well as the multi-format feature, so you can create an item type with data in a Datapod text file, parse and immediately have a JSON file. I still use this site to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod functionality</a>. This might even be useful to set up if you just wanted to export JSON files based on Datapod text files. In fact, this site still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>. I suspect this site's usefulness will be completely replaced by <a target=\"_blank\" href=\"https://datapod-tanguay-eu.vercel.app\">various Datapod versions in 2026</a>.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-for-vite-react-core",
+		"live": "",
+		"defaultCategory": "legacy",
+		"techItems": [
+			"Node",
+			"TypeScript",
+			"React"
+		],
+		"imageMobile": "/images/projects/datapod-for-vite-react-core-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-for-vite-react-core-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "legacy",
+				"shortInfo": "I stopped using this in 2025 but still use it to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod concepts</a> and it still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>."
 			}
 		]
 	}
