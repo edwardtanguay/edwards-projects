@@ -12,6 +12,7 @@ import {
 	CalendarClock,
 	Cog,
 	SquareCheck,
+	Globe,
 	X,
 } from "lucide-react";
 
@@ -23,6 +24,7 @@ interface NavItem {
 
 const navItems: NavItem[] = [
 	{ label: "Home", href: "/", icon: <Home size={20} /> },
+	{ label: "Live Projects", href: "/live-projects", icon: <Globe size={20} /> },
 	{ label: "Current Projects", href: "/current-projects", icon: <Activity size={20} /> },
 	{ label: "Legacy Projects", href: "/legacy-projects", icon: <CalendarClock size={20} /> },
 	{ label: "Current Tasks", href: "/current-tasks", icon: <Cog size={20} /> },
@@ -61,9 +63,8 @@ export default function Navigation() {
 
 			{/* Sidebar Navigation */}
 			<aside
-				className={`fixed md:static inset-y-0 right-0 md:left-0 z-40 w-64 bg-gray-900 border-r border-gray-800 transition-transform duration-300 ease-out md:translate-x-0 ${
-					isOpen ? "translate-x-0" : "translate-x-full"
-				} flex flex-col pt-16 md:pt-0`}
+				className={`fixed md:static inset-y-0 right-0 md:left-0 z-40 w-64 bg-gray-900 border-r border-gray-800 transition-transform duration-300 ease-out md:translate-x-0 ${isOpen ? "translate-x-0" : "translate-x-full"
+					} flex flex-col pt-16 md:pt-0`}
 			>
 				<nav className="flex-1 px-4 py-8 space-y-2">
 					{navItems.map((item) => (

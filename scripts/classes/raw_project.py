@@ -116,7 +116,8 @@ class RawProject:
 				recordng_item = True
 			if recordng_item:
 				recording_outline_items.append(outline_item)
-		self.project_items.append(ProjectItem(recording_outline_items)) # include the last item
+		if any(item.indents > 0 for item in self.outline_block.outline_items):
+			self.project_items.append(ProjectItem(recording_outline_items)) # include the last item
 
 	def get_repo_for_json(self):
 		if self.repo != "none":

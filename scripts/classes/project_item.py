@@ -37,14 +37,15 @@ class ProjectItem:
 		self.outline_items = outline_items
 		self.suuid = qstr.generate_short_uuid()
 
-		line1 = self.outline_items[0].line
-		self.marker = self.outline_items[0].marker
-		self.parse_kind_and_title(line1)
-		if self.kind == "info":
-			self.title = "(info)"
-			self.parse_line_variables_for_info()
-		else:
-			self.parse_line_variables_for_normal()
+		if self.outline_items:
+			line1 = self.outline_items[0].line
+			self.marker = self.outline_items[0].marker
+			self.parse_kind_and_title(line1)
+			if self.kind == "info":
+				self.title = "(info)"
+				self.parse_line_variables_for_info()
+			else:
+				self.parse_line_variables_for_normal()
 
 	def parse_kind_and_title(self, line: str):
 		self.kind = qstr.get_smart_part(line, ":", 0).lower()

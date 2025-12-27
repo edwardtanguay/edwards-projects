@@ -6,6 +6,7 @@ import ButtonRepo from "@/components/ButtonRepo";
 import { type Project } from "@/types";
 import { useParams } from "next/navigation";
 import TaskAsLine from "@/components/TaskAsLine";
+import * as qstr from "@/qtools/qstr";
 
 export default function Project() {
 	const params = useParams();
@@ -90,7 +91,7 @@ export default function Project() {
 						{/* Current Tasks */}
 						{currentTasks.length > 0 && (
 							<div className="mt-8">
-								<h2 className="text-2xl font-bold mb-4">Current Tasks</h2>
+								<h2 className="text-2xl font-bold mb-4">{qstr.smartPlural(currentTasks.length, "Current Task")}</h2>
 								<div>
 									{currentTasks.map((task) => (
 										<TaskAsLine key={task.suuid} task={task} />
@@ -102,7 +103,7 @@ export default function Project() {
 						{/* Upcoming Tasks */}
 						{upcomingTasks.length > 0 && (
 							<div className="mt-8">
-								<h2 className="text-2xl font-bold mb-4">Upcoming Tasks
+								<h2 className="text-2xl font-bold mb-4">{qstr.smartPlural(upcomingTasks.length, "Upcoming Task")}
 									<span className="text-xs font-medium mr-2 opacity-70 italic"> - rank <span className="text-yellow-400">5</span> to <span className="text-yellow-400">0</span></span>
 								</h2>
 								<div>
@@ -116,7 +117,7 @@ export default function Project() {
 						{/* Finished Tasks */}
 						{finishedTasks.length > 0 && (
 							<div className="mt-8">
-								<h2 className="text-2xl font-bold mb-4">Finished Tasks</h2>
+								<h2 className="text-2xl font-bold mb-4">{qstr.smartPlural(finishedTasks.length, "Finished Task")}</h2>
 								<div>
 									{finishedTasks.map((task) => (
 										<TaskAsLine key={task.suuid} task={task} />

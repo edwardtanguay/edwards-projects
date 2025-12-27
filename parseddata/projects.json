@@ -1,6 +1,65 @@
 [
 	{
-		"suuid": "tapsok",
+		"suuid": "4d1zIf",
+		"idCode": "edwards-projects",
+		"title": "Edward's Projects 2026",
+		"shortTitle": "Edward's Projects 2026",
+		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
+		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
+		"mode": "active",
+		"repo": "https://github.com/edwardtanguay/edwards-projects",
+		"live": "https://edwards-projects.vercel.app",
+		"defaultCategory": "live",
+		"techItems": [
+			"Python",
+			"Next.js",
+			"TypeScript",
+			"Tailwind"
+		],
+		"imageMobile": "/images/projects/edwards-projects-mobile.jpg",
+		"imageDesktop": "/images/projects/edwards-projects-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "live",
+				"shortInfo": "This site (the site you're viewing) shows all tech projects I'm working on with links to repositories, many useful showcases and templates."
+			},
+			{
+				"idCode": "current",
+				"shortInfo": "Just upgraded this site to a modern, dark design, now moving all the previous content back in."
+			}
+		]
+	},
+	{
+		"suuid": "dwVhHE",
+		"idCode": "comprehensible-output",
+		"title": "Comprehensible Input",
+		"shortTitle": "Comprehensible Input",
+		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
+		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/comprehensible-output",
+		"live": "https://comprehensible-output.vercel.app",
+		"defaultCategory": "live",
+		"techItems": [
+			"Go",
+			"React",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
+		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "live",
+				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
+			},
+			{
+				"idCode": "current",
+				"shortInfo": "Currently adding features that streamline the daily story-creation process, plus quizzes."
+			}
+		]
+	},
+	{
+		"suuid": "yTd1Yo",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -28,66 +87,31 @@
 		]
 	},
 	{
-		"suuid": "rhqNLX",
-		"idCode": "edwards-projects",
-		"title": "Edward's Projects 2026",
-		"shortTitle": "Edward's Projects 2026",
-		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
-		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
-		"mode": "active",
-		"repo": "https://github.com/edwardtanguay/edwards-projects",
-		"live": "https://edwards-projects.vercel.app",
-		"defaultCategory": "live",
-		"techItems": [
-			"Python",
-			"Next.js",
-			"TypeScript",
-			"Tailwind"
-		],
-		"imageMobile": "/images/projects/edwards-projects-mobile.jpg",
-		"imageDesktop": "/images/projects/edwards-projects-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "live",
-				"shortInfo": "This site shows all tech projects I'm working on with links to repositories, many useful showcases and templates."
-			},
-			{
-				"idCode": "current",
-				"shortInfo": "Just upgraded this site to a modern, dark design, now moving all the previous content back in."
-			}
-		]
-	},
-	{
-		"suuid": "gC2Mk7",
-		"idCode": "comprehensible-output",
-		"title": "Comprehensible Input",
-		"shortTitle": "Comprehensible Input",
-		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
-		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
+		"suuid": "WuCeiJ",
+		"idCode": "edward-tanguay-eu",
+		"title": "Edward's Personal Page",
+		"shortTitle": "Edward's Personal Page",
+		"description": "This is my personal site, originally in 2022 as a way to learn Vue 3, now mostly just a site with links for me, a fitness exercise GIF, and a place to record runs I do with photos, the data for the runs comes from <a target=\"_blank\" href=\"/project/datapod-for-vite-react-core\">Datapod 2023</a> currently, which is a bit cumbersome, but I plan to upgrade this personal site in 2026 with an easy-to-edit <a target=\"_blank\" href=\"https://datapod-tanguay-eu.vercel.app\">Datapod site</a>, perhaps with an experimental backend language like Rust, Ruby, Bash or Kotlin, and an exotic frontend framework like SvelteKit, in order to experiment around with these technologies with a low-visibility site, but one that I use often in order to make them more production-ready.",
+		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/comprehensible-output",
-		"live": "https://comprehensible-output.vercel.app",
+		"repo": "https://github.com/edwardtanguay/edward-tanguay-eu",
+		"live": "https://edward-tanguay-eu.vercel.app",
 		"defaultCategory": "live",
 		"techItems": [
-			"Go",
-			"React",
+			"Vue 3",
 			"TypeScript"
 		],
-		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
-		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
+		"imageMobile": "/images/projects/edward-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/edward-tanguay-eu-desktop.jpg",
 		"categories": [
 			{
 				"idCode": "live",
-				"shortInfo": "I use this site to learn languages, each day I have AI create me a story based on the phrases that I looked up the day before in Google Translate, then I read it aloud, currently learning French, Italian and Dutch."
-			},
-			{
-				"idCode": "current",
-				"shortInfo": "Currently adding features that streamline the daily story-creation process, plus quizzes."
+				"shortInfo": "This is my personal site, mostly just links for me, a fitness exercise GIF, and a place to record runs I do with photos."
 			}
 		]
 	},
 	{
-		"suuid": "ZpZ5n4",
+		"suuid": "M1lqkU",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",

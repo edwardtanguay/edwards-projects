@@ -208,3 +208,13 @@ def sentencize(text):
 	if result[-1] not in "!?.":
 		result += "."
 	return result
+
+
+def smart_plural(n, singular, plural=None):
+	if plural is None:
+		plural = singular + "s"
+	
+	if n == 1:
+		return f"{n} {singular}"
+	else:
+		return f"{n} {plural}"
