@@ -6,13 +6,14 @@ import { usePathname } from "next/navigation";
 import {
 	Home,
 	Info,
-	Activity,
 	Menu,
 	CalendarFold,
 	CalendarClock,
 	Cog,
 	SquareCheck,
-	Globe,
+	SquareParking,
+	Star,
+	ArrowRightLeft,
 	X,
 } from "lucide-react";
 
@@ -24,9 +25,10 @@ interface NavItem {
 
 const navItems: NavItem[] = [
 	{ label: "Home", href: "/", icon: <Home size={20} /> },
-	{ label: "Live Projects", href: "/live-projects", icon: <Globe size={20} /> },
-	{ label: "Current Projects", href: "/current-projects", icon: <Activity size={20} /> },
+	{ label: "Premier Projects", href: "/premier-projects", icon: <Star size={20} /> },
+	{ label: "Transitional Projects", href: "/transitional-projects", icon: <ArrowRightLeft size={20} /> },
 	{ label: "Legacy Projects", href: "/legacy-projects", icon: <CalendarClock size={20} /> },
+	{ label: "Parked Projects", href: "/parked-projects", icon: <SquareParking size={20} /> },
 	{ label: "Current Tasks", href: "/current-tasks", icon: <Cog size={20} /> },
 	{ label: "Upcoming Tasks", href: "/upcoming-tasks", icon: <CalendarFold size={20} /> },
 	{ label: "Finished Tasks", href: "/finished-tasks", icon: <SquareCheck size={20} /> },

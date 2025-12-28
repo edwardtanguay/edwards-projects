@@ -2,28 +2,29 @@
 import _projects from "../../../parseddata/projects.json";
 import Project from "../../components/Project";
 
-const legacyProjects = _projects.filter((project) =>
-	project.categories.some((category) => category.idCode === "legacy")
+const parkedProjects = _projects.filter((project) =>
+	project.categories.some((category) => category.idCode === "parked")
 );
+
 export default function Home() {
 	return (
 		<div className="p-8 md:p-12 max-w-6xl">
 			<div className="space-y-8">
 				<div>
 					<h1 className="page-header">
-						Legacy Projects
+						Parked Projects
 					</h1>
 					<p className="text-lg text-gray-400 leading-relaxed">
-						These are the projects that I no longer develop but I use from time to time, may be useful to others for various reasons. Most of these I plan to upgrade to new versions of Datapod in the future.
+						These are the projects which are currently parked, which means they may be still online but are only half-finished or not that useful. However, they have something about them that I want to use for other projects, so I keep them until I use them, at which time I will delete them.
 					</p>
 				</div>
 
 				<div className="flex flex-col md:flex-row md:flex-wrap gap-6">
-					{legacyProjects.map((project) => (
+					{parkedProjects.map((project) => (
 						<Project
 							key={project.suuid ?? project.idCode}
 							project={project}
-							currentCategory="legacy"
+							currentCategory="parked"
 						/>
 					))}
 				</div>

@@ -2,8 +2,8 @@
 import _projects from "../../../parseddata/projects.json";
 import Project from "../../components/Project";
 
-const currentProjects = _projects.filter((project) =>
-	project.categories.some((category) => category.idCode === "current")
+const transitionalProjects = _projects.filter((project) =>
+	project.categories.some((category) => category.idCode === "transitional")
 );
 
 export default function Home() {
@@ -12,19 +12,19 @@ export default function Home() {
 			<div className="space-y-8">
 				<div>
 					<h1 className="page-header">
-						Current Projects
+						Transitional Projects
 					</h1>
 					<p className="text-lg text-gray-400 leading-relaxed">
-						These are the projects for which I'm actively developing new features at the moment.
+						These are projects that are currently in a state of transition, such as being upgraded to a new framework or reworked into another site, and are generally being actively developed.
 					</p>
 				</div>
 
 				<div className="flex flex-col md:flex-row md:flex-wrap gap-6">
-					{currentProjects.map((project) => (
+					{transitionalProjects.map((project) => (
 						<Project
 							key={project.suuid ?? project.idCode}
 							project={project}
-							currentCategory="current"
+							currentCategory="transitional"
 						/>
 					))}
 				</div>

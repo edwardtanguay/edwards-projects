@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "4d1zIf",
+		"suuid": "rxMnYO",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -9,10 +9,10 @@
 		"mode": "active",
 		"repo": "https://github.com/edwardtanguay/edwards-projects",
 		"live": "https://edwards-projects.vercel.app",
-		"defaultCategory": "live",
+		"defaultCategory": "premier",
 		"techItems": [
 			"Python",
-			"Next.js",
+			"Next.js 16",
 			"TypeScript",
 			"Tailwind"
 		],
@@ -20,17 +20,13 @@
 		"imageDesktop": "/images/projects/edwards-projects-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "live",
+				"idCode": "premier",
 				"shortInfo": "This site (the site you're viewing) shows all tech projects I'm working on with links to repositories, many useful showcases and templates."
-			},
-			{
-				"idCode": "current",
-				"shortInfo": "Just upgraded this site to a modern, dark design, now moving all the previous content back in."
 			}
 		]
 	},
 	{
-		"suuid": "dwVhHE",
+		"suuid": "7I9R3m",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -39,7 +35,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/comprehensible-output",
 		"live": "https://comprehensible-output.vercel.app",
-		"defaultCategory": "live",
+		"defaultCategory": "premier",
 		"techItems": [
 			"Go",
 			"React",
@@ -49,17 +45,13 @@
 		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "live",
+				"idCode": "premier",
 				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
-			},
-			{
-				"idCode": "current",
-				"shortInfo": "Currently adding features that streamline the daily story-creation process, plus quizzes."
 			}
 		]
 	},
 	{
-		"suuid": "yTd1Yo",
+		"suuid": "PvS47X",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -68,7 +60,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
 		"live": "https://datapod-tanguay-eu.vercel.app",
-		"defaultCategory": "live",
+		"defaultCategory": "premier",
 		"techItems": [
 			"Angular 17",
 			"TypeScript"
@@ -77,41 +69,68 @@
 		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "live",
+				"idCode": "premier",
 				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
-			},
-			{
-				"idCode": "current",
-				"shortInfo": "This will be one of my most active projects in 2026 as I develop the Datapod concept in many backend languages and frontend frameworks."
 			}
 		]
 	},
 	{
-		"suuid": "WuCeiJ",
-		"idCode": "edward-tanguay-eu",
-		"title": "Edward's Personal Page",
-		"shortTitle": "Edward's Personal Page",
-		"description": "This is my personal site, originally in 2022 as a way to learn Vue 3, now mostly just a site with links for me, a fitness exercise GIF, and a place to record runs I do with photos, the data for the runs comes from <a target=\"_blank\" href=\"/project/datapod-for-vite-react-core\">Datapod 2023</a> currently, which is a bit cumbersome, but I plan to upgrade this personal site in 2026 with an easy-to-edit <a target=\"_blank\" href=\"https://datapod-tanguay-eu.vercel.app\">Datapod site</a>, perhaps with an experimental backend language like Rust, Ruby, Bash or Kotlin, and an exotic frontend framework like SvelteKit, in order to experiment around with these technologies with a low-visibility site, but one that I use often in order to make them more production-ready.",
+		"suuid": "8X2U7Z",
+		"idCode": "langcore",
+		"title": "Language Core 2024",
+		"shortTitle": "Language Core 2024",
+		"description": "I built this site to learn Spanish and Dutch, it's a useful site for learning verbs in these languages, it will even save your progress (local storage) for learning Dutch verbs, but I haven't developed it since 2024. I'll upgrade this into a central language site at some point.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/edward-tanguay-eu",
-		"live": "https://edward-tanguay-eu.vercel.app",
-		"defaultCategory": "live",
+		"repo": "https://github.com/edwardtanguay/langcore",
+		"live": "https://langcore.vercel.app",
+		"defaultCategory": "transitional",
 		"techItems": [
-			"Vue 3",
-			"TypeScript"
+			"React",
+			"TypeScript",
+			"Tailwind"
 		],
-		"imageMobile": "/images/projects/edward-tanguay-eu-mobile.jpg",
-		"imageDesktop": "/images/projects/edward-tanguay-eu-desktop.jpg",
+		"imageMobile": "/images/projects/langcore-mobile.jpg",
+		"imageDesktop": "/images/projects/langcore-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "live",
-				"shortInfo": "This is my personal site, mostly just links for me, a fitness exercise GIF, and a place to record runs I do with photos."
+				"idCode": "transitional",
+				"shortInfo": "I used this site to learn Spanish in 2022 and Dutch in 2024, a useful site for learning verbs in these languages, but not currently being developed."
 			}
 		]
 	},
 	{
-		"suuid": "M1lqkU",
+		"suuid": "8y2GLk",
+		"idCode": "interitalnotes",
+		"title": "Interactive Italian Notes",
+		"shortTitle": "Interactive Italian Notes",
+		"description": "This is an old, parked site from when I started learning Italian in April 2025. It has an algorithm for parsing the verbs on my <a target=\"_blank\" href=\"https://tanguay.info/italian/texts/itnotes.html\">Italian notes file</a>, parsing them from text into a JSON file, so I will use this in the future when I create a create my Language Central site, probably based on <a target=\"_blank\" href=\"https://comprehensible-output.vercel.app\">Comprehensible Input</a> site. This Interactive notes site might also be technically interesting as an example of using easy-peasy Redux and Zod.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/interitalnotes",
+		"live": "https://interitalnotes.vercel.app",
+		"defaultCategory": "parked",
+		"techItems": [
+			"Python",
+			"React",
+			"TypeScript",
+			"Easy-Peasy Redux"
+		],
+		"imageMobile": "/images/projects/interitalnotes-mobile.jpg",
+		"imageDesktop": "/images/projects/interitalnotes-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "parked",
+				"shortInfo": "A parked site that has the parsing algorithm of my main Italian notes file, so useful for that."
+			},
+			{
+				"idCode": "legacy",
+				"shortInfo": "An old site that has the parsing algorithm of my main Italian notes file, so will keep it around until I upgrade my central language site."
+			}
+		]
+	},
+	{
+		"suuid": "ZaIEKI",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -132,6 +151,55 @@
 			{
 				"idCode": "legacy",
 				"shortInfo": "I stopped using this in 2025 but still use it to <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">demonstrate Datapod concepts</a> and it still creates the JSON file for my post-2023 <a target=\"_blank\" href=\"https://edward-tanguay-eu.vercel.app/runs\">running site</a>."
+			}
+		]
+	},
+	{
+		"suuid": "AHn3W0",
+		"idCode": "etnotes",
+		"title": "Edward's Notes",
+		"shortTitle": "Edward's Notes",
+		"description": "I created this site in 2024 as a way to quickly publish texts that are written in my Datapod markup (markdown with outline format and embedded images/gifs). I use it as a way to plan trips easily so that I have all the information in one place on my phone. The data comes from my <a target=\"_blank\" href=\"/project/datapod-for-vite-react-core\">Datapod 2023</a> site currently, which is cumbersome so I need to upgrade this soon to a modern Datapod site.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/etnotes",
+		"live": "https://etnotes.vercel.app",
+		"defaultCategory": "legacy",
+		"techItems": [
+			"Next.js 13",
+			"TypeScript",
+			"Tailwind"
+		],
+		"imageMobile": "/images/projects/etnotes-mobile.jpg",
+		"imageDesktop": "/images/projects/etnotes-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "legacy",
+				"shortInfo": "This was a quick site I made to save notes in Datapod format, I still use it occasionally for e.g. trips I go on to have all info on my smart phone."
+			}
+		]
+	},
+	{
+		"suuid": "2vF4y0",
+		"idCode": "edward-tanguay-eu",
+		"title": "Edward's Personal Page",
+		"shortTitle": "Edward's Personal Page",
+		"description": "This is my personal site, originally in 2022 as a way to learn Vue 3, now mostly just a site with links for me, a fitness exercise GIF, and a place to record runs I do with photos, the data for the runs comes from <a target=\"_blank\" href=\"/project/datapod-for-vite-react-core\">Datapod 2023</a> currently, which is a bit cumbersome, but I plan to upgrade this personal site in 2026 with an easy-to-edit <a target=\"_blank\" href=\"https://datapod-tanguay-eu.vercel.app\">Datapod site</a>, perhaps with an experimental backend language like Rust, Ruby, Bash or Kotlin, and an exotic frontend framework like SvelteKit, in order to experiment around with these technologies with a low-visibility site, but one that I use often in order to make them more production-ready.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/edward-tanguay-eu",
+		"live": "https://edward-tanguay-eu.vercel.app",
+		"defaultCategory": "transitional",
+		"techItems": [
+			"Vue 3",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/edward-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/edward-tanguay-eu-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "transitional",
+				"shortInfo": "This is my personal site, mostly just links for me, a fitness exercise GIF, and a place to record runs I do with photos."
 			}
 		]
 	}
