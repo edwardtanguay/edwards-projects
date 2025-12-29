@@ -1,6 +1,31 @@
 [
 	{
-		"suuid": "rxMnYO",
+		"suuid": "3Q3IYb",
+		"idCode": "learncore",
+		"title": "Learn Core 2022",
+		"shortTitle": "Learn Core 2022",
+		"description": "This is an old site from 2022 that I used to learn Spanish, the only useful part to salvage is the color-conjugation chart, and perhaps lists of verbs, the technology (React/Sass) is very old. I might use the name \"learncore\" for another site that is a collection of learning tools, etc.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/learncore",
+		"live": "https://learncore.vercel.app",
+		"defaultCategory": "parked",
+		"techItems": [
+			"React",
+			"TypeScript",
+			"Sass"
+		],
+		"imageMobile": "/images/projects/learncore-mobile.jpg",
+		"imageDesktop": "/images/projects/learncore-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "parked",
+				"shortInfo": "A very old site that I used to learn Spanish, the only useful part to salvage is the color-conjugation chart."
+			}
+		]
+	},
+	{
+		"suuid": "tYfQey",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -26,7 +51,7 @@
 		]
 	},
 	{
-		"suuid": "7I9R3m",
+		"suuid": "q7ogsD",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -51,7 +76,7 @@
 		]
 	},
 	{
-		"suuid": "PvS47X",
+		"suuid": "nTVHk0",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -75,7 +100,7 @@
 		]
 	},
 	{
-		"suuid": "8X2U7Z",
+		"suuid": "E8YTSx",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -100,7 +125,7 @@
 		]
 	},
 	{
-		"suuid": "8y2GLk",
+		"suuid": "Ceaecf",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -130,7 +155,7 @@
 		]
 	},
 	{
-		"suuid": "ZaIEKI",
+		"suuid": "gpO8M3",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -155,7 +180,7 @@
 		]
 	},
 	{
-		"suuid": "AHn3W0",
+		"suuid": "w5maBl",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -180,7 +205,7 @@
 		]
 	},
 	{
-		"suuid": "2vF4y0",
+		"suuid": "zW8k9c",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
