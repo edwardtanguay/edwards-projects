@@ -63,7 +63,9 @@ export default function Project() {
 										alt={`${project.title} - Mobile`}
 										className="rounded-sm shadow-[0_0_30px_rgba(251,146,60,0.2)] border border-orange-500/30 transition-all duration-300"
 									/>
-									<p className="text-center text-sm text-gray-400 mt-2">Mobile View</p>
+									{!project.categories?.some(c => c.idCode === 'incubator') && (
+										<p className="text-center text-sm text-gray-400 mt-2">Mobile View</p>
+									)}
 								</div>
 							)}
 							{project.imageDesktop && (
@@ -73,7 +75,9 @@ export default function Project() {
 										alt={`${project.title} - Desktop`}
 										className="rounded-sm shadow-[0_0_30px_rgba(59,130,246,0.2)] border border-blue-500/30 transition-all duration-300"
 									/>
-									<p className="text-center text-sm text-gray-400 mt-2 hidden md:block">Desktop View</p>
+									{!project.categories?.some(c => c.idCode === 'incubator') && (
+										<p className="text-center text-sm text-gray-400 mt-2 hidden md:block">Desktop View</p>
+									)}
 								</div>
 							)}
 						</div>

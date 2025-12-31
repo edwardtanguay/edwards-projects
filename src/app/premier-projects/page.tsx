@@ -15,7 +15,7 @@ export default function Home() {
 						Premier Projects
 					</h1>
 					<p className="text-lg text-gray-400 leading-relaxed">
-						These are my projects that are most up-to-date, useful and the ones I spend most time on developing at the moment.
+						These are my projects that are most up-to-date, useful and the ones I spend most time using and developing at the moment.
 					</p>
 				</div>
 

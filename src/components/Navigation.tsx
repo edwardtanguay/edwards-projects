@@ -14,6 +14,7 @@ import {
 	SquareParking,
 	Star,
 	ArrowRightLeft,
+	Sprout,
 	X,
 } from "lucide-react";
 
@@ -27,6 +28,7 @@ const navItems: NavItem[] = [
 	{ label: "Home", href: "/", icon: <Home size={20} /> },
 	{ label: "Premier Projects", href: "/premier-projects", icon: <Star size={20} /> },
 	{ label: "Transitional Projects", href: "/transitional-projects", icon: <ArrowRightLeft size={20} /> },
+	{ label: "Incubator Projects", href: "/incubator-projects", icon: <Sprout size={20} /> },
 	{ label: "Legacy Projects", href: "/legacy-projects", icon: <CalendarClock size={20} /> },
 	{ label: "Parked Projects", href: "/parked-projects", icon: <SquareParking size={20} /> },
 	{ label: "Current Tasks", href: "/current-tasks", icon: <Cog size={20} /> },
