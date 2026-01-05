@@ -1,5 +1,105 @@
 [
 	{
+		"suuid": "Q9tfi8",
+		"idCode": "datapod-tanguay-eu",
+		"title": "Datapod Central 2026",
+		"shortTitle": "Datapod Central 2026",
+		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
+		"live": "https://datapod-tanguay-eu.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Angular 17",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "You can find 10-15 versions of my Datapod framework on this page, with numerous backend languages and frontend frameworks."
+			}
+		]
+	},
+	{
+		"suuid": "AUlc3y",
+		"idCode": "comprehensible-output",
+		"title": "Comprehensible Input",
+		"shortTitle": "Comprehensible Input",
+		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
+		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/comprehensible-output",
+		"live": "https://comprehensible-output.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Go",
+			"React",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
+		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
+			}
+		]
+	},
+	{
+		"suuid": "2XnSGg",
+		"idCode": "edwards-projects",
+		"title": "Edward's Projects 2026",
+		"shortTitle": "Edward's Projects 2026",
+		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
+		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
+		"mode": "active",
+		"repo": "https://github.com/edwardtanguay/edwards-projects",
+		"live": "https://edwards-projects.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Python",
+			"Next.js 16",
+			"TypeScript",
+			"Tailwind"
+		],
+		"imageMobile": "/images/projects/edwards-projects-mobile.jpg",
+		"imageDesktop": "/images/projects/edwards-projects-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This site (the site you're viewing) shows all tech projects I'm working on with links to repositories, many useful showcases and templates."
+			}
+		]
+	},
+	{
+		"suuid": "CGsGBX",
+		"idCode": "langcore",
+		"title": "Language Core 2024",
+		"shortTitle": "Language Core 2024",
+		"description": "I built this site to learn Spanish and Dutch, it's a useful site for learning verbs in these languages, it will even save your progress (local storage) for learning Dutch verbs, but I haven't developed it since 2024. I'll upgrade this into a central language site at some point.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/langcore",
+		"live": "https://langcore.vercel.app",
+		"defaultCategory": "transitional",
+		"techItems": [
+			"React",
+			"TypeScript",
+			"Tailwind"
+		],
+		"imageMobile": "/images/projects/langcore-mobile.jpg",
+		"imageDesktop": "/images/projects/langcore-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "transitional",
+				"shortInfo": "I used this site to learn Spanish in 2022 and Dutch in 2024, a useful site for learning verbs in these languages, but not currently being developed."
+			}
+		]
+	},
+	{
 		"suuid": "tMgADm",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
@@ -50,57 +150,6 @@
 		]
 	},
 	{
-		"suuid": "2XnSGg",
-		"idCode": "edwards-projects",
-		"title": "Edward's Projects 2026",
-		"shortTitle": "Edward's Projects 2026",
-		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
-		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
-		"mode": "active",
-		"repo": "https://github.com/edwardtanguay/edwards-projects",
-		"live": "https://edwards-projects.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Python",
-			"Next.js 16",
-			"TypeScript",
-			"Tailwind"
-		],
-		"imageMobile": "/images/projects/edwards-projects-mobile.jpg",
-		"imageDesktop": "/images/projects/edwards-projects-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "This site (the site you're viewing) shows all tech projects I'm working on with links to repositories, many useful showcases and templates."
-			}
-		]
-	},
-	{
-		"suuid": "AUlc3y",
-		"idCode": "comprehensible-output",
-		"title": "Comprehensible Input",
-		"shortTitle": "Comprehensible Input",
-		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
-		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/comprehensible-output",
-		"live": "https://comprehensible-output.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Go",
-			"React",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
-		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
-			}
-		]
-	},
-	{
 		"suuid": "Cg7rfw",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
@@ -121,55 +170,6 @@
 			{
 				"idCode": "incubator",
 				"shortInfo": "This will be a class or hook (TypeScript) that I can include in the front or back in of Datapod projects to parse outline markdown text with images."
-			}
-		]
-	},
-	{
-		"suuid": "Q9tfi8",
-		"idCode": "datapod-tanguay-eu",
-		"title": "Datapod Central 2026",
-		"shortTitle": "Datapod Central 2026",
-		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
-		"live": "https://datapod-tanguay-eu.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Angular 17",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
-		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
-			}
-		]
-	},
-	{
-		"suuid": "CGsGBX",
-		"idCode": "langcore",
-		"title": "Language Core 2024",
-		"shortTitle": "Language Core 2024",
-		"description": "I built this site to learn Spanish and Dutch, it's a useful site for learning verbs in these languages, it will even save your progress (local storage) for learning Dutch verbs, but I haven't developed it since 2024. I'll upgrade this into a central language site at some point.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/langcore",
-		"live": "https://langcore.vercel.app",
-		"defaultCategory": "transitional",
-		"techItems": [
-			"React",
-			"TypeScript",
-			"Tailwind"
-		],
-		"imageMobile": "/images/projects/langcore-mobile.jpg",
-		"imageDesktop": "/images/projects/langcore-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "transitional",
-				"shortInfo": "I used this site to learn Spanish in 2022 and Dutch in 2024, a useful site for learning verbs in these languages, but not currently being developed."
 			}
 		]
 	},

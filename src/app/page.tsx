@@ -6,7 +6,8 @@ import Project from "../components/Project";
 const _currentProjects = _projects
 
 // reverse the order of the projects
-const currentProjects = [..._currentProjects].reverse();
+// const currentProjects = [..._currentProjects].reverse();
+const currentProjects = [..._currentProjects];
 
 export default function Home() {
 	return (
