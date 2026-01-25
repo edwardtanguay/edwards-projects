@@ -13,8 +13,11 @@ export default function Project({ project, currentCategory }: Props) {
 	return (
 		<div className="bg-gray-900 border border-gray-400 sm:border-gray-800 rounded-lg flex flex-col sm:flex-row overflow-hidden w-full sm:w-[500px] min-h-60 sm:max-h-60">
 			{project.imageMobile && <Image className="hidden sm:block w-32 h-full object-cover shrink-0" src={project.imageMobile} alt={project.shortTitle} width={128} height={240} />}
-			<div className="p-6 flex flex-col overflow-hidden flex-1 min-w-0">
-				<h2 className="text-2xl font-semibold text-orange-300 mb-2 whitespace-nowrap">
+			<div className="p-6 flex flex-col overflow-hidden flex-1 min-w-0 relative">
+				<p className="absolute top-[14px] text-[10px] uppercase font-bold text-white/20 tracking-[0.2em]">
+					{project.categories?.map(c => c.idCode.charAt(0).toUpperCase() + c.idCode.slice(1)).sort().join(', ')}
+				</p>
+				<h2 className="text-2xl font-semibold mt-1 text-orange-300 mb-1 whitespace-nowrap">
 					{project.shortTitle}
 				</h2>
 				<div className="flex flex-wrap items-center gap-x-2 gap-y-1 text-gray-400 mb-4 overflow-hidden whitespace-nowrap">
@@ -50,7 +53,7 @@ export default function Project({ project, currentCategory }: Props) {
 
 				<div className="flex gap-3 justify-center">
 					<ButtonInfo idCode={project.idCode} />
-					<ButtonRepo url={project.repo} />
+					<ButtonRepo project={project} />
 					<ButtonLive url={project.live} />
 				</div>
 			</div>

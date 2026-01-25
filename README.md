@@ -17,6 +17,7 @@ PROJECT_FILE_002 = "../../../maindata/projects_archive.txt"
 ## Set up backend
 
 -   (root directory of this project)
+-   (if necessary: `rm -rf .venv`)
 -   `python -m venv .venv`
 -   (Linux/Mac) `source .venv/bin/activate`
 -   (Windows with bash) `source .venv/Scripts/activate`

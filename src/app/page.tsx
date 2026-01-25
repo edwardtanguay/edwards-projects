@@ -1,5 +1,4 @@
 /* eslint-disable react/no-unescaped-entities */
-import Link from "next/link";
 import _projects from "../../parseddata/projects.json";
 import Project from "../components/Project";
 

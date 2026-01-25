@@ -1,6 +1,27 @@
 [
 	{
-		"suuid": "Q9tfi8",
+		"suuid": "pTjKxN",
+		"idCode": "fastfollow",
+		"title": "Fast Follow Forum",
+		"shortTitle": "Fast Follow Forum",
+		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/fastfollow",
+		"live": "https://fastfollow.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [],
+		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
+		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
+			}
+		]
+	},
+	{
+		"suuid": "yaGB8R",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -19,12 +40,12 @@
 		"categories": [
 			{
 				"idCode": "premier",
-				"shortInfo": "You can find 10-15 versions of my Datapod framework on this page, with numerous backend languages and frontend frameworks."
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
 			}
 		]
 	},
 	{
-		"suuid": "AUlc3y",
+		"suuid": "2QBoOc",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -49,7 +70,7 @@
 		]
 	},
 	{
-		"suuid": "2XnSGg",
+		"suuid": "zySaIi",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -75,32 +96,31 @@
 		]
 	},
 	{
-		"suuid": "CGsGBX",
-		"idCode": "langcore",
-		"title": "Language Core 2024",
-		"shortTitle": "Language Core 2024",
-		"description": "I built this site to learn Spanish and Dutch, it's a useful site for learning verbs in these languages, it will even save your progress (local storage) for learning Dutch verbs, but I haven't developed it since 2024. I'll upgrade this into a central language site at some point.",
+		"suuid": "3hNFce",
+		"idCode": "moparser",
+		"title": "Multimedia Outline Parser",
+		"shortTitle": "Multimedia Outline Parser",
+		"description": "The idea for this project is to make a class or hook (in TypeScript) that I can include in the front or back in of Datapod projects to parse markdown text plus outline mode, images, GIFs, and videos that are embedded in the outline structure. An example of this outline markdown being used is at my <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos\">howto site</a> but it's very integrated in the project. The idea of this project would be to centralize this functionality as a class or hook which can be easily used in other projects, perhaps even make an npm package out of it that can be imported.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/langcore",
-		"live": "https://langcore.vercel.app",
-		"defaultCategory": "transitional",
+		"repo": "none",
+		"live": "",
+		"defaultCategory": "incubator",
 		"techItems": [
-			"React",
 			"TypeScript",
-			"Tailwind"
+			"Sass"
 		],
-		"imageMobile": "/images/projects/langcore-mobile.jpg",
-		"imageDesktop": "/images/projects/langcore-desktop.jpg",
+		"imageMobile": "/images/projects/moparser-mobile.jpg",
+		"imageDesktop": "/images/projects/moparser-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "transitional",
-				"shortInfo": "I used this site to learn Spanish in 2022 and Dutch in 2024, a useful site for learning verbs in these languages, but not currently being developed."
+				"idCode": "incubator",
+				"shortInfo": "This will be a class or hook (TypeScript) that I can include in the front or back in of Datapod projects to parse outline markdown text with images."
 			}
 		]
 	},
 	{
-		"suuid": "tMgADm",
+		"suuid": "e08Jkh",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -125,7 +145,7 @@
 		]
 	},
 	{
-		"suuid": "DchN9L",
+		"suuid": "ps6k5G",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -150,31 +170,32 @@
 		]
 	},
 	{
-		"suuid": "Cg7rfw",
-		"idCode": "moparser",
-		"title": "Multimedia Outline Parser",
-		"shortTitle": "Multimedia Outline Parser",
-		"description": "The idea for this project is to make a class or hook (in TypeScript) that I can include in the front or back in of Datapod projects to parse markdown text plus outline mode, images, GIFs, and videos that are embedded in the outline structure. An example of this outline markdown being used is at my <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos\">howto site</a> but it's very integrated in the project. The idea of this project would be to centralize this functionality as a class or hook which can be easily used in other projects, perhaps even make an npm package out of it that can be imported.",
+		"suuid": "j9P8Ek",
+		"idCode": "langcore",
+		"title": "Language Core 2024",
+		"shortTitle": "Language Core 2024",
+		"description": "I built this site to learn Spanish and Dutch, it's a useful site for learning verbs in these languages, it will even save your progress (local storage) for learning Dutch verbs, but I haven't developed it since 2024. I'll upgrade this into a central language site at some point.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "none",
-		"live": "",
-		"defaultCategory": "incubator",
+		"repo": "https://github.com/edwardtanguay/langcore",
+		"live": "https://langcore.vercel.app",
+		"defaultCategory": "transitional",
 		"techItems": [
+			"React",
 			"TypeScript",
-			"Sass"
+			"Tailwind"
 		],
-		"imageMobile": "/images/projects/moparser-mobile.jpg",
-		"imageDesktop": "/images/projects/moparser-desktop.jpg",
+		"imageMobile": "/images/projects/langcore-mobile.jpg",
+		"imageDesktop": "/images/projects/langcore-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "incubator",
-				"shortInfo": "This will be a class or hook (TypeScript) that I can include in the front or back in of Datapod projects to parse outline markdown text with images."
+				"idCode": "transitional",
+				"shortInfo": "I used this site to learn Spanish in 2022 and Dutch in 2024, a useful site for learning verbs in these languages, but not currently being developed."
 			}
 		]
 	},
 	{
-		"suuid": "yrQpDz",
+		"suuid": "bfZNZF",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -204,7 +225,7 @@
 		]
 	},
 	{
-		"suuid": "AN3Ji2",
+		"suuid": "dqfeki",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -229,7 +250,7 @@
 		]
 	},
 	{
-		"suuid": "q7D4XA",
+		"suuid": "Ljxk68",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -254,7 +275,7 @@
 		]
 	},
 	{
-		"suuid": "ODFxqK",
+		"suuid": "O37lLA",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -274,6 +295,32 @@
 			{
 				"idCode": "transitional",
 				"shortInfo": "This is my personal site, mostly just links for me, a fitness exercise GIF, and a place to record runs I do with photos."
+			}
+		]
+	},
+	{
+		"suuid": "XdYTrI",
+		"idCode": "innergo",
+		"title": "Internal Project Manager",
+		"shortTitle": "Internal Project Manager",
+		"description": "This is a local site I use to organize all home projects, personal planning, goals, also to organize all tax, banking, insurance projects, etc. The repository is private of course, but I track my work on the project here so it counts as programming time as with any other web development project. This is also a project for me to experiment with Elixir and SvelteKit 5 on a local site first.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/innergo",
+		"live": "",
+		"defaultCategory": "personal",
+		"techItems": [
+			"Elixir",
+			"SvelteKit",
+			"TypeScript",
+			"Tailwind"
+		],
+		"imageMobile": "",
+		"imageDesktop": "",
+		"categories": [
+			{
+				"idCode": "personal",
+				"shortInfo": "This is a local site I use to organize all home projects, personal planning, goals, tax, banking, insurance projects, repo is private."
 			}
 		]
 	}

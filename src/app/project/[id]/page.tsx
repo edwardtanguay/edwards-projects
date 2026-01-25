@@ -21,9 +21,9 @@ export default function Project() {
 	const finishedTasks = tasks.filter(task => task.stage === "finished" && task.projectIdCode === params.id).sort((a, b) => (a.endDateTime < b.endDateTime ? 1 : -1));
 
 	return (
-		<div className="p-8 md:p-12 max-w-4xl">
-			<div className="space-y-8">
-				{project && (
+		<div className="p-8 md:p-12">
+			{project ? (
+				<div className="max-w-[752px] space-y-8 text-left">
 					<div>
 						<p className="text-gray-400 uppercase tracking-[0.3em] text-xs mb-1">
 							{project.categories && project.categories.length > 0
@@ -50,36 +50,49 @@ export default function Project() {
 							</div>
 						</div>
 						<p
-							className="text-lg text-gray-400 mb-4 markdown"
+							className="text-lg text-gray-400 mb-8 markdown"
 							dangerouslySetInnerHTML={{ __html: project.description }}
 						/>
 
-						{/* Image Display Section */}
-						<div className="flex flex-col md:flex-row gap-6 items-start justify-center mt-8">
-							{project.imageMobile && (
-								<div className="hidden md:block">
+						{/* Preview Section */}
+						<div className="flex flex-col md:flex-row gap-6 items-start justify-start w-full">
+							{/* Mobile View / Placeholder */}
+							<div className="hidden md:block shrink-0">
+								{project.imageMobile ? (
 									<img
 										src={project.imageMobile}
 										alt={`${project.title} - Mobile`}
-										className="rounded-sm shadow-[0_0_30px_rgba(251,146,60,0.2)] border border-orange-500/30 transition-all duration-300"
+										className="max-w-[128px] rounded-sm shadow-[0_0_30px_rgba(251,146,60,0.2)] border border-orange-500/30 transition-all duration-300"
 									/>
-									{!project.categories?.some(c => c.idCode === 'incubator') && (
-										<p className="text-center text-sm text-gray-400 mt-2">Mobile View</p>
-									)}
-								</div>
-							)}
-							{project.imageDesktop && (
-								<div>
+								) : (
+									<div className="w-[128px] h-[241px] bg-gray-900/50 border border-orange-500/20 rounded-sm flex items-center justify-center shadow-inner relative group">
+										<div className="absolute inset-0 bg-linear-to-b from-orange-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+										<span className="text-gray-600 text-[10px] uppercase tracking-widest font-medium -rotate-90">no image</span>
+									</div>
+								)}
+								{!project.categories?.some(c => c.idCode === 'incubator') && (
+									<p className="text-center text-sm text-gray-400 mt-2">Mobile View</p>
+								)}
+							</div>
+
+							{/* Desktop View / Placeholder */}
+							<div className="w-full max-w-[600px]">
+								{project.imageDesktop ? (
 									<img
 										src={project.imageDesktop}
 										alt={`${project.title} - Desktop`}
 										className="rounded-sm shadow-[0_0_30px_rgba(59,130,246,0.2)] border border-blue-500/30 transition-all duration-300"
 									/>
-									{!project.categories?.some(c => c.idCode === 'incubator') && (
-										<p className="text-center text-sm text-gray-400 mt-2 hidden md:block">Desktop View</p>
-									)}
-								</div>
-							)}
+								) : (
+									<div className="w-full aspect-video md:aspect-auto md:h-[241px] bg-gray-900/50 border border-blue-500/20 rounded-sm flex items-center justify-center shadow-inner relative group">
+										<div className="absolute inset-0 bg-linear-to-br from-blue-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+										<span className="text-gray-600 text-xs uppercase tracking-[0.4em] font-medium">no image</span>
+									</div>
+								)}
+								{!project.categories?.some(c => c.idCode === 'incubator') && (
+									<p className="text-center text-sm text-gray-400 mt-2 hidden md:block">Desktop View</p>
+								)}
+							</div>
 						</div>
 
 						{/* Buttons */}
@@ -88,7 +101,7 @@ export default function Project() {
 								<ButtonLive url={project.live} />
 							</div>
 							<div className="w-full sm:w-48 flex">
-								<ButtonRepo url={project.repo} />
+								<ButtonRepo project={project} />
 							</div>
 						</div>
 
@@ -130,13 +143,12 @@ export default function Project() {
 							</div>
 						)}
 					</div>
-				)}
-				{!project && (
-					<div>
-						<p>Project not found: {params.id}</p>
-					</div>
-				)}
-			</div>
+				</div>
+			) : (
+				<div className="max-w-[752px]">
+					<p>Project not found: {params.id}</p>
+				</div>
+			)}
 		</div>
 	);
 }
