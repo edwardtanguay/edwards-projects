@@ -1,144 +1,135 @@
 [
 	{
-		"suuid": "WuVfip",
-		"idCode": "showcase-react",
-		"title": "React Showcase",
-		"shortTitle": "React Showcase",
-		"description": "This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
+		"suuid": "PLkwyJ",
+		"idCode": "fastfollow",
+		"title": "Fast Follow Forum",
+		"shortTitle": "Fast Follow Forum",
+		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-react",
-		"live": "https://showcase-react.vercel.app",
+		"repo": "https://github.com/edwardtanguay/fastfollow",
+		"live": "https://fastfollow.vercel.app",
 		"techItems": [],
-		"imageMobile": "/images/projects/showcase-react-mobile.jpg",
-		"imageDesktop": "/images/projects/showcase-react-desktop.jpg",
+		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
+		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "showcase",
-				"shortInfo": "This is a site to isolate components that are useful and I may want to use in other sites."
+				"idCode": "premier",
+				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
 			}
 		],
 		"projectItems": [
 			{
-				"suuid": "GQXMpQ",
+				"suuid": "7yyyBj",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "title::React Showcase",
+						"line": "title::Fast Follow Forum",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "rank::2.89",
+						"line": "live::https://fastfollow.vercel.app",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "category::showcase; This is a site to isolate components that are useful and I may want to use in other sites.",
+						"line": "description:: This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "description::This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://showcase-react.vercel.app",
+						"line": "category::premier;This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts.",
 						"marker": ""
 					}
 				]
-			},
-			{
-				"suuid": "AxgSZL",
-				"kind": "feature",
-				"title": " Implement i18n //2026-02-01 13:06:52..",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "work through video",
-						"marker": ".."
-					}
-				]
-			},
-			{
-				"suuid": "Ea0axH",
-				"kind": "feature",
-				"title": " Implement modern design",
-				"outlineItems": []
 			}
 		]
 	},
 	{
-		"suuid": "oY23Wo",
-		"idCode": "showcase-react-001",
-		"title": "React Tech Showcase",
-		"shortTitle": "React Tech Showcase",
-		"description": "This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
+		"suuid": "74FQNf",
+		"idCode": "datapod-tanguay-eu",
+		"title": "Datapod Central 2026",
+		"shortTitle": "Datapod Central 2026",
+		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-react-001",
-		"live": "https://showcase-react-001.vercel.app",
-		"techItems": [],
-		"imageMobile": "/images/projects/showcase-react-001-mobile.jpg",
-		"imageDesktop": "/images/projects/showcase-react-001-desktop.jpg",
+		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
+		"live": "https://datapod-tanguay-eu.vercel.app",
+		"techItems": [
+			"Angular 17",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "showcase",
-				"shortInfo": "A site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
+				"idCode": "premier",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
 			}
 		],
 		"projectItems": [
 			{
-				"suuid": "3dHBOv",
+				"suuid": "ZgpU4u",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "rank::3.9",
+						"line": "category::premier;you can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "live::https://showcase-react-001.vercel.app",
+						"line": "description::this is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on [the main characteristics of Datapod](https://tanguay-eu.vercel.app/howtos/906). Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "category::showcase;a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc.",
+						"line": "live::https://datapod-tanguay-eu.vercel.app",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "description::This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
+						"line": "title::Datapod Central 2026",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "title::React Tech Showcase",
+						"line": "tech:: Angular 17, TypeScript",
 						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "X5dnQq",
-				"kind": "dev",
-				"title": " Merge into React Showcase",
-				"outlineItems": []
+				"suuid": "WjjxqZ",
+				"kind": "feature",
+				"title": " Upgrade site with Angular 21 / Elixir Datapod framework",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.97",
+						"marker": ""
+					}
+				]
 			}
 		]
 	},
 	{
-		"suuid": "o4ScNg",
+		"suuid": "RCrzpa",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
 		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
 		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
-		"mode": "active",
+		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/edwards-projects",
 		"live": "https://edwards-projects.vercel.app",
 		"techItems": [
@@ -157,7 +148,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "Z8sQAy",
+				"suuid": "Ver0AE",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -315,22 +306,23 @@
 						"indents": 4,
 						"line": "datapod-for-vite-react-core",
 						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "Py6laQ",
+				"suuid": "gC6hgW",
 				"kind": "feature",
+				"title": " Enable display sort for each page with rank",
+				"outlineItems": []
+			},
+			{
+				"suuid": "JL259X",
+				"kind": "content",
 				"title": " Import more sites",
 				"outlineItems": []
 			},
 			{
-				"suuid": "kRhkw3",
+				"suuid": "AUkeE1",
 				"kind": "organize",
 				"title": " Clean up all current files, all in edwards-projects",
 				"outlineItems": [
@@ -358,22 +350,17 @@
 						"indents": 3,
 						"line": "process all APP directories",
 						"marker": ""
-					},
-					{
-						"indents": 0,
-						"line": "",
-						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "XC3WXQ",
+				"suuid": "OkKY8j",
 				"kind": "clean",
 				"title": " Remove all unused images",
 				"outlineItems": []
 			},
 			{
-				"suuid": "YZj9Xb",
+				"suuid": "Lv5Agr",
 				"kind": "feature",
 				"title": " Add SEO info and thumbnail",
 				"outlineItems": [
@@ -395,7 +382,7 @@
 				]
 			},
 			{
-				"suuid": "U99o58",
+				"suuid": "pkYWtz",
 				"kind": "feature",
 				"title": " Make project rank and rank on home page",
 				"outlineItems": [
@@ -417,7 +404,7 @@
 				]
 			},
 			{
-				"suuid": "3CD4KQ",
+				"suuid": "TGBpFG",
 				"kind": "fix",
 				"title": " Resolve \"ix feature\" on Upcoming Tasks page",
 				"outlineItems": [
@@ -439,7 +426,7 @@
 				]
 			},
 			{
-				"suuid": "EBUm7b",
+				"suuid": "VzQznA",
 				"kind": "feature",
 				"title": " Parse markdown for description texts",
 				"outlineItems": [
@@ -461,7 +448,7 @@
 				]
 			},
 			{
-				"suuid": "KcDj7S",
+				"suuid": "0MlnL2",
 				"kind": "feature",
 				"title": " Show number of projects and calculate centrally",
 				"outlineItems": [
@@ -488,7 +475,7 @@
 				]
 			},
 			{
-				"suuid": "u91nRm",
+				"suuid": "yccYFH",
 				"kind": "feature",
 				"title": " Show gifs with descriptions",
 				"outlineItems": [
@@ -510,7 +497,7 @@
 				]
 			},
 			{
-				"suuid": "IDPrMC",
+				"suuid": "X3pGOt",
 				"kind": "feature",
 				"title": " Implement validation on parse",
 				"outlineItems": [
@@ -532,7 +519,7 @@
 				]
 			},
 			{
-				"suuid": "aYws0U",
+				"suuid": "o5PAcQ",
 				"kind": "feature",
 				"title": " On project component, cut off description and warn",
 				"outlineItems": [
@@ -554,7 +541,7 @@
 				]
 			},
 			{
-				"suuid": "Cg2KKN",
+				"suuid": "FFTHxb",
 				"kind": "feature",
 				"title": " Add dates globally to give up-to-date vibe to site",
 				"outlineItems": [
@@ -571,7 +558,7 @@
 				]
 			},
 			{
-				"suuid": "5WsVa4",
+				"suuid": "5NKH2j",
 				"kind": "feature",
 				"title": " Make mobile/desktop toggle",
 				"outlineItems": [
@@ -588,7 +575,7 @@
 				]
 			},
 			{
-				"suuid": "9yAJND",
+				"suuid": "FKowDi",
 				"kind": "feature",
 				"title": " Add stats as graphics on front page",
 				"outlineItems": [
@@ -605,7 +592,7 @@
 				]
 			},
 			{
-				"suuid": "ZqgyjA",
+				"suuid": "cuy326",
 				"kind": "feature",
 				"title": " Show example of data files on about page",
 				"outlineItems": [
@@ -622,7 +609,7 @@
 				]
 			},
 			{
-				"suuid": "CHpbaE",
+				"suuid": "k6sPXT",
 				"kind": "feature",
 				"title": " Display descriptions on e.g. starts, showcases (what they are)",
 				"outlineItems": [
@@ -639,7 +626,7 @@
 				]
 			},
 			{
-				"suuid": "c1Onwp",
+				"suuid": "3hspAy",
 				"kind": "feature",
 				"title": " Enable link to branch",
 				"outlineItems": [
@@ -656,7 +643,7 @@
 				]
 			},
 			{
-				"suuid": "XzfnUn",
+				"suuid": "xl1iwj",
 				"kind": "feature",
 				"title": " Enable link to commit to be saved",
 				"outlineItems": [
@@ -678,7 +665,7 @@
 				]
 			},
 			{
-				"suuid": "MUZL92",
+				"suuid": "lsgLf2",
 				"kind": "dev",
 				"title": " Clean up mode and status",
 				"outlineItems": [
@@ -705,7 +692,7 @@
 				]
 			},
 			{
-				"suuid": "Y9cl9l",
+				"suuid": "XYxctt",
 				"kind": "content",
 				"title": " Add rest of projects",
 				"outlineItems": [
@@ -732,7 +719,7 @@
 				]
 			},
 			{
-				"suuid": "yM34Iu",
+				"suuid": "RLyZBO",
 				"kind": "featuer",
 				"title": " Implement global search",
 				"outlineItems": [
@@ -749,7 +736,7 @@
 				]
 			},
 			{
-				"suuid": "CPJ5hn",
+				"suuid": "pL9em5",
 				"kind": "feature",
 				"title": " Make single project view with permalink",
 				"outlineItems": [
@@ -766,7 +753,7 @@
 				]
 			},
 			{
-				"suuid": "IEf91f",
+				"suuid": "RcMUjl",
 				"kind": "feature",
 				"title": " Make dummy data for repository",
 				"outlineItems": [
@@ -788,7 +775,7 @@
 				]
 			},
 			{
-				"suuid": "PVJTJJ",
+				"suuid": "dvr2ei",
 				"kind": "feature",
 				"title": " Create \"npm run audit\" to find all missing information",
 				"outlineItems": [
@@ -812,7 +799,7 @@
 		]
 	},
 	{
-		"suuid": "xVLzsf",
+		"suuid": "Igtrnu",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -836,7 +823,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "p9sTQY",
+				"suuid": "M6yz2d",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -863,7 +850,7 @@
 				]
 			},
 			{
-				"suuid": "Q0TcgW",
+				"suuid": "efJwDF",
 				"kind": "dev",
 				"title": " Standardize branch from dev to main",
 				"outlineItems": [
@@ -880,7 +867,7 @@
 				]
 			},
 			{
-				"suuid": "Eycmnd",
+				"suuid": "Jo5rWI",
 				"kind": "dev",
 				"title": " Update Go backend to current component standards",
 				"outlineItems": []
@@ -888,130 +875,7 @@
 		]
 	},
 	{
-		"suuid": "wK1zzP",
-		"idCode": "fastfollow",
-		"title": "Fast Follow Forum",
-		"shortTitle": "Fast Follow Forum",
-		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/fastfollow",
-		"live": "https://fastfollow.vercel.app",
-		"techItems": [],
-		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
-		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "QThqPC",
-				"kind": "info",
-				"title": "(info)",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "title::Fast Follow Forum",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://fastfollow.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "description:: This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::premier;This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts.",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "bahdO1",
-		"idCode": "datapod-tanguay-eu",
-		"title": "Datapod Central 2026",
-		"shortTitle": "Datapod Central 2026",
-		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
-		"live": "https://datapod-tanguay-eu.vercel.app",
-		"techItems": [
-			"Angular 17",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
-		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "YksO2N",
-				"kind": "info",
-				"title": "(info)",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::premier;you can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "description::this is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on [the main characteristics of Datapod](https://tanguay-eu.vercel.app/howtos/906). Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://datapod-tanguay-eu.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Datapod Central 2026",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "tech:: Angular 17, TypeScript",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "4KQ5Va",
-				"kind": "feature",
-				"title": " Upgrade site with Angular 21 / Elixir Datapod framework",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.97",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "aBoTen",
+		"suuid": "4NWpTV",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -1035,7 +899,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "k61x2m",
+				"suuid": "caZMSD",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1112,7 +976,7 @@
 				]
 			},
 			{
-				"suuid": "peYwZT",
+				"suuid": "b4cePb",
 				"kind": "feature",
 				"title": " Make \"Italian Conjugation\" page",
 				"outlineItems": [
@@ -1174,7 +1038,7 @@
 				]
 			},
 			{
-				"suuid": "GDGNxj",
+				"suuid": "HYqjT4",
 				"kind": "feature",
 				"title": " Speed up parsing",
 				"outlineItems": [
@@ -1196,7 +1060,7 @@
 				]
 			},
 			{
-				"suuid": "OsUkKM",
+				"suuid": "fO7JBO",
 				"kind": "feature",
 				"title": " Make a quiz for each audio",
 				"outlineItems": [
@@ -1228,7 +1092,7 @@
 				]
 			},
 			{
-				"suuid": "Xny1Lt",
+				"suuid": "6OlJvW",
 				"kind": "feature",
 				"title": " Along show the last 30 days",
 				"outlineItems": [
@@ -1250,7 +1114,7 @@
 				]
 			},
 			{
-				"suuid": "cLi0Gs",
+				"suuid": "ilXJWc",
 				"kind": "feature",
 				"title": " Create one-file for Italian and parse",
 				"outlineItems": [
@@ -1272,7 +1136,7 @@
 				]
 			},
 			{
-				"suuid": "TAY2m9",
+				"suuid": "S9uhBE",
 				"kind": "feature",
 				"title": " Make Learn Bits page",
 				"outlineItems": [
@@ -1289,7 +1153,7 @@
 				]
 			},
 			{
-				"suuid": "UIxxbK",
+				"suuid": "ZknSf9",
 				"kind": "feature",
 				"title": " Make quiz that shows day's text with missing words",
 				"outlineItems": [
@@ -1306,7 +1170,7 @@
 				]
 			},
 			{
-				"suuid": "bIw8TB",
+				"suuid": "ojwUsE",
 				"kind": "feature",
 				"title": " Make quiz to test how to say the letters in every language",
 				"outlineItems": [
@@ -1323,7 +1187,7 @@
 				]
 			},
 			{
-				"suuid": "ps99GJ",
+				"suuid": "QlqX8D",
 				"kind": "feature",
 				"title": " Make quiz to test how to say the days of the week in every language",
 				"outlineItems": [
@@ -1345,7 +1209,7 @@
 				]
 			},
 			{
-				"suuid": "zU5vhb",
+				"suuid": "rLqOwr",
 				"kind": "feature",
 				"title": " Make list of tips on recording in readme",
 				"outlineItems": [
@@ -1367,7 +1231,7 @@
 				]
 			},
 			{
-				"suuid": "tBgovj",
+				"suuid": "CnIS6q",
 				"kind": "feature",
 				"title": " Make a 3D action game like lluvia-de-palabras",
 				"outlineItems": [
@@ -1389,7 +1253,7 @@
 				]
 			},
 			{
-				"suuid": "Y3lrcM",
+				"suuid": "OuBawn",
 				"kind": "feature",
 				"title": " Create page to practice pronunciation",
 				"outlineItems": [
@@ -1416,7 +1280,7 @@
 				]
 			},
 			{
-				"suuid": "PvjViR",
+				"suuid": "5Vdl3M",
 				"kind": "feature",
 				"title": " Integrate pronuncation items into story creation",
 				"outlineItems": [
@@ -1438,7 +1302,7 @@
 				]
 			},
 			{
-				"suuid": "PWJG4f",
+				"suuid": "LAcphJ",
 				"kind": "feature",
 				"title": " Integrate random standard practice into story creation",
 				"outlineItems": [
@@ -1500,7 +1364,7 @@
 				]
 			},
 			{
-				"suuid": "H1EMGs",
+				"suuid": "ZNoo1r",
 				"kind": "feature",
 				"title": " Upgrade to modern design",
 				"outlineItems": [
@@ -1517,7 +1381,7 @@
 				]
 			},
 			{
-				"suuid": "egX3u8",
+				"suuid": "xAtMJw",
 				"kind": "feature",
 				"title": " Make basic frontend for creation process",
 				"outlineItems": [
@@ -1534,7 +1398,7 @@
 				]
 			},
 			{
-				"suuid": "cSQL30",
+				"suuid": "Etx1kL",
 				"kind": "feature",
 				"title": " Enable simple and basic stories for weak languages",
 				"outlineItems": [
@@ -1566,7 +1430,7 @@
 				]
 			},
 			{
-				"suuid": "r5kpaP",
+				"suuid": "VyjNYB",
 				"kind": "fix",
 				"title": " Resolve the first letter issue in the French text data file",
 				"outlineItems": [
@@ -1588,7 +1452,7 @@
 				]
 			},
 			{
-				"suuid": "u0pFMR",
+				"suuid": "SdTT4q",
 				"kind": "feature",
 				"title": " Create pronunciation quiz",
 				"outlineItems": [
@@ -1620,7 +1484,7 @@
 				]
 			},
 			{
-				"suuid": "MwkC2n",
+				"suuid": "uNtDpR",
 				"kind": "feature",
 				"title": " Make -ere past participle quiz for Italian",
 				"outlineItems": [
@@ -1642,7 +1506,7 @@
 				]
 			},
 			{
-				"suuid": "zCXYKd",
+				"suuid": "adaMpm",
 				"kind": "feature",
 				"title": " Create fill-in-blank quiz",
 				"outlineItems": [
@@ -1714,7 +1578,7 @@
 				]
 			},
 			{
-				"suuid": "DZ3f30",
+				"suuid": "uQGV9A",
 				"kind": "feature",
 				"title": " Create Italian past tense quiz",
 				"outlineItems": [
@@ -1741,7 +1605,7 @@
 				]
 			},
 			{
-				"suuid": "JrJ1Gs",
+				"suuid": "ulkmJR",
 				"kind": "feature",
 				"title": " Create CLI command to copy latest files for each language to MP3 stick",
 				"outlineItems": [
@@ -1768,7 +1632,7 @@
 				]
 			},
 			{
-				"suuid": "fD6OIH",
+				"suuid": "4pw3z6",
 				"kind": "dev",
 				"title": " Update readme",
 				"outlineItems": [
@@ -1785,7 +1649,7 @@
 				]
 			},
 			{
-				"suuid": "T9PM4Y",
+				"suuid": "t5Iy6Q",
 				"kind": "feature",
 				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
 				"outlineItems": [
@@ -1802,7 +1666,7 @@
 				]
 			},
 			{
-				"suuid": "v8ES0k",
+				"suuid": "HViZRS",
 				"kind": "feature",
 				"title": " Create page for pronunciation notes",
 				"outlineItems": [
@@ -1819,7 +1683,7 @@
 				]
 			},
 			{
-				"suuid": "EuaRrQ",
+				"suuid": "BJ77Dx",
 				"kind": "feature",
 				"title": " update to newest datapod-for-go version (qtools etc.)",
 				"outlineItems": [
@@ -1838,7 +1702,139 @@
 		]
 	},
 	{
-		"suuid": "DIqkqT",
+		"suuid": "fX4cwQ",
+		"idCode": "showcase-react",
+		"title": "React Showcase",
+		"shortTitle": "React Showcase",
+		"description": "This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-react",
+		"live": "https://showcase-react.vercel.app",
+		"techItems": [],
+		"imageMobile": "/images/projects/showcase-react-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "This is a site to isolate components that are useful and I may want to use in other sites."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "SmIRO9",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::React Showcase",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::2.89",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::showcase; This is a site to isolate components that are useful and I may want to use in other sites.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description::This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://showcase-react.vercel.app",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "Ec0kp2",
+				"kind": "feature",
+				"title": " Implement i18n //2026-02-01 13:06:52..",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "work through video",
+						"marker": ".."
+					}
+				]
+			},
+			{
+				"suuid": "qYH3Js",
+				"kind": "feature",
+				"title": " Implement modern design",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "CLNVy5",
+		"idCode": "showcase-react-001",
+		"title": "React Tech Showcase",
+		"shortTitle": "React Tech Showcase",
+		"description": "This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-react-001",
+		"live": "https://showcase-react-001.vercel.app",
+		"techItems": [],
+		"imageMobile": "/images/projects/showcase-react-001-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-001-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "A site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "CkmbN2",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "rank::3.9",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://showcase-react-001.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::showcase;a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description::This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::React Tech Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "Lc0Usx",
+				"kind": "dev",
+				"title": " Merge into React Showcase",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "wcy76C",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -1861,7 +1857,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "DfBbiW",
+				"suuid": "BP3cMP",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1910,7 +1906,7 @@
 		]
 	},
 	{
-		"suuid": "OrmNzN",
+		"suuid": "ZHtQu0",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -1934,7 +1930,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "jrPZOR",
+				"suuid": "hJc9wj",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1968,7 +1964,7 @@
 		]
 	},
 	{
-		"suuid": "1PFbKT",
+		"suuid": "Yc1FOg",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -1992,7 +1988,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "FnITNX",
+				"suuid": "eXRGXL",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2026,7 +2022,7 @@
 		]
 	},
 	{
-		"suuid": "DJLdgk",
+		"suuid": "K6AOs8",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -2055,7 +2051,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "w6n56G",
+				"suuid": "6QwjiK",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2094,7 +2090,7 @@
 		]
 	},
 	{
-		"suuid": "my2Bc7",
+		"suuid": "cPskFq",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -2118,7 +2114,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "D9cCOi",
+				"suuid": "KSl6am",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2152,7 +2148,7 @@
 		]
 	},
 	{
-		"suuid": "oySEry",
+		"suuid": "GKh2I6",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -2176,7 +2172,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "kPPOcX",
+				"suuid": "f9vs4B",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2208,7 +2204,7 @@
 				]
 			},
 			{
-				"suuid": "cxRW8q",
+				"suuid": "EpJ6Wm",
 				"kind": "feature",
 				"title": " remake as new Datapod site",
 				"outlineItems": [
@@ -2227,7 +2223,7 @@
 		]
 	},
 	{
-		"suuid": "NRhkfj",
+		"suuid": "5pYsp0",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -2250,7 +2246,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "UnM5xF",
+				"suuid": "wRQVs8",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2282,7 +2278,7 @@
 				]
 			},
 			{
-				"suuid": "g1aEwh",
+				"suuid": "9WJRW0",
 				"kind": "feature",
 				"title": " Upgrade to Ruby/SvelteKit site.",
 				"outlineItems": [
@@ -2301,7 +2297,7 @@
 		]
 	},
 	{
-		"suuid": "yoMqrz",
+		"suuid": "th3Clf",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
@@ -2326,7 +2322,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "ZWP8l8",
+				"suuid": "S3OiKu",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2353,7 +2349,7 @@
 				]
 			},
 			{
-				"suuid": "NeN8l8",
+				"suuid": "4Ak4W3",
 				"kind": "chore",
 				"title": " Reoganize edward\\projects\\notesdpod",
 				"outlineItems": [
@@ -2372,7 +2368,7 @@
 		]
 	},
 	{
-		"suuid": "nMm0C9",
+		"suuid": "nX5lHM",
 		"idCode": "techlanglearn003",
 		"title": "TECHLANGLEARN003",
 		"shortTitle": "TECHLANGLEARN003",
@@ -2387,7 +2383,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "99DIgX",
+				"suuid": "NtlKMW",
 				"kind": "feature",
 				"title": " Expand times on youtube videos to hours //2026-02-01 08:54:23..2026-02-01 09:38:25",
 				"outlineItems": [
@@ -2416,7 +2412,7 @@
 		]
 	},
 	{
-		"suuid": "dkULJk",
+		"suuid": "fepywa",
 		"idCode": "innergo",
 		"title": "INNERGO",
 		"shortTitle": "INNERGO",
@@ -2431,7 +2427,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "ESVrBT",
+				"suuid": "RsQntj",
 				"kind": "feature",
 				"title": " Set up data files and repo //2026-01-25 18:08:52..2026-01-25 20:08:58",
 				"outlineItems": [
@@ -2475,7 +2471,7 @@
 		]
 	},
 	{
-		"suuid": "qVb94g",
+		"suuid": "VSAxTi",
 		"idCode": "fastfollow",
 		"title": "FASTFOLLOW",
 		"shortTitle": "FASTFOLLOW",
@@ -2490,7 +2486,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "XEwLT5",
+				"suuid": "RjtzEX",
 				"kind": "feature",
 				"title": " Add technologies and show number //2026-01-06 11:37:11..2026-01-06 11:53:33",
 				"outlineItems": [
@@ -2507,7 +2503,7 @@
 				]
 			},
 			{
-				"suuid": "ux5TvK",
+				"suuid": "mA6kVd",
 				"kind": "feature",
 				"title": " Add QR-Code to about page //2026-01-30 16:14:02..2026-01-30 16:48:37",
 				"outlineItems": [
@@ -2529,7 +2525,7 @@
 				]
 			},
 			{
-				"suuid": "r0v4iz",
+				"suuid": "Tuymox",
 				"kind": "feature",
 				"title": " Upgrade to Next.js/Go Datapod //2026-01-05 20:43:13..2026-01-06 00:52:35",
 				"outlineItems": [
@@ -2641,7 +2637,7 @@
 				]
 			},
 			{
-				"suuid": "G4Illa",
+				"suuid": "m49cjH",
 				"kind": "feature",
 				"title": " Parse topics and show on page //2026-01-05 18:10:37..2026-01-05 20:24:25",
 				"outlineItems": [
@@ -2663,7 +2659,7 @@
 				]
 			},
 			{
-				"suuid": "R6m5ys",
+				"suuid": "TfHUTw",
 				"kind": "feature",
 				"title": " Adjust splash page for mobile //2026-01-05 07:17:32..2026-01-05 07:27:34",
 				"outlineItems": [
@@ -2690,7 +2686,7 @@
 				]
 			},
 			{
-				"suuid": "Mxe0AY",
+				"suuid": "2Qdp76",
 				"kind": "feature",
 				"title": " Rebase site on Datapod for Next.js/Go (dark) //2026-01-04 17:44:49..2026-01-04 23:27:19",
 				"outlineItems": [
@@ -2754,7 +2750,7 @@
 		]
 	},
 	{
-		"suuid": "jh4SP7",
+		"suuid": "NAPVyJ",
 		"idCode": "datapod-tanguay-eu",
 		"title": "DATAPOD-TANGUAY-EU",
 		"shortTitle": "DATAPOD-TANGUAY-EU",
@@ -2769,7 +2765,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "lgYb1c",
+				"suuid": "5iA2WX",
 				"kind": "feature",
 				"title": " Add Next.js/Go datapod entry //2026-01-04 16:50:50..2026-01-04 17:16:56",
 				"outlineItems": [
@@ -2783,7 +2779,7 @@
 		]
 	},
 	{
-		"suuid": "MPp3mc",
+		"suuid": "sIbwhL",
 		"idCode": "edwards-projects",
 		"title": "EDWARDS-PROJECTS",
 		"shortTitle": "EDWARDS-PROJECTS",
@@ -2798,7 +2794,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "Obpi4Z",
+				"suuid": "IzxgrP",
 				"kind": "feature",
 				"title": " Add content for two react showcase sites //2026-02-01 11:35:26..2026-02-01 13:02:12",
 				"outlineItems": [
@@ -2850,7 +2846,7 @@
 				]
 			},
 			{
-				"suuid": "sL0zCw",
+				"suuid": "ShJwNy",
 				"kind": "feature",
 				"title": " Import internal and fast follow into site, some layout fixes //2026-01-25 20:50:14..2026-01-25 23:56:38",
 				"outlineItems": [
@@ -2927,7 +2923,7 @@
 				]
 			},
 			{
-				"suuid": "vOxOvR",
+				"suuid": "R7tfK5",
 				"kind": "content",
 				"title": " Add moparser and techlanglearn sites //2025-12-29 17:44:13..2025-12-31 17:30:14",
 				"outlineItems": [
@@ -2959,7 +2955,7 @@
 				]
 			},
 			{
-				"suuid": "gj8iIM",
+				"suuid": "jKpyoD",
 				"kind": "feature",
 				"title": " Add two language sites //2025-12-28 23:25:48..2025-12-29 17:44:15",
 				"outlineItems": [
@@ -2986,7 +2982,7 @@
 				]
 			},
 			{
-				"suuid": "LuLKpu",
+				"suuid": "UwSZg3",
 				"kind": "feature",
 				"title": " Import three sites and new pages: premier and transitional //2025-12-27 00:02:25..2025-12-28 23:26:19",
 				"outlineItems": [
@@ -3073,7 +3069,7 @@
 				]
 			},
 			{
-				"suuid": "VFMlEM",
+				"suuid": "XuSnYn",
 				"kind": "feature",
 				"title": " Import Edward's personal page, add live projects page //2025-12-27 00:02:25..2025-12-27",
 				"outlineItems": [
@@ -3135,7 +3131,7 @@
 				]
 			},
 			{
-				"suuid": "3Fqwkf",
+				"suuid": "318QoB",
 				"kind": "content",
 				"title": " Import Datapod site //2025-12-27 00:02:25..2025-12-27 14:51:13",
 				"outlineItems": [
@@ -3192,7 +3188,7 @@
 				]
 			},
 			{
-				"suuid": "sOyQ9H",
+				"suuid": "U68zdh",
 				"kind": "feature",
 				"title": " Implement shortTitle, legacy page, markdown //2025-12-23 17:13:13..2025-12-27 00:02:09",
 				"outlineItems": [
@@ -3304,7 +3300,7 @@
 				]
 			},
 			{
-				"suuid": "3u9CG5",
+				"suuid": "k8vs7M",
 				"kind": "feature",
 				"title": " Brighten mobile view //2025-12-23 17:13:13..2025-12-26 18:13:55",
 				"outlineItems": [
@@ -3341,7 +3337,7 @@
 				]
 			},
 			{
-				"suuid": "Pa6ejI",
+				"suuid": "4SaKZy",
 				"kind": "fix",
 				"title": " Resolve mobile display issue of title and cards //2025-12-23 17:22:38..2025-12-23 17:29:26",
 				"outlineItems": [
@@ -3368,7 +3364,7 @@
 				]
 			},
 			{
-				"suuid": "AcAA5l",
+				"suuid": "nsnaVC",
 				"kind": "ix feature",
 				"title": " Change colors and standardize font sizes  //2025-12-23 16:42:17..2025-12-23 17:12:23",
 				"outlineItems": [
@@ -3400,7 +3396,7 @@
 				]
 			},
 			{
-				"suuid": "IEVMUl",
+				"suuid": "Skt4l4",
 				"kind": "feature",
 				"title": " Simplify screenshot in mobile view //2025-12-23 14:01:06..2025-12-23 15:23:21",
 				"outlineItems": [
@@ -3442,7 +3438,7 @@
 				]
 			},
 			{
-				"suuid": "dgUxVf",
+				"suuid": "1nL2PY",
 				"kind": "fix",
 				"title": " On mobile view show desktop image //2025-12-23 12:43:54..2025-12-23 13:53:03",
 				"outlineItems": [
@@ -3464,7 +3460,7 @@
 				]
 			},
 			{
-				"suuid": "OL3rO9",
+				"suuid": "ZnuFFa",
 				"kind": "fix",
 				"title": " Resolve mobile display issues with project component //2025-12-23 11:51:24..2025-12-23 12:36:13",
 				"outlineItems": [
@@ -3486,7 +3482,7 @@
 				]
 			},
 			{
-				"suuid": "Zy7g2L",
+				"suuid": "NjzRAm",
 				"kind": "feature",
 				"title": " Make single and multiple project pages ready for project import //2025-12-22 01:06:10..2025-12-23 11:44:58",
 				"outlineItems": [
@@ -3668,7 +3664,7 @@
 				]
 			},
 			{
-				"suuid": "MRSDol",
+				"suuid": "GoHPZ1",
 				"kind": "feature",
 				"title": " Add style and content improvements after design upgrade //2025-12-22 00:46:29..2025-12-22 01:01:01",
 				"outlineItems": [
@@ -3695,7 +3691,7 @@
 				]
 			},
 			{
-				"suuid": "mTVRx1",
+				"suuid": "PpIbgx",
 				"kind": "feature",
 				"title": " Convert Nuxt to Next.js and upgrade to modern site layout //2025-12-20 22:48:41..2025-12-22 00:46:56",
 				"outlineItems": [
@@ -3827,7 +3823,7 @@
 				]
 			},
 			{
-				"suuid": "nwJy70",
+				"suuid": "Zioo4R",
 				"kind": "feature",
 				"title": " Add rank to tasks and sort more important first //2025-12-21 19:21:30..2025-12-21 20:02:04",
 				"outlineItems": [
@@ -3889,7 +3885,7 @@
 				]
 			},
 			{
-				"suuid": "gUzQKr",
+				"suuid": "nCFmY2",
 				"kind": "feature",
 				"title": " Show three of each kind of tasks: current, upcoming, finished //2025-12-21 15:03:15..2025-12-21 19:10:44",
 				"outlineItems": [
@@ -4066,7 +4062,7 @@
 				]
 			},
 			{
-				"suuid": "OJd3sD",
+				"suuid": "tp65Ae",
 				"kind": "feature",
 				"title": " Process and display all tasks basic data //2025-12-20 16:55:12..2025-12-20 19:31:35",
 				"outlineItems": [
@@ -4173,7 +4169,7 @@
 				]
 			},
 			{
-				"suuid": "UyWizC",
+				"suuid": "cLb25z",
 				"kind": "base",
 				"title": " Create minimal site and put online //2025-10-17 20:39:40..2025-10-17 21:31:59",
 				"outlineItems": [
@@ -4220,7 +4216,7 @@
 				]
 			},
 			{
-				"suuid": "G0J74n",
+				"suuid": "Dih1Z8",
 				"kind": "feature",
 				"title": " Enable second file to be processed and combine projects //2025-12-17 20:55:42..2025-12-19 21:59:23",
 				"outlineItems": [
@@ -4387,7 +4383,7 @@
 				]
 			},
 			{
-				"suuid": "fnMapj",
+				"suuid": "0vLiNH",
 				"kind": "decision",
 				"title": " Decide on best name \"start\" or \"starter\" //2025-11-30 23:32:41..2025-12-02 22:47:14",
 				"outlineItems": [
@@ -4439,7 +4435,7 @@
 				]
 			},
 			{
-				"suuid": "EVstmH",
+				"suuid": "vgRbvW",
 				"kind": "feature",
 				"title": " Show start sites //2025-11-30 23:09:20..2025-12-02 22:45:41",
 				"outlineItems": [
@@ -4476,13 +4472,13 @@
 				]
 			},
 			{
-				"suuid": "3wjdbs",
+				"suuid": "kd28c5",
 				"kind": "content",
 				"title": " Add showcase-typo3 //2025-10-31 15:16:56..2025-10-31 15:55:34",
 				"outlineItems": []
 			},
 			{
-				"suuid": "gzZiNa",
+				"suuid": "ha5cp0",
 				"kind": "feature",
 				"title": " Create all current images //2025-10-27 15:55:36..2025-10-27 16:27:16",
 				"outlineItems": [
@@ -4504,7 +4500,7 @@
 				]
 			},
 			{
-				"suuid": "Bd34Hb",
+				"suuid": "mt6pXH",
 				"kind": "feature",
 				"title": " Show image if exists //2025-10-27 14:11:00..2025-10-27 15:54:31",
 				"outlineItems": [
@@ -4586,7 +4582,7 @@
 				]
 			},
 			{
-				"suuid": "qY9V13",
+				"suuid": "G1S8WV",
 				"kind": "feature",
 				"title": " Make Responsive //2025-10-27 11:45:48..2025-10-27 13:25:18",
 				"outlineItems": [
@@ -4658,7 +4654,7 @@
 				]
 			},
 			{
-				"suuid": "IiqAMT",
+				"suuid": "qMJgKA",
 				"kind": "feature",
 				"title": " Implement categories //2025-10-24 13:28:42..2025-10-24 18:12:10",
 				"outlineItems": [
@@ -4765,7 +4761,7 @@
 				]
 			},
 			{
-				"suuid": "1lNvwt",
+				"suuid": "Gyp413",
 				"kind": "feature",
 				"title": " Create active, planning and stable project sections //2025-10-20 13:41:27..2025-10-24 13:17:01",
 				"outlineItems": [
@@ -4982,7 +4978,7 @@
 				]
 			},
 			{
-				"suuid": "nsnb7I",
+				"suuid": "GKXBEW",
 				"kind": "feature",
 				"title": " Process first data file, list frontend idcodes //2025-10-17 21:47:29..2025-10-17 23:44:52",
 				"outlineItems": [
@@ -5046,7 +5042,7 @@
 		]
 	},
 	{
-		"suuid": "Je1ESo",
+		"suuid": "foKm55",
 		"idCode": "comprehensible-output",
 		"title": "COMPREHENSIBLE-OUTPUT",
 		"shortTitle": "COMPREHENSIBLE-OUTPUT",
@@ -5061,7 +5057,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "DyNFZQ",
+				"suuid": "PRDPYT",
 				"kind": "feature",
 				"title": " Streamline story creation //2025-08-03 23:30:15..2025-08-05 10:58:02",
 				"outlineItems": [
@@ -5668,7 +5664,7 @@
 				]
 			},
 			{
-				"suuid": "TYoXfl",
+				"suuid": "wuOsKd",
 				"kind": "feature",
 				"title": " Order import listing by number of phrases //2025-10-13 07:55:31..2025-10-13 08:02:23",
 				"outlineItems": [
@@ -5685,7 +5681,7 @@
 				]
 			},
 			{
-				"suuid": "2WPLj1",
+				"suuid": "zdVWy9",
 				"kind": "feature",
 				"title": " Use most recent phrases first //2025-10-09 10:58:45..2025-10-09 11:53:47",
 				"outlineItems": [
@@ -5812,7 +5808,7 @@
 				]
 			},
 			{
-				"suuid": "1hMk65",
+				"suuid": "hoxaHE",
 				"kind": "feature",
 				"title": " CLI command \"cpf\" creates prompt files for all languages //2025-06-09 12:31:32..2025-06-10 00:12:39",
 				"outlineItems": [
@@ -5829,7 +5825,7 @@
 				]
 			},
 			{
-				"suuid": "r0Vvae",
+				"suuid": "PlUGQI",
 				"kind": "feature",
 				"title": " Enable 10 100 to be sent as params, with defaults if not sent //2025-06-09 13:14:09..2025-06-09 15:17:03",
 				"outlineItems": [
@@ -5851,13 +5847,13 @@
 				]
 			},
 			{
-				"suuid": "1Z78yC",
+				"suuid": "w8Bss3",
 				"kind": "feature",
 				"title": " For command npm run cpg fr, randomize order of phrases //2025-06-09 17:14:02..2025-06-09 17:19:03",
 				"outlineItems": []
 			},
 			{
-				"suuid": "AtJJYO",
+				"suuid": "UVAmjk",
 				"kind": "feature",
 				"title": " Show history of phrases for \"cpf\" //2025-06-10 16:14:09..2025-06-10 17:12:19",
 				"outlineItems": [
@@ -5884,7 +5880,7 @@
 				]
 			},
 			{
-				"suuid": "Ru34gB",
+				"suuid": "wfvTd2",
 				"kind": "feature",
 				"title": " Implement script to create prompts from google translate phrases //2025-06-08 20:11:09..2025-06-08 20:44:02",
 				"outlineItems": [

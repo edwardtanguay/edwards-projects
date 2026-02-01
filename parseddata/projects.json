@@ -1,54 +1,57 @@
 [
 	{
-		"suuid": "QhM6v0",
-		"idCode": "showcase-react",
-		"title": "React Showcase",
-		"shortTitle": "React Showcase",
-		"description": "This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
+		"suuid": "074zxo",
+		"idCode": "fastfollow",
+		"title": "Fast Follow Forum",
+		"shortTitle": "Fast Follow Forum",
+		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-react",
-		"live": "https://showcase-react.vercel.app",
-		"defaultCategory": "showcase",
+		"repo": "https://github.com/edwardtanguay/fastfollow",
+		"live": "https://fastfollow.vercel.app",
+		"defaultCategory": "premier",
 		"techItems": [],
-		"imageMobile": "/images/projects/showcase-react-mobile.jpg",
-		"imageDesktop": "/images/projects/showcase-react-desktop.jpg",
+		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
+		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "showcase",
-				"shortInfo": "This is a site to isolate components that are useful and I may want to use in other sites."
+				"idCode": "premier",
+				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
 			}
 		]
 	},
 	{
-		"suuid": "O43FjJ",
-		"idCode": "showcase-react-001",
-		"title": "React Tech Showcase",
-		"shortTitle": "React Tech Showcase",
-		"description": "This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
+		"suuid": "yyvozZ",
+		"idCode": "datapod-tanguay-eu",
+		"title": "Datapod Central 2026",
+		"shortTitle": "Datapod Central 2026",
+		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-react-001",
-		"live": "https://showcase-react-001.vercel.app",
-		"defaultCategory": "showcase",
-		"techItems": [],
-		"imageMobile": "/images/projects/showcase-react-001-mobile.jpg",
-		"imageDesktop": "/images/projects/showcase-react-001-desktop.jpg",
+		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
+		"live": "https://datapod-tanguay-eu.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Angular 17",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "showcase",
-				"shortInfo": "A site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
+				"idCode": "premier",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
 			}
 		]
 	},
 	{
-		"suuid": "FJKvMY",
+		"suuid": "Qi2dBy",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
 		"description": "I use this website to track all my software development projects. If you are starting a project, you can find descriptions and links to templates, starters and showcases in many backend languages and frontend frameworks. You can also find all the apps that I build and use, as well as the repositories with access to the code.",
 		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
-		"mode": "active",
+		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/edwards-projects",
 		"live": "https://edwards-projects.vercel.app",
 		"defaultCategory": "premier",
@@ -68,7 +71,7 @@
 		]
 	},
 	{
-		"suuid": "2fALCh",
+		"suuid": "xrMv4k",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -93,52 +96,7 @@
 		]
 	},
 	{
-		"suuid": "gwU5ZE",
-		"idCode": "fastfollow",
-		"title": "Fast Follow Forum",
-		"shortTitle": "Fast Follow Forum",
-		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/fastfollow",
-		"live": "https://fastfollow.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [],
-		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
-		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
-			}
-		]
-	},
-	{
-		"suuid": "JVAm6l",
-		"idCode": "datapod-tanguay-eu",
-		"title": "Datapod Central 2026",
-		"shortTitle": "Datapod Central 2026",
-		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
-		"live": "https://datapod-tanguay-eu.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Angular 17",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
-		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
-			}
-		]
-	},
-	{
-		"suuid": "GMOchs",
+		"suuid": "6giAv1",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -163,7 +121,49 @@
 		]
 	},
 	{
-		"suuid": "TgSYvM",
+		"suuid": "zAXaxe",
+		"idCode": "showcase-react",
+		"title": "React Showcase",
+		"shortTitle": "React Showcase",
+		"description": "This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-react",
+		"live": "https://showcase-react.vercel.app",
+		"defaultCategory": "showcase",
+		"techItems": [],
+		"imageMobile": "/images/projects/showcase-react-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "This is a site to isolate components that are useful and I may want to use in other sites."
+			}
+		]
+	},
+	{
+		"suuid": "3mEPSL",
+		"idCode": "showcase-react-001",
+		"title": "React Tech Showcase",
+		"shortTitle": "React Tech Showcase",
+		"description": "This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-react-001",
+		"live": "https://showcase-react-001.vercel.app",
+		"defaultCategory": "showcase",
+		"techItems": [],
+		"imageMobile": "/images/projects/showcase-react-001-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-001-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "A site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
+			}
+		]
+	},
+	{
+		"suuid": "yTiSRk",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -187,7 +187,7 @@
 		]
 	},
 	{
-		"suuid": "eNvA8F",
+		"suuid": "3JZPhs",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -212,7 +212,7 @@
 		]
 	},
 	{
-		"suuid": "B1h7ZO",
+		"suuid": "rvzk6c",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -237,7 +237,7 @@
 		]
 	},
 	{
-		"suuid": "shAmJx",
+		"suuid": "eWgM5P",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -267,7 +267,7 @@
 		]
 	},
 	{
-		"suuid": "5KnK1Y",
+		"suuid": "Oup6De",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -292,7 +292,7 @@
 		]
 	},
 	{
-		"suuid": "eyJpIA",
+		"suuid": "f66Yaa",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -317,7 +317,7 @@
 		]
 	},
 	{
-		"suuid": "dYs3mX",
+		"suuid": "28StHU",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -341,7 +341,7 @@
 		]
 	},
 	{
-		"suuid": "3nMpFb",
+		"suuid": "WyzjH4",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
