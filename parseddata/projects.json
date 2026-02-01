@@ -1,6 +1,31 @@
 [
 	{
-		"suuid": "pTjKxN",
+		"suuid": "GhRzp8",
+		"idCode": "techlanglearn003",
+		"title": "Tech/Language Learner",
+		"shortTitle": "Tech/Language Learner",
+		"description": "I created this site in 2024 in order to combine learning tech skills and learning languages. I no longer use it for recording language phrases as I did at the beginning, since this was superceded by my <a target=\"_blank\" href=\"comprehensible-output\">Comprehensible Output</a> site. I still use this Tech Learn site to keep me motivated to watch LinkedIn Learning videos in German, English, French and Spanish so it still serves its original purpose in some way. This site is also significant because it was the project in which I started the new Datapod concept of executing a backend script which transforms freely-formatted text files into JSON data which the frontend then reads locally on a CDN. I had chosen Go as the backend language and SvelteKit as the frontend in order to learn these technologies, which led to the idea of having numerous Datapods each with a different backend language and frontend Framework in order to learn new skills. This site has no public website, I simply use it as a local application, but the repo is public if you want to clone it and set it up locally.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/techlanglearn003",
+		"live": "",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Go",
+			"SvelteKit",
+			"Sass"
+		],
+		"imageMobile": "/images/projects/techlanglearn003-mobile.jpg",
+		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
+			}
+		]
+	},
+	{
+		"suuid": "LQMtr1",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -21,7 +46,7 @@
 		]
 	},
 	{
-		"suuid": "yaGB8R",
+		"suuid": "s6AXkh",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -45,7 +70,7 @@
 		]
 	},
 	{
-		"suuid": "2QBoOc",
+		"suuid": "4gEMEJ",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -70,7 +95,7 @@
 		]
 	},
 	{
-		"suuid": "zySaIi",
+		"suuid": "Cc55qR",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -96,7 +121,7 @@
 		]
 	},
 	{
-		"suuid": "3hNFce",
+		"suuid": "8NdGoq",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -120,32 +145,7 @@
 		]
 	},
 	{
-		"suuid": "e08Jkh",
-		"idCode": "techlanglearn003",
-		"title": "Tech/Language Learner",
-		"shortTitle": "Tech/Language Learner",
-		"description": "I created this site in 2024 in order to combine learning tech skills and learning languages. I no longer use it for recording language phrases as I did at the beginning, since this was superceded by my <a target=\"_blank\" href=\"comprehensible-output\">Comprehensible Output</a> site. I still use this Tech Learn site to keep me motivated to watch LinkedIn Learning videos in German, English, French and Spanish so it still serves its original purpose in some way. This site is also significant because it was the project in which I started the new Datapod concept of executing a backend script which transforms freely-formatted text files into JSON data which the frontend then reads locally on a CDN. I had chosen Go as the backend language and SvelteKit as the frontend in order to learn these technologies, which led to the idea of having numerous Datapods each with a different backend language and frontend Framework in order to learn new skills. This site has no public website, I simply use it as a local application, but the repo is public if you want to clone it and set it up locally.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/techlanglearn003",
-		"live": "",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Go",
-			"SvelteKit",
-			"Sass"
-		],
-		"imageMobile": "/images/projects/techlanglearn003-mobile.jpg",
-		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
-			}
-		]
-	},
-	{
-		"suuid": "ps6k5G",
+		"suuid": "GNOJcv",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -170,7 +170,7 @@
 		]
 	},
 	{
-		"suuid": "j9P8Ek",
+		"suuid": "fYB8zE",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -195,7 +195,7 @@
 		]
 	},
 	{
-		"suuid": "bfZNZF",
+		"suuid": "UYJnBb",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -225,7 +225,7 @@
 		]
 	},
 	{
-		"suuid": "dqfeki",
+		"suuid": "UvqK6f",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -250,7 +250,7 @@
 		]
 	},
 	{
-		"suuid": "Ljxk68",
+		"suuid": "y2s9du",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -275,7 +275,7 @@
 		]
 	},
 	{
-		"suuid": "O37lLA",
+		"suuid": "llVBzJ",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -299,7 +299,7 @@
 		]
 	},
 	{
-		"suuid": "XdYTrI",
+		"suuid": "OIUsJ5",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
