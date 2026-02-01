@@ -1,27 +1,6 @@
 [
 	{
-		"suuid": "MbHohc",
-		"idCode": "showcase-react-001",
-		"title": "React Technical Showcase",
-		"shortTitle": "React Technical Showcase",
-		"description": "This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-react-001",
-		"live": "https://showcase-react-001.vercel.app",
-		"defaultCategory": "showcase",
-		"techItems": [],
-		"imageMobile": "/images/projects/showcase-react-001-mobile.jpg",
-		"imageDesktop": "/images/projects/showcase-react-001-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "showcase",
-				"shortInfo": "A site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
-			}
-		]
-	},
-	{
-		"suuid": "dr7rIX",
+		"suuid": "QhM6v0",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -42,7 +21,28 @@
 		]
 	},
 	{
-		"suuid": "Jr83ut",
+		"suuid": "O43FjJ",
+		"idCode": "showcase-react-001",
+		"title": "React Tech Showcase",
+		"shortTitle": "React Tech Showcase",
+		"description": "This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-react-001",
+		"live": "https://showcase-react-001.vercel.app",
+		"defaultCategory": "showcase",
+		"techItems": [],
+		"imageMobile": "/images/projects/showcase-react-001-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-001-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "A site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
+			}
+		]
+	},
+	{
+		"suuid": "FJKvMY",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -68,7 +68,7 @@
 		]
 	},
 	{
-		"suuid": "2NZECr",
+		"suuid": "2fALCh",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -93,7 +93,7 @@
 		]
 	},
 	{
-		"suuid": "O0H7Vo",
+		"suuid": "gwU5ZE",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -114,7 +114,7 @@
 		]
 	},
 	{
-		"suuid": "aqWw3N",
+		"suuid": "JVAm6l",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -138,7 +138,7 @@
 		]
 	},
 	{
-		"suuid": "dNScuj",
+		"suuid": "GMOchs",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -163,7 +163,7 @@
 		]
 	},
 	{
-		"suuid": "tXoREZ",
+		"suuid": "TgSYvM",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -187,7 +187,7 @@
 		]
 	},
 	{
-		"suuid": "qn7Obs",
+		"suuid": "eNvA8F",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -212,7 +212,7 @@
 		]
 	},
 	{
-		"suuid": "3sLLwA",
+		"suuid": "B1h7ZO",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -237,7 +237,7 @@
 		]
 	},
 	{
-		"suuid": "qrHRyp",
+		"suuid": "shAmJx",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -267,7 +267,7 @@
 		]
 	},
 	{
-		"suuid": "k54kac",
+		"suuid": "5KnK1Y",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -292,7 +292,7 @@
 		]
 	},
 	{
-		"suuid": "tLFMsw",
+		"suuid": "eyJpIA",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -317,7 +317,7 @@
 		]
 	},
 	{
-		"suuid": "Nv2LGC",
+		"suuid": "dYs3mX",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -341,7 +341,7 @@
 		]
 	},
 	{
-		"suuid": "irm0HW",
+		"suuid": "3nMpFb",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
