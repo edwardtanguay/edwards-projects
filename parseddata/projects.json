@@ -1,101 +1,48 @@
 [
 	{
-		"suuid": "GhRzp8",
-		"idCode": "techlanglearn003",
-		"title": "Tech/Language Learner",
-		"shortTitle": "Tech/Language Learner",
-		"description": "I created this site in 2024 in order to combine learning tech skills and learning languages. I no longer use it for recording language phrases as I did at the beginning, since this was superceded by my <a target=\"_blank\" href=\"comprehensible-output\">Comprehensible Output</a> site. I still use this Tech Learn site to keep me motivated to watch LinkedIn Learning videos in German, English, French and Spanish so it still serves its original purpose in some way. This site is also significant because it was the project in which I started the new Datapod concept of executing a backend script which transforms freely-formatted text files into JSON data which the frontend then reads locally on a CDN. I had chosen Go as the backend language and SvelteKit as the frontend in order to learn these technologies, which led to the idea of having numerous Datapods each with a different backend language and frontend Framework in order to learn new skills. This site has no public website, I simply use it as a local application, but the repo is public if you want to clone it and set it up locally.",
+		"suuid": "68q8jc",
+		"idCode": "showcase-react-001",
+		"title": "React Technical Showcase",
+		"shortTitle": "React Technical Showcase",
+		"description": "This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/techlanglearn003",
-		"live": "",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Go",
-			"SvelteKit",
-			"Sass"
-		],
-		"imageMobile": "/images/projects/techlanglearn003-mobile.jpg",
-		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
-			}
-		]
-	},
-	{
-		"suuid": "LQMtr1",
-		"idCode": "fastfollow",
-		"title": "Fast Follow Forum",
-		"shortTitle": "Fast Follow Forum",
-		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/fastfollow",
-		"live": "https://fastfollow.vercel.app",
-		"defaultCategory": "premier",
+		"repo": "https://github.com/edwardtanguay/showcase-react-001",
+		"live": "https://showcase-react-001.vercel.app",
+		"defaultCategory": "showcase",
 		"techItems": [],
-		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
-		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
+		"imageMobile": "/images/projects/showcase-react-001-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-001-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
-				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
+				"idCode": "showcase",
+				"shortInfo": "A site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
 			}
 		]
 	},
 	{
-		"suuid": "s6AXkh",
-		"idCode": "datapod-tanguay-eu",
-		"title": "Datapod Central 2026",
-		"shortTitle": "Datapod Central 2026",
-		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
+		"suuid": "jW7gIR",
+		"idCode": "showcase-react",
+		"title": "React Showcase",
+		"shortTitle": "React Showcase",
+		"description": "This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
-		"live": "https://datapod-tanguay-eu.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Angular 17",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
-		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
+		"repo": "https://github.com/edwardtanguay/showcase-react",
+		"live": "https://showcase-react.vercel.app",
+		"defaultCategory": "showcase",
+		"techItems": [],
+		"imageMobile": "/images/projects/showcase-react-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
-				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
+				"idCode": "showcase",
+				"shortInfo": "This is a site to isolate components that are useful and I may want to use in other sites."
 			}
 		]
 	},
 	{
-		"suuid": "4gEMEJ",
-		"idCode": "comprehensible-output",
-		"title": "Comprehensible Input",
-		"shortTitle": "Comprehensible Input",
-		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
-		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/comprehensible-output",
-		"live": "https://comprehensible-output.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Go",
-			"React",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
-		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
-			}
-		]
-	},
-	{
-		"suuid": "Cc55qR",
+		"suuid": "DOI7Jy",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -121,7 +68,102 @@
 		]
 	},
 	{
-		"suuid": "8NdGoq",
+		"suuid": "gSzBSM",
+		"idCode": "techlanglearn003",
+		"title": "Tech/Language Learner",
+		"shortTitle": "Tech/Language Learner",
+		"description": "I created this site in 2024 in order to combine learning tech skills and learning languages. I no longer use it for recording language phrases as I did at the beginning, since this was superceded by my <a target=\"_blank\" href=\"comprehensible-output\">Comprehensible Output</a> site. I still use this Tech Learn site to keep me motivated to watch LinkedIn Learning videos in German, English, French and Spanish so it still serves its original purpose in some way. This site is also significant because it was the project in which I started the new Datapod concept of executing a backend script which transforms freely-formatted text files into JSON data which the frontend then reads locally on a CDN. I had chosen Go as the backend language and SvelteKit as the frontend in order to learn these technologies, which led to the idea of having numerous Datapods each with a different backend language and frontend Framework in order to learn new skills. This site has no public website, I simply use it as a local application, but the repo is public if you want to clone it and set it up locally.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/techlanglearn003",
+		"live": "",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Go",
+			"SvelteKit",
+			"Sass"
+		],
+		"imageMobile": "/images/projects/techlanglearn003-mobile.jpg",
+		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
+			}
+		]
+	},
+	{
+		"suuid": "9k8Rxm",
+		"idCode": "fastfollow",
+		"title": "Fast Follow Forum",
+		"shortTitle": "Fast Follow Forum",
+		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/fastfollow",
+		"live": "https://fastfollow.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [],
+		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
+		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
+			}
+		]
+	},
+	{
+		"suuid": "roiMI4",
+		"idCode": "datapod-tanguay-eu",
+		"title": "Datapod Central 2026",
+		"shortTitle": "Datapod Central 2026",
+		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
+		"live": "https://datapod-tanguay-eu.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Angular 17",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
+			}
+		]
+	},
+	{
+		"suuid": "jyDSyG",
+		"idCode": "comprehensible-output",
+		"title": "Comprehensible Input",
+		"shortTitle": "Comprehensible Input",
+		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
+		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/comprehensible-output",
+		"live": "https://comprehensible-output.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Go",
+			"React",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
+		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
+			}
+		]
+	},
+	{
+		"suuid": "THOufB",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -145,7 +187,7 @@
 		]
 	},
 	{
-		"suuid": "GNOJcv",
+		"suuid": "ykfPpx",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -170,7 +212,7 @@
 		]
 	},
 	{
-		"suuid": "fYB8zE",
+		"suuid": "MbiECS",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -195,7 +237,7 @@
 		]
 	},
 	{
-		"suuid": "UYJnBb",
+		"suuid": "MEcFmX",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -225,7 +267,7 @@
 		]
 	},
 	{
-		"suuid": "UvqK6f",
+		"suuid": "swVGUE",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -250,7 +292,7 @@
 		]
 	},
 	{
-		"suuid": "y2s9du",
+		"suuid": "8CKvxi",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -275,7 +317,7 @@
 		]
 	},
 	{
-		"suuid": "llVBzJ",
+		"suuid": "Mrq5Z0",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -299,7 +341,7 @@
 		]
 	},
 	{
-		"suuid": "OIUsJ5",
+		"suuid": "0k3L3v",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",

@@ -1,1032 +1,116 @@
 [
 	{
-		"suuid": "JXjKra",
-		"idCode": "techlanglearn003",
-		"title": "Tech/Language Learner",
-		"shortTitle": "Tech/Language Learner",
-		"description": "I created this site in 2024 in order to combine learning tech skills and learning languages. I no longer use it for recording language phrases as I did at the beginning, since this was superceded by my <a target=\"_blank\" href=\"comprehensible-output\">Comprehensible Output</a> site. I still use this Tech Learn site to keep me motivated to watch LinkedIn Learning videos in German, English, French and Spanish so it still serves its original purpose in some way. This site is also significant because it was the project in which I started the new Datapod concept of executing a backend script which transforms freely-formatted text files into JSON data which the frontend then reads locally on a CDN. I had chosen Go as the backend language and SvelteKit as the frontend in order to learn these technologies, which led to the idea of having numerous Datapods each with a different backend language and frontend Framework in order to learn new skills. This site has no public website, I simply use it as a local application, but the repo is public if you want to clone it and set it up locally.",
+		"suuid": "E5HvGC",
+		"idCode": "showcase-react-001",
+		"title": "React Technical Showcase",
+		"shortTitle": "React Technical Showcase",
+		"description": "This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/techlanglearn003",
-		"live": "",
-		"techItems": [
-			"Go",
-			"SvelteKit",
-			"Sass"
-		],
-		"imageMobile": "/images/projects/techlanglearn003-mobile.jpg",
-		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
+		"repo": "https://github.com/edwardtanguay/showcase-react-001",
+		"live": "https://showcase-react-001.vercel.app",
+		"techItems": [],
+		"imageMobile": "/images/projects/showcase-react-001-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-001-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
-				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
+				"idCode": "showcase",
+				"shortInfo": "A site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc."
 			}
 		],
 		"projectItems": [
 			{
-				"suuid": "HAWegu",
+				"suuid": "pfaypQ",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "title::Tech/Language Learner",
+						"line": "live::https://showcase-react-001.vercel.app",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "tech::Go, SvelteKit, Sass",
+						"line": "category::showcase;a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc.",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "category::premier; This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages.",
+						"line": "description::This is a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc. It will be merged into React Showcase (November 2025) so that I only have one.",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "description::I created this site in 2024 in order to combine learning tech skills and learning languages. I no longer use it for recording language phrases as I did at the beginning, since this was superceded by my [Comprehensible Output](comprehensible-output) site. I still use this Tech Learn site to keep me motivated to watch LinkedIn Learning videos in German, English, French and Spanish so it still serves its original purpose in some way. This site is also significant because it was the project in which I started the new Datapod concept of executing a backend script which transforms freely-formatted text files into JSON data which the frontend then reads locally on a CDN. I had chosen Go as the backend language and SvelteKit as the frontend in order to learn these technologies, which led to the idea of having numerous Datapods each with a different backend language and frontend Framework in order to learn new skills. This site has no public website, I simply use it as a local application, but the repo is public if you want to clone it and set it up locally.",
+						"line": "title::React Technical Showcase",
 						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "HiYm5x",
+				"suuid": "SdF6lU",
 				"kind": "dev",
-				"title": " Standardize branch from dev to main",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.45",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "igUac5",
-				"kind": "dev",
-				"title": " Update Go backend to current component standards",
+				"title": " Merge into React Showcase",
 				"outlineItems": []
 			}
 		]
 	},
 	{
-		"suuid": "KsfLgt",
-		"idCode": "fastfollow",
-		"title": "Fast Follow Forum",
-		"shortTitle": "Fast Follow Forum",
-		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+		"suuid": "FkFu9j",
+		"idCode": "showcase-react",
+		"title": "React Showcase",
+		"shortTitle": "React Showcase",
+		"description": "This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/fastfollow",
-		"live": "https://fastfollow.vercel.app",
+		"repo": "https://github.com/edwardtanguay/showcase-react",
+		"live": "https://showcase-react.vercel.app",
 		"techItems": [],
-		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
-		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
+		"imageMobile": "/images/projects/showcase-react-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-react-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
-				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
+				"idCode": "showcase",
+				"shortInfo": "This is a site to isolate components that are useful and I may want to use in other sites."
 			}
 		],
 		"projectItems": [
 			{
-				"suuid": "xAGOAI",
+				"suuid": "9TX7hM",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "title::Fast Follow Forum",
+						"line": "title::React Showcase",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "live::https://fastfollow.vercel.app",
+						"line": "category::showcase; This is a site to isolate components that are useful and I may want to use in other sites.",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "description:: This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+						"line": "description::This is a site to isolate components that are useful and I may want to use in other sites. I will eventually incorporate \"React Technical Showcase\" into this project so that all of my React examples and code is in one place. I will also soon replace the layout so it is responsive and has a modern design.",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "category::premier;This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts.",
+						"line": "live::https://showcase-react.vercel.app",
 						"marker": ""
 					}
 				]
+			},
+			{
+				"suuid": "Jtg8el",
+				"kind": "feature",
+				"title": " Implement modern design",
+				"outlineItems": []
 			}
 		]
 	},
 	{
-		"suuid": "7cbmUn",
-		"idCode": "datapod-tanguay-eu",
-		"title": "Datapod Central 2026",
-		"shortTitle": "Datapod Central 2026",
-		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
-		"live": "https://datapod-tanguay-eu.vercel.app",
-		"techItems": [
-			"Angular 17",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
-		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "2aJW4o",
-				"kind": "info",
-				"title": "(info)",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::premier;you can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "description::this is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on [the main characteristics of Datapod](https://tanguay-eu.vercel.app/howtos/906). Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://datapod-tanguay-eu.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Datapod Central 2026",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "tech:: Angular 17, TypeScript",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "17BlAW",
-				"kind": "feature",
-				"title": " Upgrade site with Angular 21 / Elixir Datapod framework",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.97",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "zMDnmy",
-		"idCode": "comprehensible-output",
-		"title": "Comprehensible Input",
-		"shortTitle": "Comprehensible Input",
-		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
-		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/comprehensible-output",
-		"live": "https://comprehensible-output.vercel.app",
-		"techItems": [
-			"Go",
-			"React",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
-		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "rhbUqy",
-				"kind": "info",
-				"title": "(info)",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "tech:: Go, React, TypeScript",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Comprehensible Input",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::premier;I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://comprehensible-output.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "resolve issue: no way to know when new phrases are added as there are to know when new google translate files are added",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "add: wenn sich die Gunst erweist",
-						"marker": ",,"
-					},
-					{
-						"indents": 2,
-						"line": "description::I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "status::I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "German black",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "English some color",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "add random topics",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "erase on \"pd\" Absolute path",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "core notes file",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "it-core-notes.txt",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "EdcACg",
-				"kind": "feature",
-				"title": " Make \"Italian Conjugation\" page",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.99",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "convert all new Italian conjugation charts to JSON, 100 verbs with rank",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "5 different exercises",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "show",
-						"marker": ""
-					},
-					{
-						"indents": 5,
-						"line": "\"essere - passato remoto\"",
-						"marker": ""
-					},
-					{
-						"indents": 5,
-						"line": "\"volere - congiuntivo presente\"",
-						"marker": ""
-					},
-					{
-						"indents": 5,
-						"line": "just have a blank line, can use commas, or not",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "fill in word of example, e.g. \"cerco qualcuno che _______ affidabile e puntuale\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "dropdown: shows 3 random nouns, adjectives, and 3 phrases each for past, present future",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "also extra phrases",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "mtdr9R",
-				"kind": "feature",
-				"title": " Speed up parsing //2025-12-22 00:59:51..",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.71",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "only create audio files that need to be created",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "FthWaN",
-				"kind": "feature",
-				"title": " Make a quiz for each audio",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.97",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "days of week",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "phrases",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "numbers, etc.",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "gWMq5p",
-				"kind": "feature",
-				"title": " Along show the last 30 days",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.67",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "option to show rest with link",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "Ywt1cI",
-				"kind": "feature",
-				"title": " Create one-file for Italian and parse",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.99",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "parse by copying conjugation page with dump, but only parse most important tenses with known names",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "UnB4Df",
-				"kind": "feature",
-				"title": " Make Learn Bits page",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank: 4.89",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "U3tzva",
-				"kind": "feature",
-				"title": " Make quiz that shows day's text with missing words",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank: 4.95",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "Q5v20f",
-				"kind": "feature",
-				"title": " Make quiz to test how to say the letters in every language",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank: 4.93",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "nzGeiN",
-				"kind": "feature",
-				"title": " Make quiz to test how to say the days of the week in every language",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank: 4.93",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "make these quizzes in a standard format so they are easy to add, e.g. all numbers, colors, etc.",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "MwKuLo",
-				"kind": "feature",
-				"title": " Make list of tips on recording in readme",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank: 4.96",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "include: for each sentence, go off script, improvise",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "wSj49y",
-				"kind": "feature",
-				"title": " Make a 3D action game like lluvia-de-palabras",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank: 4.33",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "see lluvia-de-palabras in /internal/parked",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "5mGH3L",
-				"kind": "feature",
-				"title": " Create page to practice pronunciation",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "with ranking",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "with link to Google",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.97",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "0PsPTE",
-				"kind": "feature",
-				"title": " Integrate pronuncation items into story creation",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "include ten random pronunciations every story",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.5",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "PBbhaF",
-				"kind": "feature",
-				"title": " Integrate random standard practice into story creation",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.55",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "randomly show in the stories, e.g. at the end standard text to practice, e.g.",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "A, B, C, ...",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "1, 2, 3, ...",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "10, 20, 30, ...",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "most frequent verbs and their past participles",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "colors",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "days of week",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "months of year",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "difficult prononciations, from pronunciations",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "UqFXGR",
-				"kind": "feature",
-				"title": " Upgrade to modern design",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.92",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "G7uRgW",
-				"kind": "feature",
-				"title": " Make basic frontend for creation process",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.3",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "idCFqr",
-				"kind": "feature",
-				"title": " Enable simple and basic stories for weak languages",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-enable-simple-and-basic-stories",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.1",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "\"npm run pl simple\" (simple story in present at A1)",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "\"npm run el basics\" (just lists of numbers, days, colors, etc.)",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "8WYlA5",
-				"kind": "fix",
-				"title": " Resolve the first letter issue in the French text data file",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::fix-first-letter-before-day-of-week",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.89",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "1YKEnX",
-				"kind": "feature",
-				"title": " Create pronunciation quiz",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-pronunciation-quiz",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "choose language",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show words/phrases, toggle answers",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.9",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "SZAg38",
-				"kind": "feature",
-				"title": " Make -ere past participle quiz for Italian",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-ere-past-participle-quiz",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.7",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "pESQyd",
-				"kind": "feature",
-				"title": " Create fill-in-blank quiz",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-fill-in-blank-quiz",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.6",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "choose languages",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "get random flashcard from all (preprocessed to all.json)",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "blank out one word",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "require that the user actually type it in (hard learning)",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show that word and five other random words",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "user clicks on correct word",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "after showing right/wrong, show also",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "link to tateoba",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "similar words",
-						"marker": ""
-					},
-					{
-						"indents": 4,
-						"line": "etc.",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "ppbzWq",
-				"kind": "feature",
-				"title": " Create Italian past tense quiz",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-italian-past-quiz",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "show verb, ask: passato prossimo, imperfetto, passato remoto",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.69",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "btGQWy",
-				"kind": "feature",
-				"title": " Create CLI command to copy latest files for each language to MP3 stick",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "branch::feature-prepare-audio-files-for-mp3-stick",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "copy the most recent files of each language into a directory called \"COMPOUT\"",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.5",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "2pMZ4b",
-				"kind": "dev",
-				"title": " Update readme",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.8",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "C5gwXF",
-				"kind": "feature",
-				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.56",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "w024u4",
-				"kind": "feature",
-				"title": " Create page for pronunciation notes",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.8",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "ZB4HqH",
-				"kind": "feature",
-				"title": " update to newest datapod-for-go version (qtools etc.)",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank:: 4.91",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "aIJTck",
+		"suuid": "s3gqfA",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -1051,7 +135,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "POanTC",
+				"suuid": "Ypn0Qd",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1209,20 +293,7 @@
 						"indents": 4,
 						"line": "datapod-for-vite-react-core",
 						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "UnZ8dw",
-				"kind": "fix",
-				"title": " Resolve mobile button problemw ith \"private repo\"",
-				"outlineItems": []
-			},
-			{
-				"suuid": "PCXzcA",
-				"kind": "feature",
-				"title": " Import more sites",
-				"outlineItems": [
+					},
 					{
 						"indents": 0,
 						"line": "",
@@ -1236,7 +307,80 @@
 				]
 			},
 			{
-				"suuid": "ENM3kT",
+				"suuid": "fZJsq1",
+				"kind": "feature",
+				"title": " Add content for two react showcase sites //2026-02-01 11:35:26..",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch:content-two-react-showcases",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "resolve mobile button problemw ith \"private repo\"",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "delete task",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make showcase page",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make both showcase",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "move to showcase-react",
+						"marker": ".."
+					},
+					{
+						"indents": 2,
+						"line": "add images to both",
+						"marker": ".."
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make sure both are in /apps",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "qXH38L",
+				"kind": "feature",
+				"title": " Import more sites",
+				"outlineItems": []
+			},
+			{
+				"suuid": "DmerWF",
 				"kind": "organize",
 				"title": " Clean up all current files, all in edwards-projects",
 				"outlineItems": [
@@ -1273,7 +417,13 @@
 				]
 			},
 			{
-				"suuid": "kZ1SHs",
+				"suuid": "pioFDl",
+				"kind": "clean",
+				"title": " Remove all unused images",
+				"outlineItems": []
+			},
+			{
+				"suuid": "jbFwtR",
 				"kind": "feature",
 				"title": " Add SEO info and thumbnail",
 				"outlineItems": [
@@ -1295,7 +445,7 @@
 				]
 			},
 			{
-				"suuid": "p985o9",
+				"suuid": "7LR45M",
 				"kind": "feature",
 				"title": " Make project rank and rank on home page",
 				"outlineItems": [
@@ -1317,7 +467,7 @@
 				]
 			},
 			{
-				"suuid": "4wkFLW",
+				"suuid": "HNpAWN",
 				"kind": "fix",
 				"title": " Resolve \"ix feature\" on Upcoming Tasks page",
 				"outlineItems": [
@@ -1339,7 +489,7 @@
 				]
 			},
 			{
-				"suuid": "D7xpqd",
+				"suuid": "VuYK9H",
 				"kind": "feature",
 				"title": " Parse markdown for description texts",
 				"outlineItems": [
@@ -1361,7 +511,7 @@
 				]
 			},
 			{
-				"suuid": "hRh95S",
+				"suuid": "zZzFD4",
 				"kind": "feature",
 				"title": " Show number of projects and calculate centrally",
 				"outlineItems": [
@@ -1388,7 +538,7 @@
 				]
 			},
 			{
-				"suuid": "qJxyFn",
+				"suuid": "2P9sfH",
 				"kind": "feature",
 				"title": " Show gifs with descriptions",
 				"outlineItems": [
@@ -1410,7 +560,7 @@
 				]
 			},
 			{
-				"suuid": "4RC3kc",
+				"suuid": "kz52kb",
 				"kind": "feature",
 				"title": " Implement validation on parse",
 				"outlineItems": [
@@ -1432,7 +582,7 @@
 				]
 			},
 			{
-				"suuid": "5uh48c",
+				"suuid": "zG7Y0S",
 				"kind": "feature",
 				"title": " On project component, cut off description and warn",
 				"outlineItems": [
@@ -1454,7 +604,7 @@
 				]
 			},
 			{
-				"suuid": "9xjE7p",
+				"suuid": "Kzsegw",
 				"kind": "feature",
 				"title": " Add dates globally to give up-to-date vibe to site",
 				"outlineItems": [
@@ -1471,7 +621,7 @@
 				]
 			},
 			{
-				"suuid": "qGMw3c",
+				"suuid": "qLfVhs",
 				"kind": "feature",
 				"title": " Make mobile/desktop toggle",
 				"outlineItems": [
@@ -1488,7 +638,7 @@
 				]
 			},
 			{
-				"suuid": "yHrh41",
+				"suuid": "oVTK8e",
 				"kind": "feature",
 				"title": " Add stats as graphics on front page",
 				"outlineItems": [
@@ -1505,7 +655,7 @@
 				]
 			},
 			{
-				"suuid": "5S895Q",
+				"suuid": "a4eFdV",
 				"kind": "feature",
 				"title": " Show example of data files on about page",
 				"outlineItems": [
@@ -1522,7 +672,7 @@
 				]
 			},
 			{
-				"suuid": "XnGA0A",
+				"suuid": "90MRHM",
 				"kind": "feature",
 				"title": " Display descriptions on e.g. starts, showcases (what they are)",
 				"outlineItems": [
@@ -1539,7 +689,7 @@
 				]
 			},
 			{
-				"suuid": "B2Xxzm",
+				"suuid": "gxsedO",
 				"kind": "feature",
 				"title": " Enable link to branch",
 				"outlineItems": [
@@ -1556,7 +706,7 @@
 				]
 			},
 			{
-				"suuid": "cgVpj4",
+				"suuid": "qtiHEO",
 				"kind": "feature",
 				"title": " Enable link to commit to be saved",
 				"outlineItems": [
@@ -1578,7 +728,7 @@
 				]
 			},
 			{
-				"suuid": "WZ12DU",
+				"suuid": "1RCNrA",
 				"kind": "dev",
 				"title": " Clean up mode and status",
 				"outlineItems": [
@@ -1605,7 +755,7 @@
 				]
 			},
 			{
-				"suuid": "wUHbC3",
+				"suuid": "nMmzeS",
 				"kind": "content",
 				"title": " Add rest of projects",
 				"outlineItems": [
@@ -1632,7 +782,7 @@
 				]
 			},
 			{
-				"suuid": "KccAnv",
+				"suuid": "5qGgUj",
 				"kind": "featuer",
 				"title": " Implement global search",
 				"outlineItems": [
@@ -1649,7 +799,7 @@
 				]
 			},
 			{
-				"suuid": "Xg7Vjg",
+				"suuid": "wxC3cv",
 				"kind": "feature",
 				"title": " Make single project view with permalink",
 				"outlineItems": [
@@ -1666,7 +816,7 @@
 				]
 			},
 			{
-				"suuid": "modWb6",
+				"suuid": "avW1AY",
 				"kind": "feature",
 				"title": " Make dummy data for repository",
 				"outlineItems": [
@@ -1688,7 +838,7 @@
 				]
 			},
 			{
-				"suuid": "tlW0Gn",
+				"suuid": "46cYz0",
 				"kind": "feature",
 				"title": " Create \"npm run audit\" to find all missing information",
 				"outlineItems": [
@@ -1712,7 +862,1033 @@
 		]
 	},
 	{
-		"suuid": "Uyiybl",
+		"suuid": "vq7OPe",
+		"idCode": "techlanglearn003",
+		"title": "Tech/Language Learner",
+		"shortTitle": "Tech/Language Learner",
+		"description": "I created this site in 2024 in order to combine learning tech skills and learning languages. I no longer use it for recording language phrases as I did at the beginning, since this was superceded by my <a target=\"_blank\" href=\"comprehensible-output\">Comprehensible Output</a> site. I still use this Tech Learn site to keep me motivated to watch LinkedIn Learning videos in German, English, French and Spanish so it still serves its original purpose in some way. This site is also significant because it was the project in which I started the new Datapod concept of executing a backend script which transforms freely-formatted text files into JSON data which the frontend then reads locally on a CDN. I had chosen Go as the backend language and SvelteKit as the frontend in order to learn these technologies, which led to the idea of having numerous Datapods each with a different backend language and frontend Framework in order to learn new skills. This site has no public website, I simply use it as a local application, but the repo is public if you want to clone it and set it up locally.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/techlanglearn003",
+		"live": "",
+		"techItems": [
+			"Go",
+			"SvelteKit",
+			"Sass"
+		],
+		"imageMobile": "/images/projects/techlanglearn003-mobile.jpg",
+		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "8EXi59",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::Tech/Language Learner",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "tech::Go, SvelteKit, Sass",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::premier; This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description::I created this site in 2024 in order to combine learning tech skills and learning languages. I no longer use it for recording language phrases as I did at the beginning, since this was superceded by my [Comprehensible Output](comprehensible-output) site. I still use this Tech Learn site to keep me motivated to watch LinkedIn Learning videos in German, English, French and Spanish so it still serves its original purpose in some way. This site is also significant because it was the project in which I started the new Datapod concept of executing a backend script which transforms freely-formatted text files into JSON data which the frontend then reads locally on a CDN. I had chosen Go as the backend language and SvelteKit as the frontend in order to learn these technologies, which led to the idea of having numerous Datapods each with a different backend language and frontend Framework in order to learn new skills. This site has no public website, I simply use it as a local application, but the repo is public if you want to clone it and set it up locally.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "i8wvHN",
+				"kind": "dev",
+				"title": " Standardize branch from dev to main",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.45",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xquCt7",
+				"kind": "dev",
+				"title": " Update Go backend to current component standards",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "P9CAIP",
+		"idCode": "fastfollow",
+		"title": "Fast Follow Forum",
+		"shortTitle": "Fast Follow Forum",
+		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/fastfollow",
+		"live": "https://fastfollow.vercel.app",
+		"techItems": [],
+		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
+		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "Qcvx3d",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::Fast Follow Forum",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://fastfollow.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description:: This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::premier;This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts.",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "tNMfkw",
+		"idCode": "datapod-tanguay-eu",
+		"title": "Datapod Central 2026",
+		"shortTitle": "Datapod Central 2026",
+		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
+		"live": "https://datapod-tanguay-eu.vercel.app",
+		"techItems": [
+			"Angular 17",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "ptS03k",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "category::premier;you can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description::this is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on [the main characteristics of Datapod](https://tanguay-eu.vercel.app/howtos/906). Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://datapod-tanguay-eu.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Datapod Central 2026",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "tech:: Angular 17, TypeScript",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "ftwIL1",
+				"kind": "feature",
+				"title": " Upgrade site with Angular 21 / Elixir Datapod framework",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.97",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "sZUC5v",
+		"idCode": "comprehensible-output",
+		"title": "Comprehensible Input",
+		"shortTitle": "Comprehensible Input",
+		"description": "I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
+		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/comprehensible-output",
+		"live": "https://comprehensible-output.vercel.app",
+		"techItems": [
+			"Go",
+			"React",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/comprehensible-output-mobile.jpg",
+		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "wgJ44Y",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "tech:: Go, React, TypeScript",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Comprehensible Input",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::premier;I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://comprehensible-output.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "resolve issue: no way to know when new phrases are added as there are to know when new google translate files are added",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add: wenn sich die Gunst erweist",
+						"marker": ",,"
+					},
+					{
+						"indents": 2,
+						"line": "description::I have been using this site since April 2025 to learn mostly Italian, Spanish, and Dutch. It allows me to create a story with AI based on the phrases I looked up on Google Translate the previous day. Every morning I read the story as an audio, and then listen to it as a kind of podcast. It's a wholistic method that helps you learn a language deeply over time.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "status::I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "German black",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "English some color",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add random topics",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "erase on \"pd\" Absolute path",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "core notes file",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "it-core-notes.txt",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "SaAVlz",
+				"kind": "feature",
+				"title": " Make \"Italian Conjugation\" page",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.99",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "convert all new Italian conjugation charts to JSON, 100 verbs with rank",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "5 different exercises",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "show",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "\"essere - passato remoto\"",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "\"volere - congiuntivo presente\"",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "just have a blank line, can use commas, or not",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "fill in word of example, e.g. \"cerco qualcuno che _______ affidabile e puntuale\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "dropdown: shows 3 random nouns, adjectives, and 3 phrases each for past, present future",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "also extra phrases",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "ANFNgj",
+				"kind": "feature",
+				"title": " Speed up parsing //2025-12-22 00:59:51..",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.71",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "only create audio files that need to be created",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "RkUJ0K",
+				"kind": "feature",
+				"title": " Make a quiz for each audio",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.97",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "days of week",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "phrases",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "numbers, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "4yeOxq",
+				"kind": "feature",
+				"title": " Along show the last 30 days",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.67",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "option to show rest with link",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "x2JYBE",
+				"kind": "feature",
+				"title": " Create one-file for Italian and parse",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.99",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "parse by copying conjugation page with dump, but only parse most important tenses with known names",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "VzdWsg",
+				"kind": "feature",
+				"title": " Make Learn Bits page",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank: 4.89",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "LsqjVk",
+				"kind": "feature",
+				"title": " Make quiz that shows day's text with missing words",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank: 4.95",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "VdBY8K",
+				"kind": "feature",
+				"title": " Make quiz to test how to say the letters in every language",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank: 4.93",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "zpl7at",
+				"kind": "feature",
+				"title": " Make quiz to test how to say the days of the week in every language",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank: 4.93",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make these quizzes in a standard format so they are easy to add, e.g. all numbers, colors, etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "4bLfkO",
+				"kind": "feature",
+				"title": " Make list of tips on recording in readme",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank: 4.96",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "include: for each sentence, go off script, improvise",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "UgXvzq",
+				"kind": "feature",
+				"title": " Make a 3D action game like lluvia-de-palabras",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank: 4.33",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "see lluvia-de-palabras in /internal/parked",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "G4QAZn",
+				"kind": "feature",
+				"title": " Create page to practice pronunciation",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "with ranking",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "with link to Google",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.97",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "BgeI4U",
+				"kind": "feature",
+				"title": " Integrate pronuncation items into story creation",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "include ten random pronunciations every story",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.5",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "OFnfbj",
+				"kind": "feature",
+				"title": " Integrate random standard practice into story creation",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.55",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "randomly show in the stories, e.g. at the end standard text to practice, e.g.",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "A, B, C, ...",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "1, 2, 3, ...",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "10, 20, 30, ...",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "most frequent verbs and their past participles",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "colors",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "days of week",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "months of year",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "difficult prononciations, from pronunciations",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "lF1DWt",
+				"kind": "feature",
+				"title": " Upgrade to modern design",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.92",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "fzmXbl",
+				"kind": "feature",
+				"title": " Make basic frontend for creation process",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.3",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "ulhT6Q",
+				"kind": "feature",
+				"title": " Enable simple and basic stories for weak languages",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-enable-simple-and-basic-stories",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.1",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "\"npm run pl simple\" (simple story in present at A1)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "\"npm run el basics\" (just lists of numbers, days, colors, etc.)",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "fYKnis",
+				"kind": "fix",
+				"title": " Resolve the first letter issue in the French text data file",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::fix-first-letter-before-day-of-week",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.89",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "tddDwB",
+				"kind": "feature",
+				"title": " Create pronunciation quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-pronunciation-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "choose language",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show words/phrases, toggle answers",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.9",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "L6W2d9",
+				"kind": "feature",
+				"title": " Make -ere past participle quiz for Italian",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-ere-past-participle-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.7",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "0oWxPT",
+				"kind": "feature",
+				"title": " Create fill-in-blank quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-fill-in-blank-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.6",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "choose languages",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "get random flashcard from all (preprocessed to all.json)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "blank out one word",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "require that the user actually type it in (hard learning)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show that word and five other random words",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "user clicks on correct word",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "after showing right/wrong, show also",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "link to tateoba",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "similar words",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "etc.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "MTI3gR",
+				"kind": "feature",
+				"title": " Create Italian past tense quiz",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-italian-past-quiz",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show verb, ask: passato prossimo, imperfetto, passato remoto",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.69",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "c8xqKI",
+				"kind": "feature",
+				"title": " Create CLI command to copy latest files for each language to MP3 stick",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-prepare-audio-files-for-mp3-stick",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "copy the most recent files of each language into a directory called \"COMPOUT\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.5",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "KRNjIV",
+				"kind": "dev",
+				"title": " Update readme",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.8",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "IDjIEh",
+				"kind": "feature",
+				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.56",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "bJAnLg",
+				"kind": "feature",
+				"title": " Create page for pronunciation notes",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.8",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "DAR7HN",
+				"kind": "feature",
+				"title": " update to newest datapod-for-go version (qtools etc.)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank:: 4.91",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "iw9WJA",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -1735,7 +1911,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "iDBAIH",
+				"suuid": "oKDTaC",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1784,7 +1960,7 @@
 		]
 	},
 	{
-		"suuid": "JXac11",
+		"suuid": "RyEuwu",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -1808,7 +1984,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "9azUbR",
+				"suuid": "LgHKJ6",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1842,7 +2018,7 @@
 		]
 	},
 	{
-		"suuid": "n0bAll",
+		"suuid": "9lQS6K",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -1866,7 +2042,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "A6B3x2",
+				"suuid": "sCquQe",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1900,7 +2076,7 @@
 		]
 	},
 	{
-		"suuid": "wpJlLw",
+		"suuid": "0s6b6o",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -1929,7 +2105,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "H6Hho5",
+				"suuid": "bczHnK",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1968,7 +2144,7 @@
 		]
 	},
 	{
-		"suuid": "vhXAsY",
+		"suuid": "jzuoRe",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -1992,7 +2168,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "pBgteC",
+				"suuid": "0NvFZV",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2026,7 +2202,7 @@
 		]
 	},
 	{
-		"suuid": "GJkmgE",
+		"suuid": "UeoRmp",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -2050,7 +2226,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "LGD4VP",
+				"suuid": "BmDWMs",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2082,7 +2258,7 @@
 				]
 			},
 			{
-				"suuid": "Rndrsi",
+				"suuid": "j1dOpo",
 				"kind": "feature",
 				"title": " remake as new Datapod site",
 				"outlineItems": [
@@ -2101,7 +2277,7 @@
 		]
 	},
 	{
-		"suuid": "AQ3Puu",
+		"suuid": "8Cgjcq",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -2124,7 +2300,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "mtcOpE",
+				"suuid": "oRVHll",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2156,7 +2332,7 @@
 				]
 			},
 			{
-				"suuid": "REEcjN",
+				"suuid": "e4Kfqd",
 				"kind": "feature",
 				"title": " Upgrade to Ruby/SvelteKit site.",
 				"outlineItems": [
@@ -2175,7 +2351,7 @@
 		]
 	},
 	{
-		"suuid": "mNAdCf",
+		"suuid": "2DvWc8",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
@@ -2200,7 +2376,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "iwxVAF",
+				"suuid": "tCVRDr",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2227,7 +2403,7 @@
 				]
 			},
 			{
-				"suuid": "rvQAPf",
+				"suuid": "FcOh17",
 				"kind": "chore",
 				"title": " Reoganize edward\\projects\\notesdpod",
 				"outlineItems": [
@@ -2246,7 +2422,7 @@
 		]
 	},
 	{
-		"suuid": "Dg9zAX",
+		"suuid": "PtDIXZ",
 		"idCode": "techlanglearn003",
 		"title": "TECHLANGLEARN003",
 		"shortTitle": "TECHLANGLEARN003",
@@ -2261,7 +2437,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "c8niqY",
+				"suuid": "fhHRFT",
 				"kind": "feature",
 				"title": " Expand times on youtube videos to hours //2026-02-01 08:54:23..2026-02-01 09:38:25",
 				"outlineItems": [
@@ -2290,7 +2466,7 @@
 		]
 	},
 	{
-		"suuid": "y3X1vN",
+		"suuid": "jp6mDR",
 		"idCode": "innergo",
 		"title": "INNERGO",
 		"shortTitle": "INNERGO",
@@ -2305,7 +2481,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "uAitDp",
+				"suuid": "k0AnPi",
 				"kind": "feature",
 				"title": " Set up data files and repo //2026-01-25 18:08:52..2026-01-25 20:08:58",
 				"outlineItems": [
@@ -2349,7 +2525,7 @@
 		]
 	},
 	{
-		"suuid": "Z6sadj",
+		"suuid": "qKdNpJ",
 		"idCode": "fastfollow",
 		"title": "FASTFOLLOW",
 		"shortTitle": "FASTFOLLOW",
@@ -2364,7 +2540,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "REyfgn",
+				"suuid": "UCgTNE",
 				"kind": "feature",
 				"title": " Add technologies and show number //2026-01-06 11:37:11..2026-01-06 11:53:33",
 				"outlineItems": [
@@ -2381,7 +2557,7 @@
 				]
 			},
 			{
-				"suuid": "Xushkt",
+				"suuid": "6llMyN",
 				"kind": "feature",
 				"title": " Add QR-Code to about page //2026-01-30 16:14:02..2026-01-30 16:48:37",
 				"outlineItems": [
@@ -2403,7 +2579,7 @@
 				]
 			},
 			{
-				"suuid": "uuVYnc",
+				"suuid": "LaosMM",
 				"kind": "feature",
 				"title": " Upgrade to Next.js/Go Datapod //2026-01-05 20:43:13..2026-01-06 00:52:35",
 				"outlineItems": [
@@ -2515,7 +2691,7 @@
 				]
 			},
 			{
-				"suuid": "04DAVl",
+				"suuid": "aLglBF",
 				"kind": "feature",
 				"title": " Parse topics and show on page //2026-01-05 18:10:37..2026-01-05 20:24:25",
 				"outlineItems": [
@@ -2537,7 +2713,7 @@
 				]
 			},
 			{
-				"suuid": "XrXQmv",
+				"suuid": "S8s2An",
 				"kind": "feature",
 				"title": " Adjust splash page for mobile //2026-01-05 07:17:32..2026-01-05 07:27:34",
 				"outlineItems": [
@@ -2564,7 +2740,7 @@
 				]
 			},
 			{
-				"suuid": "MdzkQE",
+				"suuid": "UJADBp",
 				"kind": "feature",
 				"title": " Rebase site on Datapod for Next.js/Go (dark) //2026-01-04 17:44:49..2026-01-04 23:27:19",
 				"outlineItems": [
@@ -2628,7 +2804,7 @@
 		]
 	},
 	{
-		"suuid": "5BJkkg",
+		"suuid": "MeYpkc",
 		"idCode": "datapod-tanguay-eu",
 		"title": "DATAPOD-TANGUAY-EU",
 		"shortTitle": "DATAPOD-TANGUAY-EU",
@@ -2643,7 +2819,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "iaKDfN",
+				"suuid": "XQkDHt",
 				"kind": "feature",
 				"title": " Add Next.js/Go datapod entry //2026-01-04 16:50:50..2026-01-04 17:16:56",
 				"outlineItems": [
@@ -2657,7 +2833,7 @@
 		]
 	},
 	{
-		"suuid": "CGSxte",
+		"suuid": "7X1YTS",
 		"idCode": "edwards-projects",
 		"title": "EDWARDS-PROJECTS",
 		"shortTitle": "EDWARDS-PROJECTS",
@@ -2672,7 +2848,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "hNV1nj",
+				"suuid": "WlK5y2",
 				"kind": "feature",
 				"title": " Import internal and fast follow into site, some layout fixes //2026-01-25 20:50:14..2026-01-25 23:56:38",
 				"outlineItems": [
@@ -2749,7 +2925,7 @@
 				]
 			},
 			{
-				"suuid": "DcDcC8",
+				"suuid": "ueaHmf",
 				"kind": "content",
 				"title": " Add moparser and techlanglearn sites //2025-12-29 17:44:13..2025-12-31 17:30:14",
 				"outlineItems": [
@@ -2781,7 +2957,7 @@
 				]
 			},
 			{
-				"suuid": "gESUJU",
+				"suuid": "Ahw2wN",
 				"kind": "feature",
 				"title": " Add two language sites //2025-12-28 23:25:48..2025-12-29 17:44:15",
 				"outlineItems": [
@@ -2808,7 +2984,7 @@
 				]
 			},
 			{
-				"suuid": "xTslwO",
+				"suuid": "5RisKw",
 				"kind": "feature",
 				"title": " Import three sites and new pages: premier and transitional //2025-12-27 00:02:25..2025-12-28 23:26:19",
 				"outlineItems": [
@@ -2895,7 +3071,7 @@
 				]
 			},
 			{
-				"suuid": "W9g8Xn",
+				"suuid": "KcgDCf",
 				"kind": "feature",
 				"title": " Import Edward's personal page, add live projects page //2025-12-27 00:02:25..2025-12-27",
 				"outlineItems": [
@@ -2957,7 +3133,7 @@
 				]
 			},
 			{
-				"suuid": "j4AgSb",
+				"suuid": "IUcQRA",
 				"kind": "content",
 				"title": " Import Datapod site //2025-12-27 00:02:25..2025-12-27 14:51:13",
 				"outlineItems": [
@@ -3014,7 +3190,7 @@
 				]
 			},
 			{
-				"suuid": "1kqRnJ",
+				"suuid": "tNLJZq",
 				"kind": "feature",
 				"title": " Implement shortTitle, legacy page, markdown //2025-12-23 17:13:13..2025-12-27 00:02:09",
 				"outlineItems": [
@@ -3126,7 +3302,7 @@
 				]
 			},
 			{
-				"suuid": "BxFEmJ",
+				"suuid": "x3mg5k",
 				"kind": "feature",
 				"title": " Brighten mobile view //2025-12-23 17:13:13..2025-12-26 18:13:55",
 				"outlineItems": [
@@ -3163,7 +3339,7 @@
 				]
 			},
 			{
-				"suuid": "DEx24K",
+				"suuid": "TsFmNw",
 				"kind": "fix",
 				"title": " Resolve mobile display issue of title and cards //2025-12-23 17:22:38..2025-12-23 17:29:26",
 				"outlineItems": [
@@ -3190,7 +3366,7 @@
 				]
 			},
 			{
-				"suuid": "1wTkSX",
+				"suuid": "5njAsy",
 				"kind": "ix feature",
 				"title": " Change colors and standardize font sizes  //2025-12-23 16:42:17..2025-12-23 17:12:23",
 				"outlineItems": [
@@ -3222,7 +3398,7 @@
 				]
 			},
 			{
-				"suuid": "HmbIsA",
+				"suuid": "ZULY9V",
 				"kind": "feature",
 				"title": " Simplify screenshot in mobile view //2025-12-23 14:01:06..2025-12-23 15:23:21",
 				"outlineItems": [
@@ -3264,7 +3440,7 @@
 				]
 			},
 			{
-				"suuid": "5pDYZX",
+				"suuid": "gMWIt2",
 				"kind": "fix",
 				"title": " On mobile view show desktop image //2025-12-23 12:43:54..2025-12-23 13:53:03",
 				"outlineItems": [
@@ -3286,7 +3462,7 @@
 				]
 			},
 			{
-				"suuid": "alqphx",
+				"suuid": "ZWEew2",
 				"kind": "fix",
 				"title": " Resolve mobile display issues with project component //2025-12-23 11:51:24..2025-12-23 12:36:13",
 				"outlineItems": [
@@ -3308,7 +3484,7 @@
 				]
 			},
 			{
-				"suuid": "N7kADP",
+				"suuid": "cR4cS5",
 				"kind": "feature",
 				"title": " Make single and multiple project pages ready for project import //2025-12-22 01:06:10..2025-12-23 11:44:58",
 				"outlineItems": [
@@ -3490,7 +3666,7 @@
 				]
 			},
 			{
-				"suuid": "vw6Rwv",
+				"suuid": "xgQhpA",
 				"kind": "feature",
 				"title": " Add style and content improvements after design upgrade //2025-12-22 00:46:29..2025-12-22 01:01:01",
 				"outlineItems": [
@@ -3517,7 +3693,7 @@
 				]
 			},
 			{
-				"suuid": "ci5trD",
+				"suuid": "1C4ieP",
 				"kind": "feature",
 				"title": " Convert Nuxt to Next.js and upgrade to modern site layout //2025-12-20 22:48:41..2025-12-22 00:46:56",
 				"outlineItems": [
@@ -3649,7 +3825,7 @@
 				]
 			},
 			{
-				"suuid": "YlyLsA",
+				"suuid": "NdPoei",
 				"kind": "feature",
 				"title": " Add rank to tasks and sort more important first //2025-12-21 19:21:30..2025-12-21 20:02:04",
 				"outlineItems": [
@@ -3711,7 +3887,7 @@
 				]
 			},
 			{
-				"suuid": "Lm5icc",
+				"suuid": "OzLpU9",
 				"kind": "feature",
 				"title": " Show three of each kind of tasks: current, upcoming, finished //2025-12-21 15:03:15..2025-12-21 19:10:44",
 				"outlineItems": [
@@ -3888,7 +4064,7 @@
 				]
 			},
 			{
-				"suuid": "ZkuINZ",
+				"suuid": "dEIFf6",
 				"kind": "feature",
 				"title": " Process and display all tasks basic data //2025-12-20 16:55:12..2025-12-20 19:31:35",
 				"outlineItems": [
@@ -3995,7 +4171,7 @@
 				]
 			},
 			{
-				"suuid": "uZ4s6K",
+				"suuid": "9BPaXa",
 				"kind": "base",
 				"title": " Create minimal site and put online //2025-10-17 20:39:40..2025-10-17 21:31:59",
 				"outlineItems": [
@@ -4042,7 +4218,7 @@
 				]
 			},
 			{
-				"suuid": "Q7XHa8",
+				"suuid": "y5jD6i",
 				"kind": "feature",
 				"title": " Enable second file to be processed and combine projects //2025-12-17 20:55:42..2025-12-19 21:59:23",
 				"outlineItems": [
@@ -4209,7 +4385,7 @@
 				]
 			},
 			{
-				"suuid": "6w9900",
+				"suuid": "Fbb5cV",
 				"kind": "decision",
 				"title": " Decide on best name \"start\" or \"starter\" //2025-11-30 23:32:41..2025-12-02 22:47:14",
 				"outlineItems": [
@@ -4261,7 +4437,7 @@
 				]
 			},
 			{
-				"suuid": "HIeSb2",
+				"suuid": "7GKF4D",
 				"kind": "feature",
 				"title": " Show start sites //2025-11-30 23:09:20..2025-12-02 22:45:41",
 				"outlineItems": [
@@ -4298,13 +4474,13 @@
 				]
 			},
 			{
-				"suuid": "t15jNa",
+				"suuid": "g7lWVN",
 				"kind": "content",
 				"title": " Add showcase-typo3 //2025-10-31 15:16:56..2025-10-31 15:55:34",
 				"outlineItems": []
 			},
 			{
-				"suuid": "kQe0uz",
+				"suuid": "rAIo6P",
 				"kind": "feature",
 				"title": " Create all current images //2025-10-27 15:55:36..2025-10-27 16:27:16",
 				"outlineItems": [
@@ -4326,7 +4502,7 @@
 				]
 			},
 			{
-				"suuid": "SZyUTs",
+				"suuid": "TT3s3k",
 				"kind": "feature",
 				"title": " Show image if exists //2025-10-27 14:11:00..2025-10-27 15:54:31",
 				"outlineItems": [
@@ -4408,7 +4584,7 @@
 				]
 			},
 			{
-				"suuid": "h0q324",
+				"suuid": "Uu37z2",
 				"kind": "feature",
 				"title": " Make Responsive //2025-10-27 11:45:48..2025-10-27 13:25:18",
 				"outlineItems": [
@@ -4480,7 +4656,7 @@
 				]
 			},
 			{
-				"suuid": "36plpG",
+				"suuid": "RkPAE4",
 				"kind": "feature",
 				"title": " Implement categories //2025-10-24 13:28:42..2025-10-24 18:12:10",
 				"outlineItems": [
@@ -4587,7 +4763,7 @@
 				]
 			},
 			{
-				"suuid": "iQNo8C",
+				"suuid": "29BRix",
 				"kind": "feature",
 				"title": " Create active, planning and stable project sections //2025-10-20 13:41:27..2025-10-24 13:17:01",
 				"outlineItems": [
@@ -4804,7 +4980,7 @@
 				]
 			},
 			{
-				"suuid": "oxwgY4",
+				"suuid": "n1LgCq",
 				"kind": "feature",
 				"title": " Process first data file, list frontend idcodes //2025-10-17 21:47:29..2025-10-17 23:44:52",
 				"outlineItems": [
@@ -4868,7 +5044,7 @@
 		]
 	},
 	{
-		"suuid": "gxyMrF",
+		"suuid": "52K6SJ",
 		"idCode": "comprehensible-output",
 		"title": "COMPREHENSIBLE-OUTPUT",
 		"shortTitle": "COMPREHENSIBLE-OUTPUT",
@@ -4883,7 +5059,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "LqBzCp",
+				"suuid": "fSo6Rw",
 				"kind": "feature",
 				"title": " Streamline story creation //2025-08-03 23:30:15..2025-08-05 10:58:02",
 				"outlineItems": [
@@ -5490,7 +5666,7 @@
 				]
 			},
 			{
-				"suuid": "HobRJx",
+				"suuid": "JUwckr",
 				"kind": "feature",
 				"title": " Order import listing by number of phrases //2025-10-13 07:55:31..2025-10-13 08:02:23",
 				"outlineItems": [
@@ -5507,7 +5683,7 @@
 				]
 			},
 			{
-				"suuid": "m6AIAd",
+				"suuid": "2gEMMK",
 				"kind": "feature",
 				"title": " Use most recent phrases first //2025-10-09 10:58:45..2025-10-09 11:53:47",
 				"outlineItems": [
@@ -5634,7 +5810,7 @@
 				]
 			},
 			{
-				"suuid": "59R5x1",
+				"suuid": "a9WhUB",
 				"kind": "feature",
 				"title": " CLI command \"cpf\" creates prompt files for all languages //2025-06-09 12:31:32..2025-06-10 00:12:39",
 				"outlineItems": [
@@ -5651,7 +5827,7 @@
 				]
 			},
 			{
-				"suuid": "wWuDHj",
+				"suuid": "wuFkdT",
 				"kind": "feature",
 				"title": " Enable 10 100 to be sent as params, with defaults if not sent //2025-06-09 13:14:09..2025-06-09 15:17:03",
 				"outlineItems": [
@@ -5673,13 +5849,13 @@
 				]
 			},
 			{
-				"suuid": "gW4Twe",
+				"suuid": "Tydjyy",
 				"kind": "feature",
 				"title": " For command npm run cpg fr, randomize order of phrases //2025-06-09 17:14:02..2025-06-09 17:19:03",
 				"outlineItems": []
 			},
 			{
-				"suuid": "Vo6Z9h",
+				"suuid": "GgkCfd",
 				"kind": "feature",
 				"title": " Show history of phrases for \"cpf\" //2025-06-10 16:14:09..2025-06-10 17:12:19",
 				"outlineItems": [
@@ -5706,7 +5882,7 @@
 				]
 			},
 			{
-				"suuid": "vb1Zmc",
+				"suuid": "S4HggI",
 				"kind": "feature",
 				"title": " Implement script to create prompts from google translate phrases //2025-06-08 20:11:09..2025-06-08 20:44:02",
 				"outlineItems": [

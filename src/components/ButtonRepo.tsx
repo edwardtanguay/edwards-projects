@@ -17,7 +17,7 @@ export default function ButtonRepo({ project }: Props) {
 
 	if (isDisabled) {
 		return (
-			<div className={`flex-1 px-4 py-2 rounded-md border border-gray-600 bg-gray-600/10 text-gray-500 text-sm font-medium text-center cursor-not-allowed line-through`}>
+			<div className={`flex-1 flex items-center justify-center px-4 py-2 rounded-md border border-gray-600 bg-gray-600/10 text-gray-500 text-sm font-medium text-center cursor-not-allowed line-through`}>
 				{buttonText}
 			</div>
 		);
@@ -28,7 +28,7 @@ export default function ButtonRepo({ project }: Props) {
 			href={url}
 			target="_blank"
 			rel="noopener noreferrer"
-			className={`flex-1 px-4 py-2 rounded-md ${colorClasses} text-sm font-medium transition-all duration-300 text-center`}
+			className={`flex-1 flex items-center justify-center px-4 py-2 rounded-md ${colorClasses} text-sm font-medium transition-all duration-300 text-center`}
 		>
 			{buttonText}
 		</a>

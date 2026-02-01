@@ -17,6 +17,7 @@ import {
 	Sprout,
 	User,
 	X,
+	Monitor,
 } from "lucide-react";
 
 interface NavItem {
@@ -28,10 +29,11 @@ interface NavItem {
 const navItems: NavItem[] = [
 	{ label: "Home", href: "/", icon: <Home size={20} /> },
 	{ label: "Premier Projects", href: "/premier-projects", icon: <Star size={20} /> },
-	{ label: "Personal Projects", href: "/personal-projects", icon: <User size={20} /> },
+	{ label: "Showcase Projects", href: "/showcase-projects", icon: <Monitor size={20} /> },
 	{ label: "Transitional Projects", href: "/transitional-projects", icon: <ArrowRightLeft size={20} /> },
 	{ label: "Incubator Projects", href: "/incubator-projects", icon: <Sprout size={20} /> },
 	{ label: "Legacy Projects", href: "/legacy-projects", icon: <CalendarClock size={20} /> },
+	{ label: "Personal Projects", href: "/personal-projects", icon: <User size={20} /> },
 	{ label: "Parked Projects", href: "/parked-projects", icon: <SquareParking size={20} /> },
 	{ label: "Current Tasks", href: "/current-tasks", icon: <Cog size={20} /> },
 	{ label: "Upcoming Tasks", href: "/upcoming-tasks", icon: <CalendarFold size={20} /> },
