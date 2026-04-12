@@ -121,7 +121,7 @@ export default function Project() {
 						{upcomingTasks.length > 0 && (
 							<div className="mt-8">
 								<h2 className="text-2xl font-bold mb-4">{qstr.smartPlural(upcomingTasks.length, "Upcoming Task")}
-									<span className="text-xs font-medium mr-2 opacity-70 italic"> - rank <span className="text-yellow-400">5</span> to <span className="text-yellow-400">0</span></span>
+									<span className="text-xs font-medium mr-2 opacity-70 italic"> - 5 stars = highest priority</span>
 								</h2>
 								<div>
 									{upcomingTasks.map((task) => (

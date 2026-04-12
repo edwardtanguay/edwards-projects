@@ -2,10 +2,14 @@
 
 @layer components {
 	.page-header {
-		@apply text-white sm:text-slate-400 font-bold text-[33px] sm:text-[48px] xl:text-6xl mb-2 sm:mb-4 pb-2;
+		@apply text-white sm:text-orange-100/90 font-bold text-[33px] sm:text-[48px] xl:text-6xl mb-2 sm:mb-4 pb-2;
 	}
 
 	.markdown a {
 		@apply text-blue-400 hover:text-blue-300 underline;
+	}
+	
+	.markdown code {
+		@apply font-mono text-[0.9em] bg-white/10 text-orange-200 px-1 py-0.5 rounded-sm border border-white/10 whitespace-nowrap;
 	}
 }

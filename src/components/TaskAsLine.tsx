@@ -1,5 +1,6 @@
 import { Task as TaskData } from "../types";
 import { Check } from "lucide-react";
+import Stars from "./Stars";
 
 export default function Task({ task }: { task: TaskData }) {
 	const date = task.endDateTime || task.beginDateTime;
@@ -14,8 +15,8 @@ export default function Task({ task }: { task: TaskData }) {
 		<div className="text-gray-300 flex items-start mb-1.5">
 			<div className="shrink-0 h-6 flex items-center">
 				{task.stage === "upcoming" && (
-					<div className="text-yellow-400 font-medium whitespace-nowrap">
-						{task.rank.toFixed(2)} -&nbsp;
+					<div className="text-yellow-400 font-medium whitespace-nowrap flex items-center">
+						<Stars rank={task.rank} />&nbsp;-&nbsp;
 					</div>
 				)}
 				{task.stage === "current" && formattedDate && (

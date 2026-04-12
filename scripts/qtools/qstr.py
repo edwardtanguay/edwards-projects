@@ -195,6 +195,9 @@ def markdown_to_html(markdown_text):
 	# Enlaces: [texto](url) -> <a href="url">texto</a>
 	html = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a target="_blank" href="\2">\1</a>', html)
 	
+	# Código: `texto` -> <code>texto</code>
+	html = re.sub(r'`(.*?)`', r'<code>\1</code>', html)
+	
 	# Saltos de línea
 	html = html.replace('\n', '<br>\n')
 	

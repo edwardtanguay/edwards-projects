@@ -1,129 +1,6 @@
 [
 	{
-		"suuid": "FCb6be",
-		"idCode": "fastfollow",
-		"title": "Fast Follow Forum",
-		"shortTitle": "Fast Follow Forum",
-		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/fastfollow",
-		"live": "https://fastfollow.vercel.app",
-		"techItems": [],
-		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
-		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "fUN0vY",
-				"kind": "info",
-				"title": "(info)",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "title::Fast Follow Forum",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://fastfollow.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "description:: This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "category::premier;This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts.",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "E9QpkQ",
-		"idCode": "datapod-tanguay-eu",
-		"title": "Datapod Central 2026",
-		"shortTitle": "Datapod Central 2026",
-		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
-		"live": "https://datapod-tanguay-eu.vercel.app",
-		"techItems": [
-			"Angular 17",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
-		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
-			}
-		],
-		"projectItems": [
-			{
-				"suuid": "cWE8gt",
-				"kind": "info",
-				"title": "(info)",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "category::premier;you can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "description::this is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on [the main characteristics of Datapod](https://tanguay-eu.vercel.app/howtos/906). Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "live::https://datapod-tanguay-eu.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "title::Datapod Central 2026",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "tech:: Angular 17, TypeScript",
-						"marker": ""
-					}
-				]
-			},
-			{
-				"suuid": "9QKKI7",
-				"kind": "feature",
-				"title": " Upgrade site with Angular 21 / Elixir Datapod framework",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "INFO",
-						"marker": ""
-					},
-					{
-						"indents": 3,
-						"line": "rank::4.97",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "bMiDfT",
+		"suuid": "IpY3wa",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -148,7 +25,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "oXXION",
+				"suuid": "WvFVuG",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -251,78 +128,302 @@
 						"indents": 3,
 						"line": "(apps)",
 						"marker": ""
-					},
+					}
+				]
+			},
+			{
+				"suuid": "O6SOV2",
+				"kind": "feature",
+				"title": " Show progress on start page //2026-04-12 20:05:57..2026-04-12 23:51:16",
+				"outlineItems": [
 					{
 						"indents": 2,
-						"line": "create from: https://datapod-python-nuxt.vercel.app",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "import from first file",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "import from second file",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make page: starts",
+						"line": "INFO",
 						"marker": ""
 					},
 					{
 						"indents": 3,
-						"line": "consider calling this starters",
+						"line": "branch:: feature-show-progress-start-page",
 						"marker": ""
 					},
 					{
 						"indents": 2,
-						"line": "make page: showcases",
-						"marker": ""
+						"line": "get project up again in antigravity",
+						"marker": "x"
 					},
 					{
 						"indents": 2,
-						"line": "site title lighter",
-						"marker": ""
+						"line": "color purple",
+						"marker": "x"
 					},
 					{
 						"indents": 2,
-						"line": "light pulse icon on \"current tasks\"",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "AFTER ALL FINISHED: delete the following:",
-						"marker": ""
+						"line": "start site up again (python)",
+						"marker": "x"
 					},
 					{
 						"indents": 3,
-						"line": "projects_2025_to_move\\apps\\",
-						"marker": ""
+						"line": "reparse",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "set up .venv",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "test with ai-re",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "update all current sites",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "datapod-typescript-nuxt",
+						"marker": "x"
 					},
 					{
 						"indents": 4,
-						"line": "datapod-for-vite-react-core",
+						"line": "graphics and put in readme",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make light line for mobile",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make Datapod Projects",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "put only in datapod projects",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "all others off for now",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "smaller fixes",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix screenshot on React site",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix repo button to be outlined",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make click choose info",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "explain showcase projects",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse code on typescript-nuxt-datapod site",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "first page: list last three updates",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "check online mobile",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix mobile on nuxt",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "nothing below 4 task",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "panel: upper/lower",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "click anywhere on panels",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "stars",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add links: linkedin, tanguay.info",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "finalize",
+						"marker": ".."
+					}
+				]
+			},
+			{
+				"suuid": "FIvlfK",
+				"kind": "feature",
+				"title": " Make projects default hidden",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "use showOnSite::yes",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "change react showcase screenshot from components",
 						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "JauTmi",
+				"suuid": "DXkJkM",
+				"kind": "fix",
+				"title": " No rank on current task",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.99",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "vSOfqV",
+				"kind": "feature",
+				"title": " Front page stats",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "each ticket",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "screenshot",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "description",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "tJQywp",
+				"kind": "feature",
+				"title": " Implement versions",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "each ticket has bullet points",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "2Sl1wY",
+				"kind": "fix",
+				"title": " Resolve button/click issues",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "private repo button with block hover icon",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "middle button (repo) with lines as well (only private without lines)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "enable user to click on whole area of component (same as info)",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "Py7le6",
+				"kind": "feature",
+				"title": " Display site tech as backend and frontend",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "so that if it says \"TypeScript\" it is clean it is frontend or backend",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "iLEA4j",
 				"kind": "feature",
 				"title": " Enable display sort for each page with rank",
 				"outlineItems": []
 			},
 			{
-				"suuid": "jiYBnY",
+				"suuid": "GeEaTR",
 				"kind": "content",
 				"title": " Import more sites",
 				"outlineItems": []
 			},
 			{
-				"suuid": "u6FUcT",
+				"suuid": "YqLDXd",
 				"kind": "organize",
 				"title": " Clean up all current files, all in edwards-projects",
 				"outlineItems": [
@@ -354,13 +455,13 @@
 				]
 			},
 			{
-				"suuid": "MqGR7J",
+				"suuid": "sm4wdR",
 				"kind": "clean",
 				"title": " Remove all unused images",
 				"outlineItems": []
 			},
 			{
-				"suuid": "GwAzWD",
+				"suuid": "H14u7f",
 				"kind": "feature",
 				"title": " Add SEO info and thumbnail",
 				"outlineItems": [
@@ -382,7 +483,7 @@
 				]
 			},
 			{
-				"suuid": "smtA2t",
+				"suuid": "vdu3Gv",
 				"kind": "feature",
 				"title": " Make project rank and rank on home page",
 				"outlineItems": [
@@ -404,7 +505,7 @@
 				]
 			},
 			{
-				"suuid": "owM3w7",
+				"suuid": "GXowjW",
 				"kind": "fix",
 				"title": " Resolve \"ix feature\" on Upcoming Tasks page",
 				"outlineItems": [
@@ -426,7 +527,7 @@
 				]
 			},
 			{
-				"suuid": "GkEfyr",
+				"suuid": "MXPSLg",
 				"kind": "feature",
 				"title": " Parse markdown for description texts",
 				"outlineItems": [
@@ -448,7 +549,7 @@
 				]
 			},
 			{
-				"suuid": "Z2cX1U",
+				"suuid": "JvmJGX",
 				"kind": "feature",
 				"title": " Show number of projects and calculate centrally",
 				"outlineItems": [
@@ -475,7 +576,7 @@
 				]
 			},
 			{
-				"suuid": "qU8vXK",
+				"suuid": "vNmMEc",
 				"kind": "feature",
 				"title": " Show gifs with descriptions",
 				"outlineItems": [
@@ -497,7 +598,7 @@
 				]
 			},
 			{
-				"suuid": "NRFZym",
+				"suuid": "sfkGl0",
 				"kind": "feature",
 				"title": " Implement validation on parse",
 				"outlineItems": [
@@ -519,7 +620,7 @@
 				]
 			},
 			{
-				"suuid": "vdZeiR",
+				"suuid": "j9eQFr",
 				"kind": "feature",
 				"title": " On project component, cut off description and warn",
 				"outlineItems": [
@@ -541,7 +642,7 @@
 				]
 			},
 			{
-				"suuid": "UOW8Sc",
+				"suuid": "qtpgB4",
 				"kind": "feature",
 				"title": " Add dates globally to give up-to-date vibe to site",
 				"outlineItems": [
@@ -558,7 +659,7 @@
 				]
 			},
 			{
-				"suuid": "TQuWcq",
+				"suuid": "Wbxnbp",
 				"kind": "feature",
 				"title": " Make mobile/desktop toggle",
 				"outlineItems": [
@@ -575,7 +676,7 @@
 				]
 			},
 			{
-				"suuid": "lm6MSK",
+				"suuid": "SLJHcj",
 				"kind": "feature",
 				"title": " Add stats as graphics on front page",
 				"outlineItems": [
@@ -592,7 +693,7 @@
 				]
 			},
 			{
-				"suuid": "wWd64Z",
+				"suuid": "npZ8ns",
 				"kind": "feature",
 				"title": " Show example of data files on about page",
 				"outlineItems": [
@@ -609,7 +710,7 @@
 				]
 			},
 			{
-				"suuid": "Rmfkxg",
+				"suuid": "ZMgafu",
 				"kind": "feature",
 				"title": " Display descriptions on e.g. starts, showcases (what they are)",
 				"outlineItems": [
@@ -626,7 +727,7 @@
 				]
 			},
 			{
-				"suuid": "mKsTHe",
+				"suuid": "2sgxaE",
 				"kind": "feature",
 				"title": " Enable link to branch",
 				"outlineItems": [
@@ -643,7 +744,7 @@
 				]
 			},
 			{
-				"suuid": "fvIML3",
+				"suuid": "OWb95e",
 				"kind": "feature",
 				"title": " Enable link to commit to be saved",
 				"outlineItems": [
@@ -665,7 +766,7 @@
 				]
 			},
 			{
-				"suuid": "9515ek",
+				"suuid": "IPNtnf",
 				"kind": "dev",
 				"title": " Clean up mode and status",
 				"outlineItems": [
@@ -692,7 +793,7 @@
 				]
 			},
 			{
-				"suuid": "Gn0vPP",
+				"suuid": "tUnleH",
 				"kind": "content",
 				"title": " Add rest of projects",
 				"outlineItems": [
@@ -719,7 +820,7 @@
 				]
 			},
 			{
-				"suuid": "9oYOZU",
+				"suuid": "wZAfJp",
 				"kind": "featuer",
 				"title": " Implement global search",
 				"outlineItems": [
@@ -736,7 +837,7 @@
 				]
 			},
 			{
-				"suuid": "P8eQSf",
+				"suuid": "5PzDro",
 				"kind": "feature",
 				"title": " Make single project view with permalink",
 				"outlineItems": [
@@ -753,7 +854,7 @@
 				]
 			},
 			{
-				"suuid": "V6AgLF",
+				"suuid": "KbUOrg",
 				"kind": "feature",
 				"title": " Make dummy data for repository",
 				"outlineItems": [
@@ -775,7 +876,7 @@
 				]
 			},
 			{
-				"suuid": "P9Blsf",
+				"suuid": "iuTdPs",
 				"kind": "feature",
 				"title": " Create \"npm run audit\" to find all missing information",
 				"outlineItems": [
@@ -799,7 +900,1047 @@
 		]
 	},
 	{
-		"suuid": "sR6hMp",
+		"suuid": "FwaP2Q",
+		"idCode": "fastfollow",
+		"title": "Fast Follow Forum",
+		"shortTitle": "Fast Follow Forum",
+		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/fastfollow",
+		"live": "https://fastfollow.vercel.app",
+		"techItems": [],
+		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
+		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "S3inbY",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::Fast Follow Forum",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://fastfollow.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description:: This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::premier;This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts.",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "hnhmvb",
+				"kind": "fix",
+				"title": " On about page put tech used",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "bA2xZO",
+		"idCode": "showcase-nuxt-003",
+		"title": "Nuxt Showcase",
+		"shortTitle": "Nuxt Showcase",
+		"description": "This is a professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive. It has light/dark mode built in, a menu, mobile/desktop views and demonstrations of many NuxtUI components. If you want to build a Nuxt site, start with this.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-nuxt-003",
+		"live": "https://showcase-nuxt-003.vercel.app",
+		"techItems": [
+			"Nuxt 4.0"
+		],
+		"imageMobile": "/images/projects/showcase-nuxt-003-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-nuxt-003-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "Professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive, if you are building a Nuxt site, start here."
+			},
+			{
+				"idCode": "premier",
+				"shortInfo": "Professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive, if you are building a Nuxt site, start here."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "GZAqGc",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::Nuxt Showcase",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://showcase-nuxt-003.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::showcase;professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive, if you are building a Nuxt site, start here",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::premier;professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive, if you are building a Nuxt site, start here",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description::This is a professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive. It has light/dark mode built in, a menu, mobile/desktop views and demonstrations of many NuxtUI components. If you want to build a Nuxt site, start with this.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "tech:: Nuxt 4.0",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "4V7sBj",
+				"kind": "feature",
+				"title": " Add Supabase/Prisma page",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-members-page-9602366930879892227",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "get more knowledge of supabase, prisma",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix error when starting the branch",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "6qOQYv",
+				"kind": "feature",
+				"title": " Add Zod to .env variables //2026-02-10 19:36:03..2026-02-10 20:36:08",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-add-features-from-cj-videos",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "implement .env/zod solution",
+						"marker": "x"
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "7APvDA",
+				"kind": "feature",
+				"title": " Add features from CJ videos",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::add-features-from-cj-videos-002",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "finish smaller video",
+						"marker": ".."
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "EGNMgU",
+				"kind": "feature",
+				"title": " Fix title click to close menu",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "if you open the menu, clicking on the title should close it",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "l2SSfu",
+				"kind": "feature",
+				"title": " Implement all \"useNnnn()\" from workapp",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "useHead",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "--------------------------------------",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "useHead({",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "title: 'About - Professional Nuxt Site',",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "meta: [",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "{ name: 'description', content: 'Learn about our mission, values, and team' }",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "]",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "})",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "--------------------------------------",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "give each page different SEO infos",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "Wi95Hq",
+				"kind": "feature",
+				"title": " On mobile, show page",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "show page with home symbole to click",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix padding",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xVdcbY",
+				"kind": "feature",
+				"title": " Implement free online database that works online",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "try:",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "https://chatgpt.com/c/698ade1a-a6f0-838c-93cd-4a97229268e0",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "Supabase",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "Firebase (Firestore) - no SQL",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "PlanetScale",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "Railway/PostgreSQL",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "Deta Space (Deta Base) - NOSQL",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "NNghbe",
+		"idCode": "tinfo",
+		"title": "Tanguay.info",
+		"shortTitle": "Tanguay.info",
+		"description": "This is a quick HTML landing page for all of my projects, from my newest projects back to sites I had in the 90s. If you're looking for something of mine, you'll find it here.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/tinfo",
+		"live": "https://tanguay.info",
+		"techItems": [
+			"HTML",
+			"CSS"
+		],
+		"imageMobile": "/images/projects/tinfo-mobile.jpg",
+		"imageDesktop": "/images/projects/tinfo-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a quick HTML landing page at my <strong>tanguay.info</strong> domain, if you're looking for something of mine, you'll find it here."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "bpAgih",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::Tanguay.info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live:: https://tanguay.info",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::premier;this is a quick HTML landing page at my **tanguay.info** domain, if you're looking for something of mine, you'll find it here",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description::This is a quick HTML landing page for all of my projects, from my newest projects back to sites I had in the 90s. If you're looking for something of mine, you'll find it here.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "tech:: HTML, CSS",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "AMyxmG",
+				"kind": "feature",
+				"title": " Add bulk of secondary links",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "add sites",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "run sites",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "marathons",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "2006 video Munich Marathon",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "runs on Insta",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "everything on cv, perhaps cs",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "2x video trainings",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "all language sites",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "look through edwards projects",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "tech",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "howtos",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "forays",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "API page",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "skills",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "past",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "important people",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "papers from the 80s (from floppies)",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "language sites",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "all base sites, /polish, /italian, /rome",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "favorites",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "3 hours OOP in Ruby",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "add other links as \"others\" at bottom:",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "1990s",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "book club",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "learntracker",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "legacy Datapod sites",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "other",
+						"marker": ""
+					},
+					{
+						"indents": 5,
+						"line": "howto --> tech howtos",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "21BjGS",
+		"idCode": "datapod-typescript-nuxt",
+		"title": "TypeScript-Nuxt Datapod",
+		"shortTitle": "TypeScript-Nuxt Datapod",
+		"description": "This is my main rewrite of my Datapod project for 2026 using the most standard tech: a TypeScript backend and Nuxt 4.0 frontend. It currently has a lot of personal projects in it since this is what drives the development: making a framework that is useful in organizing my own projects and making useful sites for my own purposes. You can see the latest general Datapod features with the <a target=\"_blank\" href=\"https://datapod-typescript-nuxt.vercel.app/books\">Books page</a> and how you can edit the <code>data\\books.dp.txt</code> file, run <code>npm run pd</code> and the information you typed into the text file will appear on the frontend, see this <a target=\"_blank\" href=\"https://www.linkedin.com/feed/update/urn:li:activity:7446316136234729472/\">LinkedIn post</a> with an animated graphic. This project is still in a development stage, very useful to me, but if you want to use it, contact me and I'll give you a quick overview.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-typescript-nuxt",
+		"live": "https://datapod-typescript-nuxt.vercel.app",
+		"techItems": [
+			"TypeScript",
+			"Nuxt 4.0",
+			"Tailwind"
+		],
+		"imageMobile": "/images/projects/datapod-typescript-nuxt-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-typescript-nuxt-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "datapod",
+				"shortInfo": "This is the main rewrite of my Datapod project for 2026 using the most standard tech: a TypeScript backend and Nuxt 4.0 frontend."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "HHfLzd",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::TypeScript-Nuxt Datapod",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live:: https://datapod-typescript-nuxt.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::datapod;this is the main rewrite of my Datapod project for 2026 using the most standard tech: a TypeScript backend and Nuxt 4.0 frontend",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description::This is my main rewrite of my Datapod project for 2026 using the most standard tech: a TypeScript backend and Nuxt 4.0 frontend. It currently has a lot of personal projects in it since this is what drives the development: making a framework that is useful in organizing my own projects and making useful sites for my own purposes. You can see the latest general Datapod features with the [Books page](https://datapod-typescript-nuxt.vercel.app/books) and how you can edit the `data\\books.dp.txt` file, run `npm run pd` and the information you typed into the text file will appear on the frontend, see this [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7446316136234729472/) with an animated graphic. This project is still in a development stage, very useful to me, but if you want to use it, contact me and I'll give you a quick overview.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "tech:: TypeScript, Nuxt 4.0, Tailwind",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "lmodrh",
+				"kind": "feature",
+				"title": " Implement",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "fill with data (loop through schemas, parse data, add and validate)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "force correct syntax on data (books)",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "record items with",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create JSON files",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "for non-dpod-items",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "force parser to exist",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "use parser",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "if you add a field to the schema.datapod, it will add it to the datapod file and all items",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "show \"data entities\"",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "each data entity has a class in /shared/data-entity-items",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "debug is",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "parsing",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "schema.datapod",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "dpod items",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "items",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "documents",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "if more than one, then wrap with \"data entities\" (perhaps)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change DpodFile to DpodDataFile",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "put all custom code for a parser in one file, e.g.",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "~~/share/item-types/audio-read-texts.ts",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "~~/share/item-types/garda-notes.ts",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "~~/share/item-types/flashcards.ts",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change parsing flow",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "incorporate flashcards as well",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "from File to const users = new Items(...)",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make createDpodTypes",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "do validation, record errors",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "enable \"npm run pd\" to run through schema.datapod, validate and parse",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make datapod file and have the pd script add it to the schema",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create DpodSchema",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create DpodRecords",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "home page showing users",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "various",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "all paths to pathAndFileName",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "switch in dpod.config.ts",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "gLqgsy",
+				"kind": "feature",
+				"title": " Process language notes",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "create language notes for each language",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "show on frontend and allow use to click to drop down and mark as known make as know",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "make has having specific rank, etc.",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "take a random questions",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "HKEzA0",
+				"kind": "feature",
+				"title": " Force notation page",
+				"outlineItems": []
+			},
+			{
+				"suuid": "gc6X4h",
+				"kind": "feature",
+				"title": " Generize feature",
+				"outlineItems": []
+			},
+			{
+				"suuid": "GXl4AV",
+				"kind": "feature",
+				"title": " various",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "set up linter",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "parse flashcards",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "parse rest",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "l2MKoF",
+				"kind": "feature",
+				"title": " Harden and make compatible",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "fix all serious npm install errors",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "test on mac, ubuntu, windows",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "6jDidu",
+				"kind": "feature",
+				"title": " Create dev panel",
+				"outlineItems": [
+					{
+						"indents": 3,
+						"line": "make it work without .env",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "config",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "~~/datapod.config.ts",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "siteIsInProduction",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "showSiteAsIfInProduction",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "vtoWQ7",
+				"kind": "feature",
+				"title": " Show items on frontend",
+				"outlineItems": []
+			},
+			{
+				"suuid": "gbI30I",
+				"kind": "feature",
+				"title": " CRUD on frontend",
+				"outlineItems": []
+			},
+			{
+				"suuid": "DsK8By",
+				"kind": "feature",
+				"title": " Add dpodExtras field",
+				"outlineItems": []
+			},
+			{
+				"suuid": "WzSRp2",
+				"kind": "dev",
+				"title": " Implement qtool testing",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "i5TcmZ",
+		"idCode": "datapod-tanguay-eu",
+		"title": "Datapod Central 2026",
+		"shortTitle": "Datapod Central 2026",
+		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
+		"live": "https://datapod-tanguay-eu.vercel.app",
+		"techItems": [
+			"Angular 17",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
+			},
+			{
+				"idCode": "datapod",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "mzOBZw",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "category::premier;you can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::datapod;you can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "description::this is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on [the main characteristics of Datapod](https://tanguay-eu.vercel.app/howtos/906). Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://datapod-tanguay-eu.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Datapod Central 2026",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "tech:: Angular 17, TypeScript",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "7MbgKP",
+				"kind": "feature",
+				"title": " Upgrade site to Angular 21 / Elixir Datapod framework",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.97",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "hb8Xv4",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -817,13 +1958,13 @@
 		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
+				"idCode": "transitional",
 				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
 			}
 		],
 		"projectItems": [
 			{
-				"suuid": "vo58ie",
+				"suuid": "IeR3vv",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -839,7 +1980,7 @@
 					},
 					{
 						"indents": 2,
-						"line": "category::premier; This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages.",
+						"line": "category::transitional; This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages.",
 						"marker": ""
 					},
 					{
@@ -850,7 +1991,7 @@
 				]
 			},
 			{
-				"suuid": "goEyDS",
+				"suuid": "hZhVsj",
 				"kind": "dev",
 				"title": " Standardize branch from dev to main",
 				"outlineItems": [
@@ -867,7 +2008,7 @@
 				]
 			},
 			{
-				"suuid": "xnjKEY",
+				"suuid": "Y6pgKh",
 				"kind": "dev",
 				"title": " Update Go backend to current component standards",
 				"outlineItems": []
@@ -875,7 +2016,7 @@
 		]
 	},
 	{
-		"suuid": "H3meMj",
+		"suuid": "vW0SVN",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -893,16 +2034,21 @@
 		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
+				"idCode": "transitional",
 				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
 			}
 		],
 		"projectItems": [
 			{
-				"suuid": "ynq1qj",
+				"suuid": "JbfpgM",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "goal: merge this and all language sites into langcore",
+						"marker": ""
+					},
 					{
 						"indents": 2,
 						"line": "tech:: Go, React, TypeScript",
@@ -915,7 +2061,7 @@
 					},
 					{
 						"indents": 2,
-						"line": "category::premier;I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up",
+						"line": "category::transitional;I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up",
 						"marker": ""
 					},
 					{
@@ -976,7 +2122,269 @@
 				]
 			},
 			{
-				"suuid": "dFKSws",
+				"suuid": "pVXlzb",
+				"kind": "fix",
+				"title": " Resolve issues on welcome page from last restyling",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "make text visible",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make loading sign",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "smaller note about audio files",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "W72KEf",
+				"kind": "feature",
+				"title": " Identify fluency first phrases",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "phrases like this",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "I don't know how to spell that word",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "I don't know how to spell that word, how do you spell it",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "build in a way to create these for other languages (Google translate links)",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "dwBOkZ",
+				"kind": "feature",
+				"title": " flashcard page rank slider",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "research button, e.g. fallirebbe",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank: slider 0 to 5 (decimal)",
+						"marker": ""
+					},
+					{
+						"indents": 0,
+						"line": "",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "uroqZL",
+				"kind": "feature",
+				"title": " Create pronunciation flashcard page //2026-02-25 23:14:20..2026-02-26 00:39:18",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-pronunciation-page",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "find and copy modern go code",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make \"npm run pdp\"",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "display flashcards",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "rAEWIW",
+				"kind": "feature",
+				"title": " Improve UX of pronuncation flashcards //2026-02-26 23:39:55..2026-02-27 01:46:42",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-improve-ux-pronunciation-page",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "show local",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "speed up updating",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "remove audios and speed up",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "put archive in repo",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "remake vercel",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "redo vercel",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "rearange UX",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "views align",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "colors",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "too much text",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "z4g9Zh",
+				"kind": "fix",
+				"title": " Make button press wait a second //2026-02-27 01:42:35..2026-02-27 01:46:36",
+				"outlineItems": []
+			},
+			{
+				"suuid": "B6vlfs",
+				"kind": "feature",
+				"title": " Animate next card into place //2026-02-27 02:05:05..2026-02-27 02:07:06",
+				"outlineItems": []
+			},
+			{
+				"suuid": "t5K4lY",
+				"kind": "fix",
+				"title": " Cards always flip now //2026-02-27 08:20:59..2026-02-27 08:40:59",
+				"outlineItems": []
+			},
+			{
+				"suuid": "flNG8g",
+				"kind": "feature",
+				"title": " Create page transcribe videos",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "start with this these:",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "https://www.youtube.com/watch?v=T19YmqJl3Ws&t=26s",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "https://learnamo.com/cosa-fare-torino",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "30 min per day",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "simple item with link, title, and transcription",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "be able to mark where you are",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "how long it took",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "download as mp3",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "4Rw5RB",
+				"kind": "feature",
+				"title": " Make language basics quiz with localstorage",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.99",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "uPyaIj",
 				"kind": "feature",
 				"title": " Make \"Italian Conjugation\" page",
 				"outlineItems": [
@@ -1038,7 +2446,7 @@
 				]
 			},
 			{
-				"suuid": "FFJvCa",
+				"suuid": "vpIr55",
 				"kind": "feature",
 				"title": " Speed up parsing",
 				"outlineItems": [
@@ -1060,7 +2468,7 @@
 				]
 			},
 			{
-				"suuid": "2yTvNo",
+				"suuid": "T2DChr",
 				"kind": "feature",
 				"title": " Make a quiz for each audio",
 				"outlineItems": [
@@ -1092,7 +2500,7 @@
 				]
 			},
 			{
-				"suuid": "bYLGzj",
+				"suuid": "CBxASK",
 				"kind": "feature",
 				"title": " Along show the last 30 days",
 				"outlineItems": [
@@ -1114,7 +2522,7 @@
 				]
 			},
 			{
-				"suuid": "7TtHkV",
+				"suuid": "nkT8AB",
 				"kind": "feature",
 				"title": " Create one-file for Italian and parse",
 				"outlineItems": [
@@ -1136,7 +2544,7 @@
 				]
 			},
 			{
-				"suuid": "yltZM6",
+				"suuid": "g6wbT4",
 				"kind": "feature",
 				"title": " Make Learn Bits page",
 				"outlineItems": [
@@ -1153,7 +2561,7 @@
 				]
 			},
 			{
-				"suuid": "cvTQyA",
+				"suuid": "UUhAmv",
 				"kind": "feature",
 				"title": " Make quiz that shows day's text with missing words",
 				"outlineItems": [
@@ -1170,7 +2578,7 @@
 				]
 			},
 			{
-				"suuid": "oVNSR9",
+				"suuid": "nhqBaG",
 				"kind": "feature",
 				"title": " Make quiz to test how to say the letters in every language",
 				"outlineItems": [
@@ -1187,7 +2595,7 @@
 				]
 			},
 			{
-				"suuid": "Jo8hfQ",
+				"suuid": "pbzuuA",
 				"kind": "feature",
 				"title": " Make quiz to test how to say the days of the week in every language",
 				"outlineItems": [
@@ -1209,7 +2617,7 @@
 				]
 			},
 			{
-				"suuid": "3liPVe",
+				"suuid": "hFaPIk",
 				"kind": "feature",
 				"title": " Make list of tips on recording in readme",
 				"outlineItems": [
@@ -1231,7 +2639,7 @@
 				]
 			},
 			{
-				"suuid": "4fAMtG",
+				"suuid": "uuPbI3",
 				"kind": "feature",
 				"title": " Make a 3D action game like lluvia-de-palabras",
 				"outlineItems": [
@@ -1253,7 +2661,7 @@
 				]
 			},
 			{
-				"suuid": "vOsaeR",
+				"suuid": "CQfZW9",
 				"kind": "feature",
 				"title": " Create page to practice pronunciation",
 				"outlineItems": [
@@ -1280,7 +2688,7 @@
 				]
 			},
 			{
-				"suuid": "zZ5CrD",
+				"suuid": "NoJpIt",
 				"kind": "feature",
 				"title": " Integrate pronuncation items into story creation",
 				"outlineItems": [
@@ -1302,7 +2710,7 @@
 				]
 			},
 			{
-				"suuid": "ZUHXJk",
+				"suuid": "emskYf",
 				"kind": "feature",
 				"title": " Integrate random standard practice into story creation",
 				"outlineItems": [
@@ -1364,7 +2772,7 @@
 				]
 			},
 			{
-				"suuid": "XSItRg",
+				"suuid": "RewAu1",
 				"kind": "feature",
 				"title": " Upgrade to modern design",
 				"outlineItems": [
@@ -1381,7 +2789,7 @@
 				]
 			},
 			{
-				"suuid": "pWFJ9a",
+				"suuid": "LE4EsK",
 				"kind": "feature",
 				"title": " Make basic frontend for creation process",
 				"outlineItems": [
@@ -1398,7 +2806,7 @@
 				]
 			},
 			{
-				"suuid": "Pm1S53",
+				"suuid": "7ovRpI",
 				"kind": "feature",
 				"title": " Enable simple and basic stories for weak languages",
 				"outlineItems": [
@@ -1430,7 +2838,7 @@
 				]
 			},
 			{
-				"suuid": "NQvMUa",
+				"suuid": "FWqkGS",
 				"kind": "fix",
 				"title": " Resolve the first letter issue in the French text data file",
 				"outlineItems": [
@@ -1452,7 +2860,7 @@
 				]
 			},
 			{
-				"suuid": "zFYHol",
+				"suuid": "kUoMB6",
 				"kind": "feature",
 				"title": " Create pronunciation quiz",
 				"outlineItems": [
@@ -1484,7 +2892,7 @@
 				]
 			},
 			{
-				"suuid": "TRqqk7",
+				"suuid": "nr51Ir",
 				"kind": "feature",
 				"title": " Make -ere past participle quiz for Italian",
 				"outlineItems": [
@@ -1506,7 +2914,7 @@
 				]
 			},
 			{
-				"suuid": "VSShYn",
+				"suuid": "bjhZ0I",
 				"kind": "feature",
 				"title": " Create fill-in-blank quiz",
 				"outlineItems": [
@@ -1578,7 +2986,7 @@
 				]
 			},
 			{
-				"suuid": "RJqTZv",
+				"suuid": "yGhUH5",
 				"kind": "feature",
 				"title": " Create Italian past tense quiz",
 				"outlineItems": [
@@ -1605,7 +3013,7 @@
 				]
 			},
 			{
-				"suuid": "zzZt2h",
+				"suuid": "d5njYy",
 				"kind": "feature",
 				"title": " Create CLI command to copy latest files for each language to MP3 stick",
 				"outlineItems": [
@@ -1632,7 +3040,7 @@
 				]
 			},
 			{
-				"suuid": "JgVBjE",
+				"suuid": "okMHj1",
 				"kind": "dev",
 				"title": " Update readme",
 				"outlineItems": [
@@ -1649,7 +3057,7 @@
 				]
 			},
 			{
-				"suuid": "hXtpAr",
+				"suuid": "uSVUOr",
 				"kind": "feature",
 				"title": " Create CLI command that automates process of creating a text from the google spreadsheet",
 				"outlineItems": [
@@ -1666,7 +3074,7 @@
 				]
 			},
 			{
-				"suuid": "yY63JP",
+				"suuid": "Y55hb1",
 				"kind": "feature",
 				"title": " Create page for pronunciation notes",
 				"outlineItems": [
@@ -1683,7 +3091,7 @@
 				]
 			},
 			{
-				"suuid": "pF1N4x",
+				"suuid": "GIPMKU",
 				"kind": "feature",
 				"title": " update to newest datapod-for-go version (qtools etc.)",
 				"outlineItems": [
@@ -1702,7 +3110,7 @@
 		]
 	},
 	{
-		"suuid": "qvaiTF",
+		"suuid": "YjC8m0",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -1722,7 +3130,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "9lfKgb",
+				"suuid": "96tXDN",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1754,7 +3162,7 @@
 				]
 			},
 			{
-				"suuid": "FhHwMM",
+				"suuid": "Ylzx3j",
 				"kind": "feature",
 				"title": " Implement modern design",
 				"outlineItems": []
@@ -1762,7 +3170,7 @@
 		]
 	},
 	{
-		"suuid": "nC4v8i",
+		"suuid": "iAHbpE",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -1782,7 +3190,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "PGvd6E",
+				"suuid": "WImcK4",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1814,7 +3222,7 @@
 				]
 			},
 			{
-				"suuid": "qmrGc1",
+				"suuid": "rRW07Z",
 				"kind": "dev",
 				"title": " Merge into React Showcase",
 				"outlineItems": []
@@ -1822,7 +3230,7 @@
 		]
 	},
 	{
-		"suuid": "cOP07t",
+		"suuid": "YhoDLW",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -1845,7 +3253,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "0moYbJ",
+				"suuid": "TU1wF2",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1894,7 +3302,7 @@
 		]
 	},
 	{
-		"suuid": "K5mte3",
+		"suuid": "S43v84",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -1918,7 +3326,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "nemNAE",
+				"suuid": "uEqlUz",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1952,7 +3360,7 @@
 		]
 	},
 	{
-		"suuid": "K5Ln0U",
+		"suuid": "QezodK",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -1976,7 +3384,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "LRUAbh",
+				"suuid": "DypAEC",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2010,7 +3418,7 @@
 		]
 	},
 	{
-		"suuid": "HnjdBJ",
+		"suuid": "gft5j1",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -2039,7 +3447,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "ek1Zkr",
+				"suuid": "yKSHIY",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2078,7 +3486,7 @@
 		]
 	},
 	{
-		"suuid": "mYrt19",
+		"suuid": "pbRy92",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -2102,7 +3510,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "qREJ6y",
+				"suuid": "90RAfk",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2136,7 +3544,7 @@
 		]
 	},
 	{
-		"suuid": "IruysB",
+		"suuid": "fia6A9",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -2160,7 +3568,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "TSB9jW",
+				"suuid": "XjM5Yl",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2192,7 +3600,7 @@
 				]
 			},
 			{
-				"suuid": "ePJwuK",
+				"suuid": "SGSiuO",
 				"kind": "feature",
 				"title": " remake as new Datapod site",
 				"outlineItems": [
@@ -2211,7 +3619,7 @@
 		]
 	},
 	{
-		"suuid": "BjSml1",
+		"suuid": "hELnqY",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -2234,7 +3642,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "PG47FI",
+				"suuid": "rILq0A",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2266,7 +3674,7 @@
 				]
 			},
 			{
-				"suuid": "GYeaqZ",
+				"suuid": "hof5Zg",
 				"kind": "feature",
 				"title": " Upgrade to Ruby/SvelteKit site.",
 				"outlineItems": [
@@ -2285,7 +3693,7 @@
 		]
 	},
 	{
-		"suuid": "qAMctR",
+		"suuid": "OXlAcI",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
@@ -2310,7 +3718,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "nC3ZUP",
+				"suuid": "5K5lyl",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -2333,11 +3741,26 @@
 						"indents": 2,
 						"line": "tech:: Elixir, SvelteKit, TypeScript, Tailwind",
 						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "add",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "screenscraping, e.g. Berlin Ensemble",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "demos with tests in main datapods",
+						"marker": ""
 					}
 				]
 			},
 			{
-				"suuid": "iVM9Bd",
+				"suuid": "CsKch4",
 				"kind": "chore",
 				"title": " Reoganize edward\\projects\\notesdpod",
 				"outlineItems": [
@@ -2356,7 +3779,1628 @@
 		]
 	},
 	{
-		"suuid": "dPXo3i",
+		"suuid": "LiHQvB",
+		"idCode": "tinfo",
+		"title": "TINFO",
+		"shortTitle": "TINFO",
+		"description": "",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/tinfo",
+		"live": "",
+		"techItems": [],
+		"imageMobile": "/images/projects/tinfo-mobile.jpg",
+		"imageDesktop": "/images/projects/tinfo-desktop.jpg",
+		"categories": [],
+		"projectItems": [
+			{
+				"suuid": "WLa0jY",
+				"kind": "feature",
+				"title": " Add second section \"my past sites\" //2026-02-28 10:35:51..2026-02-28 13:23:32",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-random-stuff-section",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "fix colors",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "ZZrm3V",
+				"kind": "feature",
+				"title": " FEATURE: Give site retro colors and add SEO //2026-01-28 13:23:59..2026-01-28 15:23:59",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "g3MMGH",
+		"idCode": "datapod-typescript-nuxt",
+		"title": "DATAPOD-TYPESCRIPT-NUXT",
+		"shortTitle": "DATAPOD-TYPESCRIPT-NUXT",
+		"description": "",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-typescript-nuxt",
+		"live": "",
+		"techItems": [],
+		"imageMobile": "/images/projects/datapod-typescript-nuxt-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-typescript-nuxt-desktop.jpg",
+		"categories": [],
+		"projectItems": [
+			{
+				"suuid": "Bnxep1",
+				"kind": "feature",
+				"title": " Create paragraphize-test script //2026-04-08 16:21:31..2026-04-12 19:31:35",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-paragraphize",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create script",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "read audio",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "see change",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "finalize",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "2as7k3",
+				"kind": "feature",
+				"title": " Parse data to JSON files and show on frontend //2026-04-04 20:46:46..2026-04-04 23:45:46",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-parse-data-to-json",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "if data file does not exist, then create it",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "for dpod_items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "for items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "for document",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "for multiple file",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "enable field name to be there or not",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add dpodId to key/value block, if it doesn't exist, then create it",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "same for dpodWhenCreated",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "save data base to file",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create JSON files",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create a Books page that shows the books as cards and allows the user to search, and click on each one which takes them to a page where the data for the book is shown larger and the other books are listed with titles only below, there is also a link on the singles page to \"all books\" again",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "Rzj0bI",
+				"kind": "feature",
+				"title": " Create schemas and dynamic files //2026-03-04 15:54:09..2026-04-04 20:44:19",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-create-schema-records",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "remove old dpodfile and other",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "brighter",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "set up again",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "write project.md",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "all idea",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "create all examples",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "run through again, standardizing all concepts",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "discuss with Gemini",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "ask to create graphics",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create `schema.datapod`",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "catching up",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "get output html to show",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "run npm run pd",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "figure out how works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make next plan in step order",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "get name for next collection: KeyValueBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "parse and display as KeyValueBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "don't parse first",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change to stringfields",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make brackets faded",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make newlines yellow",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "get flashcards back (main)",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "put schema for all three in schema.datapod",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "define schema.datapod with all various types",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "as simple and self-explanatory as possible",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create audioReadTexts",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "undertand how debug html is created",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make DatapodParser",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "work down through the process from top to bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "parse schema.datapod",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "parse books and users (standard datapod files)",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "create collection of Schemas",
+						"marker": "x"
+					},
+					{
+						"indents": 7,
+						"line": "create Schemas",
+						"marker": "x"
+					},
+					{
+						"indents": 8,
+						"line": "parse into line blocks as normal array",
+						"marker": "x"
+					},
+					{
+						"indents": 8,
+						"line": "show on parse",
+						"marker": "x"
+					},
+					{
+						"indents": 8,
+						"line": "send each line block to DpodSchema.createSchema(dpodLineBlock)",
+						"marker": "x"
+					},
+					{
+						"indents": 9,
+						"line": "diplay dummy data as schemas",
+						"marker": "x"
+					},
+					{
+						"indents": 9,
+						"line": "create full schema with dpod types",
+						"marker": "x"
+					},
+					{
+						"indents": 10,
+						"line": "move parser to command",
+						"marker": "x"
+					},
+					{
+						"indents": 10,
+						"line": "load dataTypes for each \"items\" type",
+						"marker": "x"
+					},
+					{
+						"indents": 11,
+						"line": "loadVariables",
+						"marker": "x"
+					},
+					{
+						"indents": 11,
+						"line": "make variables easy to see",
+						"marker": "x"
+					},
+					{
+						"indents": 11,
+						"line": "switch back, use key/value",
+						"marker": "x"
+					},
+					{
+						"indents": 11,
+						"line": "create determineDataTypes()",
+						"marker": "x"
+					},
+					{
+						"indents": 12,
+						"line": "debug it, inside each otehr",
+						"marker": "x"
+					},
+					{
+						"indents": 8,
+						"line": "fix debug output to be clearer",
+						"marker": "x"
+					},
+					{
+						"indents": 9,
+						"line": "make dpod types their own embedded box",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "show schmema.dpod as first entry, schemas as second",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "fix gray",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "put schema.datapod in one",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "just schemas",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "basic info keyvalue",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "find terms for \"items or documents\": dataEntities",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "put in \"parsing\"",
+						"marker": "x"
+					},
+					{
+						"indents": 6,
+						"line": "parse dpod items",
+						"marker": ".."
+					},
+					{
+						"indents": 7,
+						"line": "understand how current parsing works: it stops before getting data out",
+						"marker": "x"
+					},
+					{
+						"indents": 7,
+						"line": "combine both",
+						"marker": "x"
+					},
+					{
+						"indents": 8,
+						"line": "switch back",
+						"marker": "x"
+					},
+					{
+						"indents": 8,
+						"line": "break parsing out",
+						"marker": "x"
+					},
+					{
+						"indents": 8,
+						"line": "do one item",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix schemas",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix not-used issue",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fix super()",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "reduce schemas to simple class",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create Dpod Data Entity Items",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make the class: Data Entity Items",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make the hierarchy",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "make data-entity collection",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "find how items are being displayed",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fill with schemas",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "break schemas into hierarchy",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "make all files",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "load the appropriate one",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "define pathAndFileName as public",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "display in debug",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display each with name",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "highlight",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "show data items inside",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "file into up",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "other info remove",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "display others: title and basic info",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "no caps",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "fix audioReadTexts as directory",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "do for document",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "change to kebab case",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "test: add others",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create TextFileBuilder",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "load and display a fileTemplate",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "change to DynamicFile",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "change npm",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "do example of load from file",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "load it",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "process vars",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "to cmd",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "create with filename",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "addLineAfterMarker",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "with tab",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "add marker to delete later",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "addLineBeforeMarker",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "deleteLineWithMarker",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "delete alllines",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "put all MARKERS defined in one place",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "DynamicText",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "addCodeBlockAfterMarker",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "change to code-templates",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "with lines",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "with dynamicText",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "addCodeBlockBeforeMarker",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "deleteCodeBlockWithMarker",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "deleteAllCodeBlocksWithMarker",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "why property faded",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "convert all \"export functions\" to arrow functions",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "commit",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "jyDE3Z",
+				"kind": "feature",
+				"title": " Create debugging for parsing and notations //2026-03-03 06:22:38..2026-03-03 21:29:25",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-item-parsing",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make DpodItems, accept DpodFile and debug",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "show how many line blocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "convert all to hyphens",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create all DataTypes",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "dpodlineblock to lineblock",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "reorganize",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "convert to dpod-types",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "think of name: Marked Line Blocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "rename line-block to dpod-line-block",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create and parse marked-line-blocks",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "show line numbers",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "show \"Users\"",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make plainbox for file info",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "start folded",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "click all to open",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close all children",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "light background hover",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add Books",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "open all",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "more space between",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "same space top/bottom",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "test make forceNotation functions",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "all other notations",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "u40au9",
+				"kind": "feature",
+				"title": " Implement HTML debugging //2026-02-28 09:16:54..2026-03-02 22:34:42",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-demo-item-parsing",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "create users with diffierent types",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "decide on data names",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "find three system fields",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "fill with data",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "implement npm run pd",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "get flashcards to parse first",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "parse users",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "display lineBlocks",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "test",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "how skip schema: it was working",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "absolute",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "debugHtml",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "make adding function",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "show as box",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "clear in function",
+						"marker": "x"
+					},
+					{
+						"indents": 5,
+						"line": "call from beginning",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "check paragraphs",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "close up as ticket: Implement HTML debugging",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "7kGVtq",
+				"kind": "feature",
+				"title": " Remove all pages except Home and About //2026-02-25 22:14:55..2026-02-25 22:34:57",
+				"outlineItems": []
+			},
+			{
+				"suuid": "h1HJXK",
+				"kind": "feature",
+				"title": " Add Info Page //2026-02-25 23:01:59..2026-02-25 23:04:00",
+				"outlineItems": []
+			},
+			{
+				"suuid": "4eyJg6",
+				"kind": "feature",
+				"title": " Simplify env // 2026-02-25 23:01:07..2026-02-25 23:04:11",
+				"outlineItems": []
+			},
+			{
+				"suuid": "SDz054",
+				"kind": "feature",
+				"title": " Create publish-ready site //2026-02-25 23:08:12..2026-02-26 22:52:00",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::create-base-datapod-with-flashcard-demo",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "base typescript on Go format with component parsing",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "perhaps Jules",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "implement Nuxt and push go GitHub",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "find latest",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "give Jules a task: remove pages",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "protect main branch",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "basics",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "info site general and styled",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "icon \"i\"",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "about site \"page\"",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "about site general and styled",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "replace links",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "home reduced",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "footer",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "title, SEO info, globe icon",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "readme",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "convert it to Datapod",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "include link to icon links",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "Edward's projects",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "screenshot",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "merge",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "publish at Vercel",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "add to datapod central site",
+						"marker": "x"
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "6PvF3o",
+		"idCode": "showcase-nuxt-003",
+		"title": "SHOWCASE-NUXT-003",
+		"shortTitle": "SHOWCASE-NUXT-003",
+		"description": "",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-nuxt-003",
+		"live": "",
+		"techItems": [],
+		"imageMobile": "/images/projects/showcase-nuxt-003-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-nuxt-003-desktop.jpg",
+		"categories": [],
+		"projectItems": [
+			{
+				"suuid": "Ktpftv",
+				"kind": "feature",
+				"title": " Make customer page with useFetch //2026-02-09 21:16:36..2026-02-09 23:09:09",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-reactive-form-useFetch",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make a new page with a simple example of a reactive form using useFetch",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add more employees",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make infobox",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix input box",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "responsive",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change page to customers",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "customers responsive",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change home page with descriptions",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "style about page",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "publish",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "CXdrUg",
+				"kind": "feature",
+				"title": " Add message for CRUD page //2026-02-08 23:04:55..2026-02-08 23:16:49",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "check online",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add note",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "JjQdRh",
+				"kind": "feature",
+				"title": " Make employees CRUD page //2026-02-08 22:01:27..2026-02-08 23:01:32",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-editable-table",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "use it to fetch data with const { data, status, error } ...",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "check useFetch: uses $fetch to keep it simpler, I created a task for useFetch",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "lightly understand implementation",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "rename Form01 to Products and Employees back",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "change icon",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "explain both pages on home page",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "put on infobox",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mobile work well",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "long button",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "names together",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "three buttons",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "employee list and badge",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "add employee button",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "publish",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "Xeey7Q",
+				"kind": "dev",
+				"title": " Add readme note about features //2026-02-08 18:15:51..2026-02-08 18:20:53",
+				"outlineItems": []
+			},
+			{
+				"suuid": "dgmjP1",
+				"kind": "dev",
+				"title": " Add readme link to projects //2026-02-08 18:10:33..2026-02-08 18:13:33",
+				"outlineItems": []
+			},
+			{
+				"suuid": "qrgAXI",
+				"kind": "fix",
+				"title": " Correct API error messages on Vercel //2026-02-08 12:02:15..2026-02-08 18:02:17",
+				"outlineItems": []
+			},
+			{
+				"suuid": "GGMG02",
+				"kind": "feature",
+				"title": " Create form page and fill pages //2026-02-07 17:55:28..2026-02-08 17:55:35",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-form-page-and-others",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "contact page to form01 and copy over",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "icon change",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "copy over",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "restyle form01, fix three left",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make server folder",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make share folder and use",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "difference in errors",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "form1",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "move instructions to top (mobile), side (desktop)",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fill out rest of pages",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "home",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "rest",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "readme with graphic and setup",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "link to vercel",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "instructions for changing color",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "publish",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "tf6DRH",
+				"kind": "feature",
+				"title": " Create Nuxt UI site with three example components //2026-02-06 22:39:59..2026-02-06 23:40:01",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-fill-pages-nuxt-ui",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "services to nuxtui",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add three",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "new readme",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "F4d9Fa",
+				"kind": "feature",
+				"title": " Convert to app folder and nuxt/ui, dark/light //2026-02-06 17:42:37..2026-02-06 22:00:47",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-convert-app-nuxt-ui",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "set up with /app folder",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "nuxt/ui tailwind",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "try to take extra tailwind out",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "apply ui to elements test",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "uform",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "ubutton",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "colorMode dark/light",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "apparently you can use useColorMode without color-mode, if you have nuxt/ui",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "\"Nuxt UI automatically registers the @nuxtjs/color-mode module for you, so there's no additional setup required.\"",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "https://ui.nuxt.com/docs/getting-started/integrations/color-mode/nuxt#components",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "calendar",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "input , light/dark",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "implement UNav",
+						"marker": "x"
+					},
+					{
+						"indents": 4,
+						"line": "remove everything else first, make it responsive as well",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "remove color-mode from nuxt.config: nav/and footer didn't work without it",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "still didn't work after put back",
+						"marker": "x"
+					},
+					{
+						"indents": 3,
+						"line": "restarted",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "push/publish/test-phone",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "yIzPS8",
+				"kind": "base",
+				"title": " BASE: Modern, responsive, light, menu design, tailwind //2026-02-06 17:14:27..2026-02-06 17:34:31",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::main",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "import from start-nuxt-site-002",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "update versions",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix port error",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "fix all errors in console",
+						"marker": "x"
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "z8W3Az",
 		"idCode": "showcase-react",
 		"title": "SHOWCASE-REACT",
 		"shortTitle": "SHOWCASE-REACT",
@@ -2371,7 +5415,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "UBUaO5",
+				"suuid": "bphuc9",
 				"kind": "feature",
 				"title": " Implement demo page for i18n //2026-02-01 13:06:52..2026-02-01 15:28:07",
 				"outlineItems": [
@@ -2410,7 +5454,7 @@
 		]
 	},
 	{
-		"suuid": "AeJsJq",
+		"suuid": "AF8xrt",
 		"idCode": "techlanglearn003",
 		"title": "TECHLANGLEARN003",
 		"shortTitle": "TECHLANGLEARN003",
@@ -2425,7 +5469,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "PcVKTu",
+				"suuid": "KgwxnO",
 				"kind": "feature",
 				"title": " Expand times on youtube videos to hours //2026-02-01 08:54:23..2026-02-01 09:38:25",
 				"outlineItems": [
@@ -2454,7 +5498,7 @@
 		]
 	},
 	{
-		"suuid": "yiy279",
+		"suuid": "Y0u2MQ",
 		"idCode": "innergo",
 		"title": "INNERGO",
 		"shortTitle": "INNERGO",
@@ -2469,7 +5513,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "TDpGBT",
+				"suuid": "haSewy",
 				"kind": "feature",
 				"title": " Set up data files and repo //2026-01-25 18:08:52..2026-01-25 20:08:58",
 				"outlineItems": [
@@ -2513,7 +5557,7 @@
 		]
 	},
 	{
-		"suuid": "n4LL7H",
+		"suuid": "RsNzIo",
 		"idCode": "fastfollow",
 		"title": "FASTFOLLOW",
 		"shortTitle": "FASTFOLLOW",
@@ -2528,7 +5572,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "kddbzy",
+				"suuid": "Aqj7qY",
 				"kind": "feature",
 				"title": " Add technologies and show number //2026-01-06 11:37:11..2026-01-06 11:53:33",
 				"outlineItems": [
@@ -2545,7 +5589,7 @@
 				]
 			},
 			{
-				"suuid": "xukBLX",
+				"suuid": "jbhJfH",
 				"kind": "feature",
 				"title": " Add QR-Code to about page //2026-01-30 16:14:02..2026-01-30 16:48:37",
 				"outlineItems": [
@@ -2567,7 +5611,7 @@
 				]
 			},
 			{
-				"suuid": "Akt10U",
+				"suuid": "8uDMbd",
 				"kind": "feature",
 				"title": " Upgrade to Next.js/Go Datapod //2026-01-05 20:43:13..2026-01-06 00:52:35",
 				"outlineItems": [
@@ -2679,7 +5723,7 @@
 				]
 			},
 			{
-				"suuid": "Q2mfKC",
+				"suuid": "8VmjM7",
 				"kind": "feature",
 				"title": " Parse topics and show on page //2026-01-05 18:10:37..2026-01-05 20:24:25",
 				"outlineItems": [
@@ -2701,7 +5745,7 @@
 				]
 			},
 			{
-				"suuid": "GvQLuJ",
+				"suuid": "QPf7Zc",
 				"kind": "feature",
 				"title": " Adjust splash page for mobile //2026-01-05 07:17:32..2026-01-05 07:27:34",
 				"outlineItems": [
@@ -2728,7 +5772,7 @@
 				]
 			},
 			{
-				"suuid": "99bwLl",
+				"suuid": "gQE8Rp",
 				"kind": "feature",
 				"title": " Rebase site on Datapod for Next.js/Go (dark) //2026-01-04 17:44:49..2026-01-04 23:27:19",
 				"outlineItems": [
@@ -2792,7 +5836,7 @@
 		]
 	},
 	{
-		"suuid": "peUhvj",
+		"suuid": "KA1QTx",
 		"idCode": "datapod-tanguay-eu",
 		"title": "DATAPOD-TANGUAY-EU",
 		"shortTitle": "DATAPOD-TANGUAY-EU",
@@ -2807,7 +5851,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "Cyc3oC",
+				"suuid": "NsUJZt",
 				"kind": "feature",
 				"title": " Add Next.js/Go datapod entry //2026-01-04 16:50:50..2026-01-04 17:16:56",
 				"outlineItems": [
@@ -2821,7 +5865,7 @@
 		]
 	},
 	{
-		"suuid": "snjKGC",
+		"suuid": "UJke6b",
 		"idCode": "edwards-projects",
 		"title": "EDWARDS-PROJECTS",
 		"shortTitle": "EDWARDS-PROJECTS",
@@ -2836,7 +5880,7 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "CXPv06",
+				"suuid": "L7NwBv",
 				"kind": "feature",
 				"title": " Add content for two react showcase sites //2026-02-01 11:35:26..2026-02-01 13:02:12",
 				"outlineItems": [
@@ -2888,7 +5932,7 @@
 				]
 			},
 			{
-				"suuid": "UTaLcr",
+				"suuid": "N0uM6b",
 				"kind": "feature",
 				"title": " Import internal and fast follow into site, some layout fixes //2026-01-25 20:50:14..2026-01-25 23:56:38",
 				"outlineItems": [
@@ -2965,7 +6009,7 @@
 				]
 			},
 			{
-				"suuid": "Th5dnC",
+				"suuid": "KeyPCT",
 				"kind": "content",
 				"title": " Add moparser and techlanglearn sites //2025-12-29 17:44:13..2025-12-31 17:30:14",
 				"outlineItems": [
@@ -2997,7 +6041,7 @@
 				]
 			},
 			{
-				"suuid": "stpzwQ",
+				"suuid": "C5nFkR",
 				"kind": "feature",
 				"title": " Add two language sites //2025-12-28 23:25:48..2025-12-29 17:44:15",
 				"outlineItems": [
@@ -3024,7 +6068,7 @@
 				]
 			},
 			{
-				"suuid": "bg7UWw",
+				"suuid": "8FGiNM",
 				"kind": "feature",
 				"title": " Import three sites and new pages: premier and transitional //2025-12-27 00:02:25..2025-12-28 23:26:19",
 				"outlineItems": [
@@ -3111,7 +6155,7 @@
 				]
 			},
 			{
-				"suuid": "V1vsPh",
+				"suuid": "5xtFVw",
 				"kind": "feature",
 				"title": " Import Edward's personal page, add live projects page //2025-12-27 00:02:25..2025-12-27",
 				"outlineItems": [
@@ -3173,7 +6217,7 @@
 				]
 			},
 			{
-				"suuid": "RXP316",
+				"suuid": "UoHgIC",
 				"kind": "content",
 				"title": " Import Datapod site //2025-12-27 00:02:25..2025-12-27 14:51:13",
 				"outlineItems": [
@@ -3230,7 +6274,7 @@
 				]
 			},
 			{
-				"suuid": "1SJxZm",
+				"suuid": "zku1JT",
 				"kind": "feature",
 				"title": " Implement shortTitle, legacy page, markdown //2025-12-23 17:13:13..2025-12-27 00:02:09",
 				"outlineItems": [
@@ -3342,7 +6386,7 @@
 				]
 			},
 			{
-				"suuid": "OR4IVs",
+				"suuid": "9lPUDy",
 				"kind": "feature",
 				"title": " Brighten mobile view //2025-12-23 17:13:13..2025-12-26 18:13:55",
 				"outlineItems": [
@@ -3379,7 +6423,7 @@
 				]
 			},
 			{
-				"suuid": "6dTtmc",
+				"suuid": "tyLbWd",
 				"kind": "fix",
 				"title": " Resolve mobile display issue of title and cards //2025-12-23 17:22:38..2025-12-23 17:29:26",
 				"outlineItems": [
@@ -3406,7 +6450,7 @@
 				]
 			},
 			{
-				"suuid": "6Nvxx1",
+				"suuid": "Dw0R1z",
 				"kind": "ix feature",
 				"title": " Change colors and standardize font sizes  //2025-12-23 16:42:17..2025-12-23 17:12:23",
 				"outlineItems": [
@@ -3438,7 +6482,7 @@
 				]
 			},
 			{
-				"suuid": "bIPTOl",
+				"suuid": "0WQx9d",
 				"kind": "feature",
 				"title": " Simplify screenshot in mobile view //2025-12-23 14:01:06..2025-12-23 15:23:21",
 				"outlineItems": [
@@ -3480,7 +6524,7 @@
 				]
 			},
 			{
-				"suuid": "bt3pb5",
+				"suuid": "gVy6X6",
 				"kind": "fix",
 				"title": " On mobile view show desktop image //2025-12-23 12:43:54..2025-12-23 13:53:03",
 				"outlineItems": [
@@ -3502,7 +6546,7 @@
 				]
 			},
 			{
-				"suuid": "v3uhGJ",
+				"suuid": "bDQcce",
 				"kind": "fix",
 				"title": " Resolve mobile display issues with project component //2025-12-23 11:51:24..2025-12-23 12:36:13",
 				"outlineItems": [
@@ -3524,7 +6568,7 @@
 				]
 			},
 			{
-				"suuid": "GY95Wf",
+				"suuid": "krjDn3",
 				"kind": "feature",
 				"title": " Make single and multiple project pages ready for project import //2025-12-22 01:06:10..2025-12-23 11:44:58",
 				"outlineItems": [
@@ -3706,7 +6750,7 @@
 				]
 			},
 			{
-				"suuid": "eLC3kc",
+				"suuid": "gCdzzf",
 				"kind": "feature",
 				"title": " Add style and content improvements after design upgrade //2025-12-22 00:46:29..2025-12-22 01:01:01",
 				"outlineItems": [
@@ -3733,7 +6777,7 @@
 				]
 			},
 			{
-				"suuid": "25XgDd",
+				"suuid": "nyHqYj",
 				"kind": "feature",
 				"title": " Convert Nuxt to Next.js and upgrade to modern site layout //2025-12-20 22:48:41..2025-12-22 00:46:56",
 				"outlineItems": [
@@ -3865,7 +6909,7 @@
 				]
 			},
 			{
-				"suuid": "t0gCEj",
+				"suuid": "6Fd0he",
 				"kind": "feature",
 				"title": " Add rank to tasks and sort more important first //2025-12-21 19:21:30..2025-12-21 20:02:04",
 				"outlineItems": [
@@ -3927,7 +6971,7 @@
 				]
 			},
 			{
-				"suuid": "vUcCaM",
+				"suuid": "8EIkNj",
 				"kind": "feature",
 				"title": " Show three of each kind of tasks: current, upcoming, finished //2025-12-21 15:03:15..2025-12-21 19:10:44",
 				"outlineItems": [
@@ -4104,7 +7148,7 @@
 				]
 			},
 			{
-				"suuid": "ctlqe0",
+				"suuid": "zPxmKs",
 				"kind": "feature",
 				"title": " Process and display all tasks basic data //2025-12-20 16:55:12..2025-12-20 19:31:35",
 				"outlineItems": [
@@ -4211,7 +7255,7 @@
 				]
 			},
 			{
-				"suuid": "NvSnAk",
+				"suuid": "tR7Fkd",
 				"kind": "base",
 				"title": " Create minimal site and put online //2025-10-17 20:39:40..2025-10-17 21:31:59",
 				"outlineItems": [
@@ -4258,7 +7302,7 @@
 				]
 			},
 			{
-				"suuid": "JvJJ81",
+				"suuid": "hbwiLq",
 				"kind": "feature",
 				"title": " Enable second file to be processed and combine projects //2025-12-17 20:55:42..2025-12-19 21:59:23",
 				"outlineItems": [
@@ -4425,7 +7469,7 @@
 				]
 			},
 			{
-				"suuid": "Zs4eZR",
+				"suuid": "DkjuxX",
 				"kind": "decision",
 				"title": " Decide on best name \"start\" or \"starter\" //2025-11-30 23:32:41..2025-12-02 22:47:14",
 				"outlineItems": [
@@ -4477,7 +7521,7 @@
 				]
 			},
 			{
-				"suuid": "o3Y0Vo",
+				"suuid": "lfWg3w",
 				"kind": "feature",
 				"title": " Show start sites //2025-11-30 23:09:20..2025-12-02 22:45:41",
 				"outlineItems": [
@@ -4514,13 +7558,13 @@
 				]
 			},
 			{
-				"suuid": "NSyvrY",
+				"suuid": "WXdi9a",
 				"kind": "content",
 				"title": " Add showcase-typo3 //2025-10-31 15:16:56..2025-10-31 15:55:34",
 				"outlineItems": []
 			},
 			{
-				"suuid": "NIgm9A",
+				"suuid": "5hvZe6",
 				"kind": "feature",
 				"title": " Create all current images //2025-10-27 15:55:36..2025-10-27 16:27:16",
 				"outlineItems": [
@@ -4542,7 +7586,7 @@
 				]
 			},
 			{
-				"suuid": "sBkVG9",
+				"suuid": "Njgv9Y",
 				"kind": "feature",
 				"title": " Show image if exists //2025-10-27 14:11:00..2025-10-27 15:54:31",
 				"outlineItems": [
@@ -4624,7 +7668,7 @@
 				]
 			},
 			{
-				"suuid": "pM0FPM",
+				"suuid": "Wp9kKC",
 				"kind": "feature",
 				"title": " Make Responsive //2025-10-27 11:45:48..2025-10-27 13:25:18",
 				"outlineItems": [
@@ -4696,7 +7740,7 @@
 				]
 			},
 			{
-				"suuid": "TG3EpO",
+				"suuid": "V1V2wp",
 				"kind": "feature",
 				"title": " Implement categories //2025-10-24 13:28:42..2025-10-24 18:12:10",
 				"outlineItems": [
@@ -4803,7 +7847,7 @@
 				]
 			},
 			{
-				"suuid": "z8cdnu",
+				"suuid": "0yhVAR",
 				"kind": "feature",
 				"title": " Create active, planning and stable project sections //2025-10-20 13:41:27..2025-10-24 13:17:01",
 				"outlineItems": [
@@ -5020,7 +8064,7 @@
 				]
 			},
 			{
-				"suuid": "YUIKJv",
+				"suuid": "JcEPJS",
 				"kind": "feature",
 				"title": " Process first data file, list frontend idcodes //2025-10-17 21:47:29..2025-10-17 23:44:52",
 				"outlineItems": [
@@ -5084,7 +8128,7 @@
 		]
 	},
 	{
-		"suuid": "43FVpH",
+		"suuid": "F7TMzo",
 		"idCode": "comprehensible-output",
 		"title": "COMPREHENSIBLE-OUTPUT",
 		"shortTitle": "COMPREHENSIBLE-OUTPUT",
@@ -5099,7 +8143,139 @@
 		"categories": [],
 		"projectItems": [
 			{
-				"suuid": "jFg9Z8",
+				"suuid": "7iADbi",
+				"kind": "fix",
+				"title": " Show English in Google audio link //2026-03-11 20:59:48..2026-03-11 21:08:59",
+				"outlineItems": []
+			},
+			{
+				"suuid": "3jCPwY",
+				"kind": "fix",
+				"title": " Make contrast more visible on mobile //2026-03-11 16:22:46..2026-03-11 16:28:47",
+				"outlineItems": []
+			},
+			{
+				"suuid": "GUuiXI",
+				"kind": "fix",
+				"title": " Make various mobile layout improvements //2026-03-11 16:01:02..2026-03-11 16:18:04",
+				"outlineItems": []
+			},
+			{
+				"suuid": "dTvY52",
+				"kind": "feature",
+				"title": " improve flashcard page styling/design //2026-03-11 11:26:40..2026-03-11 13:26:41",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::flashcard-page-improvements",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "show totals",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "language chooser",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "spanish red",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "audio",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "random / newest first",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "xK6bgL",
+				"kind": "feature",
+				"title": " Create flashcard page //2026-03-10 20:18:20..2026-03-10 23:00:04",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "rank::4.9",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "branch::feature-flashcard-page",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "with a simple but effective algorithm to organize them as you take them",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "buttons",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "know",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "retake: 5m 1h 1d 1w",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "delete",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "park",
+						"marker": ""
+					},
+					{
+						"indents": 4,
+						"line": "correct",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "plan",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "create json file, it was already created: compoutPhrases.json",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "list most recent ten based on drop-down language",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "8G9qLs",
 				"kind": "feature",
 				"title": " Streamline story creation //2025-08-03 23:30:15..2025-08-05 10:58:02",
 				"outlineItems": [
@@ -5706,7 +8882,7 @@
 				]
 			},
 			{
-				"suuid": "Y52uWT",
+				"suuid": "0K5Fjv",
 				"kind": "feature",
 				"title": " Order import listing by number of phrases //2025-10-13 07:55:31..2025-10-13 08:02:23",
 				"outlineItems": [
@@ -5723,7 +8899,7 @@
 				]
 			},
 			{
-				"suuid": "wx3Tb3",
+				"suuid": "xXRA99",
 				"kind": "feature",
 				"title": " Use most recent phrases first //2025-10-09 10:58:45..2025-10-09 11:53:47",
 				"outlineItems": [
@@ -5850,7 +9026,7 @@
 				]
 			},
 			{
-				"suuid": "nNEeZD",
+				"suuid": "9uXPso",
 				"kind": "feature",
 				"title": " CLI command \"cpf\" creates prompt files for all languages //2025-06-09 12:31:32..2025-06-10 00:12:39",
 				"outlineItems": [
@@ -5867,7 +9043,7 @@
 				]
 			},
 			{
-				"suuid": "WmWiLu",
+				"suuid": "2EMuT4",
 				"kind": "feature",
 				"title": " Enable 10 100 to be sent as params, with defaults if not sent //2025-06-09 13:14:09..2025-06-09 15:17:03",
 				"outlineItems": [
@@ -5889,13 +9065,13 @@
 				]
 			},
 			{
-				"suuid": "Vr2E35",
+				"suuid": "2h3cSm",
 				"kind": "feature",
 				"title": " For command npm run cpg fr, randomize order of phrases //2025-06-09 17:14:02..2025-06-09 17:19:03",
 				"outlineItems": []
 			},
 			{
-				"suuid": "a2xWOb",
+				"suuid": "KBoILI",
 				"kind": "feature",
 				"title": " Show history of phrases for \"cpf\" //2025-06-10 16:14:09..2025-06-10 17:12:19",
 				"outlineItems": [
@@ -5922,7 +9098,7 @@
 				]
 			},
 			{
-				"suuid": "LXKy8V",
+				"suuid": "gSg9AQ",
 				"kind": "feature",
 				"title": " Implement script to create prompts from google translate phrases //2025-06-08 20:11:09..2025-06-08 20:44:02",
 				"outlineItems": [

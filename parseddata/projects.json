@@ -1,51 +1,6 @@
 [
 	{
-		"suuid": "xBX9JA",
-		"idCode": "fastfollow",
-		"title": "Fast Follow Forum",
-		"shortTitle": "Fast Follow Forum",
-		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/fastfollow",
-		"live": "https://fastfollow.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [],
-		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
-		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
-			}
-		]
-	},
-	{
-		"suuid": "PNiP4A",
-		"idCode": "datapod-tanguay-eu",
-		"title": "Datapod Central 2026",
-		"shortTitle": "Datapod Central 2026",
-		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
-		"live": "https://datapod-tanguay-eu.vercel.app",
-		"defaultCategory": "premier",
-		"techItems": [
-			"Angular 17",
-			"TypeScript"
-		],
-		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
-		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
-			}
-		]
-	},
-	{
-		"suuid": "tEdtLF",
+		"suuid": "LaGa3p",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -71,7 +26,132 @@
 		]
 	},
 	{
-		"suuid": "cwebqA",
+		"suuid": "M7i0KR",
+		"idCode": "fastfollow",
+		"title": "Fast Follow Forum",
+		"shortTitle": "Fast Follow Forum",
+		"description": "This is a site for developers and business-oriented people using AI. We use a Discord site to share what we are using and creating, what works, and what doesn't.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/fastfollow",
+		"live": "https://fastfollow.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [],
+		"imageMobile": "/images/projects/fastfollow-mobile.jpg",
+		"imageDesktop": "/images/projects/fastfollow-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a site for developers and business-oriented people using AI. We use a Discord site to keep up on the latest AI tools and concepts."
+			}
+		]
+	},
+	{
+		"suuid": "lvGbfu",
+		"idCode": "showcase-nuxt-003",
+		"title": "Nuxt Showcase",
+		"shortTitle": "Nuxt Showcase",
+		"description": "This is a professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive. It has light/dark mode built in, a menu, mobile/desktop views and demonstrations of many NuxtUI components. If you want to build a Nuxt site, start with this.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-nuxt-003",
+		"live": "https://showcase-nuxt-003.vercel.app",
+		"defaultCategory": "showcase",
+		"techItems": [
+			"Nuxt 4.0"
+		],
+		"imageMobile": "/images/projects/showcase-nuxt-003-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-nuxt-003-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "Professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive, if you are building a Nuxt site, start here."
+			},
+			{
+				"idCode": "premier",
+				"shortInfo": "Professional Nuxt showcase with nuxt/ui, sophisticated forms with error handling, etc. Tailwind, dark mode, responsive, if you are building a Nuxt site, start here."
+			}
+		]
+	},
+	{
+		"suuid": "kVfh6J",
+		"idCode": "tinfo",
+		"title": "Tanguay.info",
+		"shortTitle": "Tanguay.info",
+		"description": "This is a quick HTML landing page for all of my projects, from my newest projects back to sites I had in the 90s. If you're looking for something of mine, you'll find it here.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/tinfo",
+		"live": "https://tanguay.info",
+		"defaultCategory": "premier",
+		"techItems": [
+			"HTML",
+			"CSS"
+		],
+		"imageMobile": "/images/projects/tinfo-mobile.jpg",
+		"imageDesktop": "/images/projects/tinfo-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a quick HTML landing page at my <strong>tanguay.info</strong> domain, if you're looking for something of mine, you'll find it here."
+			}
+		]
+	},
+	{
+		"suuid": "VVV0qK",
+		"idCode": "datapod-typescript-nuxt",
+		"title": "TypeScript-Nuxt Datapod",
+		"shortTitle": "TypeScript-Nuxt Datapod",
+		"description": "This is my main rewrite of my Datapod project for 2026 using the most standard tech: a TypeScript backend and Nuxt 4.0 frontend. It currently has a lot of personal projects in it since this is what drives the development: making a framework that is useful in organizing my own projects and making useful sites for my own purposes. You can see the latest general Datapod features with the <a target=\"_blank\" href=\"https://datapod-typescript-nuxt.vercel.app/books\">Books page</a> and how you can edit the <code>data\\books.dp.txt</code> file, run <code>npm run pd</code> and the information you typed into the text file will appear on the frontend, see this <a target=\"_blank\" href=\"https://www.linkedin.com/feed/update/urn:li:activity:7446316136234729472/\">LinkedIn post</a> with an animated graphic. This project is still in a development stage, very useful to me, but if you want to use it, contact me and I'll give you a quick overview.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-typescript-nuxt",
+		"live": "https://datapod-typescript-nuxt.vercel.app",
+		"defaultCategory": "datapod",
+		"techItems": [
+			"TypeScript",
+			"Nuxt 4.0",
+			"Tailwind"
+		],
+		"imageMobile": "/images/projects/datapod-typescript-nuxt-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-typescript-nuxt-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "datapod",
+				"shortInfo": "This is the main rewrite of my Datapod project for 2026 using the most standard tech: a TypeScript backend and Nuxt 4.0 frontend."
+			}
+		]
+	},
+	{
+		"suuid": "45aZIc",
+		"idCode": "datapod-tanguay-eu",
+		"title": "Datapod Central 2026",
+		"shortTitle": "Datapod Central 2026",
+		"description": "This is my Datapod framework project restarted in 2025 with ten backend languages and numerous frontend frameworks, for a deeper background see this presenation on <a target=\"_blank\" href=\"https://tanguay-eu.vercel.app/howtos/906\">the main characteristics of Datapod</a>. Ironically this site is not built with a Datapod framework but when I upgrade it in 2026, I plan to use the newest version of Angular (v21) as the frontend since many new features have been added to this framework in the last few years (stand-alone components, signals, etc.) that I want to try out. As the backend language I want to use something exotic like Elixir.",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
+		"live": "https://datapod-tanguay-eu.vercel.app",
+		"defaultCategory": "premier",
+		"techItems": [
+			"Angular 17",
+			"TypeScript"
+		],
+		"imageMobile": "/images/projects/datapod-tanguay-eu-mobile.jpg",
+		"imageDesktop": "/images/projects/datapod-tanguay-eu-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
+			},
+			{
+				"idCode": "datapod",
+				"shortInfo": "You can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks."
+			}
+		]
+	},
+	{
+		"suuid": "KAXNWH",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -80,7 +160,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/techlanglearn003",
 		"live": "",
-		"defaultCategory": "premier",
+		"defaultCategory": "transitional",
 		"techItems": [
 			"Go",
 			"SvelteKit",
@@ -90,13 +170,13 @@
 		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
+				"idCode": "transitional",
 				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
 			}
 		]
 	},
 	{
-		"suuid": "oIHoLn",
+		"suuid": "slz3HL",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -105,7 +185,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/comprehensible-output",
 		"live": "https://comprehensible-output.vercel.app",
-		"defaultCategory": "premier",
+		"defaultCategory": "transitional",
 		"techItems": [
 			"Go",
 			"React",
@@ -115,13 +195,13 @@
 		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
+				"idCode": "transitional",
 				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
 			}
 		]
 	},
 	{
-		"suuid": "EsBnG5",
+		"suuid": "SuueUM",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -142,7 +222,7 @@
 		]
 	},
 	{
-		"suuid": "OyZhCn",
+		"suuid": "vpqz11",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -163,7 +243,7 @@
 		]
 	},
 	{
-		"suuid": "GSDzPk",
+		"suuid": "bg8qv8",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -187,7 +267,7 @@
 		]
 	},
 	{
-		"suuid": "NBUK7s",
+		"suuid": "WyYXNm",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -212,7 +292,7 @@
 		]
 	},
 	{
-		"suuid": "H7QM2s",
+		"suuid": "QT6Onj",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -237,7 +317,7 @@
 		]
 	},
 	{
-		"suuid": "ako7BV",
+		"suuid": "q61aqo",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -267,7 +347,7 @@
 		]
 	},
 	{
-		"suuid": "ZmivWE",
+		"suuid": "GupyGo",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -292,7 +372,7 @@
 		]
 	},
 	{
-		"suuid": "XlCgT5",
+		"suuid": "sXaIfV",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -317,7 +397,7 @@
 		]
 	},
 	{
-		"suuid": "WhjfoW",
+		"suuid": "kMTXSb",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -341,7 +421,7 @@
 		]
 	},
 	{
-		"suuid": "slcaH8",
+		"suuid": "gsQpRf",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
