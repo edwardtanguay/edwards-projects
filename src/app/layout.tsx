@@ -27,9 +27,9 @@ export const metadata: Metadata = {
 		siteName: "Edward's Projects",
 		images: [
 			{
-				url: "https://edwards-projects.vercel.app/images/og-image.png",
-				width: 1200,
-				height: 600,
+				url: "https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg",
+				width: 235,
+				height: 228,
 				alt: "Edward's Projects - all my projects"
 			},
 		],
@@ -45,8 +45,8 @@ export const metadata: Metadata = {
 	},
 	other: {
 		"og:image:type": "image/jpeg",
-		"og:image:width": "1200",
-		"og:image:height": "600",
+		"og:image:width": "235",
+		"og:image:height": "228",
 	}
 };
 
