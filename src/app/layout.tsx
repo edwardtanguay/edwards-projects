@@ -27,10 +27,10 @@ export const metadata: Metadata = {
 		siteName: "Edward's Projects",
 		images: [
 			{
-				url: "https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg",
+				url: "https://edwards-projects.vercel.app/images/og-image.png",
 				width: 1200,
 				height: 600,
-				alt: "Edward Tanguay Portfolio - Full-Stack Developer & Datapod Architect",
+				alt: "Edward's Projects - all my projects including starter sites for your quick development needs"
 			},
 		],
 		locale: "en_US",
