@@ -14,40 +14,40 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://edwards-projects.vercel.app"),
-	title: "Edward's Projects",
-	description: "All my projects including starter sites for your quick development needs",
-	icons: {
-		icon: "/favicon.png",
-	},
-	openGraph: {
-    title: "Edward Tanguay",
-	description: "All my projects including starter sites for your quick development needs",
-		url: "https://edwards-projects.vercel.app",
-		siteName: "Edward's Projects",
-		images: [
-			{
-				url: "https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg",
-				width: 235,
-				height: 228,
-				alt: "Edward's Projects - all my projects"
-			},
-		],
-		locale: "en_US",
-		type: "website",
-	},
-	twitter: {
-		card: "summary_large_image",
-		site: "@edwardtanguay",
-    title: "Edward Tanguay",
-	description: "All my projects including starter sites for your quick development needs",
-		images: ["https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg"],
-	},
-	other: {
-		"og:image:type": "image/jpeg",
-		"og:image:width": "235",
-		"og:image:height": "228",
-	}
+  metadataBase: new URL("https://edwards-projects.vercel.app"),
+  title: "Edward's Projects",
+  description: "All my projects including starter sites for your quick development needs",
+  icons: {
+    icon: "/favicon.png",
+  },
+  openGraph: {
+    title: "Edward's Projects ",
+    description: "All my projects including starter sites for your quick development needs",
+    url: "https://edwards-projects.vercel.app",
+    siteName: "Edward's Projects",
+    images: [
+      {
+        url: "https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg",
+        width: 235,
+        height: 228,
+        alt: "Edward's Projects - all my projects"
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@edwardtanguay",
+    title: "Edward's Projects",
+    description: "All my projects including starter sites for your quick development needs",
+    images: ["https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg"],
+  },
+  other: {
+    "og:image:type": "image/jpeg",
+    "og:image:width": "235",
+    "og:image:height": "228",
+  }
 };
 
 export default function RootLayout({
