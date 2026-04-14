@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 		siteName: "Edward's Projects",
 		images: [
 			{
-				url: "https://edwards-projects.vercel.app/og-image.png",
+				url: "https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg",
 				width: 1200,
 				height: 600,
 				alt: "Edward Tanguay Portfolio - Full-Stack Developer & Datapod Architect",
@@ -41,8 +41,13 @@ export const metadata: Metadata = {
 		site: "@edwardtanguay",
 		title: "Edward Tanguay | Full-Stack Developer & Datapod Architect",
 		description: "Portfolio of Edward Tanguay, showcasing 20+ years of full-stack development expertise, the Datapod framework, and modern web applications.",
-		images: ["https://edwards-projects.vercel.app/og-image.png"],
+		images: ["https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg"],
 	},
+	other: {
+		"og:image:type": "image/jpeg",
+		"og:image:width": "1200",
+		"og:image:height": "600",
+	}
 };
 
 export default function RootLayout({
