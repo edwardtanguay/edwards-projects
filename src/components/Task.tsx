@@ -94,7 +94,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 									</span>
 								</p>
 								{relativeDateLabel && (
-									<span className="bg-orange-600 text-white text-[10px] sm:text-[11px] font-black px-2.5 py-1 rounded-sm uppercase tracking-widest flex items-center gap-1 shadow-[0_0_15px_rgba(234,88,12,0.3)] animate-pulse border border-orange-400/20">
+									<span className={`${relativeDateLabel === "Today" ? "bg-emerald-600 border-emerald-400/20 shadow-[0_0_15px_rgba(16,185,129,0.3)]" : "bg-orange-600 border-orange-400/20 shadow-[0_0_15px_rgba(234,88,12,0.3)]"} text-white text-[10px] sm:text-[11px] font-black px-2.5 py-1 rounded-sm uppercase tracking-widest flex items-center gap-1 animate-pulse border`}>
 										<Sparkles className="w-2.5 h-2.5" />
 										{relativeDateLabel}
 									</span>
