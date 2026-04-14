@@ -14,6 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+	metadataBase: new URL("https://edwards-projects.vercel.app"),
 	title: "Edward Tanguay | Full-Stack Developer & Datapod Architect",
 	description: "Portfolio of Edward Tanguay, showcasing 20+ years of full-stack development expertise, the Datapod framework, and modern web applications.",
 	icons: {
@@ -22,6 +23,8 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: "Edward Tanguay | Full-Stack Developer & Datapod Architect",
 		description: "Portfolio of Edward Tanguay, showcasing 20+ years of full-stack development expertise, the Datapod framework, and modern web applications.",
+		url: "https://edwards-projects.vercel.app",
+		siteName: "Edward's Projects",
 		images: [
 			{
 				url: "/og-image.png",
@@ -30,6 +33,14 @@ export const metadata: Metadata = {
 				alt: "Edward Tanguay Portfolio",
 			},
 		],
+		locale: "en_US",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Edward Tanguay | Full-Stack Developer & Datapod Architect",
+		description: "Portfolio of Edward Tanguay, showcasing 20+ years of full-stack development expertise, the Datapod framework, and modern web applications.",
+		images: ["/og-image.png"],
 	},
 };
 
