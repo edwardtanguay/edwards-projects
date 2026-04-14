@@ -27,10 +27,10 @@ export const metadata: Metadata = {
 		siteName: "Edward's Projects",
 		images: [
 			{
-				url: "/og-image.png",
+				url: "https://edwards-projects.vercel.app/og-image.png",
 				width: 1200,
-				height: 630,
-				alt: "Edward Tanguay Portfolio",
+				height: 600,
+				alt: "Edward Tanguay Portfolio - Full-Stack Developer & Datapod Architect",
 			},
 		],
 		locale: "en_US",
@@ -38,9 +38,10 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: "summary_large_image",
+		site: "@edwardtanguay",
 		title: "Edward Tanguay | Full-Stack Developer & Datapod Architect",
 		description: "Portfolio of Edward Tanguay, showcasing 20+ years of full-stack development expertise, the Datapod framework, and modern web applications.",
-		images: ["/og-image.png"],
+		images: ["https://edwards-projects.vercel.app/og-image.png"],
 	},
 };
 
