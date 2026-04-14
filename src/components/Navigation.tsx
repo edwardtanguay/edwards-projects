@@ -76,7 +76,7 @@ export default function Navigation() {
 				className={`fixed md:static inset-y-0 right-0 md:left-0 z-40 w-64 bg-gray-900 border-r border-gray-800 transition-transform duration-300 ease-out md:translate-x-0 ${isOpen ? "translate-x-0" : "translate-x-full"
 					} flex flex-col pt-16 md:pt-0`}
 			>
-				<nav className="flex-1 px-4 py-8 space-y-2">
+				<nav className="flex-1 overflow-y-auto px-4 py-8 space-y-2">
 					{navItems.map((item) => (
 						<Link
 							key={item.href}

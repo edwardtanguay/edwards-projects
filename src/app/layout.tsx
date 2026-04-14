@@ -14,8 +14,23 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Edward's Projects",
-  description: "A clean, professional Next.js site",
+	title: "Edward Tanguay | Full-Stack Developer & Datapod Architect",
+	description: "Portfolio of Edward Tanguay, showcasing 20+ years of full-stack development expertise, the Datapod framework, and modern web applications.",
+	icons: {
+		icon: "/favicon.png",
+	},
+	openGraph: {
+		title: "Edward Tanguay | Full-Stack Developer & Datapod Architect",
+		description: "Portfolio of Edward Tanguay, showcasing 20+ years of full-stack development expertise, the Datapod framework, and modern web applications.",
+		images: [
+			{
+				url: "/og-image.png",
+				width: 1200,
+				height: 630,
+				alt: "Edward Tanguay Portfolio",
+			},
+		],
+	},
 };
 
 export default function RootLayout({

@@ -12,8 +12,7 @@ export default function About() {
 					</h1>
 					<div className="text-lg text-gray-400 leading-relaxed max-w-3xl">
 						<p className="mb-6">
-							This site serves as a central hub for tracking the status and progress of all my software development projects.
-							From experiments and showcases to production-ready applications, everything is organized here to provide a clear overview of my technical evolution.
+							This site is the central place where I keep all my software development projects, many regarding my <span className="emphasize">Datapod</span> framework, plus <span className="emphasize">starter and sandbox sites</span> you can use to get started quickly with various frameworks and languages, and <span className="emphasize">sites that help me learn foreign languages</span>, a passion of mine.
 						</p>
 					</div>
 				</div>
@@ -34,9 +33,7 @@ export default function About() {
 						<div className="flex-1">
 							
 							<p className="text-lg text-gray-300 leading-relaxed mb-8 max-w-2xl">
-								I'm <span className="text-white font-semibold">Edward Tanguay</span>, a full-stack developer with over 20 years of experience, passionate about building tools that help organize information 
-								and streamline the learning process. This site is a living document of my projects, 
-								experiments, and the technologies I'm mastering.
+								My name is <span className="text-white font-semibold">Edward Tanguay</span>, I started programming in the 80s <span className="tech-pill">(Apple Basic, dBase, Clipper)</span> did web development in the 90s <span className="tech-pill">(CGI/Perl, ASP/ODBC/Access, PHP/MySQL)</span> have been a full-stack developer since 2001 <span className="tech-pill">(C#, Python, TypeScript, Go, React/Next, Vue/Nuxt, SvelteKit, et al.)</span> there isn't a technology I won't try, I've even created applications in Excel/VBScript for clients: whatever works.
 							</p>
 
 							<div className="flex flex-wrap gap-4">
