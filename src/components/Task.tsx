@@ -21,7 +21,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 		const taskMid = new Date(taskDate.getFullYear(), taskDate.getMonth(), taskDate.getDate());
 		const nowMid = new Date(now.getFullYear(), now.getMonth(), now.getDate());
 		const diffTime = (nowMid.getTime() - taskMid.getTime());
-		const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24));
+		const diffDays = Math.max(0, Math.round(diffTime / (1000 * 60 * 60 * 24)));
 
 		let label = "";
 		if (diffDays === 0) label = "Today";
@@ -70,7 +70,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 										: dateInfo.diffDays <= 7
 											? "bg-sky-600 border-sky-400/20 shadow-[0_0_15px_rgba(56,189,248,0.3)]"
 											: "bg-gray-600 border-gray-400/20"
-						} text-zinc-950 text-[10px] sm:text-[11px] font-black px-2.5 py-1 rounded-sm uppercase tracking-wide flex items-center gap-0.5 border whitespace-nowrap ${dateInfo.diffDays <= 7 ? "animate-pulse" : ""}`}>
+						} text-zinc-950 text-[10px] sm:text-[11px] font-black px-2.5 py-1 rounded-sm uppercase tracking-wide flex items-center gap-0.5 border whitespace-nowrap ${dateInfo.diffDays <= 7 ? "animate-pulse-bright" : ""}`}>
 							<Sparkles className="w-2.5 h-2.5" />
 							{dateInfo.label}
 						</span>
