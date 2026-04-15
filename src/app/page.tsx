@@ -2,7 +2,9 @@
 import _projects from "../../parseddata/projects.json";
 import tasks from "../../parseddata/tasks.json";
 import Project from "../components/Project";
-import Task from "../components/Task";
+import TaskRecentlyFinished from "../components/TaskRecentlyFinished";
+import TaskUpcoming from "../components/TaskUpcoming";
+import { CircleCheckBig, Hammer } from "lucide-react";
 
 const _currentProjects = _projects
 
@@ -78,25 +80,29 @@ export default function Home() {
 
 				<div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
 					<div>
-						<h2 className="text-2xl font-bold text-orange-200 mb-8 border-l-4 border-orange-500 pl-4">Most Recently Finished Tasks</h2>
-						<div className="space-y-4">
+						<h2 className="text-2xl font-bold text-orange-200 mb-8 border-l-4 border-orange-500 pl-4 flex items-center gap-3">
+							<span>Completed Tasks</span>
+							<CircleCheckBig className="w-7 h-7 text-emerald-500 drop-shadow-[0_0_8px_rgba(16,185,129,0.4)]" />
+						</h2>
+						<div className="space-y-8">
 							{recentlyFinishedTasks.map((task) => (
-								<Task
+								<TaskRecentlyFinished
 									key={task.suuid}
 									task={task}
-									imageMobile={_projects.find(p => p.idCode === task.projectIdCode)?.imageMobile}
 								/>
 							))}
 						</div>
 					</div>
 					<div>
-						<h2 className="text-2xl font-bold text-orange-200 mb-8 border-l-4 border-orange-500 pl-4">Upcoming Tasks</h2>
-						<div className="space-y-4">
+						<h2 className="text-2xl font-bold text-orange-200 mb-8 border-l-4 border-orange-500 pl-4 flex items-center gap-3">
+							<span>Upcoming Tasks</span>
+							<Hammer className="w-7 h-7 text-blue-400 drop-shadow-[0_0_8px_rgba(96,165,250,0.4)]" />
+						</h2>
+						<div className="space-y-8">
 							{upcomingTargetedTasks.map((task) => (
-								<Task
+								<TaskUpcoming
 									key={task.suuid}
 									task={task}
-									imageMobile={_projects.find(p => p.idCode === task.projectIdCode)?.imageMobile}
 								/>
 							))}
 						</div>

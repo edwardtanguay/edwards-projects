@@ -16,7 +16,7 @@ def debug(obj):
     """
     if isinstance(obj, str):
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        print(f"🛠️  {timestamp}\033[91m[\033[0m{obj}\033[91m]\033[0m")
+        print(f"[DEBUG] {timestamp}\033[91m[\033[0m{obj}\033[91m]\033[0m")
     else:
         pprint(obj)
 

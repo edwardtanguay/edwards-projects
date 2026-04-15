@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "oLfMXk",
+		"suuid": "0qKaN2",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -26,7 +26,7 @@
 		]
 	},
 	{
-		"suuid": "yIUs2U",
+		"suuid": "lTffML",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -47,7 +47,7 @@
 		]
 	},
 	{
-		"suuid": "uFD2AH",
+		"suuid": "kLqEgh",
 		"idCode": "showcase-nuxt-003",
 		"title": "Nuxt Showcase",
 		"shortTitle": "Nuxt Showcase",
@@ -74,7 +74,7 @@
 		]
 	},
 	{
-		"suuid": "cH5Hoc",
+		"suuid": "FRkv8G",
 		"idCode": "tinfo",
 		"title": "Tanguay.info",
 		"shortTitle": "Tanguay.info",
@@ -98,7 +98,7 @@
 		]
 	},
 	{
-		"suuid": "HcqV2n",
+		"suuid": "GsujkO",
 		"idCode": "datapod-typescript-nuxt",
 		"title": "TypeScript-Nuxt Datapod",
 		"shortTitle": "TypeScript-Nuxt Datapod",
@@ -107,7 +107,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/datapod-typescript-nuxt",
 		"live": "https://datapod-typescript-nuxt.vercel.app",
-		"defaultCategory": "datapod",
+		"defaultCategory": "language",
 		"techItems": [
 			"TypeScript",
 			"Nuxt 4.0",
@@ -117,13 +117,17 @@
 		"imageDesktop": "/images/projects/datapod-typescript-nuxt-desktop.jpg",
 		"categories": [
 			{
+				"idCode": "language",
+				"shortInfo": "This is the main rewrite of my Datapod project for 2026, I'm porting many of the features from other language sites into this site for realistic examples of Datapod text format."
+			},
+			{
 				"idCode": "datapod",
 				"shortInfo": "This is the main rewrite of my Datapod project for 2026 using the most standard tech: a TypeScript backend and Nuxt 4.0 frontend."
 			}
 		]
 	},
 	{
-		"suuid": "N1fqY3",
+		"suuid": "PnPp8W",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -151,7 +155,7 @@
 		]
 	},
 	{
-		"suuid": "Ed3e7v",
+		"suuid": "EmiaBZ",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -160,7 +164,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/techlanglearn003",
 		"live": "",
-		"defaultCategory": "transitional",
+		"defaultCategory": "language",
 		"techItems": [
 			"Go",
 			"SvelteKit",
@@ -170,13 +174,17 @@
 		"imageDesktop": "/images/projects/techlanglearn003-desktop.jpg",
 		"categories": [
 			{
+				"idCode": "language",
+				"shortInfo": "I used this site for years with LinkedIn Learning where I would regularly watch tech videos in French and Spanish. It tracks both useful phrases from the videos as well as time watched per day."
+			},
+			{
 				"idCode": "transitional",
 				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
 			}
 		]
 	},
 	{
-		"suuid": "yKdgtq",
+		"suuid": "UmFbX1",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -185,7 +193,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/comprehensible-output",
 		"live": "https://comprehensible-output.vercel.app",
-		"defaultCategory": "transitional",
+		"defaultCategory": "language",
 		"techItems": [
 			"Go",
 			"React",
@@ -195,13 +203,17 @@
 		"imageDesktop": "/images/projects/comprehensible-output-desktop.jpg",
 		"categories": [
 			{
+				"idCode": "language",
+				"shortInfo": "I've used this site for a solid year almost daily for daily audio readings, flashcards and pronunciation practice. I'm gradually dismantling it and bringing what's useful into my main Language Core."
+			},
+			{
 				"idCode": "transitional",
 				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up."
 			}
 		]
 	},
 	{
-		"suuid": "d5acFO",
+		"suuid": "mAqKK0",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -222,7 +234,7 @@
 		]
 	},
 	{
-		"suuid": "YQWxXO",
+		"suuid": "DlZ7Or",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -243,7 +255,7 @@
 		]
 	},
 	{
-		"suuid": "uKXx9x",
+		"suuid": "XfwY3z",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -267,7 +279,7 @@
 		]
 	},
 	{
-		"suuid": "y0yAOC",
+		"suuid": "rlhUyw",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -276,7 +288,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/learncore",
 		"live": "https://learncore.vercel.app",
-		"defaultCategory": "parked",
+		"defaultCategory": "language",
 		"techItems": [
 			"React",
 			"TypeScript",
@@ -286,13 +298,17 @@
 		"imageDesktop": "/images/projects/learncore-desktop.jpg",
 		"categories": [
 			{
+				"idCode": "language",
+				"shortInfo": "This is a very old site that I used to learn Spanish. The only useful part that I will use in my 2026 language site is the color-conjugation chart."
+			},
+			{
 				"idCode": "parked",
 				"shortInfo": "A very old site that I used to learn Spanish, the only useful part to salvage is the color-conjugation chart."
 			}
 		]
 	},
 	{
-		"suuid": "yqDNiu",
+		"suuid": "UNdEFu",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -301,7 +317,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/langcore",
 		"live": "https://langcore.vercel.app",
-		"defaultCategory": "transitional",
+		"defaultCategory": "language",
 		"techItems": [
 			"React",
 			"TypeScript",
@@ -311,13 +327,17 @@
 		"imageDesktop": "/images/projects/langcore-desktop.jpg",
 		"categories": [
 			{
+				"idCode": "language",
+				"shortInfo": "I used this site to learn Spanish in 2022 and Dutch in 2024, a useful site for learning verbs in these languages, but not currently being developed."
+			},
+			{
 				"idCode": "transitional",
 				"shortInfo": "I used this site to learn Spanish in 2022 and Dutch in 2024, a useful site for learning verbs in these languages, but not currently being developed."
 			}
 		]
 	},
 	{
-		"suuid": "rq2DKo",
+		"suuid": "EXAxOS",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -326,7 +346,7 @@
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/interitalnotes",
 		"live": "https://interitalnotes.vercel.app",
-		"defaultCategory": "parked",
+		"defaultCategory": "language",
 		"techItems": [
 			"Python",
 			"React",
@@ -336,6 +356,10 @@
 		"imageMobile": "/images/projects/interitalnotes-mobile.jpg",
 		"imageDesktop": "/images/projects/interitalnotes-desktop.jpg",
 		"categories": [
+			{
+				"idCode": "language",
+				"shortInfo": "I created this when first learning Italian, it basically allows you to add realistic examples of every conjugation of every verb."
+			},
 			{
 				"idCode": "parked",
 				"shortInfo": "A parked site that has the parsing algorithm of my main Italian notes file, so useful for that."
@@ -347,7 +371,7 @@
 		]
 	},
 	{
-		"suuid": "xrjlUc",
+		"suuid": "g4cYou",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -372,7 +396,7 @@
 		]
 	},
 	{
-		"suuid": "B7q8ci",
+		"suuid": "GIuzmi",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -397,7 +421,7 @@
 		]
 	},
 	{
-		"suuid": "eyytaI",
+		"suuid": "RgsGCT",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -421,7 +445,7 @@
 		]
 	},
 	{
-		"suuid": "PeEKmi",
+		"suuid": "jVvhbG",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",

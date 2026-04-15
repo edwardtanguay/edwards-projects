@@ -12,7 +12,7 @@ export default function About() {
 					</h1>
 					<div className="text-lg text-gray-400 leading-relaxed max-w-3xl">
 						<p className="mb-6">
-							This site is the central place where I keep all my software development projects, many regarding my <span className="emphasize">Datapod</span> framework, plus <span className="emphasize">starter and sandbox sites</span> you can use to get started quickly with various frameworks and languages, and <span className="emphasize">sites that help me learn foreign languages</span>, a passion of mine.
+							This site is the central place where I keep all my software development projects, many regarding my <span className="emphasize">Datapod</span> framework, plus <span className="emphasize">starter and sandbox sites</span> for you to use as quick templates for projects with various frameworks and languages, and <span className="emphasize">sites that help me learn foreign languages</span>, a passion of mine.
 						</p>
 					</div>
 				</div>

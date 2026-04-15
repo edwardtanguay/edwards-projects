@@ -19,6 +19,7 @@ import {
 	X,
 	Monitor,
 	Database,
+	Languages,
 } from "lucide-react";
 
 interface NavItem {
@@ -35,6 +36,7 @@ const navItems: NavItem[] = [
 	{ label: "Transitional Projects", href: "/transitional-projects", icon: <ArrowRightLeft size={20} /> },
 	{ label: "Incubator Projects", href: "/incubator-projects", icon: <Sprout size={20} /> },
 	{ label: "Legacy Projects", href: "/legacy-projects", icon: <CalendarClock size={20} /> },
+	{ label: "Language Projects", href: "/language-projects", icon: <Languages size={20} /> },
 	{ label: "Personal Projects", href: "/personal-projects", icon: <User size={20} /> },
 	{ label: "Parked Projects", href: "/parked-projects", icon: <SquareParking size={20} /> },
 	{ label: "Current Tasks", href: "/current-tasks", icon: <Cog size={20} /> },

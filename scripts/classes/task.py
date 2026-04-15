@@ -12,6 +12,9 @@ class Task:
 	end_date_time: str
 	branch: str = ""
 	rank: float = 2.5
+	slug: str = ""
+	points: list[str] = []
+	slug_image: str = ""
 
 	def __init__(self, project_id_code: str, project_item: ProjectItem):
 		self.project_id_code = project_id_code
@@ -22,6 +25,9 @@ class Task:
 		self.title = self.parse_and_get_title()
 		self.branch = project_item.branch
 		self.rank = project_item.rank
+		self.slug = project_item.task_slug if project_item.task_slug else project_item.branch
+		self.points = project_item.task_points
+		self.slug_image = qfil.get_image_path_and_file_name("/images/tasks/", self.slug) if self.slug else ""
 
 	def convert_marker_to_stage(self):
 		return {
@@ -50,5 +56,8 @@ class Task:
 				'beginDateTime': self.begin_date_time,
 				'endDateTime': self.end_date_time,
 				'branch': self.branch,
-				'rank': self.rank	
+				'rank': self.rank,
+				'slug': self.slug,
+				'points': self.points,
+				'slugImage': self.slug_image
 			}

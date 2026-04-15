@@ -31,9 +31,12 @@ class ProjectItem:
 	branch: str = ""
 	rank: float = 2.5
 	project_tech: str = ""
+	task_slug: str = ""
+	task_points: list[str] = []
 
 	def __init__(self, outline_items: list[OutlineItem]):
 		self.project_category_lines = []
+		self.task_points = []
 		self.outline_items = outline_items
 		self.suuid = qstr.generate_short_uuid()
 
@@ -54,6 +57,14 @@ class ProjectItem:
 	def parse_line_variables_for_normal(self):
 		for outline_item in self.outline_items[1:]:
 			line = outline_item.line
+
+			slug = qstr.get_line_variable(line, "slug")
+			if slug != "":
+				self.task_slug = slug
+
+			points_str = qstr.get_line_variable(line, "points")
+			if points_str != "":
+				self.task_points.extend([p.strip() for p in points_str.split(";") if p.strip()])
 
 			# project title
 			branch = qstr.get_line_variable(line, "branch")

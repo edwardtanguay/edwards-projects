@@ -32,4 +32,7 @@ export type Task = {
 	endDateTime: string;
 	branch: string;
 	rank: number;
+	slug: string;
+	points: string[];
+	slugImage: string;
 }
