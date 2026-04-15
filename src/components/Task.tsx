@@ -36,7 +36,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 	return (
 		<div
 			onClick={handleCardClick}
-			className="bg-linear-to-br from-gray-800 to-gray-900 border border-gray-700 rounded-lg overflow-hidden flex cursor-pointer hover:border-gray-500 hover:bg-gray-800/40 transition-all duration-300 group"
+			className="bg-zinc-950 border border-white/40 rounded-xl overflow-hidden flex cursor-pointer hover:border-white/70 hover:bg-zinc-900 transition-all duration-300 group shadow-[0_10px_30px_0_rgba(0,0,0,0.5),0_0_20px_0_rgba(255,255,255,0.3)] sm:shadow-[0_10px_30px_0_rgba(0,0,0,0.5),0_0_15px_0_rgba(255,255,255,0.15)]"
 		>
 			{imageMobile && task.stage !== "finished" && !(task.stage === "finished" && task.slugImage) && (
 				<Image
