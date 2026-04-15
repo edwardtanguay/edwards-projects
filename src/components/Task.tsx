@@ -36,7 +36,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 	return (
 		<div
 			onClick={handleCardClick}
-			className="bg-zinc-900 border border-white/70 rounded-xl overflow-hidden flex cursor-pointer sm:bg-zinc-950 sm:border-white/40 sm:hover:bg-zinc-900 sm:hover:border-white/70 transition-all duration-300 group shadow-[0_10px_30px_0_rgba(0,0,0,0.5),0_0_20px_0_rgba(255,255,255,0.3)] sm:shadow-[0_10px_30px_0_rgba(0,0,0,0.5),0_0_15px_0_rgba(255,255,255,0.15)]"
+			className="bg-zinc-850 border border-white/70 rounded-xl overflow-hidden flex cursor-pointer sm:bg-zinc-950 sm:border-white/40 sm:hover:bg-zinc-900 sm:hover:border-white/70 transition-all duration-300 group shadow-[0_10px_30px_0_rgba(0,0,0,0.5),0_0_20px_0_rgba(255,255,255,0.3)] sm:shadow-[0_10px_30px_0_rgba(0,0,0,0.5),0_0_15px_0_rgba(255,255,255,0.15)]"
 		>
 			{imageMobile && task.stage !== "finished" && !(task.stage === "finished" && task.slugImage) && (
 				<Image
@@ -70,7 +70,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 										: dateInfo.diffDays <= 7
 											? "bg-sky-600 border-sky-400/20 shadow-[0_0_15px_rgba(56,189,248,0.3)]"
 											: "bg-gray-600 border-gray-400/20"
-						} text-white text-[9px] sm:text-[10px] font-black px-2 py-0.5 rounded-sm uppercase tracking-widest flex items-center gap-0.5 border ${dateInfo.diffDays <= 7 ? "animate-pulse" : ""}`}>
+						} text-zinc-950 text-[10px] sm:text-[11px] font-black px-2.5 py-1 rounded-sm uppercase tracking-wide flex items-center gap-0.5 border whitespace-nowrap ${dateInfo.diffDays <= 7 ? "animate-pulse" : ""}`}>
 							<Sparkles className="w-2.5 h-2.5" />
 							{dateInfo.label}
 						</span>
