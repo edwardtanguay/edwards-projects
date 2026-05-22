@@ -1,6 +1,31 @@
 [
 	{
-		"suuid": "GmGIfa",
+		"suuid": "H9BAUr",
+		"idCode": "eb",
+		"title": "Einb\u00fcrgerungstest App",
+		"shortTitle": "Einb\u00fcrgerungstest App",
+		"description": "I created this app to test me on the most difficult questions of the Einb\u00fcrgerungstest, useful and easy-to-use on a smartphone. This app only has most difficult 54 of the 300 questions possible on the test, since most of the 300 questions on the test are quite simple. I reviewed all 300 questions and the ones I got wrong or found tricky, I saved in a text file and used Antigravity/Gemini for a couple hours to build this app.",
+		"status": "(fill in status)",
+		"mode": "active",
+		"repo": "https://github.com/edwardtanguay/eb",
+		"live": "https://tanguay.info/eb",
+		"defaultCategory": "premier",
+		"techItems": [
+			"HTML",
+			"CSS",
+			"JavaScript"
+		],
+		"imageMobile": "/images/projects/eb-mobile.jpg",
+		"imageDesktop": "/images/projects/eb-desktop.jpg",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "I created this app to test me on the most difficult questions of the Einb\u00fcrgerungstest, a useful site and easy-to-use on a smartphone."
+			}
+		]
+	},
+	{
+		"suuid": "qUz9Y2",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -26,7 +51,7 @@
 		]
 	},
 	{
-		"suuid": "IESQLM",
+		"suuid": "KP4YtA",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -47,7 +72,7 @@
 		]
 	},
 	{
-		"suuid": "qeJBiF",
+		"suuid": "JcZMrG",
 		"idCode": "showcase-nuxt-003",
 		"title": "Nuxt Showcase",
 		"shortTitle": "Nuxt Showcase",
@@ -74,7 +99,7 @@
 		]
 	},
 	{
-		"suuid": "zatqoa",
+		"suuid": "1d5A7U",
 		"idCode": "tinfo",
 		"title": "Tanguay.info",
 		"shortTitle": "Tanguay.info",
@@ -98,7 +123,7 @@
 		]
 	},
 	{
-		"suuid": "acncJX",
+		"suuid": "2BKstf",
 		"idCode": "datapod-typescript-nuxt",
 		"title": "TypeScript-Nuxt Datapod",
 		"shortTitle": "TypeScript-Nuxt Datapod",
@@ -127,7 +152,7 @@
 		]
 	},
 	{
-		"suuid": "7UPYQw",
+		"suuid": "g4pLkh",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -155,7 +180,7 @@
 		]
 	},
 	{
-		"suuid": "0cqYoL",
+		"suuid": "fMYzvQ",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -184,7 +209,23 @@
 		]
 	},
 	{
-		"suuid": "uGReT6",
+		"suuid": "4eCWvq",
+		"idCode": "info central",
+		"title": "INFO CENTRAL",
+		"shortTitle": "INFO CENTRAL",
+		"description": "",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/info central",
+		"live": "",
+		"defaultCategory": "current",
+		"techItems": [],
+		"imageMobile": "",
+		"imageDesktop": "",
+		"categories": []
+	},
+	{
+		"suuid": "0LwqGe",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -213,7 +254,7 @@
 		]
 	},
 	{
-		"suuid": "4THXpK",
+		"suuid": "895wQb",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -234,7 +275,7 @@
 		]
 	},
 	{
-		"suuid": "kDfgs7",
+		"suuid": "8JZk46",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -255,7 +296,7 @@
 		]
 	},
 	{
-		"suuid": "1aH6Ov",
+		"suuid": "HF5tfN",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -279,7 +320,7 @@
 		]
 	},
 	{
-		"suuid": "eq0BH1",
+		"suuid": "OCQdfw",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -308,7 +349,7 @@
 		]
 	},
 	{
-		"suuid": "ytZ7bo",
+		"suuid": "scbsnX",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -337,7 +378,7 @@
 		]
 	},
 	{
-		"suuid": "Qwfayt",
+		"suuid": "TbS5R3",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -371,7 +412,7 @@
 		]
 	},
 	{
-		"suuid": "1qV1E4",
+		"suuid": "47F0hy",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -396,7 +437,7 @@
 		]
 	},
 	{
-		"suuid": "69pxvZ",
+		"suuid": "VFbCWY",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -421,7 +462,7 @@
 		]
 	},
 	{
-		"suuid": "GPKAs4",
+		"suuid": "z2O1ha",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -445,7 +486,7 @@
 		]
 	},
 	{
-		"suuid": "YSWMg6",
+		"suuid": "hniilW",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
