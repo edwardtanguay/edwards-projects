@@ -1,12 +1,12 @@
 [
 	{
-		"suuid": "H9BAUr",
+		"suuid": "lDU0qO",
 		"idCode": "eb",
 		"title": "Einb\u00fcrgerungstest App",
 		"shortTitle": "Einb\u00fcrgerungstest App",
 		"description": "I created this app to test me on the most difficult questions of the Einb\u00fcrgerungstest, useful and easy-to-use on a smartphone. This app only has most difficult 54 of the 300 questions possible on the test, since most of the 300 questions on the test are quite simple. I reviewed all 300 questions and the ones I got wrong or found tricky, I saved in a text file and used Antigravity/Gemini for a couple hours to build this app.",
 		"status": "(fill in status)",
-		"mode": "active",
+		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/eb",
 		"live": "https://tanguay.info/eb",
 		"defaultCategory": "premier",
@@ -25,7 +25,7 @@
 		]
 	},
 	{
-		"suuid": "qUz9Y2",
+		"suuid": "SoEyQh",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -51,7 +51,7 @@
 		]
 	},
 	{
-		"suuid": "KP4YtA",
+		"suuid": "yqZYQ2",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -72,7 +72,7 @@
 		]
 	},
 	{
-		"suuid": "JcZMrG",
+		"suuid": "wN7UJb",
 		"idCode": "showcase-nuxt-003",
 		"title": "Nuxt Showcase",
 		"shortTitle": "Nuxt Showcase",
@@ -99,7 +99,7 @@
 		]
 	},
 	{
-		"suuid": "1d5A7U",
+		"suuid": "aXT17e",
 		"idCode": "tinfo",
 		"title": "Tanguay.info",
 		"shortTitle": "Tanguay.info",
@@ -123,7 +123,7 @@
 		]
 	},
 	{
-		"suuid": "2BKstf",
+		"suuid": "LJnbpM",
 		"idCode": "datapod-typescript-nuxt",
 		"title": "TypeScript-Nuxt Datapod",
 		"shortTitle": "TypeScript-Nuxt Datapod",
@@ -152,7 +152,7 @@
 		]
 	},
 	{
-		"suuid": "g4pLkh",
+		"suuid": "mtYoSk",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -180,7 +180,7 @@
 		]
 	},
 	{
-		"suuid": "fMYzvQ",
+		"suuid": "4FeDyA",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -209,7 +209,7 @@
 		]
 	},
 	{
-		"suuid": "4eCWvq",
+		"suuid": "hn5Pce",
 		"idCode": "info central",
 		"title": "INFO CENTRAL",
 		"shortTitle": "INFO CENTRAL",
@@ -225,7 +225,7 @@
 		"categories": []
 	},
 	{
-		"suuid": "0LwqGe",
+		"suuid": "QUCkT1",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -254,7 +254,7 @@
 		]
 	},
 	{
-		"suuid": "895wQb",
+		"suuid": "uERAvL",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -275,7 +275,7 @@
 		]
 	},
 	{
-		"suuid": "8JZk46",
+		"suuid": "rsS9BD",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -296,7 +296,7 @@
 		]
 	},
 	{
-		"suuid": "HF5tfN",
+		"suuid": "a8Y6Mi",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -320,7 +320,7 @@
 		]
 	},
 	{
-		"suuid": "OCQdfw",
+		"suuid": "8vefdo",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -349,7 +349,7 @@
 		]
 	},
 	{
-		"suuid": "scbsnX",
+		"suuid": "nvZPyB",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -378,7 +378,7 @@
 		]
 	},
 	{
-		"suuid": "TbS5R3",
+		"suuid": "oVFNhm",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -412,7 +412,7 @@
 		]
 	},
 	{
-		"suuid": "47F0hy",
+		"suuid": "sfhH51",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -437,7 +437,7 @@
 		]
 	},
 	{
-		"suuid": "VFbCWY",
+		"suuid": "tqnduk",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -462,7 +462,7 @@
 		]
 	},
 	{
-		"suuid": "z2O1ha",
+		"suuid": "wroMaV",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -486,7 +486,7 @@
 		]
 	},
 	{
-		"suuid": "hniilW",
+		"suuid": "0yQ2Dp",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
