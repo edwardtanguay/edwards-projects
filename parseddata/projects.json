@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "skDqFX",
+		"suuid": "Qfg2Wh",
 		"idCode": "eb",
 		"title": "Einb\u00fcrgerungstest App",
 		"shortTitle": "Einb\u00fcrgerungstest App",
@@ -25,7 +25,7 @@
 		]
 	},
 	{
-		"suuid": "BIqzDa",
+		"suuid": "v224y0",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -51,7 +51,7 @@
 		]
 	},
 	{
-		"suuid": "wDG2kp",
+		"suuid": "dhKiQ9",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -72,7 +72,7 @@
 		]
 	},
 	{
-		"suuid": "wxI1c7",
+		"suuid": "ADilHs",
 		"idCode": "showcase-nuxt-003",
 		"title": "Nuxt Showcase",
 		"shortTitle": "Nuxt Showcase",
@@ -99,7 +99,7 @@
 		]
 	},
 	{
-		"suuid": "DIMXpF",
+		"suuid": "9voFqK",
 		"idCode": "tinfo",
 		"title": "Tanguay.info",
 		"shortTitle": "Tanguay.info",
@@ -123,7 +123,7 @@
 		]
 	},
 	{
-		"suuid": "zsepa5",
+		"suuid": "QswnGf",
 		"idCode": "datapod-typescript-nuxt",
 		"title": "TypeScript-Nuxt Datapod",
 		"shortTitle": "TypeScript-Nuxt Datapod",
@@ -152,7 +152,7 @@
 		]
 	},
 	{
-		"suuid": "fCFTvo",
+		"suuid": "NCNpGG",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -180,7 +180,7 @@
 		]
 	},
 	{
-		"suuid": "ZFQZ60",
+		"suuid": "wmWSnH",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -209,23 +209,7 @@
 		]
 	},
 	{
-		"suuid": "nu8lwk",
-		"idCode": "info central",
-		"title": "INFO CENTRAL",
-		"shortTitle": "INFO CENTRAL",
-		"description": "",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/info central",
-		"live": "",
-		"defaultCategory": "current",
-		"techItems": [],
-		"imageMobile": "",
-		"imageDesktop": "",
-		"categories": []
-	},
-	{
-		"suuid": "FlF4L9",
+		"suuid": "Ty4EqW",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -254,7 +238,7 @@
 		]
 	},
 	{
-		"suuid": "GNFXhZ",
+		"suuid": "30lLKL",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -275,7 +259,7 @@
 		]
 	},
 	{
-		"suuid": "QLgnRc",
+		"suuid": "pNnUn6",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -296,7 +280,7 @@
 		]
 	},
 	{
-		"suuid": "kng02M",
+		"suuid": "BY2Xa5",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -320,7 +304,7 @@
 		]
 	},
 	{
-		"suuid": "RNplDH",
+		"suuid": "uhY1dl",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -349,7 +333,7 @@
 		]
 	},
 	{
-		"suuid": "2VG0r2",
+		"suuid": "m90dG6",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -378,7 +362,7 @@
 		]
 	},
 	{
-		"suuid": "YhfzvY",
+		"suuid": "FZMlio",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -412,7 +396,7 @@
 		]
 	},
 	{
-		"suuid": "6tLSDK",
+		"suuid": "qhzwqw",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -437,7 +421,7 @@
 		]
 	},
 	{
-		"suuid": "mqj6zI",
+		"suuid": "16DeLk",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -462,7 +446,7 @@
 		]
 	},
 	{
-		"suuid": "xn0Xch",
+		"suuid": "LX05ar",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -486,7 +470,7 @@
 		]
 	},
 	{
-		"suuid": "CDr81b",
+		"suuid": "OirevN",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
