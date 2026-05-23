@@ -60,22 +60,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 							{project ? project.title : task.projectIdCode}
 						</Link>
 					</div>
-					{dateInfo && (
-						<span className={`${
-							dateInfo.diffDays === 0 
-								? "bg-emerald-600 border-emerald-400/20 shadow-[0_0_15px_rgba(16,185,129,0.3)]" 
-								: dateInfo.diffDays === 1
-									? "bg-orange-600 border-orange-400/20 shadow-[0_0_15px_rgba(234,88,12,0.3)]"
-									: dateInfo.diffDays === 2
-										? "bg-yellow-600 border-yellow-400/20 shadow-[0_0_15px_rgba(202,138,4,0.3)]"
-										: dateInfo.diffDays <= 7
-											? "bg-sky-600 border-sky-400/20 shadow-[0_0_15px_rgba(56,189,248,0.3)]"
-											: "bg-gray-600 border-gray-400/20"
-						} text-zinc-950 text-[10px] sm:text-[11px] font-black px-2.5 py-1 rounded-sm uppercase tracking-wide flex items-center gap-0.5 border whitespace-nowrap ${dateInfo.diffDays <= 7 ? "animate-pulse-bright" : ""}`}>
-							<Sparkles className="w-2.5 h-2.5" />
-							{dateInfo.label}
-						</span>
-					)}
+
 				</div>
 
 				{task.stage === "upcoming" ? (
@@ -172,20 +157,22 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 						</span>
 					</div>
 
-					{task.stage === "finished" && task.endDateTime && (
+					{dateInfo && (
 						<div className="flex flex-wrap items-center justify-end gap-x-3 gap-y-2">
-							<p className="text-[12px] sm:text-[13px] bg-black text-gray-300 flex items-center gap-2 px-3 py-1 rounded-md w-fit border border-white/5 shadow-inner">
-								<Check className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-emerald-500" />
-								<span className="whitespace-nowrap">
-									Completed{" "}
-									<span className="text-white font-semibold">
-										{new Date(task.endDateTime).toLocaleDateString("en-US", {
-											month: "short",
-											day: "numeric",
-										})}
-									</span>
-								</span>
-							</p>
+							<span className={`${
+								dateInfo.diffDays === 0 
+									? "bg-emerald-600 border-emerald-400/20 shadow-[0_0_15px_rgba(16,185,129,0.3)]" 
+									: dateInfo.diffDays === 1
+										? "bg-orange-600 border-orange-400/20 shadow-[0_0_15px_rgba(234,88,12,0.3)]"
+										: dateInfo.diffDays === 2
+											? "bg-yellow-600 border-yellow-400/20 shadow-[0_0_15px_rgba(202,138,4,0.3)]"
+											: dateInfo.diffDays <= 7
+												? "bg-sky-600 border-sky-400/20 shadow-[0_0_15px_rgba(56,189,248,0.3)]"
+												: "bg-gray-600 border-gray-400/20"
+							} text-zinc-950 text-[10px] sm:text-[11px] font-black px-2.5 py-1 rounded-sm uppercase tracking-wide flex items-center gap-0.5 border whitespace-nowrap ${dateInfo.diffDays <= 7 ? "animate-pulse-bright" : ""}`}>
+								<Sparkles className="w-2.5 h-2.5" />
+								{dateInfo.label}
+							</span>
 						</div>
 					)}
 				</div>
