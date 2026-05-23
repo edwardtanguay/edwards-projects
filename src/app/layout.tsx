@@ -27,9 +27,9 @@ export const metadata: Metadata = {
     siteName: "Edward's Projects",
     images: [
       {
-        url: "https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg",
-        width: 235,
-        height: 228,
+        url: "https://edwards-projects.vercel.app/images/seo-thumbnail.png",
+        width: 256,
+        height: 256,
         alt: "Edward's Projects - all my projects"
       },
     ],
@@ -41,12 +41,12 @@ export const metadata: Metadata = {
     site: "@edwardtanguay",
     title: "Edward's Projects",
     description: "All my projects including starter sites for your quick development needs",
-    images: ["https://edwards-projects.vercel.app/images/about/edward-tanguay.jpg"],
+    images: ["https://edwards-projects.vercel.app/images/seo-thumbnail.png"],
   },
   other: {
-    "og:image:type": "image/jpeg",
-    "og:image:width": "235",
-    "og:image:height": "228",
+    "og:image:type": "image/png",
+    "og:image:width": "256",
+    "og:image:height": "256",
   }
 };
 
