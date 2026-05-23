@@ -52,7 +52,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 			<div className="p-4 flex-1 min-w-0 flex flex-col">
 				<div className="flex justify-between items-start gap-4 mb-2">
 					<div className="flex-1 min-w-0 flex flex-col">
-						<span className="text-[10px] font-bold uppercase tracking-widest text-white mb-0.5">
+						<span className="text-[10px] uppercase tracking-widest text-white mb-0.5">
 							project:
 						</span>
 						<Link
