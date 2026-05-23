@@ -52,7 +52,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 			<div className="p-4 flex-1 min-w-0 flex flex-col">
 				<div className="flex justify-between items-start gap-4 mb-2">
 					<div className="flex-1 min-w-0 flex flex-col">
-						<span className="text-[8px] font-light uppercase tracking-[0.3em] text-white/40 mb-0.5">
+						<span className="text-[10px] font-bold uppercase tracking-widest text-white mb-0.5">
 							project:
 						</span>
 						<Link
@@ -68,7 +68,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 
 				{task.stage === "upcoming" ? (
 					<div className="mt-2 mb-2 bg-black/20 border-y border-white/5 py-2 px-4 -mx-4 flex flex-col">
-						<span className="text-[8px] font-light uppercase tracking-[0.3em] text-white/40 mb-0.5">
+						<span className="text-[10px] font-bold uppercase tracking-widest text-white mb-0.5">
 							task:
 						</span>
 						<h2 className="text-sm font-medium text-orange-300/90 line-clamp-2 leading-snug">
@@ -78,7 +78,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 				) : (
 					<div className={`mt-2 ${(task.points && task.points.length > 0) ? "mb-5" : "mb-2"} bg-black/40 border-y border-white/5 py-3 px-4 -mx-4 flex items-start justify-between gap-3 group/title shadow-inner`}>
 						<div className="flex flex-col flex-1 min-w-0">
-							<span className="text-[8px] font-light uppercase tracking-[0.3em] text-white/40 mb-0.5">
+							<span className="text-[10px] font-bold uppercase tracking-widest text-white mb-0.5">
 								task:
 							</span>
 							<h2 className="text-xl font-bold text-transparent bg-clip-text bg-linear-to-r from-amber-200 to-amber-500 uppercase tracking-tighter leading-tight drop-shadow-[0_2px_4px_rgba(0,0,0,0.9)] group-hover/title:from-white group-hover/title:to-amber-200 transition-all duration-500">
