@@ -1,7 +1,7 @@
 [
 	{
 		"projectIdCode": "eb",
-		"suuid": "30Cd0q",
+		"suuid": "mQM059",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create base app",
@@ -15,7 +15,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "zwbg9n",
+		"suuid": "nWF5kc",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "change SEO image to screenshot",
@@ -29,7 +29,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "7ZX5Fh",
+		"suuid": "dsjsHE",
 		"stage": "current",
 		"kind": "feature",
 		"title": "Create single-task page",
@@ -43,7 +43,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "j87Euc",
+		"suuid": "OdU3zT",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create Starter and Sandbox Sites",
@@ -57,7 +57,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "bfMR8y",
+		"suuid": "tahd08",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make finished-task page",
@@ -71,7 +71,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "ZqA7Ca",
+		"suuid": "Nu8FxQ",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make projects default hidden",
@@ -85,7 +85,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "b3Jvvx",
+		"suuid": "4Om243",
 		"stage": "upcoming",
 		"kind": "fix",
 		"title": "No rank on current task",
@@ -99,7 +99,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "3d64Z0",
+		"suuid": "bU1DDU",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Front page stats",
@@ -113,7 +113,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "p11g66",
+		"suuid": "s5AOp3",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Implement versions",
@@ -127,7 +127,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "BFztXH",
+		"suuid": "ICfs8X",
 		"stage": "upcoming",
 		"kind": "fix",
 		"title": "Resolve button/click issues",
@@ -141,7 +141,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "wz5rzH",
+		"suuid": "oEsYOR",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Display site tech as backend and frontend",
@@ -155,7 +155,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "Kf74uZ",
+		"suuid": "QwFSAt",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Enable display sort for each page with rank",
@@ -169,7 +169,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "6DE57Q",
+		"suuid": "6in33l",
 		"stage": "upcoming",
 		"kind": "content",
 		"title": "Import more sites",
@@ -183,7 +183,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "uJk6MC",
+		"suuid": "i3iLld",
 		"stage": "upcoming",
 		"kind": "organize",
 		"title": "Clean up all current files, all in edwards-projects",
@@ -197,7 +197,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "XEU9eK",
+		"suuid": "Or4BtI",
 		"stage": "upcoming",
 		"kind": "clean",
 		"title": "Remove all unused images",
@@ -211,7 +211,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "8Xh8fj",
+		"suuid": "ksP50a",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add SEO info and thumbnail",
@@ -225,7 +225,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "QMBZKq",
+		"suuid": "87SaHg",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make project rank and rank on home page",
@@ -239,7 +239,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "7pEecV",
+		"suuid": "RSqMhX",
 		"stage": "upcoming",
 		"kind": "fix",
 		"title": "Resolve \"ix feature\" on Upcoming Tasks page",
@@ -253,7 +253,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "omf1Y4",
+		"suuid": "KGaaDW",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Parse markdown for description texts",
@@ -267,7 +267,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "M2ZD6B",
+		"suuid": "pSDFP1",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Show number of projects and calculate centrally",
@@ -281,7 +281,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "IRTbfh",
+		"suuid": "KyqScc",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Show gifs with descriptions",
@@ -295,7 +295,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "rQw9Dj",
+		"suuid": "xxzJgS",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Implement validation on parse",
@@ -309,7 +309,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "SZSgj4",
+		"suuid": "ZfCa1b",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "On project component, cut off description and warn",
@@ -323,7 +323,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "VtakPV",
+		"suuid": "eIjZyX",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add dates globally to give up-to-date vibe to site",
@@ -337,7 +337,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "DHYssG",
+		"suuid": "ZwNuES",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make mobile/desktop toggle",
@@ -351,7 +351,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "v26wEP",
+		"suuid": "fMVW6H",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add stats as graphics on front page",
@@ -365,7 +365,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "BaJTLs",
+		"suuid": "kOHkoZ",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Show example of data files on about page",
@@ -379,7 +379,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "jFf61m",
+		"suuid": "EXXxco",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Display descriptions on e.g. starts, showcases (what they are)",
@@ -393,7 +393,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "WbZQk1",
+		"suuid": "RLAfof",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Enable link to branch",
@@ -407,7 +407,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "yB3jz0",
+		"suuid": "2WDFfA",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Enable link to commit to be saved",
@@ -421,7 +421,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "sLtAxG",
+		"suuid": "hFr3vD",
 		"stage": "upcoming",
 		"kind": "dev",
 		"title": "Clean up mode and status",
@@ -435,7 +435,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "aDq529",
+		"suuid": "QxCsHH",
 		"stage": "upcoming",
 		"kind": "content",
 		"title": "Add rest of projects",
@@ -449,7 +449,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "jL47qn",
+		"suuid": "OHRBuc",
 		"stage": "upcoming",
 		"kind": "featuer",
 		"title": "Implement global search",
@@ -463,7 +463,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "vpKLrX",
+		"suuid": "SSLWX7",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make single project view with permalink",
@@ -477,7 +477,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "e8cpzb",
+		"suuid": "UvNKKF",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make dummy data for repository",
@@ -491,7 +491,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "Fd4wlv",
+		"suuid": "y2Z67O",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create \"npm run audit\" to find all missing information",
@@ -505,7 +505,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "KbZglT",
+		"suuid": "3G08yB",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Created \"Language Projects\" page",
@@ -524,7 +524,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "FcaP5T",
+		"suuid": "P7IZCh",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Restructured About page",
@@ -542,7 +542,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "xNByLH",
+		"suuid": "GsijSX",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Show progress on start page",
@@ -556,7 +556,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "9mghSK",
+		"suuid": "SYnO1x",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add content for two react showcase sites",
@@ -570,7 +570,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "CEmOao",
+		"suuid": "mt8aFI",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Import internal and fast follow into site, some layout fixes",
@@ -584,7 +584,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "MWx3Ig",
+		"suuid": "Q4VxRI",
 		"stage": "finished",
 		"kind": "content",
 		"title": "Add moparser and techlanglearn sites",
@@ -598,7 +598,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "oXKetp",
+		"suuid": "gSjslu",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add two language sites",
@@ -612,7 +612,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "D4iARg",
+		"suuid": "qwp8eI",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Import three sites and new pages: premier and transitional",
@@ -626,7 +626,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "MtKETr",
+		"suuid": "rLJXP1",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Import Edward's personal page, add live projects page",
@@ -640,7 +640,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "gMnynq",
+		"suuid": "gYGjmt",
 		"stage": "finished",
 		"kind": "content",
 		"title": "Import Datapod site",
@@ -654,7 +654,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "tXniPT",
+		"suuid": "Afbtio",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Implement shortTitle, legacy page, markdown",
@@ -668,7 +668,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "NB8UCa",
+		"suuid": "M8uscm",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Brighten mobile view",
@@ -682,7 +682,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "LHGLql",
+		"suuid": "CtNN2s",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "Resolve mobile display issue of title and cards",
@@ -696,7 +696,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "evGvUh",
+		"suuid": "GnYGZp",
 		"stage": "upcoming",
 		"kind": "ix feature",
 		"title": "Change colors and standardize font sizes",
@@ -710,7 +710,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "KTz68p",
+		"suuid": "025col",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Simplify screenshot in mobile view",
@@ -724,7 +724,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "WVGZeA",
+		"suuid": "b6xCj9",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "On mobile view show desktop image",
@@ -738,7 +738,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "114Emv",
+		"suuid": "PvGLk9",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "Resolve mobile display issues with project component",
@@ -752,7 +752,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "pjuO6p",
+		"suuid": "usdz8a",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Make single and multiple project pages ready for project import",
@@ -766,7 +766,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "L5X2wV",
+		"suuid": "u9R9Uf",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add style and content improvements after design upgrade",
@@ -780,7 +780,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "zQ5ocH",
+		"suuid": "02TcMW",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Convert Nuxt to Next.js and upgrade to modern site layout",
@@ -794,7 +794,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "awxFgF",
+		"suuid": "AZ4QsW",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add rank to tasks and sort more important first",
@@ -808,7 +808,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "KgRmO7",
+		"suuid": "dSFCwh",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Show three of each kind of tasks: current, upcoming, finished",
@@ -822,7 +822,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "sCOzhK",
+		"suuid": "tQ3MhE",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Process and display all tasks basic data",
@@ -836,7 +836,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "hlC3KD",
+		"suuid": "7w56gM",
 		"stage": "finished",
 		"kind": "base",
 		"title": "Create minimal site and put online",
@@ -850,7 +850,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "jkrf3I",
+		"suuid": "naYD2r",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Enable second file to be processed and combine projects",
@@ -864,7 +864,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "0Fd73l",
+		"suuid": "5G5VWj",
 		"stage": "finished",
 		"kind": "decision",
 		"title": "Decide on best name \"start\" or \"starter\"",
@@ -878,7 +878,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "ZHXay1",
+		"suuid": "0IQnYr",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Show start sites",
@@ -892,7 +892,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "3pFpav",
+		"suuid": "6OhUDs",
 		"stage": "finished",
 		"kind": "content",
 		"title": "Add showcase-typo3",
@@ -906,7 +906,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "rBvrfC",
+		"suuid": "xLFJke",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create all current images",
@@ -920,7 +920,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "D8GAkq",
+		"suuid": "L7UNsD",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Show image if exists",
@@ -934,7 +934,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "xgieA4",
+		"suuid": "qIebRb",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Make Responsive",
@@ -948,7 +948,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "RLTVfx",
+		"suuid": "orOwWz",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Implement categories",
@@ -962,7 +962,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "3omWPS",
+		"suuid": "YmaM6z",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create active, planning and stable project sections",
@@ -976,7 +976,7 @@
 	},
 	{
 		"projectIdCode": "edwards-projects",
-		"suuid": "S5jxnA",
+		"suuid": "HN1qfj",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Process first data file, list frontend idcodes",
@@ -990,7 +990,7 @@
 	},
 	{
 		"projectIdCode": "fastfollow",
-		"suuid": "drrpiR",
+		"suuid": "lGSGn2",
 		"stage": "upcoming",
 		"kind": "fix",
 		"title": "On about page put tech used",
@@ -1004,7 +1004,7 @@
 	},
 	{
 		"projectIdCode": "fastfollow",
-		"suuid": "M04Nmg",
+		"suuid": "mGW9aM",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add technologies and show number",
@@ -1018,7 +1018,7 @@
 	},
 	{
 		"projectIdCode": "fastfollow",
-		"suuid": "F26jsH",
+		"suuid": "OOpUUy",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add QR-Code to about page",
@@ -1032,7 +1032,7 @@
 	},
 	{
 		"projectIdCode": "fastfollow",
-		"suuid": "ll5FLi",
+		"suuid": "tFMU2V",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Upgrade to Next.js/Go Datapod",
@@ -1046,7 +1046,7 @@
 	},
 	{
 		"projectIdCode": "fastfollow",
-		"suuid": "qTsZYG",
+		"suuid": "RSvpNR",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Parse topics and show on page",
@@ -1060,7 +1060,7 @@
 	},
 	{
 		"projectIdCode": "fastfollow",
-		"suuid": "cpwODC",
+		"suuid": "IEf9Io",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Adjust splash page for mobile",
@@ -1074,7 +1074,7 @@
 	},
 	{
 		"projectIdCode": "fastfollow",
-		"suuid": "n4FgEo",
+		"suuid": "i7anv1",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Rebase site on Datapod for Next.js/Go (dark)",
@@ -1088,7 +1088,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "S2BZHI",
+		"suuid": "upkm5J",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add Supabase/Prisma page",
@@ -1102,7 +1102,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "ZQVI4T",
+		"suuid": "T9IOLo",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add Zod to .env variables",
@@ -1116,7 +1116,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "Vdyjwg",
+		"suuid": "VOcorG",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add features from CJ videos",
@@ -1130,7 +1130,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "p60WJJ",
+		"suuid": "umtC1b",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Fix title click to close menu",
@@ -1144,7 +1144,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "GBvYUh",
+		"suuid": "1n0okM",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Implement all \"useNnnn()\" from workapp",
@@ -1158,7 +1158,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "2OzP7u",
+		"suuid": "EEOQU4",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "On mobile, show page",
@@ -1172,7 +1172,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "UZDhoU",
+		"suuid": "72ryze",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Implement free online database that works online",
@@ -1186,7 +1186,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "YSAePC",
+		"suuid": "XQXtLq",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Make customer page with useFetch",
@@ -1200,7 +1200,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "G8skmp",
+		"suuid": "VipE2y",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add message for CRUD page",
@@ -1214,7 +1214,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "wgS9hj",
+		"suuid": "pHJ8pC",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Make employees CRUD page",
@@ -1228,7 +1228,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "rC5igq",
+		"suuid": "lZX2Nk",
 		"stage": "finished",
 		"kind": "dev",
 		"title": "Add readme note about features",
@@ -1242,7 +1242,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "Cmw48s",
+		"suuid": "BH7ZTs",
 		"stage": "finished",
 		"kind": "dev",
 		"title": "Add readme link to projects",
@@ -1256,7 +1256,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "JD9hDf",
+		"suuid": "PKjvJM",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "Correct API error messages on Vercel",
@@ -1270,7 +1270,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "e2RD53",
+		"suuid": "mgIh6W",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create form page and fill pages",
@@ -1284,7 +1284,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "MYY0op",
+		"suuid": "84wOkZ",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create Nuxt UI site with three example components",
@@ -1298,7 +1298,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "6PnTxt",
+		"suuid": "HgkkNX",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Convert to app folder and nuxt/ui, dark/light",
@@ -1312,7 +1312,7 @@
 	},
 	{
 		"projectIdCode": "showcase-nuxt-003",
-		"suuid": "gN1mCS",
+		"suuid": "D1TzSC",
 		"stage": "finished",
 		"kind": "base",
 		"title": "BASE: Modern, responsive, light, menu design, tailwind",
@@ -1326,7 +1326,7 @@
 	},
 	{
 		"projectIdCode": "tinfo",
-		"suuid": "ZukgSC",
+		"suuid": "11AlTz",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add bulk of secondary links",
@@ -1340,7 +1340,21 @@
 	},
 	{
 		"projectIdCode": "tinfo",
-		"suuid": "Y8TLTm",
+		"suuid": "QiCx8j",
+		"stage": "finished",
+		"kind": "feature",
+		"title": "Add other projects and about section",
+		"beginDateTime": "2026-05-23 02:19:50",
+		"endDateTime": "2026-05-23 02:51:01",
+		"branch": "feature-other-projects",
+		"rank": 2.5,
+		"slug": "feature-other-projects",
+		"points": [],
+		"slugImage": ""
+	},
+	{
+		"projectIdCode": "tinfo",
+		"suuid": "V0mcsZ",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add second section \"my past sites\"",
@@ -1354,7 +1368,7 @@
 	},
 	{
 		"projectIdCode": "tinfo",
-		"suuid": "gYCWlb",
+		"suuid": "d8xtBL",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "FEATURE: Give site retro colors and add SEO",
@@ -1368,7 +1382,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "XToNn9",
+		"suuid": "AL2C7U",
 		"stage": "current",
 		"kind": "feature",
 		"title": "Dmop development with Gardasee site",
@@ -1382,7 +1396,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "fA9noT",
+		"suuid": "eFoETg",
 		"stage": "upcoming",
 		"kind": "fix",
 		"title": "Make dmop default path relative",
@@ -1396,7 +1410,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "HLujFo",
+		"suuid": "BDF5CO",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Implement Data Types",
@@ -1410,7 +1424,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "dWWjwO",
+		"suuid": "YefgIB",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Process language notes",
@@ -1424,7 +1438,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "bEjWuQ",
+		"suuid": "Tabhx2",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Force notation page",
@@ -1438,7 +1452,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "cE4nUk",
+		"suuid": "mkJFsf",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create script to list npm scripts",
@@ -1452,7 +1466,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "GhsCY3",
+		"suuid": "dtK63v",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Generize feature",
@@ -1466,7 +1480,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "piti5j",
+		"suuid": "FcP4MB",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "various",
@@ -1480,7 +1494,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "bBpN7z",
+		"suuid": "PGgBzH",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Harden and make compatible",
@@ -1494,7 +1508,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "wG57u9",
+		"suuid": "dOdkjN",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create dev panel",
@@ -1508,7 +1522,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "fUpMem",
+		"suuid": "CCc1pi",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Comment feature",
@@ -1522,7 +1536,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "bkocro",
+		"suuid": "eX2daa",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Show items on frontend",
@@ -1536,7 +1550,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "Rk5nar",
+		"suuid": "2V7Sdl",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "CRUD on frontend",
@@ -1550,7 +1564,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "s2WaC2",
+		"suuid": "Vbq3Jm",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add dpodExtras field",
@@ -1564,7 +1578,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "9zahFd",
+		"suuid": "87ejaG",
 		"stage": "upcoming",
 		"kind": "dev",
 		"title": "Implement qtool testing",
@@ -1578,7 +1592,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "nItG9r",
+		"suuid": "2LFfe1",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Advance dmops with HM site",
@@ -1592,7 +1606,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "R8hLHH",
+		"suuid": "4lSWCX",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Implemented dmops item type",
@@ -1611,7 +1625,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "h5OBBH",
+		"suuid": "3BrNvS",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Created paragraphize-test script",
@@ -1627,7 +1641,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "ZRYYiD",
+		"suuid": "NSEllk",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Parse data to JSON files and show on frontend",
@@ -1641,7 +1655,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "WFnnaI",
+		"suuid": "y878q2",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create schemas and dynamic files",
@@ -1655,7 +1669,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "tVuCeJ",
+		"suuid": "xGvKCI",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create debugging for parsing and notations",
@@ -1669,7 +1683,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "dSAL14",
+		"suuid": "44qheI",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Implement HTML debugging",
@@ -1683,7 +1697,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "P5A49e",
+		"suuid": "fZxGbw",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Remove all pages except Home and About",
@@ -1697,7 +1711,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "5wg5sY",
+		"suuid": "VgjRRU",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add Info Page",
@@ -1711,7 +1725,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "4stjVz",
+		"suuid": "g2ozMw",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Simplify env",
@@ -1725,7 +1739,7 @@
 	},
 	{
 		"projectIdCode": "datapod-typescript-nuxt",
-		"suuid": "OhoIDL",
+		"suuid": "f8QVBy",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create publish-ready site",
@@ -1739,7 +1753,7 @@
 	},
 	{
 		"projectIdCode": "datapod-tanguay-eu",
-		"suuid": "vxiwp7",
+		"suuid": "gdSKL2",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Upgrade site to Angular 21 / Elixir Datapod framework",
@@ -1753,7 +1767,7 @@
 	},
 	{
 		"projectIdCode": "datapod-tanguay-eu",
-		"suuid": "PLgixF",
+		"suuid": "RBanyn",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Add Next.js/Go datapod entry",
@@ -1767,7 +1781,7 @@
 	},
 	{
 		"projectIdCode": "techlanglearn003",
-		"suuid": "SY2okH",
+		"suuid": "pqxciQ",
 		"stage": "upcoming",
 		"kind": "dev",
 		"title": "Standardize branch from dev to main",
@@ -1781,7 +1795,7 @@
 	},
 	{
 		"projectIdCode": "techlanglearn003",
-		"suuid": "ugr0hE",
+		"suuid": "AOcbHj",
 		"stage": "upcoming",
 		"kind": "dev",
 		"title": "Update Go backend to current component standards",
@@ -1795,7 +1809,7 @@
 	},
 	{
 		"projectIdCode": "techlanglearn003",
-		"suuid": "V2X6fA",
+		"suuid": "QFhgiI",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Expand times on youtube videos to hours",
@@ -1809,7 +1823,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "tC2uzS",
+		"suuid": "BZX8zb",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "New flashcard import/organization solution for all languages",
@@ -1823,7 +1837,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "BxHjjg",
+		"suuid": "J0nWXv",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Copy raw text to create dynamic texts",
@@ -1837,7 +1851,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "kUC9mN",
+		"suuid": "HVHh6R",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Google-Translate Quiz",
@@ -1851,7 +1865,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "k0FVmE",
+		"suuid": "hgejnr",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add books",
@@ -1865,7 +1879,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "0Syi2k",
+		"suuid": "2bKqVx",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Collection prompts for gemini quizzes",
@@ -1879,7 +1893,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "GDSX7O",
+		"suuid": "9ugfty",
 		"stage": "upcoming",
 		"kind": "fix",
 		"title": "Resolve issues on welcome page from last restyling",
@@ -1893,7 +1907,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "yqgDD5",
+		"suuid": "34Uqp0",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Identify fluency first phrases",
@@ -1907,7 +1921,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "w1uswC",
+		"suuid": "ajzzE3",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "flashcard page rank slider",
@@ -1921,7 +1935,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "PNfeiU",
+		"suuid": "aXYulW",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create pronunciation flashcard page",
@@ -1935,7 +1949,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "4H3OIE",
+		"suuid": "ZzYmIC",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Improve UX of pronuncation flashcards",
@@ -1949,7 +1963,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "897nNZ",
+		"suuid": "iG89Ba",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "Make button press wait a second",
@@ -1963,7 +1977,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "6w8AMB",
+		"suuid": "GT8CnV",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Animate next card into place",
@@ -1977,7 +1991,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "ktrZTx",
+		"suuid": "Q97umR",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "Cards always flip now",
@@ -1991,7 +2005,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "th01uA",
+		"suuid": "CgzS1s",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create page transcribe videos",
@@ -2005,7 +2019,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "HPtgse",
+		"suuid": "5KI7Al",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make language basics quiz with localstorage",
@@ -2019,7 +2033,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "brwm8f",
+		"suuid": "2Lx43t",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make \"Italian Conjugation\" page",
@@ -2033,7 +2047,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "yltRgK",
+		"suuid": "FVpHAQ",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Speed up parsing",
@@ -2047,7 +2061,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "U9JYW8",
+		"suuid": "LZU1cJ",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make a quiz for each audio",
@@ -2061,7 +2075,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "4BdpH6",
+		"suuid": "SMCpdR",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Along show the last 30 days",
@@ -2075,7 +2089,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "p2mFuM",
+		"suuid": "gIOmwN",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create one-file for Italian and parse",
@@ -2089,7 +2103,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "RwyBNB",
+		"suuid": "9XsfPx",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make Learn Bits page",
@@ -2103,7 +2117,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "w9yU2r",
+		"suuid": "V8pvLA",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make quiz that shows day's text with missing words",
@@ -2117,7 +2131,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "Aev0vr",
+		"suuid": "W3vQIm",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make quiz to test how to say the letters in every language",
@@ -2131,7 +2145,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "Fkm0Zi",
+		"suuid": "EytVkX",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make quiz to test how to say the days of the week in every language",
@@ -2145,7 +2159,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "NxfXW7",
+		"suuid": "olaD63",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make list of tips on recording in readme",
@@ -2159,7 +2173,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "iA3db0",
+		"suuid": "Mn9lyS",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make a 3D action game like lluvia-de-palabras",
@@ -2173,7 +2187,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "sZq9kv",
+		"suuid": "izjCft",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create page to practice pronunciation",
@@ -2187,7 +2201,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "NsvMuE",
+		"suuid": "APMzeo",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Integrate pronuncation items into story creation",
@@ -2201,7 +2215,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "c4PUSU",
+		"suuid": "VUiHE8",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Integrate random standard practice into story creation",
@@ -2215,7 +2229,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "xPagyk",
+		"suuid": "mwomVt",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Upgrade to modern design",
@@ -2229,7 +2243,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "wkLHpE",
+		"suuid": "FMPgRw",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make basic frontend for creation process",
@@ -2243,7 +2257,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "nbKqde",
+		"suuid": "sDGqbo",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Enable simple and basic stories for weak languages",
@@ -2257,7 +2271,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "1CzSo5",
+		"suuid": "glkLFa",
 		"stage": "upcoming",
 		"kind": "fix",
 		"title": "Resolve the first letter issue in the French text data file",
@@ -2271,7 +2285,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "3gkV6n",
+		"suuid": "58tXeH",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create pronunciation quiz",
@@ -2285,7 +2299,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "9ZduSJ",
+		"suuid": "YCx5Ak",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make -ere past participle quiz for Italian",
@@ -2299,7 +2313,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "yyfBra",
+		"suuid": "EELXDm",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create fill-in-blank quiz",
@@ -2313,7 +2327,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "epMXR3",
+		"suuid": "t4FEuJ",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create Italian past tense quiz",
@@ -2327,7 +2341,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "Ysectm",
+		"suuid": "dEBbjr",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create CLI command to copy latest files for each language to MP3 stick",
@@ -2341,7 +2355,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "xXNGwv",
+		"suuid": "6p7AHb",
 		"stage": "upcoming",
 		"kind": "dev",
 		"title": "Update readme",
@@ -2355,7 +2369,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "0waIz8",
+		"suuid": "rVj2gq",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create CLI command that automates process of creating a text from the google spreadsheet",
@@ -2369,7 +2383,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "UQi44c",
+		"suuid": "LCyt1Y",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create page for pronunciation notes",
@@ -2383,7 +2397,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "fA9trR",
+		"suuid": "FRCo7Z",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "update to newest datapod-for-go version (qtools etc.)",
@@ -2397,7 +2411,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "iq2Zaj",
+		"suuid": "zxCUkd",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "Show English in Google audio link",
@@ -2411,7 +2425,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "3rHHt4",
+		"suuid": "BeROJL",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "Make contrast more visible on mobile",
@@ -2425,7 +2439,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "eax9ai",
+		"suuid": "WDmpWu",
 		"stage": "finished",
 		"kind": "fix",
 		"title": "Make various mobile layout improvements",
@@ -2439,7 +2453,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "YOliAp",
+		"suuid": "PMvlFg",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "improve flashcard page styling/design",
@@ -2453,7 +2467,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "AIjMfM",
+		"suuid": "ZKRie7",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Create flashcard page",
@@ -2467,7 +2481,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "1w9znD",
+		"suuid": "5v0XCW",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Streamline story creation",
@@ -2481,7 +2495,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "4KQHYv",
+		"suuid": "LvNVZ8",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Order import listing by number of phrases",
@@ -2495,7 +2509,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "lTQ9X1",
+		"suuid": "e7MhsI",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Use most recent phrases first",
@@ -2509,7 +2523,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "HdXEVu",
+		"suuid": "lIFI5G",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "CLI command \"cpf\" creates prompt files for all languages",
@@ -2523,7 +2537,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "2AfGOF",
+		"suuid": "Z6iSt8",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Enable 10 100 to be sent as params, with defaults if not sent",
@@ -2537,7 +2551,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "aPD48D",
+		"suuid": "qpgKPC",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "For command npm run cpg fr, randomize order of phrases",
@@ -2551,7 +2565,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "oIxPcY",
+		"suuid": "PkdQG9",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Show history of phrases for \"cpf\"",
@@ -2565,7 +2579,7 @@
 	},
 	{
 		"projectIdCode": "comprehensible-output",
-		"suuid": "FF3h0D",
+		"suuid": "nrIXz1",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Implement script to create prompts from google translate phrases",
@@ -2579,7 +2593,7 @@
 	},
 	{
 		"projectIdCode": "showcase-react",
-		"suuid": "sEjrZ0",
+		"suuid": "zJIiJY",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Implement modern design",
@@ -2593,7 +2607,7 @@
 	},
 	{
 		"projectIdCode": "showcase-react",
-		"suuid": "Nje7Ed",
+		"suuid": "n7LWuJ",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Implement demo page for i18n",
@@ -2607,7 +2621,7 @@
 	},
 	{
 		"projectIdCode": "showcase-react-001",
-		"suuid": "pw1ON8",
+		"suuid": "6KFJmg",
 		"stage": "upcoming",
 		"kind": "dev",
 		"title": "Merge into React Showcase",
@@ -2621,7 +2635,7 @@
 	},
 	{
 		"projectIdCode": "etnotes",
-		"suuid": "rJWqD6",
+		"suuid": "vbjv74",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "remake as new Datapod site",
@@ -2635,7 +2649,7 @@
 	},
 	{
 		"projectIdCode": "edward-tanguay-eu",
-		"suuid": "PlrZLX",
+		"suuid": "QBUQNL",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Upgrade to Ruby/SvelteKit site.",
@@ -2649,7 +2663,7 @@
 	},
 	{
 		"projectIdCode": "innergo",
-		"suuid": "CyFnrm",
+		"suuid": "KdQWAb",
 		"stage": "upcoming",
 		"kind": "chore",
 		"title": "Reoganize edward\\projects\\notesdpod",
@@ -2663,7 +2677,7 @@
 	},
 	{
 		"projectIdCode": "innergo",
-		"suuid": "i2ltGv",
+		"suuid": "YG0XqU",
 		"stage": "finished",
 		"kind": "feature",
 		"title": "Set up data files and repo",
