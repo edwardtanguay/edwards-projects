@@ -5,11 +5,13 @@ import { Check, Sparkles, Zap, Star, BadgeCheck, CircleCheckBig } from "lucide-r
 import Link from "next/link";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import projects from "../../parseddata/projects.json";
 
 import Stars from "./Stars";
 
 export default function Task({ task, imageMobile }: { task: TaskData, imageMobile?: string }) {
 	const router = useRouter();
+	const project = projects.find((p) => p.idCode === task.projectIdCode);
 
 	const handleCardClick = () => {
 		router.push(`/project/${task.projectIdCode}`);
@@ -49,16 +51,15 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 			)}
 			<div className="p-4 flex-1 min-w-0 flex flex-col">
 				<div className="flex justify-between items-start gap-4 mb-2">
-					<p className="text-sm text-gray-300">
-						Project:{" "}
+					<div className="flex-1 min-w-0">
 						<Link
 							onClick={(e) => e.stopPropagation()}
 							href={`/project/${task.projectIdCode}`}
-							className="text-orange-300 font-medium underline md:no-underline decoration-orange-300/30 underline-offset-4 hover:underline"
+							className="text-lg font-bold text-orange-400 hover:text-orange-300 transition-colors truncate block"
 						>
-							{task.projectIdCode}
+							{project ? project.title : task.projectIdCode}
 						</Link>
-					</p>
+					</div>
 					{dateInfo && (
 						<span className={`${
 							dateInfo.diffDays === 0 
@@ -79,7 +80,7 @@ export default function Task({ task, imageMobile }: { task: TaskData, imageMobil
 
 				{task.stage === "upcoming" ? (
 					<div className="mt-2 mb-2 bg-black/20 border-y border-white/5 py-2 px-4 -mx-4">
-						<h2 className="text-sm font-medium text-blue-100 line-clamp-2 leading-snug">
+						<h2 className="text-sm font-medium text-orange-300/90 line-clamp-2 leading-snug">
 							{task.title}
 						</h2>
 					</div>
