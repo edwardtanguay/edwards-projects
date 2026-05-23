@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "Qfg2Wh",
+		"suuid": "9N3xcL",
 		"idCode": "eb",
 		"title": "Einb\u00fcrgerungstest App",
 		"shortTitle": "Einb\u00fcrgerungstest App",
@@ -25,7 +25,7 @@
 		]
 	},
 	{
-		"suuid": "v224y0",
+		"suuid": "eevNBV",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -51,7 +51,7 @@
 		]
 	},
 	{
-		"suuid": "dhKiQ9",
+		"suuid": "WcfXiD",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -72,7 +72,7 @@
 		]
 	},
 	{
-		"suuid": "ADilHs",
+		"suuid": "FkZcde",
 		"idCode": "showcase-nuxt-003",
 		"title": "Nuxt Showcase",
 		"shortTitle": "Nuxt Showcase",
@@ -99,10 +99,10 @@
 		]
 	},
 	{
-		"suuid": "9voFqK",
+		"suuid": "GZzI0W",
 		"idCode": "tinfo",
-		"title": "Tanguay.info",
-		"shortTitle": "Tanguay.info",
+		"title": "Tanguay.info Site",
+		"shortTitle": "Tanguay.info Site",
 		"description": "This is a quick HTML landing page for all of my projects, from my newest projects back to sites I had in the 90s. If you're looking for something of mine, you'll find it here.",
 		"status": "(fill in status)",
 		"mode": "open",
@@ -123,7 +123,7 @@
 		]
 	},
 	{
-		"suuid": "QswnGf",
+		"suuid": "YtmKyL",
 		"idCode": "datapod-typescript-nuxt",
 		"title": "TypeScript-Nuxt Datapod",
 		"shortTitle": "TypeScript-Nuxt Datapod",
@@ -152,7 +152,7 @@
 		]
 	},
 	{
-		"suuid": "NCNpGG",
+		"suuid": "04zjEt",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -180,7 +180,7 @@
 		]
 	},
 	{
-		"suuid": "wmWSnH",
+		"suuid": "0QB6KS",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -209,7 +209,7 @@
 		]
 	},
 	{
-		"suuid": "Ty4EqW",
+		"suuid": "CrkLSY",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -238,7 +238,7 @@
 		]
 	},
 	{
-		"suuid": "30lLKL",
+		"suuid": "Q5cYDN",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -259,7 +259,7 @@
 		]
 	},
 	{
-		"suuid": "pNnUn6",
+		"suuid": "aveh05",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -280,7 +280,7 @@
 		]
 	},
 	{
-		"suuid": "BY2Xa5",
+		"suuid": "FFmTLl",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -304,7 +304,7 @@
 		]
 	},
 	{
-		"suuid": "uhY1dl",
+		"suuid": "KY0tYu",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -333,7 +333,7 @@
 		]
 	},
 	{
-		"suuid": "m90dG6",
+		"suuid": "22OZtz",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -362,7 +362,7 @@
 		]
 	},
 	{
-		"suuid": "FZMlio",
+		"suuid": "Nr4t9u",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -396,7 +396,7 @@
 		]
 	},
 	{
-		"suuid": "qhzwqw",
+		"suuid": "2QX5wX",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -421,7 +421,7 @@
 		]
 	},
 	{
-		"suuid": "16DeLk",
+		"suuid": "uASQjO",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -446,7 +446,7 @@
 		]
 	},
 	{
-		"suuid": "LX05ar",
+		"suuid": "yKw48l",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -470,7 +470,7 @@
 		]
 	},
 	{
-		"suuid": "OirevN",
+		"suuid": "n93QCP",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
