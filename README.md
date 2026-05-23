@@ -52,3 +52,4 @@ PROJECT_FILE_002 = "../../../maindata/projects_archive.txt"
 
 - desktop: ca. 1300px wide, 730px height - SnagIt CTRL-ALT-SHIFT-6
 - mobile: ca. 350px width, 650px height - SnagIt CTRL-ALT-SHIFT-7
+- task: - SnagIt CTRL-ALT-SHIFT-8
