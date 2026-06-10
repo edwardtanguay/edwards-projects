@@ -1,6 +1,31 @@
 [
 	{
-		"suuid": "9N3xcL",
+		"suuid": "JfMpqI",
+		"idCode": "showcase-payload-002",
+		"title": "Online Payload Showcase",
+		"shortTitle": "Online Payload Showcase",
+		"description": "",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-payload-002",
+		"live": "",
+		"defaultCategory": "premier",
+		"techItems": [],
+		"imageMobile": "",
+		"imageDesktop": "",
+		"categories": [
+			{
+				"idCode": "premier",
+				"shortInfo": "This is a project to get Payload/Astro running on a Hetzner machine."
+			},
+			{
+				"idCode": "showcase",
+				"shortInfo": "This is a showcase project to get Payload/Astro running on a Hetzner machine."
+			}
+		]
+	},
+	{
+		"suuid": "ZtbfkV",
 		"idCode": "eb",
 		"title": "Einb\u00fcrgerungstest App",
 		"shortTitle": "Einb\u00fcrgerungstest App",
@@ -25,7 +50,7 @@
 		]
 	},
 	{
-		"suuid": "eevNBV",
+		"suuid": "oHu0xp",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -51,7 +76,7 @@
 		]
 	},
 	{
-		"suuid": "WcfXiD",
+		"suuid": "AeGB3t",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -72,7 +97,7 @@
 		]
 	},
 	{
-		"suuid": "FkZcde",
+		"suuid": "lwEwbT",
 		"idCode": "showcase-nuxt-003",
 		"title": "Nuxt Showcase",
 		"shortTitle": "Nuxt Showcase",
@@ -99,7 +124,7 @@
 		]
 	},
 	{
-		"suuid": "GZzI0W",
+		"suuid": "BaCFuP",
 		"idCode": "tinfo",
 		"title": "Tanguay.info Site",
 		"shortTitle": "Tanguay.info Site",
@@ -123,7 +148,7 @@
 		]
 	},
 	{
-		"suuid": "YtmKyL",
+		"suuid": "XGfN2P",
 		"idCode": "datapod-typescript-nuxt",
 		"title": "TypeScript-Nuxt Datapod",
 		"shortTitle": "TypeScript-Nuxt Datapod",
@@ -152,7 +177,7 @@
 		]
 	},
 	{
-		"suuid": "04zjEt",
+		"suuid": "mWGguk",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -180,7 +205,7 @@
 		]
 	},
 	{
-		"suuid": "0QB6KS",
+		"suuid": "pHSTgi",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -209,7 +234,7 @@
 		]
 	},
 	{
-		"suuid": "CrkLSY",
+		"suuid": "YP13hB",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -238,7 +263,7 @@
 		]
 	},
 	{
-		"suuid": "Q5cYDN",
+		"suuid": "vHSqT3",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -259,7 +284,7 @@
 		]
 	},
 	{
-		"suuid": "aveh05",
+		"suuid": "8Dl2Wh",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -280,7 +305,7 @@
 		]
 	},
 	{
-		"suuid": "FFmTLl",
+		"suuid": "6SEPqd",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -304,7 +329,7 @@
 		]
 	},
 	{
-		"suuid": "KY0tYu",
+		"suuid": "Jf1kTH",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -333,7 +358,7 @@
 		]
 	},
 	{
-		"suuid": "22OZtz",
+		"suuid": "c2KUay",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -362,7 +387,7 @@
 		]
 	},
 	{
-		"suuid": "Nr4t9u",
+		"suuid": "aqbwQe",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -396,7 +421,7 @@
 		]
 	},
 	{
-		"suuid": "2QX5wX",
+		"suuid": "0DtdLe",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -421,7 +446,7 @@
 		]
 	},
 	{
-		"suuid": "uASQjO",
+		"suuid": "VeYXXc",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -446,7 +471,7 @@
 		]
 	},
 	{
-		"suuid": "yKw48l",
+		"suuid": "pJ9dL2",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -470,7 +495,7 @@
 		]
 	},
 	{
-		"suuid": "n93QCP",
+		"suuid": "TY1ght",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
