@@ -1,31 +1,31 @@
 [
 	{
-		"suuid": "JfMpqI",
+		"suuid": "yrpqlO",
 		"idCode": "showcase-payload-002",
-		"title": "Online Payload Showcase",
-		"shortTitle": "Online Payload Showcase",
-		"description": "",
+		"title": "Payload Showcase 002",
+		"shortTitle": "Payload Showcase 002",
+		"description": "This is a project to get Payload/Astro running locally which an admin can login and change its content.",
 		"status": "(fill in status)",
 		"mode": "open",
 		"repo": "https://github.com/edwardtanguay/showcase-payload-002",
 		"live": "",
 		"defaultCategory": "premier",
 		"techItems": [],
-		"imageMobile": "",
-		"imageDesktop": "",
+		"imageMobile": "/images/projects/showcase-payload-002-mobile.jpg",
+		"imageDesktop": "/images/projects/showcase-payload-002-desktop.jpg",
 		"categories": [
 			{
 				"idCode": "premier",
-				"shortInfo": "This is a project to get Payload/Astro running on a Hetzner machine."
+				"shortInfo": "This is a project to get Payload/Astro running locally which an admin can login and change its content."
 			},
 			{
 				"idCode": "showcase",
-				"shortInfo": "This is a showcase project to get Payload/Astro running on a Hetzner machine."
+				"shortInfo": "This is a showcase project to get Payload/Astro running locally which an admin can login and change its content."
 			}
 		]
 	},
 	{
-		"suuid": "ZtbfkV",
+		"suuid": "Vnz2yf",
 		"idCode": "eb",
 		"title": "Einb\u00fcrgerungstest App",
 		"shortTitle": "Einb\u00fcrgerungstest App",
@@ -50,7 +50,7 @@
 		]
 	},
 	{
-		"suuid": "oHu0xp",
+		"suuid": "0bqEJ9",
 		"idCode": "edwards-projects",
 		"title": "Edward's Projects 2026",
 		"shortTitle": "Edward's Projects 2026",
@@ -76,7 +76,7 @@
 		]
 	},
 	{
-		"suuid": "AeGB3t",
+		"suuid": "y4ZLP0",
 		"idCode": "fastfollow",
 		"title": "Fast Follow Forum",
 		"shortTitle": "Fast Follow Forum",
@@ -97,7 +97,7 @@
 		]
 	},
 	{
-		"suuid": "lwEwbT",
+		"suuid": "vUrQfD",
 		"idCode": "showcase-nuxt-003",
 		"title": "Nuxt Showcase",
 		"shortTitle": "Nuxt Showcase",
@@ -124,7 +124,7 @@
 		]
 	},
 	{
-		"suuid": "BaCFuP",
+		"suuid": "zi4pFO",
 		"idCode": "tinfo",
 		"title": "Tanguay.info Site",
 		"shortTitle": "Tanguay.info Site",
@@ -148,7 +148,7 @@
 		]
 	},
 	{
-		"suuid": "XGfN2P",
+		"suuid": "pQS3rW",
 		"idCode": "datapod-typescript-nuxt",
 		"title": "TypeScript-Nuxt Datapod",
 		"shortTitle": "TypeScript-Nuxt Datapod",
@@ -177,7 +177,7 @@
 		]
 	},
 	{
-		"suuid": "mWGguk",
+		"suuid": "AbIXvh",
 		"idCode": "datapod-tanguay-eu",
 		"title": "Datapod Central 2026",
 		"shortTitle": "Datapod Central 2026",
@@ -205,7 +205,7 @@
 		]
 	},
 	{
-		"suuid": "pHSTgi",
+		"suuid": "WlvSDu",
 		"idCode": "techlanglearn003",
 		"title": "Tech/Language Learner",
 		"shortTitle": "Tech/Language Learner",
@@ -234,7 +234,7 @@
 		]
 	},
 	{
-		"suuid": "YP13hB",
+		"suuid": "wRVwnY",
 		"idCode": "comprehensible-output",
 		"title": "Comprehensible Input",
 		"shortTitle": "Comprehensible Input",
@@ -263,7 +263,7 @@
 		]
 	},
 	{
-		"suuid": "vHSqT3",
+		"suuid": "P8DEaQ",
 		"idCode": "showcase-react",
 		"title": "React Showcase",
 		"shortTitle": "React Showcase",
@@ -284,7 +284,7 @@
 		]
 	},
 	{
-		"suuid": "8Dl2Wh",
+		"suuid": "ZYKb4f",
 		"idCode": "showcase-react-001",
 		"title": "React Tech Showcase",
 		"shortTitle": "React Tech Showcase",
@@ -305,7 +305,7 @@
 		]
 	},
 	{
-		"suuid": "6SEPqd",
+		"suuid": "gYQssb",
 		"idCode": "moparser",
 		"title": "Multimedia Outline Parser",
 		"shortTitle": "Multimedia Outline Parser",
@@ -329,7 +329,7 @@
 		]
 	},
 	{
-		"suuid": "Jf1kTH",
+		"suuid": "0Acpmq",
 		"idCode": "learncore",
 		"title": "Learn Core 2022",
 		"shortTitle": "Learn Core 2022",
@@ -358,7 +358,7 @@
 		]
 	},
 	{
-		"suuid": "c2KUay",
+		"suuid": "IfO9nu",
 		"idCode": "langcore",
 		"title": "Language Core 2024",
 		"shortTitle": "Language Core 2024",
@@ -387,7 +387,7 @@
 		]
 	},
 	{
-		"suuid": "aqbwQe",
+		"suuid": "sv5eTL",
 		"idCode": "interitalnotes",
 		"title": "Interactive Italian Notes",
 		"shortTitle": "Interactive Italian Notes",
@@ -421,7 +421,7 @@
 		]
 	},
 	{
-		"suuid": "0DtdLe",
+		"suuid": "jIfzuL",
 		"idCode": "datapod-for-vite-react-core",
 		"title": "Datapod for TypeScript/React 2023",
 		"shortTitle": "Datapod for React 2023",
@@ -446,7 +446,7 @@
 		]
 	},
 	{
-		"suuid": "VeYXXc",
+		"suuid": "sIUT7m",
 		"idCode": "etnotes",
 		"title": "Edward's Notes",
 		"shortTitle": "Edward's Notes",
@@ -471,7 +471,7 @@
 		]
 	},
 	{
-		"suuid": "pJ9dL2",
+		"suuid": "SP6dzB",
 		"idCode": "edward-tanguay-eu",
 		"title": "Edward's Personal Page",
 		"shortTitle": "Edward's Personal Page",
@@ -495,7 +495,7 @@
 		]
 	},
 	{
-		"suuid": "TY1ght",
+		"suuid": "cWkXY2",
 		"idCode": "innergo",
 		"title": "Internal Project Manager",
 		"shortTitle": "Internal Project Manager",
